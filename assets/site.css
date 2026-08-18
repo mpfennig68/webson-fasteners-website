@@ -12,7 +12,6 @@ textarea.form-field{resize:vertical;min-height:130px}
 .file-field{padding:11px 12px}
 .form-note{font-family:'IBM Plex Mono',monospace;font-size:11px;line-height:1.55;color:#8a8171;margin:-5px 0 0}
 .primary-button{background:#2a2d6b;color:#faf8f3;border:0;padding:16px;font-family:'Libre Franklin',sans-serif;font-size:14px;font-weight:600;letter-spacing:.02em;cursor:pointer;margin-top:6px}
-.honeypot{position:absolute!important;left:-10000px!important;width:1px!important;height:1px!important;overflow:hidden!important}
 @media (max-width:900px){
   .site-nav>div{height:auto!important;padding:14px 24px!important;flex-wrap:wrap!important;gap:14px!important}
   .nav-links{order:3;width:100%;overflow-x:auto;padding:3px 0 5px;gap:18px!important;white-space:nowrap}
