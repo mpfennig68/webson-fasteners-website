@@ -18,6 +18,7 @@ textarea.form-field{resize:vertical;min-height:130px}
   .nav-quote{margin-left:auto}
   .site-main [style*="grid-template-columns:repeat(3,1fr)"]{grid-template-columns:repeat(2,1fr)!important}
   .site-main [style*="grid-template-columns:56px 1fr 320px"]{grid-template-columns:44px 1fr!important}
+  .site-main [style*="grid-template-columns:1fr 320px"]{grid-template-columns:1fr!important}
   .site-main [style*="grid-template-columns:56px 1fr 320px"]>:last-child{grid-column:2}
   .site-main [style*="grid-template-columns:1.4fr 1fr"],.site-main [style*="grid-template-columns:1fr 1fr"]{grid-template-columns:1fr!important}
   .site-main [style*="width:220px;height:220px"]{width:180px!important;height:180px!important}
