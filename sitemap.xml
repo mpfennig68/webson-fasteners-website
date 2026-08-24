@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.websonfasteners.com/</loc><priority>1.0</priority></url>
   <url><loc>https://www.websonfasteners.com/Products.html</loc><priority>0.9</priority></url>
+  <url><loc>https://www.websonfasteners.com/Products-Commercial-Hardware.html</loc><priority>0.9</priority></url>
+  <url><loc>https://www.websonfasteners.com/Products-Custom-Fasteners.html</loc><priority>0.9</priority></url>
+  <url><loc>https://www.websonfasteners.com/Products-Electronic-Assembly-Components.html</loc><priority>0.9</priority></url>
   <url><loc>https://www.websonfasteners.com/Products-Mil-Spec-Hardware.html</loc><priority>0.9</priority></url>
+  <url><loc>https://www.websonfasteners.com/Products-Electronic-Hardware.html</loc><priority>0.9</priority></url>
   <url><loc>https://www.websonfasteners.com/Services.html</loc><priority>0.7</priority></url>
   <url><loc>https://www.websonfasteners.com/Industries.html</loc><priority>0.7</priority></url>
   <url><loc>https://www.websonfasteners.com/Industries-Electronics.html</loc><priority>0.7</priority></url>
