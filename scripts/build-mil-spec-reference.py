@@ -5,7 +5,8 @@ base=(W/'Products-Mil-Spec-Hardware.html').read_text()
 nav=re.search(r'<nav class="site-nav".*?</nav>',base,re.S).group()
 nav=re.sub(r'<a href="Products.html" style="[^"]*">Products</a>','<a href="Products.html">Products</a>',nav)
 footer=re.search(r'<footer class="site-footer".*?</footer>',base,re.S).group()
-footer=footer.replace('<a href="Products.html">Products</a>','<a href="Products.html">Products</a>\n        <a href="Resources-Mil-Spec-Reference.html">Mil-Spec Reference</a>')
+if 'href="Resources-Mil-Spec-Reference.html"' not in footer:
+ footer=footer.replace('<a href="Products.html">Products</a>','<a href="Products.html">Products</a>\n        <a href="Resources-Mil-Spec-Reference.html">Mil-Spec Reference</a>')
 fonts=re.search(r'<link rel="preconnect".*?<style>',base,re.S).group().removesuffix('<style>')
 icons='\n'.join(re.findall(r'<link rel="(?:icon|apple-touch-icon)"[^>]+>',base))
 URL='https://www.websonfasteners.com/'
