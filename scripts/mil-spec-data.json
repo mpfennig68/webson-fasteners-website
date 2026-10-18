@@ -1,0 +1,1592 @@
+{
+  "reviewed": "2026-10-17",
+  "series": [
+    {
+      "root": "MS24693",
+      "description": "100\u00b0 flat cross-recessed machine screws",
+      "family": "Machine screws",
+      "source": "D-MS24693"
+    },
+    {
+      "root": "MS35190",
+      "description": "82\u00b0 flat cross-recessed machine screws, coarse thread",
+      "family": "Machine screws",
+      "source": "K"
+    },
+    {
+      "root": "MS35191",
+      "description": "82\u00b0 flat cross-recessed machine screws, fine thread",
+      "family": "Machine screws",
+      "source": "K"
+    },
+    {
+      "root": "MS35206",
+      "description": "Pan head cross-recessed machine screws, carbon steel, UNC",
+      "family": "Machine screws",
+      "source": "D-MS35206"
+    },
+    {
+      "root": "MS35207",
+      "description": "Pan head cross-recessed machine screws, fine thread",
+      "family": "Machine screws",
+      "source": "K"
+    },
+    {
+      "root": "MS35265",
+      "description": "Drilled slotted fillister machine screws, coarse thread",
+      "family": "Machine screws",
+      "source": "K"
+    },
+    {
+      "root": "MS35266",
+      "description": "Drilled slotted fillister machine screws, fine thread",
+      "family": "Machine screws",
+      "source": "K"
+    },
+    {
+      "root": "MS35275",
+      "description": "Drilled slotted fillister machine screws, coarse thread, stainless",
+      "family": "Machine screws",
+      "source": "K"
+    },
+    {
+      "root": "MS35276",
+      "description": "Drilled slotted fillister machine screws, fine thread, stainless",
+      "family": "Machine screws",
+      "source": "K"
+    },
+    {
+      "root": "MS51957",
+      "description": "Pan head cross-recessed machine screws, corrosion-resistant steel, UNC",
+      "family": "Machine screws",
+      "source": "D-MS51957"
+    },
+    {
+      "root": "MS51958",
+      "description": "Pan head cross-recessed machine screws, fine thread, stainless",
+      "family": "Machine screws",
+      "source": "K"
+    },
+    {
+      "root": "MS51959",
+      "description": "82\u00b0 flat cross-recessed machine screws, corrosion-resistant steel, UNC",
+      "family": "Machine screws",
+      "source": "D-MS51959"
+    },
+    {
+      "root": "MS51960",
+      "description": "82\u00b0 flat cross-recessed machine screws, fine thread, stainless",
+      "family": "Machine screws",
+      "source": "K"
+    },
+    {
+      "root": "MS16995",
+      "description": "Socket head cap screws, corrosion-resistant steel, UNC",
+      "family": "Socket screws",
+      "source": "D-MS16995"
+    },
+    {
+      "root": "MS16996",
+      "description": "Socket head cap screws, fine thread, stainless",
+      "family": "Socket screws",
+      "source": "K"
+    },
+    {
+      "root": "MS16997",
+      "description": "Socket head cap screws, alloy steel, UNC",
+      "family": "Socket screws",
+      "source": "D-MS16997"
+    },
+    {
+      "root": "NAS1351",
+      "description": "Socket head cap screws, fine thread",
+      "family": "Socket screws",
+      "source": "K"
+    },
+    {
+      "root": "NAS1352",
+      "description": "Socket head cap screws, coarse thread",
+      "family": "Socket screws",
+      "source": "K"
+    },
+    {
+      "root": "AN960",
+      "description": "Flat washers",
+      "family": "Washers",
+      "source": "D-AN960"
+    },
+    {
+      "root": "AN970",
+      "description": "Flat washers",
+      "family": "Washers",
+      "source": "K"
+    },
+    {
+      "root": "MS15795",
+      "description": "Flat washers",
+      "family": "Washers",
+      "source": "K"
+    },
+    {
+      "root": "MS27183",
+      "description": "Flat washers",
+      "family": "Washers",
+      "source": "K"
+    },
+    {
+      "root": "MS35333",
+      "description": "Internal tooth lock washers",
+      "family": "Washers",
+      "source": "K"
+    },
+    {
+      "root": "MS35335",
+      "description": "External tooth lock washers",
+      "family": "Washers",
+      "source": "K"
+    },
+    {
+      "root": "MS35338",
+      "description": "Split lock washers",
+      "family": "Washers",
+      "source": "K"
+    },
+    {
+      "root": "NAS620",
+      "description": "Flat washers",
+      "family": "Washers",
+      "source": "K"
+    },
+    {
+      "root": "NAS1149",
+      "description": "Flat washers",
+      "family": "Washers",
+      "source": "K"
+    },
+    {
+      "root": "MS35649",
+      "description": "Hex machine screw nuts, coarse thread",
+      "family": "Nuts",
+      "source": "K"
+    },
+    {
+      "root": "MS35650",
+      "description": "Hex machine screw nuts, fine thread",
+      "family": "Nuts",
+      "source": "K"
+    },
+    {
+      "root": "MS51967",
+      "description": "Finished hex nuts, coarse thread",
+      "family": "Nuts",
+      "source": "K"
+    },
+    {
+      "root": "MS35307",
+      "description": "Stainless hex cap screws, coarse",
+      "family": "Hex cap screws",
+      "source": "D-MS35307"
+    },
+    {
+      "root": "MS35308",
+      "description": "Stainless hex cap screws, fine",
+      "family": "Hex cap screws",
+      "source": "D-MS35308"
+    },
+    {
+      "root": "MS90725",
+      "description": "Grade 5 hex cap screws, UNC",
+      "family": "Hex cap screws",
+      "source": "D-MS90725"
+    },
+    {
+      "root": "MS90726",
+      "description": "Grade 5 hex cap screws, UNF",
+      "family": "Hex cap screws",
+      "source": "G"
+    },
+    {
+      "root": "MS35311",
+      "description": "Nickel-copper hex cap screws, UNC",
+      "family": "Hex cap screws",
+      "source": "G"
+    },
+    {
+      "root": "MS35312",
+      "description": "Nickel-copper hex cap screws, UNF",
+      "family": "Hex cap screws",
+      "source": "G"
+    },
+    {
+      "root": "MS90727",
+      "description": "Alloy steel hex cap screws, UNF",
+      "family": "Hex cap screws",
+      "source": "D-MS90727"
+    },
+    {
+      "root": "MS90728",
+      "description": "Alloy steel hex cap screws, UNC",
+      "family": "Hex cap screws",
+      "source": "G"
+    },
+    {
+      "root": "MS51110",
+      "description": "Drilled-shank stainless hex cap screws",
+      "family": "Hex cap screws",
+      "source": "G"
+    },
+    {
+      "root": "MS51575",
+      "description": "Slotted precision shoulder screws",
+      "family": "Shoulder screws",
+      "source": "L"
+    },
+    {
+      "root": "MS51576",
+      "description": "Hex socket precision shoulder screws",
+      "family": "Shoulder screws",
+      "source": "D-MS51576"
+    },
+    {
+      "root": "MS16555",
+      "description": "Dowel pins, .0002 over nominal",
+      "family": "Pins",
+      "source": "D-MS16555"
+    },
+    {
+      "root": "MS16556",
+      "description": "Dowel pins, .001 over nominal",
+      "family": "Pins",
+      "source": "D-MS16556"
+    },
+    {
+      "root": "MS16562",
+      "description": "Slotted tubular spring pins",
+      "family": "Pins",
+      "source": "G"
+    },
+    {
+      "root": "MS20392",
+      "description": "Headed pins, drilled shank",
+      "family": "Pins",
+      "source": "D-MS20392"
+    },
+    {
+      "root": "MS24665",
+      "description": "Split cotter pins",
+      "family": "Pins",
+      "source": "D-MS24665"
+    },
+    {
+      "root": "MS17985",
+      "description": "T-handle quick-release pins",
+      "family": "Pins",
+      "source": "G"
+    },
+    {
+      "root": "MS17987",
+      "description": "Ring-handle quick-release pins",
+      "family": "Pins",
+      "source": "G"
+    },
+    {
+      "root": "MS35810",
+      "description": "Steel clevis pins",
+      "family": "Pins",
+      "source": "G"
+    },
+    {
+      "root": "MS51923",
+      "description": "Medium-duty coiled spring pins",
+      "family": "Pins",
+      "source": "G"
+    },
+    {
+      "root": "MS39086",
+      "description": "Heavy-duty coiled spring pins",
+      "family": "Pins",
+      "source": "G"
+    },
+    {
+      "root": "MS9390",
+      "description": "Standard and oversize dowel pins",
+      "family": "Pins",
+      "source": "G"
+    },
+    {
+      "root": "MS9245",
+      "description": "Corrosion-resistant cotter pins",
+      "family": "Pins",
+      "source": "G"
+    },
+    {
+      "root": "MS20426",
+      "description": "100-degree countersunk solid rivets",
+      "family": "Rivets",
+      "source": "D-MS20426"
+    },
+    {
+      "root": "MS20427",
+      "description": "Countersunk solid rivets, steel and other metals",
+      "family": "Rivets",
+      "source": "G"
+    },
+    {
+      "root": "MS20470",
+      "description": "Universal-head solid rivets",
+      "family": "Rivets",
+      "source": "G"
+    },
+    {
+      "root": "MS20613",
+      "description": "Steel universal-head solid rivets",
+      "family": "Rivets",
+      "source": "G"
+    },
+    {
+      "root": "MS20615",
+      "description": "Brass, copper and nickel-copper rivets",
+      "family": "Rivets",
+      "source": "G"
+    },
+    {
+      "root": "MS20605",
+      "description": "Nonstructural flush blind rivets",
+      "family": "Rivets",
+      "source": "G"
+    },
+    {
+      "root": "MS51830",
+      "description": "Miniature and lightweight keylocking inserts",
+      "family": "Threaded inserts",
+      "source": "D-MS51830"
+    },
+    {
+      "root": "MS51831",
+      "description": "Heavy-duty keylocking inserts",
+      "family": "Threaded inserts",
+      "source": "D-MS51831"
+    },
+    {
+      "root": "MS51832",
+      "description": "Extra-heavy-duty keylocking inserts",
+      "family": "Threaded inserts",
+      "source": "D-MS51832"
+    },
+    {
+      "root": "MS51834",
+      "description": "Heavy-duty keylocking studs",
+      "family": "Threaded inserts",
+      "source": "G"
+    },
+    {
+      "root": "MS35914",
+      "description": "Thread-cutting inserts",
+      "family": "Threaded inserts",
+      "source": "G"
+    },
+    {
+      "root": "MS51021",
+      "description": "Stainless cup-point set screws, UNC",
+      "family": "Set screws",
+      "source": "G"
+    },
+    {
+      "root": "MS51023",
+      "description": "Stainless cup-point set screws, UNF",
+      "family": "Set screws",
+      "source": "G"
+    },
+    {
+      "root": "MS51031",
+      "description": "Stainless flat-point set screws, UNF",
+      "family": "Set screws",
+      "source": "G"
+    },
+    {
+      "root": "MS51047",
+      "description": "Stainless half-dog-point set screws",
+      "family": "Set screws",
+      "source": "G"
+    },
+    {
+      "root": "MS51963",
+      "description": "Alloy cup-point set screws, UNC",
+      "family": "Set screws",
+      "source": "G"
+    },
+    {
+      "root": "MS51965",
+      "description": "Alloy flat-point set screws, UNC",
+      "family": "Set screws",
+      "source": "G"
+    },
+    {
+      "root": "MS21042",
+      "description": "Reduced-height self-locking nuts",
+      "family": "Nuts",
+      "source": "D-MS21042"
+    },
+    {
+      "root": "MS21044",
+      "description": "Regular-height self-locking nuts",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS21083",
+      "description": "Low-height nonmetallic-insert locknuts",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS17828",
+      "description": "Nickel-copper insert locknuts",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS51922",
+      "description": "Prevailing-torque hex locknuts",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS51968",
+      "description": "Carbon steel hex nuts, UNF",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS51972",
+      "description": "Stainless hex nuts, UNF",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS35690",
+      "description": "Plain hex nuts",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS35692",
+      "description": "Slotted hex nuts",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS25082",
+      "description": "Thin electrical hex nuts",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS27128",
+      "description": "Pilot welding nuts",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS27130",
+      "description": "Open-end blind rivet nuts",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS51865",
+      "description": "Self-locking cap nuts",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS9360",
+      "description": "Drilled A286 hex nuts",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS9201",
+      "description": "Stainless boss-connection nuts",
+      "family": "Nuts",
+      "source": "G"
+    },
+    {
+      "root": "MS16624",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS16625",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS16626",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS16627",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS16628",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS16629",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS16630",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS16631",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS16632",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS16633",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS16634",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS3215",
+      "description": "Aerospace retaining rings",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS3217",
+      "description": "Aerospace retaining rings",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS90707",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "MS90708",
+      "description": "Retaining ring family",
+      "family": "Retaining rings",
+      "source": "R"
+    },
+    {
+      "root": "NAS42",
+      "description": "Spacer family",
+      "family": "Spacers & standoffs",
+      "source": "L"
+    },
+    {
+      "root": "NAS43",
+      "description": "Spacer family",
+      "family": "Spacers & standoffs",
+      "source": "L"
+    },
+    {
+      "root": "NAS61",
+      "description": "Spacer family",
+      "family": "Spacers & standoffs",
+      "source": "L"
+    },
+    {
+      "root": "NAS1056",
+      "description": "Spacer family",
+      "family": "Spacers & standoffs",
+      "source": "L"
+    },
+    {
+      "root": "NAS1057",
+      "description": "Spacer family",
+      "family": "Spacers & standoffs",
+      "source": "L"
+    },
+    {
+      "root": "NAS1829",
+      "description": "Male-female standoffs",
+      "family": "Spacers & standoffs",
+      "source": "L"
+    },
+    {
+      "root": "NAS1830",
+      "description": "Swage standoffs",
+      "family": "Spacers & standoffs",
+      "source": "L"
+    },
+    {
+      "root": "NAS1831",
+      "description": "Female-female standoffs",
+      "family": "Spacers & standoffs",
+      "source": "L"
+    },
+    {
+      "root": "MS20995",
+      "description": "Safety and lock wire",
+      "family": "Safety wire",
+      "source": "G"
+    },
+    {
+      "root": "MS21318",
+      "description": "Type U round-head drive screws",
+      "family": "Machine screws",
+      "source": "K"
+    },
+    {
+      "root": "MS51861",
+      "description": "Pan head Type AB tapping screws",
+      "family": "Machine screws",
+      "source": "K"
+    },
+    {
+      "root": "MS35751",
+      "description": "Round-head square-neck carriage bolts",
+      "family": "Hex cap screws",
+      "source": "D-MS35751"
+    },
+    {
+      "root": "AN470",
+      "description": "Legacy universal-head aluminum rivets",
+      "family": "Rivets",
+      "source": "D-AN470"
+    }
+  ],
+  "cross_references": [
+    {
+      "root": "MS24693",
+      "successor": "NASM24693",
+      "description": "100\u00b0 flat cross-recessed machine screws",
+      "ident": "40616",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS35206",
+      "successor": "NASM35206",
+      "description": "Pan head cross-recessed machine screws, carbon steel, UNC",
+      "ident": "42087",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS51957",
+      "successor": null,
+      "description": "Pan head cross-recessed machine screws, corrosion-resistant steel, UNC",
+      "ident": "43521",
+      "status": "Active"
+    },
+    {
+      "root": "MS51959",
+      "successor": "NASM51959",
+      "description": "82\u00b0 flat cross-recessed machine screws, corrosion-resistant steel, UNC",
+      "ident": "43523",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS16995",
+      "successor": "NASM16995",
+      "description": "Socket head cap screws, corrosion-resistant steel, UNC",
+      "ident": "39181",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS16997",
+      "successor": "NAS1352",
+      "description": "Socket head cap screws, alloy steel, UNC",
+      "ident": "39183",
+      "status": "Canceled"
+    },
+    {
+      "root": "AN960",
+      "successor": "NAS1149",
+      "description": "Flat washers",
+      "ident": "54381",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS51576",
+      "successor": "NASM51576",
+      "description": "Socket-head shoulder screws",
+      "ident": "67436",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS16555",
+      "successor": "NASM16555",
+      "description": "Dowel pins, .0002 over nominal",
+      "ident": "39078",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS16556",
+      "successor": "NASM16556",
+      "description": "Dowel pins, .001 over nominal",
+      "ident": "39079",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS20392",
+      "successor": "NASM20392",
+      "description": "Headed pins, drilled shank",
+      "ident": "39802",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS24665",
+      "successor": "NASM24665",
+      "description": "Split cotter pins",
+      "ident": "40601",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS35307",
+      "successor": "NASM35307",
+      "description": "Corrosion-resistant hex cap screws, UNC",
+      "ident": "42139",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS35308",
+      "successor": "NASM35308",
+      "description": "Corrosion-resistant hex cap screws, UNF",
+      "ident": "42140",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS90725",
+      "successor": "NASM90725",
+      "description": "Grade 5 hex cap screws, UNC",
+      "ident": "44232",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS90727",
+      "successor": "ANSI-B18.2.1",
+      "description": "Alloy steel hex cap screws, UNF",
+      "ident": "44234",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS20426",
+      "successor": "NASM20426",
+      "description": "100-degree countersunk solid rivets",
+      "ident": "39804",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS21042",
+      "successor": "NASM21042",
+      "description": "Reduced-height self-locking nuts",
+      "ident": "39866",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS35751",
+      "successor": "NASM35751",
+      "description": "Carriage bolts",
+      "ident": "42273",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS51830",
+      "successor": null,
+      "description": "Miniature and lightweight keylocking inserts",
+      "ident": "43404",
+      "status": "Active"
+    },
+    {
+      "root": "MS51831",
+      "successor": null,
+      "description": "Heavy-duty keylocking inserts",
+      "ident": "43405",
+      "status": "Active"
+    },
+    {
+      "root": "MS51832",
+      "successor": null,
+      "description": "Extra-heavy-duty keylocking inserts",
+      "ident": "43406",
+      "status": "Active"
+    },
+    {
+      "root": "AN470",
+      "successor": "MS20470",
+      "description": "Universal-head aluminum rivets",
+      "ident": "54226",
+      "status": "Canceled"
+    }
+  ],
+  "sources": {
+    "K": {
+      "name": "Kanebridge Military Hardware catalog (2015)",
+      "url": "",
+      "scope": "Historical family descriptions; not current stock or compliance evidence."
+    },
+    "G": {
+      "name": "Global Supply military document library",
+      "url": "https://globalsupplyinc.com/mil-spec-library/",
+      "scope": "Family index and links to public military drawings; archive copies may be historical."
+    },
+    "L": {
+      "name": "Lyn-Tron NAS and shoulder-screw catalog",
+      "url": "https://www.lyntron.com/precision-shoulder-screw/",
+      "scope": "Manufacturer catalog descriptions and nominal shoulder dimensions."
+    },
+    "R": {
+      "name": "American Ring Mil-Spec catalog",
+      "url": "https://americanring.com/mil-spec-rings/",
+      "scope": "Manufacturer index of retaining ring families."
+    },
+    "A": {
+      "name": "MS51830G (2022) \u2014 US government drawing, MF Supply mirror",
+      "url": "https://www.mfsupply.com/v/vspfiles/assets/Reference-Specification-MS51830.pdf",
+      "scope": "MS51830G, 9 May 2022; Tables I\u2013II and requirements 2, 3 and 7. Mirror copy checked against the official DLA revision record on October 18, 2026."
+    },
+    "M": {
+      "name": "MF Supply MS51576 dimensional chart",
+      "url": "https://www.mfsupply.com/mil_spec_precision_shoulder_MS51576_s/2073.htm",
+      "scope": "Nominal shoulder dimensions, cross-checked against manufacturer catalog entries."
+    },
+    "D-MS24693": {
+      "name": "DLA ASSIST record: MS24693",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=40616",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS35206": {
+      "name": "DLA ASSIST record: MS35206",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=42087",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS51957": {
+      "name": "DLA ASSIST record: MS51957",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=43521",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS51959": {
+      "name": "DLA ASSIST record: MS51959",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=43523",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS16995": {
+      "name": "DLA ASSIST record: MS16995",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39181",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS16997": {
+      "name": "DLA ASSIST record: MS16997",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39183",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-AN960": {
+      "name": "DLA ASSIST record: AN960",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=54381",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS51576": {
+      "name": "DLA ASSIST record: MS51576",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=67436",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS16555": {
+      "name": "DLA ASSIST record: MS16555",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39078",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS16556": {
+      "name": "DLA ASSIST record: MS16556",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39079",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS20392": {
+      "name": "DLA ASSIST record: MS20392",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39802",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS24665": {
+      "name": "DLA ASSIST record: MS24665",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=40601",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS35307": {
+      "name": "DLA ASSIST record: MS35307",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=42139",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS35308": {
+      "name": "DLA ASSIST record: MS35308",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=42140",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS90725": {
+      "name": "DLA ASSIST record: MS90725",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=44232",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS90727": {
+      "name": "DLA ASSIST record: MS90727",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=44234",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS20426": {
+      "name": "DLA ASSIST record: MS20426",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39804",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS21042": {
+      "name": "DLA ASSIST record: MS21042",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39866",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS35751": {
+      "name": "DLA ASSIST record: MS35751",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=42273",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS51830": {
+      "name": "DLA ASSIST record: MS51830",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=43404",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS51831": {
+      "name": "DLA ASSIST record: MS51831",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=43405",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-MS51832": {
+      "name": "DLA ASSIST record: MS51832",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=43406",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "D-AN470": {
+      "name": "DLA ASSIST record: AN470",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=54226",
+      "scope": "Document status and named successor checked October 17, 2026."
+    },
+    "L-SOCKET": {
+      "name": "Lyn-Tron MS51576 manufacturer catalog",
+      "url": "https://www.lyntron.com/ms-shoulder-screw-socket",
+      "scope": "Catalog nominal dimensions, not full tolerances or acceptance data."
+    },
+    "L-SLOT": {
+      "name": "Lyn-Tron MS51575 manufacturer catalog",
+      "url": "https://www.lyntron.com/ms-shoulder-screw-slot",
+      "scope": "Selected listed catalog entries; dash 26 is intentionally not included in the extracted sample."
+    },
+    "NASM16562": {
+      "name": "DLA ASSIST NASM16562",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=204541",
+      "scope": "Active adoption record for slotted tubular spring pins."
+    },
+    "MS20426-NOTICE": {
+      "name": "MS20426L cancellation notice, August 18, 1998",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39804",
+      "scope": "Notice states the standard moved to NASM20426 while part numbers remained unchanged."
+    },
+    "H57": {
+      "name": "DLA MIL-HDBK-57",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=66904",
+      "scope": "Manufacturer identification symbols; guidance, not an acceptance specification."
+    }
+  },
+  "shoulder_socket": [
+    {
+      "part": "MS51576-1",
+      "diameter": "1/8",
+      "length": "1/8",
+      "thread": "4-40"
+    },
+    {
+      "part": "MS51576-2",
+      "diameter": "1/8",
+      "length": "3/16",
+      "thread": "4-40"
+    },
+    {
+      "part": "MS51576-3",
+      "diameter": "1/8",
+      "length": "1/4",
+      "thread": "4-40"
+    },
+    {
+      "part": "MS51576-4",
+      "diameter": "1/8",
+      "length": "5/16",
+      "thread": "4-40"
+    },
+    {
+      "part": "MS51576-5",
+      "diameter": "1/8",
+      "length": "3/8",
+      "thread": "4-40"
+    },
+    {
+      "part": "MS51576-6",
+      "diameter": "3/16",
+      "length": "1/8",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51576-7",
+      "diameter": "3/16",
+      "length": "3/16",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51576-8",
+      "diameter": "3/16",
+      "length": "1/4",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51576-9",
+      "diameter": "3/16",
+      "length": "5/16",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51576-10",
+      "diameter": "3/16",
+      "length": "3/8",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51576-11",
+      "diameter": "3/16",
+      "length": "1/2",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51576-12",
+      "diameter": "3/16",
+      "length": "5/8",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51576-13",
+      "diameter": "3/16",
+      "length": "3/4",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51576-14",
+      "diameter": "3/16",
+      "length": "1",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51576-15",
+      "diameter": "3/16",
+      "length": "1-1/4",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51576-16",
+      "diameter": "1/4",
+      "length": "3/16",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51576-17",
+      "diameter": "1/4",
+      "length": "1/4",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51576-18",
+      "diameter": "1/4",
+      "length": "5/16",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51576-19",
+      "diameter": "1/4",
+      "length": "3/8",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51576-20",
+      "diameter": "1/4",
+      "length": "1/2",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51576-21",
+      "diameter": "1/4",
+      "length": "5/8",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51576-22",
+      "diameter": "1/4",
+      "length": "3/4",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51576-23",
+      "diameter": "1/4",
+      "length": "1",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51576-24",
+      "diameter": "1/4",
+      "length": "1-1/4",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51576-25",
+      "diameter": "1/4",
+      "length": "1-1/2",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51576-26",
+      "diameter": "5/16",
+      "length": "1/2",
+      "thread": "1/4-20"
+    },
+    {
+      "part": "MS51576-27",
+      "diameter": "5/16",
+      "length": "5/8",
+      "thread": "1/4-20"
+    },
+    {
+      "part": "MS51576-28",
+      "diameter": "5/16",
+      "length": "3/4",
+      "thread": "1/4-20"
+    },
+    {
+      "part": "MS51576-29",
+      "diameter": "5/16",
+      "length": "1",
+      "thread": "1/4-20"
+    },
+    {
+      "part": "MS51576-30",
+      "diameter": "5/16",
+      "length": "1-1/4",
+      "thread": "1/4-20"
+    },
+    {
+      "part": "MS51576-31",
+      "diameter": "5/16",
+      "length": "1-1/2",
+      "thread": "1/4-20"
+    },
+    {
+      "part": "MS51576-32",
+      "diameter": "3/8",
+      "length": "5/8",
+      "thread": "5/16-18"
+    },
+    {
+      "part": "MS51576-33",
+      "diameter": "3/8",
+      "length": "3/4",
+      "thread": "5/16-18"
+    },
+    {
+      "part": "MS51576-34",
+      "diameter": "3/8",
+      "length": "1",
+      "thread": "5/16-18"
+    },
+    {
+      "part": "MS51576-35",
+      "diameter": "3/8",
+      "length": "1-1/4",
+      "thread": "5/16-18"
+    },
+    {
+      "part": "MS51576-36",
+      "diameter": "3/8",
+      "length": "1-1/2",
+      "thread": "5/16-18"
+    },
+    {
+      "part": "MS51576-37",
+      "diameter": "1/2",
+      "length": "5/8",
+      "thread": "3/8-16"
+    },
+    {
+      "part": "MS51576-38",
+      "diameter": "1/2",
+      "length": "3/4",
+      "thread": "3/8-16"
+    },
+    {
+      "part": "MS51576-39",
+      "diameter": "1/2",
+      "length": "1",
+      "thread": "3/8-16"
+    },
+    {
+      "part": "MS51576-40",
+      "diameter": "1/2",
+      "length": "1-1/4",
+      "thread": "3/8-16"
+    },
+    {
+      "part": "MS51576-41",
+      "diameter": "1/2",
+      "length": "1-1/2",
+      "thread": "3/8-16"
+    }
+  ],
+  "shoulder_slotted": [
+    {
+      "part": "MS51575-1",
+      "diameter": "1/8",
+      "length": "1/8",
+      "thread": "4-40"
+    },
+    {
+      "part": "MS51575-2",
+      "diameter": "1/8",
+      "length": "3/16",
+      "thread": "4-40"
+    },
+    {
+      "part": "MS51575-3",
+      "diameter": "1/8",
+      "length": "1/4",
+      "thread": "4-40"
+    },
+    {
+      "part": "MS51575-4",
+      "diameter": "1/8",
+      "length": "5/16",
+      "thread": "4-40"
+    },
+    {
+      "part": "MS51575-5",
+      "diameter": "1/8",
+      "length": "3/8",
+      "thread": "4-40"
+    },
+    {
+      "part": "MS51575-6",
+      "diameter": "3/16",
+      "length": "1/8",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51575-7",
+      "diameter": "3/16",
+      "length": "3/16",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51575-8",
+      "diameter": "3/16",
+      "length": "1/4",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51575-9",
+      "diameter": "3/16",
+      "length": "5/16",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51575-10",
+      "diameter": "3/16",
+      "length": "3/8",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51575-11",
+      "diameter": "3/16",
+      "length": "1/2",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51575-12",
+      "diameter": "3/16",
+      "length": "5/8",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51575-13",
+      "diameter": "3/16",
+      "length": "3/4",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51575-14",
+      "diameter": "3/16",
+      "length": "1",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51575-15",
+      "diameter": "3/16",
+      "length": "1-1/4",
+      "thread": "8-32"
+    },
+    {
+      "part": "MS51575-16",
+      "diameter": "1/4",
+      "length": "1/8",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51575-17",
+      "diameter": "1/4",
+      "length": "3/16",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51575-18",
+      "diameter": "1/4",
+      "length": "1/4",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51575-19",
+      "diameter": "1/4",
+      "length": "5/16",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51575-20",
+      "diameter": "1/4",
+      "length": "3/8",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51575-21",
+      "diameter": "1/4",
+      "length": "1/2",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51575-22",
+      "diameter": "1/4",
+      "length": "5/8",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51575-23",
+      "diameter": "1/4",
+      "length": "3/4",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51575-24",
+      "diameter": "1/4",
+      "length": "1",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51575-25",
+      "diameter": "1/4",
+      "length": "1-1/4",
+      "thread": "10-32"
+    },
+    {
+      "part": "MS51575-27",
+      "diameter": "5/16",
+      "length": "1/4",
+      "thread": "1/4-20"
+    },
+    {
+      "part": "MS51575-28",
+      "diameter": "5/16",
+      "length": "5/16",
+      "thread": "1/4-20"
+    },
+    {
+      "part": "MS51575-29",
+      "diameter": "1/2",
+      "length": "1/2",
+      "thread": "3/8-16"
+    }
+  ],
+  "insert_threads": [
+    {
+      "dash": "101",
+      "internal": ".086-56",
+      "external": ".164-32",
+      "series": "UNJC-3B",
+      "external_series": "UNC-2A"
+    },
+    {
+      "dash": "102",
+      "internal": ".112-40",
+      "external": ".190-32",
+      "series": "UNJC-3B",
+      "external_series": "UNF-2A"
+    },
+    {
+      "dash": "103",
+      "internal": ".138-32",
+      "external": ".216-28",
+      "series": "UNJC-3B",
+      "external_series": "UNF-2A"
+    },
+    {
+      "dash": "104",
+      "internal": ".164-32",
+      "external": ".250-28",
+      "series": "UNJC-3B",
+      "external_series": "UNF-2A"
+    },
+    {
+      "dash": "105",
+      "internal": ".190-24",
+      "external": ".3125-18",
+      "series": "UNJC-3B",
+      "external_series": "UNC-2A"
+    },
+    {
+      "dash": "106",
+      "internal": ".250-20",
+      "external": ".375-16",
+      "series": "UNJC-3B",
+      "external_series": "UNC-2A"
+    },
+    {
+      "dash": "107",
+      "internal": ".3125-18",
+      "external": ".4375-14",
+      "series": "UNJC-3B",
+      "external_series": "UNC-2A"
+    },
+    {
+      "dash": "108",
+      "internal": ".375-16",
+      "external": ".500-13",
+      "series": "UNJC-3B",
+      "external_series": "UNC-2A"
+    },
+    {
+      "dash": "109",
+      "internal": ".4375-14",
+      "external": ".5625-12",
+      "series": "UNJC-3B",
+      "external_series": "UNC-2A"
+    },
+    {
+      "dash": "110",
+      "internal": ".500-13",
+      "external": ".625-11",
+      "series": "UNJC-3B",
+      "external_series": "UNC-2A"
+    },
+    {
+      "dash": "201",
+      "internal": ".190-32",
+      "external": ".3125-18",
+      "series": "UNJF-3B",
+      "external_series": "UNC-2A"
+    },
+    {
+      "dash": "202",
+      "internal": ".250-28",
+      "external": ".375-16",
+      "series": "UNJF-3B",
+      "external_series": "UNC-2A"
+    },
+    {
+      "dash": "203",
+      "internal": ".3125-24",
+      "external": ".4375-14",
+      "series": "UNJF-3B",
+      "external_series": "UNC-2A"
+    },
+    {
+      "dash": "204",
+      "internal": ".375-24",
+      "external": ".500-13",
+      "series": "UNJF-3B",
+      "external_series": "UNC-2A"
+    },
+    {
+      "dash": "205",
+      "internal": ".4375-20",
+      "external": ".5625-12",
+      "series": "UNJF-3B",
+      "external_series": "UNC-2A"
+    },
+    {
+      "dash": "206",
+      "internal": ".500-20",
+      "external": ".625-11",
+      "series": "UNJF-3B",
+      "external_series": "UNC-2A"
+    }
+  ],
+  "terms": [
+    [
+      "AN hardware",
+      "Army-Navy standards identify many aircraft hardware families. Each series has its own requirements and revision history."
+    ],
+    [
+      "MS hardware",
+      "Military Standard designations appear on drawings and purchase orders. Some remain active; others have moved to NASM or another standard."
+    ],
+    [
+      "NAS and NASM",
+      "NAS means National Aerospace Standards. NASM includes military-origin standards adopted into that system."
+    ],
+    [
+      "Series and dash number",
+      "A series identifies the hardware family. A dash number selects an item within that family; its meaning must be checked in the specific standard."
+    ],
+    [
+      "UNC and UNF",
+      "Unified coarse and fine thread series. Diameter, pitch and thread class must all match the specified requirement."
+    ],
+    [
+      "CRES",
+      "Corrosion-resistant steel. The term alone does not identify every material or processing requirement for a part."
+    ],
+    [
+      "Specification revision",
+      "The issue of a standard required by the drawing, purchase order or contract. Include an explicit revision requirement when one applies."
+    ],
+    [
+      "Document supersession",
+      "A standard has been replaced by another document. This relationship alone does not approve a complete part-number substitution."
+    ],
+    [
+      "Certificate of conformance",
+      "A declaration that the supplied product meets the identified requirements. Include required certificate details with the RFQ."
+    ],
+    [
+      "Lot traceability",
+      "Records connecting supplied hardware to its manufacturing or material lot as required by the order."
+    ]
+  ]
+}
