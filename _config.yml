@@ -1,0 +1,5 @@
+# Repository research and generator inputs must not be published.
+exclude:
+  - docs
+  - scripts
+  - Resources-Mil-Spec-Sources.html

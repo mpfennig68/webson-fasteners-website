@@ -15,3 +15,5 @@ The original MS51957 guide body is retained when the pages are regenerated. Upda
 Before publishing updates: verify sources and dates; inspect all changed links and table values; check filter behavior and no-JavaScript readability; review desktop and mobile layouts when browser tooling is available. Keep sitemap URLs canonical and unique. The separate downloadable review preview is not a production page.
 
 October 18 verification: static HTML/link/metadata checks and filter behavior passed. Browser visual QA remains pending: the managed environment lacks the required control-browser capability. Before release, inspect desktop and phone layouts, horizontal table scrolling, and navigation to the existing Quote.html form; do not submit a test inquiry to the live form.
+
+Public citations were moved to docs/mil-spec-research-notes.md on October 18, 2026. Keep docs and scripts excluded from Jekyll deployment through _config.yml. The public Sources page is deleted. The source JSON remains an internal generator input. Buyer resources add RFQ preparation, material/finish terminology and 17 purchasing FAQs. Customer-directed links stay within Webson.
