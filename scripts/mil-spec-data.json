@@ -3,19 +3,19 @@
   "series": [
     {
       "root": "MS24693",
-      "description": "100° flat cross-recessed machine screws",
+      "description": "100\u00b0 flat cross-recessed machine screws",
       "family": "Machine screws",
       "source": "D-MS24693"
     },
     {
       "root": "MS35190",
-      "description": "82° flat cross-recessed machine screws, coarse thread",
+      "description": "82\u00b0 flat cross-recessed machine screws, coarse thread",
       "family": "Machine screws",
       "source": "K"
     },
     {
       "root": "MS35191",
-      "description": "82° flat cross-recessed machine screws, fine thread",
+      "description": "82\u00b0 flat cross-recessed machine screws, fine thread",
       "family": "Machine screws",
       "source": "K"
     },
@@ -69,13 +69,13 @@
     },
     {
       "root": "MS51959",
-      "description": "82° flat cross-recessed machine screws, corrosion-resistant steel, UNC",
+      "description": "82\u00b0 flat cross-recessed machine screws, corrosion-resistant steel, UNC",
       "family": "Machine screws",
       "source": "D-MS51959"
     },
     {
       "root": "MS51960",
-      "description": "82° flat cross-recessed machine screws, fine thread, stainless",
+      "description": "82\u00b0 flat cross-recessed machine screws, fine thread, stainless",
       "family": "Machine screws",
       "source": "K"
     },
@@ -684,7 +684,7 @@
     {
       "root": "MS24693",
       "successor": "NASM24693",
-      "description": "100° flat cross-recessed machine screws",
+      "description": "100\u00b0 flat cross-recessed machine screws",
       "ident": "40616",
       "status": "Canceled"
     },
@@ -705,7 +705,7 @@
     {
       "root": "MS51959",
       "successor": "NASM51959",
-      "description": "82° flat cross-recessed machine screws, corrosion-resistant steel, UNC",
+      "description": "82\u00b0 flat cross-recessed machine screws, corrosion-resistant steel, UNC",
       "ident": "43523",
       "status": "Canceled"
     },
@@ -865,9 +865,9 @@
       "scope": "Manufacturer index of retaining ring families."
     },
     "A": {
-      "name": "Acme Industrial - public MS51830F drawing",
-      "url": "https://www.acmeindustrial.com/wp-content/uploads/2019/12/MS51830F.pdf",
-      "scope": "US military drawing MS51830F (2012), Tables I-II and part-number note; historical revision explicitly identified."
+      "name": "MS51830G (2022) \u2014 US government drawing, MF Supply mirror",
+      "url": "https://www.mfsupply.com/v/vspfiles/assets/Reference-Specification-MS51830.pdf",
+      "scope": "MS51830G, 9 May 2022; Tables I\u2013II and requirements 2, 3 and 7. Mirror copy checked against the official DLA revision record on October 18, 2026."
     },
     "M": {
       "name": "MF Supply MS51576 dimensional chart",
@@ -1444,7 +1444,7 @@
     {
       "dash": "102",
       "internal": ".112-40",
-      "external": ".190-28",
+      "external": ".190-32",
       "series": "UNJC-3B",
       "external_series": "UNF-2A"
     },
