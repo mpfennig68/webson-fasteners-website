@@ -13,14 +13,24 @@ def h(v):return html.escape(v,quote=True)
 def section(title,body,kicker='',cls=''):
  return f'<section class="ref-section {cls}">'+(f'<p class="ref-kicker">// {kicker}</p>' if kicker else '')+f'<h2>{title}</h2>{body}</section>'
 def actions():return '<div class="ref-actions"><a class="ref-button" href="Quote.html">Request a Quote →</a><a href="Products-Mil-Spec-Hardware.html">Mil-Spec sourcing capabilities →</a></div>'
+DIAGRAMS={
+ 'machine':('machine-screw-dimensions.svg','Machine-screw length and thread diameter','L is the length from the bearing surface under the head to the tip. d identifies nominal thread diameter. This raised-head example does not show the length convention for countersunk screws.'),
+ 'shoulder':('shoulder-screw-dimensions.svg','Shoulder diameter and shoulder length','S is the smooth shoulder length from beneath the head to the shoulder transition. D is shoulder diameter. T marks the threaded-end section to the tip; its details and runout follow the selected specification.'),
+ 'washer':('flat-washer-dimensions.svg','Washer inside diameter, outside diameter and thickness','D is outside diameter, d is hole diameter, and t is thickness. The face view is on the left and the edge view is on the right.')}
+DIAGRAM_PAGES={'Reference-Family-machine-screws.html':'machine','Reference-MS51957.html':'machine','Reference-Family-shoulder-screws.html':'shoulder','Reference-MS51575.html':'shoulder','Reference-MS51576.html':'shoulder','Reference-Family-washers.html':'washer','Reference-AN960-NAS1149.html':'washer'}
+def diagram(kind):
+ asset,title,caption=DIAGRAMS[kind]
+ return section(title,'<figure class="ref-dimension-figure"><img src="assets/diagrams/'+asset+'" alt="'+h(title)+'" width="700" height="300" loading="lazy"><figcaption>'+h(caption)+'</figcaption></figure><p class="ref-diagram-note">Schematic only; not to scale. Letter labels are keys for this illustration. Use the applicable part specification for dimensions, tolerances and measurement conventions.</p>','DIMENSION GUIDE')
 def page(file,title,desc,heading,intro,body):
  crumbs=[('Home','index.html'),('Mil-Spec Reference','Resources-Mil-Spec-Reference.html')]
  if file!='Resources-Mil-Spec-Reference.html':crumbs.append((heading,file))
  breadcrumb=' / '.join(f'<a href="{u}">{h(n)}</a>' if u!=file else f'<span aria-current="page">{h(n)}</span>' for n,u in crumbs)
  ld={'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'item':URL+u}for i,(n,u)in enumerate(crumbs)]}
  article={'@context':'https://schema.org','@type':'WebPage','name':title,'description':desc,'url':URL+file,'inLanguage':'en-US','publisher':{'@type':'Organization','name':'Webson Fasteners','url':URL}}
+ if file in DIAGRAM_PAGES and 'ref-dimension-figure' not in body:body=diagram(DIAGRAM_PAGES[file])+body
  body=re.sub(r'<p class="ref-source">.*?</p>','',body,flags=re.S)
  body=re.sub(r'<a href="https?://[^"]+"[^>]*>(.*?)</a>',r'\1',body,flags=re.S)
+ body=body.replace('href="Quote.html"','href="Quote.html?reference='+file+'"')
  out=f'''<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{h(title)}</title><meta name="description" content="{h(desc)}">
@@ -36,12 +46,15 @@ def page(file,title,desc,heading,intro,body):
 {body}
 {section('Have a part number or bill of material?','<p>Send the complete designation, quantity, required delivery date and documentation requirements. Webson will review your requirement for quotation.</p>'+actions(),'SOURCE WITH WEBSON','ref-tint')}
 </main>{footer}</body></html>'''
+ out=out.replace('href="Quote.html"','href="Quote.html?reference='+file+'"')
  (W/file).write_text(out)
 D=json.loads((W/'scripts/mil-spec-data.json').read_text())
 series=D['series'];cross=D['cross_references'];sources=D['sources'];generated=[]
 # Preserve the established MS51957 content while refreshing its resource navigation.
 prior=(W/'Reference-MS51957.html').read_text()
 prior_body=re.search(r'</header>(.*?)<section class="ref-section ref-tint"><p class="ref-kicker">// SOURCE WITH WEBSON',prior,re.S).group(1).strip()
+prior_body=re.sub(r'<section class="ref-section "><p class="ref-kicker">// DIMENSION GUIDE</p>.*?</section>','',prior_body,flags=re.S)
+prior_body=re.sub(r'href="Quote.html\?reference=[^"]*"','href="Quote.html"',prior_body)
 old_page=page
 def page(file,*args):
  old_page(file,*args);generated.append(file)
@@ -268,4 +281,10 @@ for name in ['Products-Mil-Spec-Hardware.html','Industries-Military-Aerospace.ht
  path=W/name;t=path.read_text().replace('Browse AN, MS and NAS fastener families, check documented specification changes and review the MS51957 purchasing guide.','Browse AN, MS and NAS hardware families, check documented specification changes and explore shoulder-screw sizes, insert thread tables and series guides.');path.write_text(t)
 report={'series':len(series),'families':len(families),'document_records':len(cross),'technical_rows':sum(len(D[k])for k in ['shoulder_socket','shoulder_slotted','insert_threads']),'guides':len(set(guide_map.values())),'glossary_terms':len(terms),'pages':generated}
 (W/'scripts/mil-spec-build-summary.json').write_text(json.dumps(report,indent=2)+'\n')
+# Named RFQ context uses only titles/paths from generated public pages.
+tracking_pages={file:{'title':html.unescape(re.search(r'<h1>(.*?)</h1>',(W/file).read_text(),re.S).group(1)).rstrip('.')}for file in generated}
+tracking_path=W/'assets/rfq-reference-tracking.js'
+tracking=tracking_path.read_text()
+tracking=re.sub(r'const pages = /\* REFERENCE_PAGES_START \*/.*?/\* REFERENCE_PAGES_END \*/;',lambda m:'const pages = /* REFERENCE_PAGES_START */'+json.dumps(tracking_pages,ensure_ascii=False)+'/* REFERENCE_PAGES_END */;',tracking,flags=re.S)
+tracking_path.write_text(tracking)
 print(json.dumps(report,indent=2))

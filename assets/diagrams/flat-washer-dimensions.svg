@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" role="img" aria-labelledby="title desc">
+<title id="title">Flat washer dimensions</title><desc id="desc">Schematic face and edge views. D is outside diameter, d is hole diameter, and t is thickness. Not to scale.</desc>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto-start-reverse"><path d="M7 3.5 0 0 0 7Z" fill="#2a2d6b"/></marker></defs>
+<style>.part{fill:#edeef6;stroke:#2a2d6b;stroke-width:3;stroke-linejoin:round}.detail{fill:none;stroke:#2a2d6b;stroke-width:2}.axis{stroke:#8d8b9b;stroke-width:1.2;stroke-dasharray:12 5 2 5}.ext{stroke:#8d8b9b;stroke-width:1.2}.dim{stroke:#2a2d6b;stroke-width:1.6;marker-start:url(#arrow);marker-end:url(#arrow)}.label{fill:#2a2d6b;font:26px Georgia,serif;font-style:italic;text-anchor:middle}</style>
+<circle class="part" cx="200" cy="160" r="85"/><circle cx="200" cy="160" r="38" fill="#faf8f3" stroke="#2a2d6b" stroke-width="3"/>
+<path class="axis" d="M90 160H310M200 60V270"/>
+<path class="ext" d="M115 155V40M285 155V40"/>
+<path class="dim" d="M119 50H281"/><path class="dim" d="M166 160H234"/>
+<text class="label" x="200" y="32">D</text><text class="label" x="200" y="145">d</text>
+<path class="part" d="M430 140H595V180H430Z"/>
+<path class="axis" d="M395 160H650"/><path class="detail" stroke-dasharray="5 5" d="M492 140V180M533 140V180"/>
+<path class="ext" d="M600 140H648M600 180H648"/><path class="dim" d="M632 144V176"/>
+<text class="label" x="665" y="168">t</text>
+</svg>

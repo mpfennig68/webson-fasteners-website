@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" role="img" aria-labelledby="title desc">
+<title id="title">Shoulder screw dimensions</title><desc id="desc">Schematic side view. S is the smooth shoulder length from the bearing surface under the head to the shoulder transition. D is shoulder diameter. T is the axial length from that transition to the threaded-end tip. Not to scale; thread runout is simplified.</desc>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto-start-reverse"><path d="M7 3.5 0 0 0 7Z" fill="#2a2d6b"/></marker></defs>
+<style>.part{fill:#edeef6;stroke:#2a2d6b;stroke-width:3;stroke-linejoin:round}.detail{fill:none;stroke:#2a2d6b;stroke-width:2}.axis{stroke:#8d8b9b;stroke-width:1.2;stroke-dasharray:12 5 2 5}.ext{stroke:#8d8b9b;stroke-width:1.2}.dim{stroke:#2a2d6b;stroke-width:1.6;marker-start:url(#arrow);marker-end:url(#arrow)}.label{fill:#2a2d6b;font:26px Georgia,serif;font-style:italic;text-anchor:middle}</style>
+<path class="part" d="M85 85H135V195H85Z"/>
+<path class="part" d="M135 105H410V175H135Z"/>
+<path class="part" d="M410 120H565L580 132V148L565 160H410Z"/>
+<path class="detail" d="M418 160l14 -40"/><path class="detail" d="M434 160l14 -40"/><path class="detail" d="M450 160l14 -40"/><path class="detail" d="M466 160l14 -40"/><path class="detail" d="M482 160l14 -40"/><path class="detail" d="M498 160l14 -40"/><path class="detail" d="M514 160l14 -40"/><path class="detail" d="M530 160l14 -40"/><path class="detail" d="M546 160l14 -40"/>
+<path class="axis" d="M60 140H600"/>
+<path class="ext" d="M135 200V255M410 180V255M580 165V255M415 105H640M415 175H640"/>
+<path class="dim" d="M139 235H406"/><path class="dim" d="M414 235H576"/><path class="dim" d="M622 109V171"/>
+<text class="label" x="273" y="274">S</text><text class="label" x="495" y="274">T</text><text class="label" x="655" y="149">D</text>
+</svg>

@@ -9,3 +9,5 @@
 @media(max-width:640px){.ref-family-grid{grid-template-columns:1fr 1fr}.ref-family-grid>a{padding:17px 14px}.ref-family-grid h3{font-size:19px}.ref-family-grid p{font-size:11px}.ref-links{grid-template-columns:1fr}}
 
 .ref-rfq-template{white-space:pre-wrap;overflow-wrap:anywhere;font:13px/2 "IBM Plex Mono",monospace;background:#fffdf8;border:1px solid var(--ref-rule);padding:22px;margin:22px 0;color:var(--ref-ink)}
+
+.ref-dimension-figure{margin:0;max-width:760px}.ref-dimension-figure img{display:block;width:100%;height:auto;background:#faf8f3;border:1px solid var(--ref-rule)}.ref-dimension-figure figcaption{font-size:14px;line-height:1.8;color:var(--ref-muted);padding-top:16px}.ref-section .ref-diagram-note{font-size:12px;margin-top:14px}

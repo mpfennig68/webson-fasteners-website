@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" role="img" aria-labelledby="title desc">
+<title id="title">Pan-head machine screw dimensions</title><desc id="desc">Schematic side view. L is measured from the bearing surface under the head to the end of the screw. d identifies nominal thread diameter. Not to scale.</desc>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto-start-reverse"><path d="M7 3.5 0 0 0 7Z" fill="#2a2d6b"/></marker></defs>
+<style>.part{fill:#edeef6;stroke:#2a2d6b;stroke-width:3;stroke-linejoin:round}.detail{fill:none;stroke:#2a2d6b;stroke-width:2}.axis{stroke:#8d8b9b;stroke-width:1.2;stroke-dasharray:12 5 2 5}.ext{stroke:#8d8b9b;stroke-width:1.2}.dim{stroke:#2a2d6b;stroke-width:1.6;marker-start:url(#arrow);marker-end:url(#arrow)}.label{fill:#2a2d6b;font:26px Georgia,serif;font-style:italic;text-anchor:middle}</style>
+<path class="part" d="M170 100V200H140Q90 200 90 150T140 100Z"/>
+<path class="part" d="M170 125H570L585 137V163L570 175H170Z"/>
+<path class="detail" d="M182 175l14 -50"/><path class="detail" d="M198 175l14 -50"/><path class="detail" d="M214 175l14 -50"/><path class="detail" d="M230 175l14 -50"/><path class="detail" d="M246 175l14 -50"/><path class="detail" d="M262 175l14 -50"/><path class="detail" d="M278 175l14 -50"/><path class="detail" d="M294 175l14 -50"/><path class="detail" d="M310 175l14 -50"/><path class="detail" d="M326 175l14 -50"/><path class="detail" d="M342 175l14 -50"/><path class="detail" d="M358 175l14 -50"/><path class="detail" d="M374 175l14 -50"/><path class="detail" d="M390 175l14 -50"/><path class="detail" d="M406 175l14 -50"/><path class="detail" d="M422 175l14 -50"/><path class="detail" d="M438 175l14 -50"/><path class="detail" d="M454 175l14 -50"/><path class="detail" d="M470 175l14 -50"/><path class="detail" d="M486 175l14 -50"/><path class="detail" d="M502 175l14 -50"/><path class="detail" d="M518 175l14 -50"/><path class="detail" d="M534 175l14 -50"/><path class="detail" d="M550 175l14 -50"/>
+<path class="axis" d="M65 150H615"/>
+<path class="ext" d="M170 205V260M585 180V260M590 125H650M590 175H650"/>
+<path class="dim" d="M174 245H581"/><path class="dim" d="M635 129V171"/>
+<text class="label" x="378" y="282">L</text><text class="label" x="668" y="158">d</text>
+</svg>

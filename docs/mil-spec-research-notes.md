@@ -597,3 +597,10 @@ Complete numerical rows, original source identifiers and review scope remain in 
 - Regenerate with `python3 scripts/build-mil-spec-reference.py`. The generator never emits research links or a Sources page.
 - Update this record and the JSON register together when revising technical facts.
 - Browser visual QA of the original desktop layout was confirmed by the customer October 18. New buyer-page layout uses the existing components; phone visual review remains pending.
+
+
+## October 18: diagram and RFQ-attribution additions
+
+- Diagram measurement conventions derive from the existing nominal shoulder/washer/machine-screw guidance. Diagrams are not manufacturer drawings and carry no additional numerical values. Raised-head length is shown under the head; countersunk length is outside that illustration. Shoulder and threaded-end lengths are separate; runout is simplified. Washer ID, OD and thickness are separate dimensions. The three SVGs were rendered and visually inspected for label placement and dimension arrows.
+- RFQ attribution was explicitly chosen by the user as source information in the incoming email. No external analytics service was added. See maintenance document for behavior and verification limits.
+- FormSubmit public documentation: https://formsubmit.co/ (reviewed October 18, 2026). Supports receiving named form-field values by email. Only two ordinary hidden inputs are added at runtime; original submission handling is preserved.
