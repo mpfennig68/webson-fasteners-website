@@ -2,6 +2,7 @@ from pathlib import Path
 import re,json,html,runpy
 W=Path(__file__).resolve().parents[1]
 base=(W/'Products-Mil-Spec-Hardware.html').read_text()
+base=re.sub(r'href="Quote\.html(?:\?[^"]*)?"', 'href="Quote.html"', base)
 nav=re.search(r'<nav class="site-nav".*?</nav>',base,re.S).group()
 nav=re.sub(r'<a href="Products.html" style="[^"]*">Products</a>','<a href="Products.html">Products</a>',nav)
 footer=re.search(r'<footer class="site-footer".*?</footer>',base,re.S).group()
@@ -289,3 +290,7 @@ tracking=tracking_path.read_text()
 tracking=re.sub(r'const pages = /\* REFERENCE_PAGES_START \*/.*?/\* REFERENCE_PAGES_END \*/;',lambda m:'const pages = /* REFERENCE_PAGES_START */'+json.dumps(tracking_pages,ensure_ascii=False)+'/* REFERENCE_PAGES_END */;',tracking,flags=re.S)
 tracking_path.write_text(tracking)
 print(json.dumps(report,indent=2))
+
+# Reapply site-wide RFQ context after regenerating pages.
+import runpy
+runpy.run_path(str(W/'scripts/build-site-rfq-context.py'),run_name='__main__')
