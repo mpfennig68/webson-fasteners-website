@@ -18,10 +18,10 @@
     window.clearTimeout(pending);
     form.setAttribute('aria-busy', 'true');
     status.hidden = false;
-    status.textContent = 'Opening the spam-prevention check. Please keep this page open.';
-    if (button) button.textContent = 'Opening verification…';
+    status.textContent = 'Sending your request. Please keep this page open.';
+    if (button) button.textContent = 'Sending…';
     pending = window.setTimeout(function () {
-      status.textContent = 'Still connecting to the spam-prevention check. Your request completes after verification; please keep this page open.';
+      status.textContent = 'Still sending your request. Please keep this page open until confirmation appears.';
     }, 10000);
   }, { passive: true });
   window.addEventListener('pageshow', reset);

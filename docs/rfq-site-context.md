@@ -20,3 +20,9 @@ October 19 follow-up: user reports approximately 30 seconds after pressing Submi
 Quote.html adds a preconnect/DNS hint to formsubmit.co to begin connection setup while the buyer fills out the form. This may reduce initial connection overhead; it is not a guarantee against FormSubmit's processing delay. A small passive submit listener displays immediate verification-navigation feedback, updates the message after ten seconds, and clears the status when returning with the Back button. It never calls preventDefault, disables the submitter, invokes fetch, replaces the POST or changes CAPTCHA behavior. Invalid forms do not fire the submit handler. No test inquiry was sent.
 
 The entire highlighted Southco manufacturer cell on Products.html is now a direct anchor to Products-Southco.html, including its padding and arrow. It stays a normal keyboard-accessible link.
+
+## CAPTCHA disabled at user request
+
+October 19, 2026: the user explicitly requested removing the checkbox and will reconsider if spam increases. Quote.html now sends `_captcha=false` and includes the FormSubmit `_honey` text input, hidden with CSS, excluded from keyboard navigation and autocomplete. A nonempty honeypot is discarded by FormSubmit. Submission feedback now says Sending rather than promising a verification screen. The POST action, encoding, existing fields, attachments, thank-you redirect, source attribution and autofill remain unchanged. No live inquiry was sent.
+
+Manufacturer/provider documentation checked: https://formsubmit.co/documentation . Disabling CAPTCHA removes the normal checkbox step but does not guarantee provider processing time. To restore CAPTCHA, remove the `_captcha=false` hidden input (or set it to true); the honeypot can remain. Restore checkbox-specific messaging only when restoring CAPTCHA.
