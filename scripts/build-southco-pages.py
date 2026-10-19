@@ -7,6 +7,7 @@ BASE='https://www.websonfasteners.com/'
 HUB='Products-Southco.html'
 h=lambda x:html.escape(str(x),quote=True)
 base=(W/'Products-Mil-Spec-Hardware.html').read_text()
+base=re.sub(r'href="Quote\.html(?:\?[^"]*)?"', 'href="Quote.html"', base)
 nav=re.search(r'<nav class="site-nav".*?</nav>',base,re.S)[0]
 footer=re.search(r'<footer class="site-footer".*?</footer>',base,re.S)[0]
 fonts=re.search(r'<link rel="preconnect".*?<style>',base,re.S)[0].removesuffix('<style>')
@@ -95,3 +96,7 @@ for path in [HUB]+[file(p) for p in parts]:
  if BASE+path not in s:s=s.replace('</urlset>','  <url><loc>'+BASE+path+'</loc><lastmod>2026-10-19</lastmod></url>\n</urlset>')
 p.write_text(s)
 print('Built Southco hub and',len(parts),'part pages.')
+
+# Reapply site-wide RFQ context after regenerating pages.
+import runpy
+runpy.run_path(str(W/'scripts/build-site-rfq-context.py'),run_name='__main__')
