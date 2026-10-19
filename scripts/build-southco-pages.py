@@ -12,6 +12,11 @@ footer=re.search(r'<footer class="site-footer".*?</footer>',base,re.S)[0]
 fonts=re.search(r'<link rel="preconnect".*?<style>',base,re.S)[0].removesuffix('<style>')
 icons='\n'.join(re.findall(r'<link rel="(?:icon|apple-touch-icon)"[^>]+>',base))
 def file(p):return 'Southco-'+p['part']+'.html'
+def photo(p,thumb=False):
+ src=p['thumbnail'] if thumb else p['image']
+ alt=('Representative Southco '+p['name'] if p['image_representative'] else 'Southco '+p['part']+' '+p['name'])
+ if thumb:return '<img class="southco-thumb" src="'+src+'" alt="'+h(alt)+'" width="72" height="72" loading="lazy" decoding="async">'
+ return '<figure class="southco-product-photo"><img src="'+src+'" alt="'+h(alt)+'" width="800" height="800" decoding="async"><figcaption>'+h(p['image_caption'])+'</figcaption></figure>'
 def quote(p=None):return 'Quote.html?southco='+h(p['part'] if p else 'catalog')
 def action(p=None):return '<div class="ref-actions"><a class="ref-button" href="'+quote(p)+'">Request '+(h(p['part'])+' pricing' if p else 'a Southco quote')+' →</a><a href="'+HUB+'#part-directory">Browse Southco parts →</a></div>'
 def section(title,body,kicker='',id=''):
@@ -22,7 +27,7 @@ def links(parts):return '<div class="ref-links">'+''.join('<a href="'+file(p)+'"
 def page(path,title,desc,heading,intro,body,p=None):
  crumbs=[('Home','index.html'),('Products','Products.html'),('Southco',HUB)]+([(p['part'],path)] if p else [])
  ld=[{'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'item':BASE+u} for i,(n,u) in enumerate(crumbs)]},{'@context':'https://schema.org','@type':'WebPage','name':title,'description':desc,'url':BASE+path}]
- if p:ld.append({'@context':'https://schema.org','@type':'Product','name':'Southco '+p['part']+' '+p['name'],'mpn':p['part'],'brand':{'@type':'Brand','name':'Southco'},'manufacturer':{'@type':'Organization','name':'Southco'},'description':p['summary'],'url':BASE+path,'additionalProperty':[{'@type':'PropertyValue','name':k,'value':v} for k,v in p['specs']]})
+ if p:ld.append({'@context':'https://schema.org','@type':'Product','name':'Southco '+p['part']+' '+p['name'],'mpn':p['part'],'image':BASE+p['image'],'brand':{'@type':'Brand','name':'Southco'},'manufacturer':{'@type':'Organization','name':'Southco'},'description':p['summary'],'url':BASE+path,'additionalProperty':[{'@type':'PropertyValue','name':k,'value':v} for k,v in p['specs']]})
  else:ld.append({'@context':'https://schema.org','@type':'ItemList','itemListElement':[{'@type':'ListItem','position':i+1,'name':'Southco '+x['part'],'url':BASE+file(x)} for i,x in enumerate(D['parts'])]})
  out='''<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,6 +35,10 @@ def page(path,title,desc,heading,intro,body,p=None):
 <link rel="stylesheet" href="assets/site.css"><link rel="stylesheet" href="assets/mil-spec-reference.css"><link rel="stylesheet" href="assets/southco.css">
 <link rel="canonical" href="'''+BASE+path+'"><meta property="og:type" content="website"><meta property="og:title" content="'+h(title)+'"><meta property="og:description" content="'+h(desc)+'"><meta property="og:url" content="'+BASE+path+'">'+''.join('<script type="application/ld+json">'+json.dumps(x)+'</script>' for x in ld)+'''
 <script src="assets/mil-spec-reference.js" defer></script></head><body><a class="ref-skip" href="#main">Skip to content</a>'''+nav+'<main id="main" class="site-main reference-main southco-main"><header class="ref-hero"><nav class="ref-breadcrumb" aria-label="Breadcrumb">'+' / '.join('<span aria-current="page">'+h(n)+'</span>' if u==path else '<a href="'+u+'">'+h(n)+'</a>' for n,u in crumbs)+'</nav><p class="ref-kicker">// SOUTHCO ACCESS HARDWARE</p><h1>'+h(heading)+'</h1><p class="ref-lead">'+h(intro)+'</p>'+action(p)+'<nav class="ref-subnav" aria-label="Southco products"><a href="'+HUB+'#part-directory">Part-number directory</a><a href="'+HUB+'#product-families">Product families</a><a href="'+HUB+'#purchasing">Purchasing questions</a></nav></header>'+body+section('Source Southco hardware with Webson','<p>Send your complete Southco part number, quantity, required delivery date and any documentation requirements. Include annual usage or scheduled releases if this is a recurring requirement. Webson will review pricing and availability for your inquiry.</p>'+action(p),'REQUEST PRICING')+'</main>'+footer+'</body></html>\n'
+ if p:
+  titleblock='<h1>'+h(heading)+'</h1><p class="ref-lead">'+h(intro)+'</p>'
+  out=out.replace(titleblock,'<div class="southco-product-hero"><div>'+titleblock+'</div>'+photo(p)+'</div>')
+  out=out.replace('<meta property="og:type" content="website">','<meta property="og:image" content="'+BASE+p['image']+'"><meta property="og:type" content="website">')
  (W/path).write_text(out)
 parts=D['parts']
 for p in parts:
@@ -39,7 +48,7 @@ for p in parts:
  if related:body+=section('Related Southco parts',links(related)+'<p>Compare the configuration of each part against your drawing. Related products are not automatically interchangeable.</p>','CONTINUE BROWSING')
  body+=section('Support for your assembly','<p>Combine this item with other hardware on one bill of material. Webson can review '+h(p['part'])+' alongside your fasteners and electronic hardware, including quantities and release schedules for production purchasing.</p><div class="ref-links"><a href="Products-Electronic-Hardware.html">Electronic hardware →</a><a href="Industries-Enclosures.html">Enclosure hardware →</a><a href="Services-Blanket-Orders-Scheduled-Releases.html">Blanket orders & scheduled releases →</a></div>','PURCHASE THROUGH WEBSON')
  page(file(p),'Southco '+p['part']+' '+p['name']+' | Webson','Request Southco '+p['part']+' '+p['name'].lower()+' pricing from Webson Fasteners. Review product details and send your quantity and delivery requirements.','Southco '+p['part']+' '+p['name'],p['summary'],body,p)
-rows=[(' data-family="'+h(p['family'])+'" data-search="'+h(' '.join([p['part'],p['part'].replace('-',''),p['name'],p['summary'],p['family']]))+'"',['<a href="'+file(p)+'">'+h(p['part'])+'</a>',h(p['name']),h(p['family']),'<a href="'+file(p)+'">Details →</a><br><a href="'+quote(p)+'">Request pricing →</a>']) for p in parts]
+rows=[(' data-family="'+h(p['family'])+'" data-search="'+h(' '.join([p['part'],p['part'].replace('-',''),p['name'],p['summary'],p['family']]))+'"',['<a href="'+file(p)+'">'+h(p['part'])+'</a>','<div class="southco-directory-product">'+photo(p,True)+'<div>'+h(p['name'])+('<small class="southco-representative">Representative image</small>' if p['image_representative'] else '')+'</div></div>',h(p['family']),'<a href="'+file(p)+'">Details →</a><br><a href="'+quote(p)+'">Request pricing →</a>']) for p in parts]
 families=list(D['families'])
 controls='''<div data-reference-block><div class="ref-filters" data-reference-filters hidden><div class="ref-search"><label for="southco-search">Search Southco parts</label><input id="southco-search" type="search" data-reference-search placeholder="Part number, product or material"></div><div><label for="southco-family">Product family</label><select id="southco-family" data-reference-family><option value="">All families</option>'''+''.join('<option>'+h(f)+'</option>' for f in families)+'''</select></div><button type="button" class="ref-clear" data-reference-clear>Clear filters</button></div><p class="ref-count" data-reference-count role="status" aria-live="polite"></p><p data-reference-empty hidden>No matching parts. Clear the filters or send Webson your part number for review.</p>'''
 body=section('Find your Southco part','<p>Search the listed part numbers, browse product details and send Webson your requirements for current pricing and availability. Have a different Southco number? Include it in your inquiry.</p>'+controls+table(['Southco part number','Product','Family','Next step'],rows,'Southco part-number directory','data-reference-table')+'</div>','PART-NUMBER DIRECTORY','part-directory')

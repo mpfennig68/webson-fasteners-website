@@ -25,7 +25,12 @@
       ],
       "check": "Check the frame offset, door-leaf clearance and mounting arrangement against the existing enclosure. Include a drawing or installation photo if you are identifying a replacement hinge.",
       "source": "https://southco.com/en_us_int/f6-3-1",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/F6-3-1.webp",
+      "thumbnail": "assets/images/southco/F6-3-1-thumb.webp",
+      "image_source": "https://media.southco.com/media/catalog/product/cache/6e8e24cc73e2eff11526e72b5f24c033/f/6/f60l2106_7.jpg",
+      "image_representative": true,
+      "image_caption": "Representative Southco F6 image; configuration may vary."
     },
     {
       "part": "V4-0006-52",
@@ -52,7 +57,12 @@
       ],
       "check": "Confirm the blade geometry, keeper position and mounting spacing. Include the required material and finish on your inquiry so Webson can verify the configuration before quotation.",
       "source": "https://southco.com/en_us_int/v4-0006-52",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/V4-0006-52.webp",
+      "thumbnail": "assets/images/southco/V4-0006-52-thumb.webp",
+      "image_source": "https://media.southco.com/media/catalog/product/cache/6e8e24cc73e2eff11526e72b5f24c033/v/4/v4-0006-52-1000x1000_1.jpg",
+      "image_representative": false,
+      "image_caption": "Southco V4-0006-52 product image."
     },
     {
       "part": "96-50-510-50",
@@ -79,7 +89,12 @@
       ],
       "check": "Check the knuckle offset, hinge orientation and concealed mounting pattern. Allow sufficient clearance for the door to lift off in the intended installation.",
       "source": "https://southco.com/en_us_int/96-50-510-50",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/96-50-510-50.webp",
+      "thumbnail": "assets/images/southco/96-50-510-50-thumb.webp",
+      "image_source": "https://media.southco.com/media/catalog/product/cache/6e8e24cc73e2eff11526e72b5f24c033/9/6/96-50-510-50-1000x1000.jpg",
+      "image_representative": false,
+      "image_caption": "Southco 96-50-510-50 product image."
     },
     {
       "part": "C5-21-35",
@@ -114,7 +129,12 @@
       ],
       "check": "Check both panel thickness and grip, as they describe different installation dimensions. Include keying requirements and any sealing accessories needed for your enclosure; sealing performance depends on the complete installation.",
       "source": "https://southco.com/en_us_int/c5-21-35",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/C5-21-35.webp",
+      "thumbnail": "assets/images/southco/C5-21-35-thumb.webp",
+      "image_source": "https://media.southco.com/media/catalog/product/cache/6e8e24cc73e2eff11526e72b5f24c033/c/5/c5-21-15-1000x1000_2.jpg",
+      "image_representative": true,
+      "image_caption": "Representative Southco C5 sealed lever latch image; configuration may vary."
     },
     {
       "part": "12-11020-13",
@@ -149,7 +169,12 @@
       ],
       "check": "Identify the mating stud, retainer and panel/frame thicknesses when reviewing a complete assembly. Send the existing component numbers with your RFQ so the receptacle can be checked within the intended fastening system.",
       "source": "https://southco.com/en_us_int/12-11020-13",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/12-11020-13.webp",
+      "thumbnail": "assets/images/southco/12-11020-13-thumb.webp",
+      "image_source": "https://media.southco.com/media/catalog/product/cache/6e8e24cc73e2eff11526e72b5f24c033/1/7/17-10015-14-1000x1000_4.jpg",
+      "image_representative": true,
+      "image_caption": "Representative Southco 12; medium size image; configuration may vary."
     },
     {
       "part": "V7-20-101-50",
@@ -180,7 +205,12 @@
       ],
       "check": "Verify keeper geometry, mounting-hole pattern and the latch-to-keeper spacing. If access must be restricted, identify that requirement separately because this listed configuration is non-locking.",
       "source": "https://southco.com/en_us_int/v7-20-101-50",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/V7-20-101-50.webp",
+      "thumbnail": "assets/images/southco/V7-20-101-50-thumb.webp",
+      "image_source": "https://media.southco.com/media/wysiwyg/category/05_Product%20Class%20Primary%20Images/V7-Over-Center-Series-968x432.jpg",
+      "image_representative": true,
+      "image_caption": "Southco V7 series overview showing multiple configurations and finishes."
     },
     {
       "part": "C3-805",
@@ -211,7 +241,12 @@
       ],
       "check": "Check the keeper alignment and mounting positions. If a release or pull-up force is specified on your drawing, send that requirement with the RFQ for confirmation. Identify separately whether a door-position switch is required.",
       "source": "https://southco.com/en_us_int/c3-805",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/C3-805.webp",
+      "thumbnail": "assets/images/southco/C3-805-thumb.webp",
+      "image_source": "https://media.southco.com/media/catalog/product/cache/6e8e24cc73e2eff11526e72b5f24c033/c/3/c3-803-1000x1000_1.jpg",
+      "image_representative": true,
+      "image_caption": "Representative Southco C3 image; configuration may vary."
     },
     {
       "part": "P2-54",
@@ -246,7 +281,12 @@
       ],
       "check": "Measure the panel thickness at the cutout and check the opening geometry. P2-54 and P2-43-1 differ in size, panel range and material flammability classification; they should be reviewed as separate configurations.",
       "source": "https://southco.com/en_us_int/p2-54",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/P2-54.webp",
+      "thumbnail": "assets/images/southco/P2-54-thumb.webp",
+      "image_source": "https://media.southco.com/media/catalog/product/cache/6e8e24cc73e2eff11526e72b5f24c033/P/2/P2-54-1000x1000_1.jpg",
+      "image_representative": false,
+      "image_caption": "Southco P2-54 product image."
     },
     {
       "part": "E3-16-21",
@@ -277,7 +317,12 @@
       ],
       "check": "Check the grip range, cam configuration, panel thickness and rotation required by your drawing. A matching head style does not establish that another E3 configuration has the same fit.",
       "source": "https://southco.com/en_us_int/e3-16-21",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/E3-16-21.webp",
+      "thumbnail": "assets/images/southco/E3-16-21-thumb.webp",
+      "image_source": "https://media.southco.com/media/catalog/product/cache/6e8e24cc73e2eff11526e72b5f24c033/E/3/E3-16-21-1000x1000.jpg",
+      "image_representative": false,
+      "image_caption": "Southco E3-16-21 product image."
     },
     {
       "part": "P2-43-1",
@@ -312,7 +357,12 @@
       ],
       "check": "Confirm the small-size cutout dimensions and panel thickness before ordering. Retain the complete -1 suffix when requesting this material option.",
       "source": "https://southco.com/en_us_int/p2-43-1",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/P2-43-1.webp",
+      "thumbnail": "assets/images/southco/P2-43-1-thumb.webp",
+      "image_source": "https://media.southco.com/media/catalog/product/cache/6e8e24cc73e2eff11526e72b5f24c033/P/2/P2-43-1-1000x1000_1.jpg",
+      "image_representative": false,
+      "image_caption": "Southco P2-43-1 product image."
     },
     {
       "part": "P1-33",
@@ -343,7 +393,12 @@
       ],
       "check": "Check the panel cutout, thickness and rear clearance for the cup. The screw-mounted P1 arrangement differs from the snap-in P2 style even when both are described as flush pulls.",
       "source": "https://southco.com/en_us_int/p1-33",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/P1-33.webp",
+      "thumbnail": "assets/images/southco/P1-33-thumb.webp",
+      "image_source": "https://media.southco.com/media/catalog/product/cache/6e8e24cc73e2eff11526e72b5f24c033/P/1/P1-33-1000x1000.jpg",
+      "image_representative": false,
+      "image_caption": "Southco P1-33 product image."
     },
     {
       "part": "E6-10-208-50",
@@ -386,7 +441,12 @@
       ],
       "check": "Review component weight, center of gravity, hinge quantity and mounting geometry when selecting a positioning hinge. Preserve E6-10-208-50 exactly; a similar part number with an added letter identifies a different configuration.",
       "source": "https://southco.com/en_us_int/e6-10-208-50",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/E6-10-208-50.webp",
+      "thumbnail": "assets/images/southco/E6-10-208-50-thumb.webp",
+      "image_source": "https://media.southco.com/media/catalog/product/cache/6e8e24cc73e2eff11526e72b5f24c033/e/6/e6-10-220f-50-1000x1000_6.jpg",
+      "image_representative": true,
+      "image_caption": "Representative Southco E6 / ST constant torque image; configuration may vary."
     },
     {
       "part": "E3-16-35",
@@ -429,7 +489,12 @@
       ],
       "check": "Confirm the full grip range, cam geometry and rotation against the drawing. E3-16-21 has a different finish and must be checked independently for grip and configuration before considering it as an alternative.",
       "source": "https://southco.com/en_us_int/e3-16-35",
-      "verified": "2026-10-19"
+      "verified": "2026-10-19",
+      "image": "assets/images/southco/E3-16-35.webp",
+      "thumbnail": "assets/images/southco/E3-16-35-thumb.webp",
+      "image_source": "https://media.southco.com/media/catalog/product/cache/6e8e24cc73e2eff11526e72b5f24c033/E/3/E3-16-35-1000x1000.jpg",
+      "image_representative": false,
+      "image_caption": "Southco E3-16-35 product image."
     }
   ],
   "families": {

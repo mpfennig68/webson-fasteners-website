@@ -43,7 +43,7 @@ Supporting manufacturer catalogs and family directories:
 - **E3-16-35:** detailed table supports adjustable 38.9–54.6 mm grip, attached cam, Type A clockwise latching.
 - **E3-16-21:** material, finish and 8 mm hex recess are included; no grip dimensions inferred from E3-16-35.
 - No stock, price, guaranteed lead time, authorized-distributor, complete-system ingress rating or universal interchangeability claims are made. Material flammability values for the P1/P2 variants are labeled as material classifications.
-- Body text is original purchasing-focused copy. No competitor stock data, product images, CAD files or manufacturer drawings were copied to the website.
+- Body text is original purchasing-focused copy. No competitor stock data, CAD files or manufacturer drawings were copied to the website. Manufacturer product images were added in the subsequent image pass documented below.
 
 ## RFQ behavior
 
@@ -52,3 +52,13 @@ Quote.html adds assets/southco-rfq.js. A fixed allowlist validates ?southco=<com
 ## Validation
 
 Check HTML structure, local links and fragments, unique canonical URLs, parsed JSON-LD, sitemap coverage, idempotent generation, directory filter behavior, quote context and empty/existing-text behavior. Existing Mil-Spec RFQ attribution checks should continue to pass. Browser visual review remains pending because the supported control-browser capability is unavailable in this environment. Inspect desktop/phone layout, table scrolling and quote navigation before merging.
+
+## Manufacturer image pass, October 19, 2026
+
+The 13-page image register is scripts/southco-image-sources.json. Media URLs were read from the rendered Southco product galleries, then downloaded from media.southco.com. Images are hosted locally as optimized 800 × 800 WebP files with 144 × 144 thumbnails. Mechanical whitespace trimming and resizing preserve the supplied product geometry and colors.
+
+Southco assigns shared family images to F6-3-1, C5-21-35, 12-11020-13, C3-805 and E6-10-208-50. These are labeled representative on the product pages and in the directory. For example, the C5 listing uses c5-21-15-1000x1000_2.jpg, the receptacle listing uses 17-10015-14-1000x1000_4.jpg, and the E6 listing uses e6-10-220f-50-1000x1000_6.jpg. Do not claim these images verify the complete dimensional configuration.
+
+V7-20-101-50 has only SouthcoPlaceholder.jpg on its individual page. Its image is the official V7 family overview from https://southco.com/en_us_int/latches/draw-latches/fixed-grip-draw-latches/v7-over-center-series-latches and is explicitly captioned as multiple configurations/finishes. Do not replace that caption with an exact-part image claim.
+
+Product structured data and Open Graph metadata reference the local photo. Full-size images reserve their dimensions; directory thumbnails load lazily. The gallery assets were visually checked together for product identity and finish. HTML asset references, dimensions and metadata were verified; desktop/phone layout review remains pending. Existing RFQ checks still pass.
