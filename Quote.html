@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Request a Quote | Webson Fasteners</title>
+<link rel="preconnect" href="https://formsubmit.co">
+<link rel="dns-prefetch" href="//formsubmit.co">
 <meta name="description" content="Request a quote from Webson Fasteners. Send part numbers, specifications, and quantities for prompt pricing and availability.">
 <link rel="icon" type="image/png" sizes="512x512" href="assets/favicon-512.png">
 <link rel="icon" type="image/png" sizes="192x192" href="assets/favicon-192.png">
@@ -27,6 +29,7 @@
 <script src="assets/rfq-reference-tracking.js" defer></script>
 <script src="assets/southco-rfq.js" defer></script>
 <script src="assets/rfq-site-context.js" defer></script>
+<script src="assets/rfq-submit-feedback.js" defer></script>
 </head>
 <body>
 
@@ -83,6 +86,8 @@
         <div><label for="rfq-attachment">DRAWING OR SPECIFICATION</label><input class="form-field file-field" id="rfq-attachment" type="file" name="attachment" accept=".pdf,.doc,.docx,.xls,.xlsx,.csv,.jpg,.jpeg,.png"></div>
         <p class="form-note">Maximum combined attachment size: 10 MB.</p>
         <button class="primary-button" type="submit">Submit Request</button>
+        <p class="form-note">After submitting, complete the spam-prevention check to send your request.</p>
+        <p class="form-note" id="rfq-submit-status" role="status" aria-live="polite" hidden></p>
       </form>
     </div>
     <div style="padding:48px;background:#efe9dd">
