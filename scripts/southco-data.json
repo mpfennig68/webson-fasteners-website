@@ -1,0 +1,443 @@
+{
+  "parts": [
+    {
+      "part": "F6-3-1",
+      "name": "Concealed Removable Hinge",
+      "family": "Hinges",
+      "summary": "Southco F6-3-1 is a deep-offset concealed hinge assembly in passivated stainless steel. The F6 family supports removable-door arrangements while keeping the hinge concealed when the enclosure is closed.",
+      "specs": [
+        [
+          "Series",
+          "F6"
+        ],
+        [
+          "Configuration",
+          "Concealed assembly; deep offset"
+        ],
+        [
+          "Material",
+          "Stainless steel"
+        ],
+        [
+          "Finish",
+          "Passivated"
+        ]
+      ],
+      "check": "Check the frame offset, door-leaf clearance and mounting arrangement against the existing enclosure. Include a drawing or installation photo if you are identifying a replacement hinge.",
+      "source": "https://southco.com/en_us_int/f6-3-1",
+      "verified": "2026-10-19"
+    },
+    {
+      "part": "V4-0006-52",
+      "name": "Versa-Latch Draw Latch",
+      "family": "Draw latches",
+      "summary": "Southco V4-0006-52 is a short-blade Versa-Latch with unrestricted access. Its spring-loaded design is intended to accommodate variation between the panel and frame.",
+      "specs": [
+        [
+          "Series",
+          "V2 / V3 / V4 Versa-Latch"
+        ],
+        [
+          "Style",
+          "Short blade"
+        ],
+        [
+          "Access",
+          "No restriction"
+        ],
+        [
+          "Spring",
+          "Spring loaded"
+        ]
+      ],
+      "check": "Confirm the blade geometry, keeper position and mounting spacing. Include the required material and finish on your inquiry so Webson can verify the configuration before quotation.",
+      "source": "https://southco.com/en_us_int/v4-0006-52",
+      "verified": "2026-10-19"
+    },
+    {
+      "part": "96-50-510-50",
+      "name": "Removable Lift-Off Hinge",
+      "family": "Hinges",
+      "summary": "Southco 96-50-510-50 is a lift-off hinge with an offset knuckle and concealed mounting. This zinc-alloy version has a black powder-coated finish.",
+      "specs": [
+        [
+          "Series",
+          "96"
+        ],
+        [
+          "Configuration",
+          "Offset knuckle; concealed mount"
+        ],
+        [
+          "Material",
+          "Zinc alloy"
+        ],
+        [
+          "Finish",
+          "Black powder coat"
+        ]
+      ],
+      "check": "Check the knuckle offset, hinge orientation and concealed mounting pattern. Allow sufficient clearance for the door to lift off in the intended installation.",
+      "source": "https://southco.com/en_us_int/96-50-510-50",
+      "verified": "2026-10-19"
+    },
+    {
+      "part": "C5-21-35",
+      "name": "Key-Locking Sealed Lever Latch",
+      "family": "Compression latches",
+      "summary": "Southco C5-21-35 combines a recessed lever with key-controlled access. This black zinc-alloy compression latch accommodates panels from 1 to 11 mm thick and a 29 to 45 mm grip range.",
+      "specs": [
+        [
+          "Series",
+          "C5 sealed lever latch"
+        ],
+        [
+          "Access",
+          "Key locking; without dust shutter"
+        ],
+        [
+          "Panel thickness",
+          "1–11 mm"
+        ],
+        [
+          "Grip range",
+          "29–45 mm"
+        ],
+        [
+          "Material",
+          "Zinc alloy"
+        ],
+        [
+          "Finish",
+          "Black powder coat"
+        ]
+      ],
+      "check": "Check both panel thickness and grip, as they describe different installation dimensions. Include keying requirements and any sealing accessories needed for your enclosure; sealing performance depends on the complete installation.",
+      "source": "https://southco.com/en_us_int/c5-21-35",
+      "verified": "2026-10-19"
+    },
+    {
+      "part": "12-11020-13",
+      "name": "Fast-Lead Receptacle",
+      "family": "Fast-lead hardware",
+      "summary": "Southco 12-11020-13 is a medium-size, flat, rivet-mounted receptacle made from passivated stainless steel. It is the mating receptacle in a fast-lead fastening system, rather than a captive screw or a complete fastening assembly.",
+      "specs": [
+        [
+          "Series",
+          "12; medium size"
+        ],
+        [
+          "Component",
+          "Receptacle"
+        ],
+        [
+          "Style",
+          "Flat"
+        ],
+        [
+          "Mounting",
+          "Rivet"
+        ],
+        [
+          "Material",
+          "Stainless steel"
+        ],
+        [
+          "Finish",
+          "Passivated"
+        ]
+      ],
+      "check": "Identify the mating stud, retainer and panel/frame thicknesses when reviewing a complete assembly. Send the existing component numbers with your RFQ so the receptacle can be checked within the intended fastening system.",
+      "source": "https://southco.com/en_us_int/12-11020-13",
+      "verified": "2026-10-19"
+    },
+    {
+      "part": "V7-20-101-50",
+      "name": "Over-Center Draw Latch",
+      "family": "Draw latches",
+      "summary": "Southco V7-20-101-50 is a large, non-locking over-center draw latch. The zinc-alloy body has a black powder-coated finish and a low-profile form for exterior mounting.",
+      "specs": [
+        [
+          "Series",
+          "V7"
+        ],
+        [
+          "Size",
+          "Large"
+        ],
+        [
+          "Access",
+          "No restriction"
+        ],
+        [
+          "Material",
+          "Zinc alloy"
+        ],
+        [
+          "Finish",
+          "Black powder coat"
+        ]
+      ],
+      "check": "Verify keeper geometry, mounting-hole pattern and the latch-to-keeper spacing. If access must be restricted, identify that requirement separately because this listed configuration is non-locking.",
+      "source": "https://southco.com/en_us_int/v7-20-101-50",
+      "verified": "2026-10-19"
+    },
+    {
+      "part": "C3-805",
+      "name": "Grabber Catch Latch",
+      "family": "Grabber catches",
+      "summary": "Southco C3-805 is a black plastic grabber catch with rivet or screw mounting and no microswitch. The spring-loaded mechanism provides push-to-close operation with pull-to-open access.",
+      "specs": [
+        [
+          "Series",
+          "C3"
+        ],
+        [
+          "Operation",
+          "Push to close; pull to open"
+        ],
+        [
+          "Mounting",
+          "Rivet / screw through holes"
+        ],
+        [
+          "Material / color",
+          "Plastic; black"
+        ],
+        [
+          "Microswitch",
+          "None"
+        ]
+      ],
+      "check": "Check the keeper alignment and mounting positions. If a release or pull-up force is specified on your drawing, send that requirement with the RFQ for confirmation. Identify separately whether a door-position switch is required.",
+      "source": "https://southco.com/en_us_int/c3-805",
+      "verified": "2026-10-19"
+    },
+    {
+      "part": "P2-54",
+      "name": "Large Snap-In Flush Pull",
+      "family": "Flush pulls",
+      "summary": "Southco P2-54 is a large black ABS flush pull for 2.1 to 2.5 mm door thickness. The snap-in design retains the handle at the panel opening without separate mounting screws.",
+      "specs": [
+        [
+          "Series",
+          "P2"
+        ],
+        [
+          "Size",
+          "Large"
+        ],
+        [
+          "Panel thickness",
+          "2.1–2.5 mm"
+        ],
+        [
+          "Mounting",
+          "Snap-in"
+        ],
+        [
+          "Material / color",
+          "ABS plastic; black"
+        ],
+        [
+          "Material flammability classification",
+          "UL94-HB"
+        ]
+      ],
+      "check": "Measure the panel thickness at the cutout and check the opening geometry. P2-54 and P2-43-1 differ in size, panel range and material flammability classification; they should be reviewed as separate configurations.",
+      "source": "https://southco.com/en_us_int/p2-54",
+      "verified": "2026-10-19"
+    },
+    {
+      "part": "E3-16-21",
+      "name": "VISE ACTION® Compression Latch",
+      "family": "Compression latches",
+      "summary": "Southco E3-16-21 is a large VISE ACTION compression latch with an 8 mm hex recess. This version uses a zinc-alloy body with a bright chrome-plated finish.",
+      "specs": [
+        [
+          "Series",
+          "E3 VISE ACTION"
+        ],
+        [
+          "Size",
+          "Large"
+        ],
+        [
+          "Actuation",
+          "8 mm hex recess; tool access"
+        ],
+        [
+          "Material",
+          "Zinc alloy"
+        ],
+        [
+          "Finish",
+          "Bright chrome plate"
+        ]
+      ],
+      "check": "Check the grip range, cam configuration, panel thickness and rotation required by your drawing. A matching head style does not establish that another E3 configuration has the same fit.",
+      "source": "https://southco.com/en_us_int/e3-16-21",
+      "verified": "2026-10-19"
+    },
+    {
+      "part": "P2-43-1",
+      "name": "Small Snap-In Flush Pull",
+      "family": "Flush pulls",
+      "summary": "Southco P2-43-1 is a small snap-in flush pull in black ABS plastic. It fits 1.8 to 2.1 mm panels and uses the UL94-V0 material option.",
+      "specs": [
+        [
+          "Series",
+          "P2"
+        ],
+        [
+          "Size",
+          "Small"
+        ],
+        [
+          "Panel thickness",
+          "1.8–2.1 mm"
+        ],
+        [
+          "Mounting",
+          "Snap-in"
+        ],
+        [
+          "Material / color",
+          "ABS plastic; black"
+        ],
+        [
+          "Material flammability classification",
+          "UL94-V0"
+        ]
+      ],
+      "check": "Confirm the small-size cutout dimensions and panel thickness before ordering. Retain the complete -1 suffix when requesting this material option.",
+      "source": "https://southco.com/en_us_int/p2-43-1",
+      "verified": "2026-10-19"
+    },
+    {
+      "part": "P1-33",
+      "name": "Screw-Mounted Flush Pull",
+      "family": "Flush pulls",
+      "summary": "Southco P1-33 is a recessed black ABS pull with screw mounting and a two-piece cup arrangement. The listed configuration fits 1.8 to 3.3 mm panels and uses the UL94-V0 material option.",
+      "specs": [
+        [
+          "Series",
+          "P1"
+        ],
+        [
+          "Panel thickness",
+          "1.8–3.3 mm"
+        ],
+        [
+          "Mounting",
+          "Screw mount"
+        ],
+        [
+          "Material / color",
+          "ABS plastic; black"
+        ],
+        [
+          "Material flammability classification",
+          "UL94-V0"
+        ]
+      ],
+      "check": "Check the panel cutout, thickness and rear clearance for the cup. The screw-mounted P1 arrangement differs from the snap-in P2 style even when both are described as flush pulls.",
+      "source": "https://southco.com/en_us_int/p1-33",
+      "verified": "2026-10-19"
+    },
+    {
+      "part": "E6-10-208-50",
+      "name": "Constant-Torque Positioning Hinge",
+      "family": "Hinges",
+      "summary": "Southco E6-10-208-50 is a medium-size constant-torque hinge with symmetric resistance. Its nominal torque is 0.9 N·m in each direction, and the aluminum-alloy hinge has a black finish.",
+      "specs": [
+        [
+          "Series",
+          "E6 / ST constant torque"
+        ],
+        [
+          "Size",
+          "Medium"
+        ],
+        [
+          "Torque type",
+          "Symmetric"
+        ],
+        [
+          "Forward torque",
+          "0.9 N·m"
+        ],
+        [
+          "Reverse torque",
+          "0.9 N·m"
+        ],
+        [
+          "Material",
+          "Aluminum alloy"
+        ],
+        [
+          "Color",
+          "Black"
+        ],
+        [
+          "Mounting",
+          "Front mount; rivet / screw"
+        ]
+      ],
+      "check": "Review component weight, center of gravity, hinge quantity and mounting geometry when selecting a positioning hinge. Preserve E6-10-208-50 exactly; a similar part number with an added letter identifies a different configuration.",
+      "source": "https://southco.com/en_us_int/e6-10-208-50",
+      "verified": "2026-10-19"
+    },
+    {
+      "part": "E3-16-35",
+      "name": "VISE ACTION® Compression Latch",
+      "family": "Compression latches",
+      "summary": "Southco E3-16-35 is a large VISE ACTION compression latch with an 8 mm hex recess and black powder-coated zinc-alloy construction. Its adjustable grip range is 38.9 to 54.6 mm.",
+      "specs": [
+        [
+          "Series",
+          "E3 VISE ACTION"
+        ],
+        [
+          "Size",
+          "Large"
+        ],
+        [
+          "Actuation",
+          "8 mm hex recess; tool access"
+        ],
+        [
+          "Grip range",
+          "38.9–54.6 mm"
+        ],
+        [
+          "Material",
+          "Zinc alloy"
+        ],
+        [
+          "Finish",
+          "Black powder coat"
+        ],
+        [
+          "Cam",
+          "Attached"
+        ],
+        [
+          "Rotation",
+          "Type A; clockwise to latch"
+        ]
+      ],
+      "check": "Confirm the full grip range, cam geometry and rotation against the drawing. E3-16-21 has a different finish and must be checked independently for grip and configuration before considering it as an alternative.",
+      "source": "https://southco.com/en_us_int/e3-16-35",
+      "verified": "2026-10-19"
+    }
+  ],
+  "families": {
+    "Hinges": "Choose between door removal and position holding. F6 concealed hinges, 96 lift-off hinges and E6 constant-torque hinges serve different installation needs.",
+    "Compression latches": "Review grip, panel thickness and actuation together. The listed range includes C5 key-locking lever latches and E3 VISE ACTION latches with tool access.",
+    "Draw latches": "Check the latch and keeper as a system. V4 Versa-Latch and V7 over-center designs offer different profiles and mounting arrangements.",
+    "Grabber catches": "For push-to-close and pull-to-open access, identify the catch, keeper and mounting arrangement together.",
+    "Flush pulls": "P1 screw-mounted and P2 snap-in pulls provide recessed hand access. Match the cutout, panel thickness and material option to the complete part number.",
+    "Fast-lead hardware": "Keep mating components distinct. A receptacle, stud and retainer have separate designations and must be selected for the complete panel and frame arrangement."
+  }
+}
