@@ -39,6 +39,7 @@ def page(path,title,desc,heading,intro,body,p=None):
   titleblock='<h1>'+h(heading)+'</h1><p class="ref-lead">'+h(intro)+'</p>'
   out=out.replace(titleblock,'<div class="southco-product-hero"><div>'+titleblock+'</div>'+photo(p)+'</div>')
   out=out.replace('<meta property="og:type" content="website">','<meta property="og:image" content="'+BASE+p['image']+'"><meta property="og:type" content="website">')
+ out=out.replace('href="Quote.html"','href="'+quote(p)+'"')
  (W/path).write_text(out)
 parts=D['parts']
 for p in parts:

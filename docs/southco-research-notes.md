@@ -62,3 +62,7 @@ Southco assigns shared family images to F6-3-1, C5-21-35, 12-11020-13, C3-805 an
 V7-20-101-50 has only SouthcoPlaceholder.jpg on its individual page. Its image is the official V7 family overview from https://southco.com/en_us_int/latches/draw-latches/fixed-grip-draw-latches/v7-over-center-series-latches and is explicitly captioned as multiple configurations/finishes. Do not replace that caption with an exact-part image claim.
 
 Product structured data and Open Graph metadata reference the local photo. Full-size images reserve their dimensions; directory thumbnails load lazily. The gallery assets were visually checked together for product identity and finish. HTML asset references, dimensions and metadata were verified; desktop/phone layout review remains pending. Existing RFQ checks still pass.
+
+## RFQ link coverage correction
+
+All Quote.html links on each Southco page, including the shared navigation button, carry the page-specific ?southco=<part> context. Product-page and directory quote buttons use the same route. The HTML review preview now displays the same part number and description as production prefill, with blank-only behavior. Catalog-level inquiries remain general because no part has been selected.
