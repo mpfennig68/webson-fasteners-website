@@ -12,3 +12,11 @@ Implemented October 19, 2026. Quote links on 73 content pages retain the selecte
 Run `python3 scripts/build-site-rfq-context.py` after adding pages or changing titles. Both Southco and Mil-Spec generators invoke it automatically after regeneration; they normalize inherited quote links before applying page-specific routes. Source/maintenance inputs remain excluded from Jekyll through _config.yml.
 
 Validation: `node scripts/check-site-rfq-context.cjs`, `node scripts/check-southco-rfq.cjs` and `node scripts/check-rfq-reference-tracking.cjs` pass together. They cover all allowed page contexts, all 13 Southco part prefills, Mil-Spec routes, existing text, missing forms, invalid/prototype/external parameters, source attribution and quote-button coverage. Both generators produce stable output on repeated runs. Local HTML links/fragments and sitemap XML pass; the native form was compared byte-for-byte against the prior production form.
+
+## Submission handoff feedback
+
+October 19 follow-up: user reports approximately 30 seconds after pressing Submit Request before FormSubmit's CAPTCHA page appears, followed by normal email receipt. The form POST remains a direct browser navigation. Existing autofill scripts have no submit handlers, network calls or timers that could delay the POST. This points toward the external submission/verification handoff, but no live POST timing trace was captured and the root cause remains unconfirmed.
+
+Quote.html adds a preconnect/DNS hint to formsubmit.co to begin connection setup while the buyer fills out the form. This may reduce initial connection overhead; it is not a guarantee against FormSubmit's processing delay. A small passive submit listener displays immediate verification-navigation feedback, updates the message after ten seconds, and clears the status when returning with the Back button. It never calls preventDefault, disables the submitter, invokes fetch, replaces the POST or changes CAPTCHA behavior. Invalid forms do not fire the submit handler. No test inquiry was sent.
+
+The entire highlighted Southco manufacturer cell on Products.html is now a direct anchor to Products-Southco.html, including its padding and arrow. It stays a normal keyboard-accessible link.
