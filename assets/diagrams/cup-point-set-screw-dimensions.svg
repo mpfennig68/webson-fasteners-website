@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" role="img" aria-labelledby="title desc">
+<title id="title">Cup-point set-screw identification and dimensions</title>
+<desc id="desc">Schematic side section of a headless set screw. The hex socket is at the left and the cup point at the right. L indicates overall length; d indicates nominal thread diameter. Not to scale.</desc>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto-start-reverse"><path d="M7 3.5 0 0 0 7Z" fill="#2a2d6b"/></marker></defs>
+<style>.part{fill:#edeef6;stroke:#2a2d6b;stroke-width:3;stroke-linejoin:round}.detail{fill:none;stroke:#2a2d6b;stroke-width:2}.axis{stroke:#8d8b9b;stroke-width:1.2;stroke-dasharray:12 5 2 5}.ext{fill:none;stroke:#8d8b9b;stroke-width:1.2}.dim{stroke:#2a2d6b;stroke-width:1.6;marker-start:url(#arrow);marker-end:url(#arrow)}.label{fill:#2a2d6b;font:26px Georgia,serif;font-style:italic;text-anchor:middle}.note{fill:#2a2d6b;font:17px sans-serif;text-anchor:middle}</style>
+<path class="part" d="M120 110H500L520 126V140L504 150L520 160V174L500 190H120V170H165V130H120Z"/>
+<path class="detail" d="M180 190l16 -80M204 190l16 -80M228 190l16 -80M252 190l16 -80M276 190l16 -80M300 190l16 -80M324 190l16 -80M348 190l16 -80M372 190l16 -80M396 190l16 -80M420 190l16 -80M444 190l16 -80M468 190l16 -80"/>
+<path class="axis" d="M85 150H545"/>
+<path class="ext" d="M120 198V250M520 182V250M505 110H590M505 190H590"/>
+<path class="dim" d="M124 238H516M575 114V186"/>
+<text class="label" x="320" y="278">L</text><text class="label" x="606" y="158">d</text>
+<text class="note" x="150" y="51">Hex socket</text><path class="ext" d="M150 60L140 120"/>
+<text class="note" x="495" y="51">Cup point</text><path class="ext" d="M495 60L512 135"/>
+</svg>

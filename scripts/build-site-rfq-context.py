@@ -35,7 +35,11 @@ script='''/* Site-wide RFQ context. No submission interception, network request 
  const url=new URL('../'+key,script.src);
  if(url.origin!==window.location.origin)return;
  const details=document.querySelector('#rfq-details');
- if(details && !details.value.trim())details.value=source.prefill;
+ if(details && !details.value.trim()){
+  const requestedPart=params.get('part');
+  const selectedMS51021=key==='Reference-MS51021.html' && /^MS51021-(9|10|11|21)$/.test(requestedPart || '');
+  details.value=selectedMS51021 ? requestedPart+' - MS51021 stainless cup-point set screw\\n' : source.prefill;
+ }
  for(const [name,value] of [['rfq_source_page',source.title],['rfq_source_url',url.href]]){
   const input=document.createElement('input');input.type='hidden';input.name=name;input.value=value;form.appendChild(input);
  }

@@ -18,4 +18,4 @@ assert.equal(run('https://www.websonfasteners.com/Quote.html').length,0);
 assert.equal(run('https://www.websonfasteners.com/Quote.html?reference='+pages[0],false).length,0);
 assert.equal(run('https://www.websonfasteners.com/Quote.html?reference='+pages[0],true,'https://other.test/assets/rfq-reference-tracking.js').length,0);
 assert.equal(run('https://www.websonfasteners.com/Quote.html?reference='+pages[0]+'&reference=bad').length,2);
-console.log('All 31 source pages produce two named RFQ fields. Direct visits, missing forms, invalid/external inputs and cross-origin assets are ignored.');
+console.log('All '+pages.length+' source pages produce two named RFQ fields. Direct visits, missing forms, invalid/external inputs and cross-origin assets are ignored.');

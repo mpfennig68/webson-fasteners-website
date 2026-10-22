@@ -3,19 +3,19 @@
   "series": [
     {
       "root": "MS24693",
-      "description": "100\u00b0 flat cross-recessed machine screws",
+      "description": "100° flat cross-recessed machine screws",
       "family": "Machine screws",
       "source": "D-MS24693"
     },
     {
       "root": "MS35190",
-      "description": "82\u00b0 flat cross-recessed machine screws, coarse thread",
+      "description": "82° flat cross-recessed machine screws, coarse thread",
       "family": "Machine screws",
       "source": "K"
     },
     {
       "root": "MS35191",
-      "description": "82\u00b0 flat cross-recessed machine screws, fine thread",
+      "description": "82° flat cross-recessed machine screws, fine thread",
       "family": "Machine screws",
       "source": "K"
     },
@@ -69,13 +69,13 @@
     },
     {
       "root": "MS51959",
-      "description": "82\u00b0 flat cross-recessed machine screws, corrosion-resistant steel, UNC",
+      "description": "82° flat cross-recessed machine screws, corrosion-resistant steel, UNC",
       "family": "Machine screws",
       "source": "D-MS51959"
     },
     {
       "root": "MS51960",
-      "description": "82\u00b0 flat cross-recessed machine screws, fine thread, stainless",
+      "description": "82° flat cross-recessed machine screws, fine thread, stainless",
       "family": "Machine screws",
       "source": "K"
     },
@@ -389,7 +389,7 @@
       "root": "MS51021",
       "description": "Stainless cup-point set screws, UNC",
       "family": "Set screws",
-      "source": "G"
+      "source": "CT-MS51021"
     },
     {
       "root": "MS51023",
@@ -684,7 +684,7 @@
     {
       "root": "MS24693",
       "successor": "NASM24693",
-      "description": "100\u00b0 flat cross-recessed machine screws",
+      "description": "100° flat cross-recessed machine screws",
       "ident": "40616",
       "status": "Canceled"
     },
@@ -705,7 +705,7 @@
     {
       "root": "MS51959",
       "successor": "NASM51959",
-      "description": "82\u00b0 flat cross-recessed machine screws, corrosion-resistant steel, UNC",
+      "description": "82° flat cross-recessed machine screws, corrosion-resistant steel, UNC",
       "ident": "43523",
       "status": "Canceled"
     },
@@ -841,6 +841,13 @@
       "description": "Universal-head aluminum rivets",
       "ident": "54226",
       "status": "Canceled"
+    },
+    {
+      "root": "MS51021",
+      "successor": "NASM51021",
+      "description": "Stainless cup-point hex-socket set screws, UNC-3A",
+      "ident": "43139",
+      "status": "Canceled"
     }
   ],
   "sources": {
@@ -865,9 +872,9 @@
       "scope": "Manufacturer index of retaining ring families."
     },
     "A": {
-      "name": "MS51830G (2022) \u2014 US government drawing, MF Supply mirror",
+      "name": "MS51830G (2022) — US government drawing, MF Supply mirror",
       "url": "https://www.mfsupply.com/v/vspfiles/assets/Reference-Specification-MS51830.pdf",
-      "scope": "MS51830G, 9 May 2022; Tables I\u2013II and requirements 2, 3 and 7. Mirror copy checked against the official DLA revision record on October 18, 2026."
+      "scope": "MS51830G, 9 May 2022; Tables I–II and requirements 2, 3 and 7. Mirror copy checked against the official DLA revision record on October 18, 2026."
     },
     "M": {
       "name": "MF Supply MS51576 dimensional chart",
@@ -1013,6 +1020,21 @@
       "name": "DLA MIL-HDBK-57",
       "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=66904",
       "scope": "Manufacturer identification symbols; guidance, not an acceptance specification."
+    },
+    "CT-MS51021": {
+      "name": "CAM-TECH Industries MS51021 / NASM51021 manufacturer reference",
+      "url": "https://www.camtechindustries.com/blueprint/ms51021-nasm51021/",
+      "scope": "Selected plain dash-number nominal sizes, cup-point/hex-socket identification and historical 300-series CRES/passivation notes. Reviewed 2026-10-22. Historical references are not a current acceptance drawing."
+    },
+    "D-MS51021": {
+      "name": "DLA ASSIST record: MS51021",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=43139",
+      "scope": "Canceled 1999-09-30; named successor NASM51021. Document relationship only. Reviewed 2026-10-22."
+    },
+    "D-NASM51021": {
+      "name": "DLA ASSIST record: NASM51021",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=207148",
+      "scope": "Active adopted standard; adoption 1999-09-30 and reaffirmation 2020-10-01. Reviewed 2026-10-22; full current standard not independently obtained."
     }
   },
   "shoulder_socket": [
@@ -1588,5 +1610,31 @@
       "Lot traceability",
       "Records connecting supplied hardware to its manufacturing or material lot as required by the order."
     ]
+  ],
+  "set_screw_sizes": [
+    {
+      "part": "MS51021-9",
+      "thread": "4-40",
+      "length": "1/8",
+      "length_decimal": "0.125"
+    },
+    {
+      "part": "MS51021-10",
+      "thread": "4-40",
+      "length": "3/16",
+      "length_decimal": "0.1875"
+    },
+    {
+      "part": "MS51021-11",
+      "thread": "4-40",
+      "length": "1/4",
+      "length_decimal": "0.250"
+    },
+    {
+      "part": "MS51021-21",
+      "thread": "6-32",
+      "length": "1/8",
+      "length_decimal": "0.125"
+    }
   ]
 }

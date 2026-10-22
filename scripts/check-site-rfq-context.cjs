@@ -12,6 +12,14 @@ for(const [key,source] of Object.entries(pages)){
 for(const key of ['Reference-MS51957.html','Reference-MS51576.html','Reference-Family-washers.html']){const r=run('?reference='+key);assert.equal(r.details.value,pages[key].prefill);assert(r.fields.some(f=>f.name==='rfq_reference_page'));}
 for(const p of JSON.parse(fs.readFileSync(path.join(root,'scripts/southco-data.json'))).parts){const r=run('?southco='+p.part);assert.equal(r.details.value,'Southco '+p.part+' - '+p.name+'\n');assert(r.fields.some(f=>f.name==='manufacturer_part_number'&&f.value===p.part));}
 assert.equal(run('?southco=catalog').details.value,pages['Products-Southco.html'].prefill);
+for(const part of ['MS51021-9','MS51021-10','MS51021-11','MS51021-21']){
+ const query='?reference=Reference-MS51021.html&part='+part,r=run(query);
+ assert.equal(r.details.value,part+' - MS51021 stainless cup-point set screw\n');
+ assert(r.fields.some(f=>f.name==='rfq_source_url'&&f.value==='https://www.websonfasteners.com/Reference-MS51021.html'));
+ assert.equal(run(query,'Customer specifications already entered').details.value,'Customer specifications already entered');
+}
+for(const part of ['MS51021-999','MS51021-9<script>','https://evil.test/','__proto__'])assert.equal(run('?reference=Reference-MS51021.html&part='+encodeURIComponent(part)).details.value,pages['Reference-MS51021.html'].prefill);
+assert.equal(run('?context=index.html&part=MS51021-9').details.value,pages['index.html'].prefill);
 for(const key of ['__proto__','constructor','../secret.html','https://evil.test','Quote.html','missing.html']){const r=run('?context='+encodeURIComponent(key));assert.equal(r.details.value,'');assert.equal(r.fields.length,0);}
 assert.equal(run('').details.value,'');assert.equal(run('').fields.length,0);assert.equal(run('?context=index.html','',true,'https://www.websonfasteners.com','https://evil.test').fields.length,0);
 for(const key of Object.keys(pages)){

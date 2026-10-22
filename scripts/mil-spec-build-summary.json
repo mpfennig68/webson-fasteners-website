@@ -1,9 +1,9 @@
 {
   "series": 113,
   "families": 13,
-  "document_records": 23,
-  "technical_rows": 85,
-  "guides": 11,
+  "document_records": 24,
+  "technical_rows": 89,
+  "guides": 12,
   "glossary_terms": 46,
   "pages": [
     "Resources-Mil-Spec-Reference.html",
@@ -32,6 +32,7 @@
     "Reference-MS21042.html",
     "Reference-MS24665-MS20392.html",
     "Reference-MS51957.html",
+    "Reference-MS51021.html",
     "Resources-Mil-Spec-Tables.html",
     "Resources-Mil-Spec-Terminology.html",
     "Resources-Mil-Spec-RFQ-Checklist.html",

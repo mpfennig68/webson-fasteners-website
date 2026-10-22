@@ -604,3 +604,30 @@ Complete numerical rows, original source identifiers and review scope remain in 
 - Diagram measurement conventions derive from the existing nominal shoulder/washer/machine-screw guidance. Diagrams are not manufacturer drawings and carry no additional numerical values. Raised-head length is shown under the head; countersunk length is outside that illustration. Shoulder and threaded-end lengths are separate; runout is simplified. Washer ID, OD and thickness are separate dimensions. The three SVGs were rendered and visually inspected for label placement and dimension arrows.
 - RFQ attribution was explicitly chosen by the user as source information in the incoming email. No external analytics service was added. See maintenance document for behavior and verification limits.
 - FormSubmit public documentation: https://formsubmit.co/ (reviewed October 18, 2026). Supports receiving named form-field values by email. Only two ordinary hidden inputs are added at runtime; original submission handling is preserved.
+
+## October 22, 2026: MS51021 dedicated reference guide
+
+Public page: `Reference-MS51021.html`. Research links remain internal to the repository; `_config.yml` excludes `docs` and `scripts` from Jekyll output. No public source tab or outbound technical citations were added.
+
+Evidence reviewed:
+
+- DLA ASSIST MS51021 record, identifier 43139: https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=43139 . Legacy document canceled September 30, 1999; record names NASM51021 as successor.
+- DLA ASSIST NASM51021 record, identifier 207148: https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=207148 . Active adopted standard; adoption September 30, 1999 and reaffirmation October 1, 2020. The metadata title contains `UNIC-3A`; UNC-3A is supported by the legacy drawing title and manufacturer reference. The current full NASM standard was not independently obtained.
+- CAM-TECH Industries manufacturer reference: https://www.camtechindustries.com/blueprint/ms51021-nasm51021/ . Historical MS51021 drawing transcription supports the hexagon socket, cup point, 300-series CRES, passivation, UNC-3A, and selected plain dash-number sizes. The transcription includes apparent carryover errors in later MS51023 interchangeability text; those mappings and the example typo were not used. Historical process-spec references are not represented as current acceptance requirements.
+
+Selected plain identification entries:
+
+| Part | Thread | Nominal length, in |
+| --- | --- | --- |
+| MS51021-9 | 4-40 | 1/8 (0.125) |
+| MS51021-10 | 4-40 | 3/16 (0.1875) |
+| MS51021-11 | 4-40 | 1/4 (0.250) |
+| MS51021-21 | 6-32 | 1/8 (0.125) |
+
+The manufacturer transcription rounds 3/16 to .188; the public table states the nominal fractional equivalent, not a tolerance limit. All four entries are plain selections. No self-locking part-number decoding, torque, socket tolerances, procurement qualification or interchangeability is inferred. Full current drawing and purchase-order requirements govern acceptance. Related-series descriptions use the existing family register and are identification comparisons only.
+
+The user's October 22 stock report informed which four designations to feature. Customer names, sales, stock quantities, pricing and internal descriptions are not published. The reference page makes no real-time availability claim.
+
+The new schematic is an original SVG identification illustration. It is not an engineering drawing or inspection reference. L and d are local illustration keys.
+
+Part quote links use `reference=Reference-MS51021.html&part=<selected designation>`. `build-site-rfq-context.py` validates the four allowed parts for that page only, prefills an empty details field, and preserves existing customer text. Existing reference/source attribution remains. No live inquiry is submitted during QA.

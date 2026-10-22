@@ -28,3 +28,7 @@ The generator adds `?reference=<page filename>` to Quote.html links on all refer
 Run `node scripts/check-rfq-reference-tracking.cjs` from any directory to verify all source routes and invalid-input handling. No live test RFQ was sent. The added fields were verified with automated DOM behavior checks; first real inbound inquiry is the delivery-level confirmation.
 
 October 18 site-wide cleanup: added the Mil-Spec Reference footer link to 28 remaining content pages, including Quote.html and thank-you.html; all 60 content pages now include it exactly once. The 13 legacy redirects have no content footer. Declared English on 17 pages missing a lang attribute. Verified local file links across all 73 HTML files and preserved RFQ form markup and attribution. The reference generator reuses the updated footer without adding a duplicate link.
+
+## October 22: MS51021 extension
+
+The generator now includes Reference-MS51021.html, a four-row selected plain set-screw table in set_screw_sizes, and assets/diagrams/cup-point-set-screw-dimensions.svg. The directory, set-screw family, technical-table directory, document cross-reference, sitemap and both RFQ context registers include the new guide. Only the four selected plain MS51021 designations are accepted by the part-specific RFQ prefill; an unsupported or out-of-context part parameter falls back to the normal page context. Keep the same validation in scripts/build-site-rfq-context.py and its generated asset. Research scope is recorded in mil-spec-research-notes.md.
