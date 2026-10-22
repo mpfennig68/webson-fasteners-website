@@ -646,3 +646,14 @@ Primary sources reviewed October 22:
 New generic nut SVG illustrates face/side measurement concepts only. It intentionally omits locking geometry; neither the profile nor the letter keys are an acceptance drawing. Sources stay in this excluded repository document and the generator input register. Customer-facing links stay within Webson.
 
 Part-specific RFQ allowlists are now generated from `stocked_part_guides` in `scripts/mil-spec-data.json`, with exact membership by page. A part from a different family or an unsupported parameter falls back to page-level prefill. Existing customer text is preserved. Regression checks cover all 15 stocked part links, invalid/cross-family values, prior reference attribution and all Southco routes. No live form submission is performed.
+
+## October 22, 2026 — blind-rivet and machine-screw expansion
+
+Added MS20605, NAS1399, MS35206 and MS24693 selected stocked guides. Source URLs and review scope are retained in the private source register (`scripts/mil-spec-data.json`); both scripts and docs are excluded from the public site.
+
+- MS20605: Cherry CR9116 revision AA (May 14, 2015), selected -3 diameter and grip 03/04 references. DLA indexed record 39817 identifies cancellation August 18, 1998 and NASM20605 successor. This is a nonstructural Class 2 flush-head family; no blanket Cherry part substitution is asserted.
+- NAS1399: Cherry family guidance distinguishes A and AB configurations. CR4172 revision P supports selected B4AB2 aluminum identification; CR4622 revision AH supports selected C5AB2 A286 identification; CR2672 revision AB supports selected C5A4 A286 identification. Grip 02 minima are diameter dependent: 0.063 for -4, 0.065 for -5. CR4272 was reviewed but is not used for the B-material entry.
+- MS35206: BILD manufacturer reference visually checked for selected thread/length mappings. DLA record 42087 identifies cancellation February 29, 2000 and NASM35206 successor. The modified NP item retains its identifier and requires its patch drawing.
+- MS24693: primary government revision H (June 20, 2000), manufacturer-hosted scan, visually checked across its UNC/UNF tables and material notes. AIRFASCO index used as secondary manufacturer cross-check. Flat-head length includes the head. Canonicalized hyphen aliases and consolidated duplicates; excluded unrelated internal item 5008-204. Three patched configurations are identified without disclosing customer/lot data.
+
+Stock source remains the user-supplied October 22, 2026 workbook. New tables show 2 MS20605, 3 NAS1399, 11 MS35206 and 27 MS24693 configurations. No quantities, prices, sales history, customer identities or live availability promise is published. Each selection uses the established stock-status label and prior-sale note, with complete part designation passed to the existing RFQ form.

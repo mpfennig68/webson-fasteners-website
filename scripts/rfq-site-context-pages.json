@@ -135,6 +135,10 @@
     "title": "MS20426 and MS20470 solid rivets",
     "prefill": "MS20426 and MS20470 solid rivets\n"
   },
+  "Reference-MS20605.html": {
+    "title": "MS20605 nonstructural flush blind rivets",
+    "prefill": "MS20605 nonstructural flush blind rivets\n"
+  },
   "Reference-MS21042.html": {
     "title": "MS21042 self-locking nuts",
     "prefill": "MS21042 self-locking nuts\n"
@@ -146,6 +150,14 @@
   "Reference-MS24665-MS20392.html": {
     "title": "MS24665 cotter and MS20392 headed pins",
     "prefill": "MS24665 cotter and MS20392 headed pins\n"
+  },
+  "Reference-MS24693.html": {
+    "title": "MS24693 100-degree flat-head machine screws",
+    "prefill": "MS24693 100-degree flat-head machine screws\n"
+  },
+  "Reference-MS35206.html": {
+    "title": "MS35206 pan-head machine screws",
+    "prefill": "MS35206 pan-head machine screws\n"
   },
   "Reference-MS35307-MS35308.html": {
     "title": "MS35307 and MS35308 hex cap screws",
@@ -174,6 +186,10 @@
   "Reference-NAS1291.html": {
     "title": "NAS1291 low-height self-locking hex nuts",
     "prefill": "NAS1291 low-height self-locking hex nuts\n"
+  },
+  "Reference-NAS1399.html": {
+    "title": "NAS1399 flush-head locked-spindle blind rivets",
+    "prefill": "NAS1399 flush-head locked-spindle blind rivets\n"
   },
   "Reference-NAS671.html": {
     "title": "NAS671 small-pattern plain hex nuts",

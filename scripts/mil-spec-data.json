@@ -5,7 +5,7 @@
       "root": "MS24693",
       "description": "100° flat cross-recessed machine screws",
       "family": "Machine screws",
-      "source": "D-MS24693"
+      "source": "MS24693-H"
     },
     {
       "root": "MS35190",
@@ -23,7 +23,7 @@
       "root": "MS35206",
       "description": "Pan head cross-recessed machine screws, carbon steel, UNC",
       "family": "Machine screws",
-      "source": "D-MS35206"
+      "source": "BILD-MS35206"
     },
     {
       "root": "MS35207",
@@ -353,7 +353,7 @@
       "root": "MS20605",
       "description": "Nonstructural flush blind rivets",
       "family": "Rivets",
-      "source": "G"
+      "source": "CH-MS20605"
     },
     {
       "root": "MS51830",
@@ -690,6 +690,12 @@
       "description": "Low-height lightweight self-locking hex nuts",
       "family": "Nuts",
       "source": "NAS1291-R13"
+    },
+    {
+      "root": "NAS1399",
+      "description": "100-degree flush-head locked-spindle blind rivets",
+      "family": "Rivets",
+      "source": "CH-NAS1399"
     }
   ],
   "cross_references": [
@@ -866,6 +872,13 @@
       "successor": "NASM21083",
       "description": "Low-height nonmetallic-insert self-locking hex nuts",
       "ident": "39907",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS20605",
+      "successor": "NASM20605",
+      "description": "Nonstructural 100-degree flush-head blind rivets, Class 2",
+      "ident": "39817",
       "status": "Canceled"
     }
   ],
@@ -1074,6 +1087,51 @@
       "name": "DLA ASSIST record: MS21083",
       "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39907",
       "scope": "Indexed official record identifies cancellation July 19, 2000 and successor NASM21083; direct page retrieval unavailable, official search extract reviewed 2026-10-22."
+    },
+    "BILD-MS35206": {
+      "name": "BILD Industries manufacturer MS35206/MS35207 reference",
+      "url": "https://bildindustries.com/wp-content/uploads/2024/07/MS35206.pdf",
+      "scope": "Selected MS35206 nominal thread/length mappings only; manufacturer table visually reviewed. Historical finish references not represented as current process requirements. Reviewed 2026-10-22."
+    },
+    "MS24693-H": {
+      "name": "MS24693 revision H primary government drawing, manufacturer mirror",
+      "url": "https://airfasco.com/drawings/MS/MS24693/MS24693%20REV%20H.pdf",
+      "scope": "Five-sheet government drawing, June 20, 2000, visually reviewed: selected UNC and UNF nominal lengths and C/S legacy finish codes. Includes dimensional code changes; no blanket part substitution asserted. Reviewed 2026-10-22."
+    },
+    "AF-MS24693": {
+      "name": "AIRFASCO MS24693 manufacturer index",
+      "url": "https://airfasco.com/products/MS/MS24693.php",
+      "scope": "Supplemental cross-check of 100-degree head and C/S finish notation. Nominal dimensions use primary drawing rather than reproducing full catalog rows. Reviewed 2026-10-22."
+    },
+    "CH-MS20605": {
+      "name": "Cherry CR9116 manufacturer standard page",
+      "url": "https://www.cherryaerospace.com/docs/stdpg/9000/CR9116.pdf",
+      "scope": "Revision AA, May 14, 2015: 100-degree flush head, selected -3 diameter grip codes 03 and 04. NASM20605 relationship appears in note 5; no blanket Cherry-part interchangeability asserted. Reviewed 2026-10-22."
+    },
+    "CH-NAS1399": {
+      "name": "Cherry manufacturer A and AB family guidance",
+      "url": "https://www.cherryaerospace.com/product/blindrivets",
+      "scope": "NAS1399 A versus AB wiredraw/locked-spindle family and tooling distinction; preserve full codes. Reviewed 2026-10-22."
+    },
+    "CH-CR4172": {
+      "name": "Cherry CR4172 manufacturer standard page",
+      "url": "https://www.cherryaerospace.com/docs/stdpg/cmaxwd/CR4172.pdf",
+      "scope": "Revision P, January 20, 2021: selected B/AB aluminum configuration, -4 nominal diameter and grip 02 limits including note 4 minimum. Reviewed 2026-10-22."
+    },
+    "CH-CR4622": {
+      "name": "Cherry CR4622 manufacturer standard page",
+      "url": "https://www.cherryaerospace.com/docs/stdpg/cmaxwd/CR4622.pdf",
+      "scope": "Revision AH, June 11, 2024: selected C/AB A286 configuration, -5 nominal diameter and grip 02 limits including note 4 minimum. Reviewed 2026-10-22."
+    },
+    "CH-CR2672": {
+      "name": "Cherry CR2672 manufacturer standard page",
+      "url": "https://www.cherryaerospace.com/docs/stdpg/clock/CR2672.pdf",
+      "scope": "Revision AB, October 14, 2015: selected C/A A286 configuration, -5 nominal diameter and grip 04 limits. Reviewed 2026-10-22."
+    },
+    "D-MS20605": {
+      "name": "DLA ASSIST MS20605 document record",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39817",
+      "scope": "Official indexed record: canceled August 18, 1998; successor NASM20605. Full direct record retrieval unavailable during review. Reviewed 2026-10-22."
     }
   },
   "shoulder_socket": [
@@ -1774,6 +1832,339 @@
         "MS21083N12",
         "MS21083C08"
       ]
+    },
+    "Reference-MS20605.html": {
+      "description": "MS20605 nonstructural flush blind rivet",
+      "parts": [
+        "MS20605AD3W3",
+        "MS20605AD3W4"
+      ]
+    },
+    "Reference-NAS1399.html": {
+      "description": "NAS1399 locked-spindle flush blind rivet",
+      "parts": [
+        "NAS1399B4AB2",
+        "NAS1399C5A4",
+        "NAS1399C5AB2"
+      ]
+    },
+    "Reference-MS35206.html": {
+      "description": "MS35206 pan-head machine screw",
+      "parts": [
+        "MS35206-213",
+        "MS35206-214",
+        "MS35206-215",
+        "MS35206-216",
+        "MS35206-218",
+        "MS35206-227",
+        "MS35206-228",
+        "MS35206-233",
+        "MS35206-243",
+        "MS35206-246",
+        "MS35206-213NP"
+      ]
+    },
+    "Reference-MS24693.html": {
+      "description": "MS24693 100-degree flat-head machine screw",
+      "parts": [
+        "MS24693S3",
+        "MS24693C38",
+        "MS24693C3",
+        "MS24693C40",
+        "MS24693S4",
+        "MS24693C2NP",
+        "MS24693S2",
+        "MS24693S49",
+        "MS24693C422",
+        "MS24693C1",
+        "MS24693C23",
+        "MS24693C2",
+        "MS24693C8",
+        "MS24693S24",
+        "MS24693C17NP",
+        "MS24693C25",
+        "MS24693C1NP",
+        "MS24693S6",
+        "MS24693S1",
+        "MS24693C218",
+        "MS24693S7",
+        "MS24693C217",
+        "MS24693S272",
+        "MS24693S25",
+        "MS24693C24",
+        "MS24693C35",
+        "MS24693C30"
+      ]
     }
+  },
+  "blind_rivet_sizes": {
+    "MS20605": [
+      {
+        "part": "MS20605AD3W3",
+        "diameter": "3/32",
+        "grip": "0.126–0.187",
+        "configuration": "100° flush head"
+      },
+      {
+        "part": "MS20605AD3W4",
+        "diameter": "3/32",
+        "grip": "0.188–0.250",
+        "configuration": "100° flush head"
+      }
+    ],
+    "NAS1399": [
+      {
+        "part": "NAS1399B4AB2",
+        "diameter": "1/8",
+        "grip": "0.063–0.125",
+        "configuration": "Aluminum / AB"
+      },
+      {
+        "part": "NAS1399C5A4",
+        "diameter": "5/32",
+        "grip": "0.188–0.250",
+        "configuration": "A286 CRES / A"
+      },
+      {
+        "part": "NAS1399C5AB2",
+        "diameter": "5/32",
+        "grip": "0.065–0.125",
+        "configuration": "A286 CRES / AB"
+      }
+    ]
+  },
+  "machine_screw_sizes": {
+    "MS35206": [
+      {
+        "part": "MS35206-213",
+        "thread": "4-40 UNC-2A",
+        "length": "1/4",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS35206-214",
+        "thread": "4-40 UNC-2A",
+        "length": "5/16",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS35206-215",
+        "thread": "4-40 UNC-2A",
+        "length": "3/8",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS35206-216",
+        "thread": "4-40 UNC-2A",
+        "length": "7/16",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS35206-218",
+        "thread": "4-40 UNC-2A",
+        "length": "5/8",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS35206-227",
+        "thread": "6-32 UNC-2A",
+        "length": "5/16",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS35206-228",
+        "thread": "6-32 UNC-2A",
+        "length": "3/8",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS35206-233",
+        "thread": "6-32 UNC-2A",
+        "length": "7/8",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS35206-243",
+        "thread": "8-32 UNC-2A",
+        "length": "3/8",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS35206-246",
+        "thread": "8-32 UNC-2A",
+        "length": "5/8",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS35206-213NP",
+        "thread": "4-40 UNC-2A",
+        "length": "1/4",
+        "configuration": "Patched steel; confirm drawing"
+      }
+    ],
+    "MS24693": [
+      {
+        "part": "MS24693S3",
+        "thread": "4-40 UNC-2A",
+        "length": "5/16",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS24693C38",
+        "thread": "6-32 UNC-2A",
+        "length": "1-3/4",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693C3",
+        "thread": "4-40 UNC-2A",
+        "length": "5/16",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693C40",
+        "thread": "6-32 UNC-2A",
+        "length": "2",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693S4",
+        "thread": "4-40 UNC-2A",
+        "length": "3/8",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS24693C2NP",
+        "thread": "4-40 UNC-2A",
+        "length": "1/4",
+        "configuration": "Passivated CRES; patch per drawing"
+      },
+      {
+        "part": "MS24693S2",
+        "thread": "4-40 UNC-2A",
+        "length": "1/4",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS24693S49",
+        "thread": "8-32 UNC-2A",
+        "length": "7/16",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS24693C422",
+        "thread": "0-80 UNF-2A",
+        "length": "5/16",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693C1",
+        "thread": "4-40 UNC-2A",
+        "length": "3/16",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693C23",
+        "thread": "6-32 UNC-2A",
+        "length": "3/16",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693C2",
+        "thread": "4-40 UNC-2A",
+        "length": "1/4",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693C8",
+        "thread": "4-40 UNC-2A",
+        "length": "3/4",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693S24",
+        "thread": "6-32 UNC-2A",
+        "length": "1/4",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS24693C17NP",
+        "thread": "4-40 UNC-2A",
+        "length": "1-7/8",
+        "configuration": "Passivated CRES; patch per drawing"
+      },
+      {
+        "part": "MS24693C25",
+        "thread": "6-32 UNC-2A",
+        "length": "5/16",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693C1NP",
+        "thread": "4-40 UNC-2A",
+        "length": "3/16",
+        "configuration": "Passivated CRES; patch per drawing"
+      },
+      {
+        "part": "MS24693S6",
+        "thread": "4-40 UNC-2A",
+        "length": "1/2",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS24693S1",
+        "thread": "4-40 UNC-2A",
+        "length": "3/16",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS24693C218",
+        "thread": "0-80 UNF-2A",
+        "length": "1/8",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693S7",
+        "thread": "4-40 UNC-2A",
+        "length": "5/8",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS24693C217",
+        "thread": "0-80 UNF-2A",
+        "length": "3/32",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693S272",
+        "thread": "10-32 UNF-2A",
+        "length": "1/2",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS24693S25",
+        "thread": "6-32 UNC-2A",
+        "length": "5/16",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS24693C24",
+        "thread": "6-32 UNC-2A",
+        "length": "1/4",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693C35",
+        "thread": "6-32 UNC-2A",
+        "length": "1-3/8",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS24693C30",
+        "thread": "6-32 UNC-2A",
+        "length": "3/4",
+        "configuration": "Passivated CRES"
+      }
+    ]
   }
 }
