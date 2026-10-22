@@ -251,7 +251,7 @@
       "root": "MS16555",
       "description": "Dowel pins, .0002 over nominal",
       "family": "Pins",
-      "source": "D-MS16555"
+      "source": "BILD-MS16555"
     },
     {
       "root": "MS16556",
@@ -263,7 +263,7 @@
       "root": "MS16562",
       "description": "Slotted tubular spring pins",
       "family": "Pins",
-      "source": "G"
+      "source": "NASM16562-1998"
     },
     {
       "root": "MS20392",
@@ -323,7 +323,7 @@
       "root": "MS20426",
       "description": "100-degree countersunk solid rivets",
       "family": "Rivets",
-      "source": "D-MS20426"
+      "source": "MS20426-L"
     },
     {
       "root": "MS20427",
@@ -335,7 +335,7 @@
       "root": "MS20470",
       "description": "Universal-head solid rivets",
       "family": "Rivets",
-      "source": "G"
+      "source": "MS20470-K"
     },
     {
       "root": "MS20613",
@@ -720,6 +720,18 @@
       "description": "Low-height two-lug floating CRES nutplates with reduced rivet spacing",
       "family": "Nuts",
       "source": "MS21076-H"
+    },
+    {
+      "root": "MS21209",
+      "description": "Screw-locking tanged helical-coil thread inserts",
+      "family": "Threaded inserts",
+      "source": "MS21209-F"
+    },
+    {
+      "root": "NAS1130",
+      "description": "Free-running and screw-locking tangless helical-coil inserts",
+      "family": "Threaded inserts",
+      "source": "KATO-PARTS"
     }
   ],
   "cross_references": [
@@ -1255,6 +1267,76 @@
       "name": "DLA ASSIST MS16996 document record",
       "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39182",
       "scope": "Official indexed record: canceled June 30, 1998; named successor NASM16996. Reviewed 2026-10-22."
+    },
+    "BILD-MS16555": {
+      "name": "BILD MS16555 manufacturer table",
+      "url": "https://bildindustries.com/wp-content/uploads/2024/07/MS16555.pdf",
+      "scope": "Selected 601,602,618,620,625,626,627,629 nominal dimensions and passivated CRES group. Reviewed 2026-10-22."
+    },
+    "RM-DOWELS-3": {
+      "name": "Richard Manno manufacturer dowel listing, page 3",
+      "url": "https://parts.richardmanno.com/product-category/dowel-pins/page/3/",
+      "scope": "Selected nominal size cross-checks; manufacturer stock levels and certifications are not transferred to Webson. Reviewed 2026-10-22."
+    },
+    "RM-DOWELS-4": {
+      "name": "Richard Manno manufacturer dowel listing, page 4",
+      "url": "https://parts.richardmanno.com/product-category/dowel-pins/page/4/",
+      "scope": "Selected 631 1/8 x 1 and CRES configuration cross-check. Reviewed 2026-10-22."
+    },
+    "RM-DOWELS-5": {
+      "name": "Richard Manno manufacturer dowel listing, page 5",
+      "url": "https://parts.richardmanno.com/product-category/dowel-pins/page/5/",
+      "scope": "Selected 640 3/16 x 5/8, 643 3/16 x 1 nominal dimensions. Reviewed 2026-10-22."
+    },
+    "RM-DOWEL-608": {
+      "name": "Richard Manno MS16555-608 manufacturer detail",
+      "url": "https://parts.richardmanno.com/product/ms16555-608/",
+      "scope": "1/16 x 3/4 hardened 400-series CRES. Reviewed 2026-10-22."
+    },
+    "RM-DOWEL-621": {
+      "name": "Richard Manno MS16555-621 manufacturer detail",
+      "url": "https://parts.richardmanno.com/product/ms16555-621/",
+      "scope": "3/32 x 5/8 hardened 400-series CRES. Reviewed 2026-10-22."
+    },
+    "BILD-MS16562": {
+      "name": "BILD MS16562 manufacturer size table",
+      "url": "https://bildindustries.com/wp-content/uploads/2024/07/MS16562.pdf",
+      "scope": "Seven selected CRES slotted-pin diameter/length mappings. Nominal pin size is distinct from free-state diameter and mating-hole limits. Reviewed 2026-10-22."
+    },
+    "NASM16562-1998": {
+      "name": "NASM16562 initial-release primary standard, supplier mirror",
+      "url": "https://www.aircraftspruce.com/catalog/pdf/MS16562%20-%20REV%20NEW%20%20OCT%2098.pdf",
+      "scope": "October 1998 two-page drawing visually checked for selected slotted-pin mappings and material/finish. No latest-revision claim. Reviewed 2026-10-22."
+    },
+    "MS20426-L": {
+      "name": "MS20426 revision L primary government drawing, supplier mirror",
+      "url": "https://www.fastenerz.com/specs/ms20426.pdf",
+      "scope": "Five-page drawing, September 14, 1994; material and finish notes visually reviewed. A material=1100, AD=2117; terminal A=clear anodize. Diameter in 1/32, length in 1/16, countersunk length includes head. Decimal stock notation -5.5 retained without asserting canonical standard PIN or length. Reviewed 2026-10-22."
+    },
+    "MS20470-K": {
+      "name": "MS20470 revision K primary government drawing, supplier mirror",
+      "url": "https://www.aaestore.com.au/media/specs/MS20470.pdf",
+      "scope": "Five-page scan visually checked: universal head, AD material, A clear anodize versus unsuffixed chemical treatment, nominal diameter/length coding. Under-head length convention. Reviewed 2026-10-22."
+    },
+    "MS21209-F": {
+      "name": "MS21209 revision F primary government drawing, technical-library mirror",
+      "url": "https://www.abbottaerospace.com/downloads/ms21209-insert-screw-thread-coarse-and-fine-screw-locking-helical-coil-cres/?ind=1461245941454&wpdmdl=3237",
+      "scope": "Eight-page primary drawing visually checked: tanged screw-locking CRES; installed nominal length multiple; selected 04/06/C6/F1 threads; L dry film and P cadmium coating. C510 cannot safely distinguish missing-zero C0510 versus missing-separator C5-10, so thread and length are deliberately not decoded. Reviewed 2026-10-22."
+    },
+    "KATO-PARTS": {
+      "name": "KATO manufacturer insert numbering and thread table",
+      "url": "https://katofastening.com/inserts/partnumber.html",
+      "scope": "Selected NAS1130 thread, nominal length multiple and locking/free-running mappings only. No public approved-alternate list or proprietary-equivalent claims. Reviewed 2026-10-22."
+    },
+    "KATO-NAS1130-FINISH": {
+      "name": "KATO tangless dry-film strip-feed manufacturer reference",
+      "url": "https://katofastening.com/inserts/nonlockingtc_sfw.html",
+      "scope": "Confirms 06 thread/1D dry-film strip-feed association and explicitly distinguishes strip-feed packaging from standard NAS designation. Stock DSF string retained as supplier ordering identifier. Reviewed 2026-10-22."
+    },
+    "BOLLHOFF-INSERTS": {
+      "name": "Bollhoff Aerospace Buyers Directory, issue 3 August 2012",
+      "url": "https://media.boellhoff.com/files/pdf1/blue-book-en-0130.pdf",
+      "scope": "NAS1130 page 54: tangless free-running and screw-locking, P cadmium and D dry-film versus self finish. No current issue or named brand of Webson stock asserted. Reviewed 2026-10-22."
     }
   },
   "shoulder_socket": [
@@ -2191,6 +2273,93 @@
         "NAS1149D0363K",
         "NAS1149CN432R",
         "NAS1149D0516H"
+      ]
+    },
+    "Reference-MS16555-MS16556.html": {
+      "description": "MS16555 stocked dowel pin",
+      "parts": [
+        "MS16555-608",
+        "MS16555-601",
+        "MS16555-643",
+        "MS16555-621",
+        "MS16555-602",
+        "MS16555-627",
+        "MS16555-625",
+        "MS16555-620",
+        "MS16555-629",
+        "MS16555-626",
+        "MS16555-604",
+        "MS16555-603",
+        "MS16555-640",
+        "MS16555-631",
+        "MS16555-618"
+      ]
+    },
+    "Reference-MS16562.html": {
+      "description": "MS16562 slotted spring pin",
+      "parts": [
+        "MS16562-192",
+        "MS16562-216",
+        "MS16562-211",
+        "MS16562-191",
+        "MS16562-224",
+        "MS16562-210",
+        "MS16562-190"
+      ]
+    },
+    "Reference-MS20426-MS20470.html": {
+      "description": "MS20426 / MS20470 solid rivet",
+      "parts": [
+        "MS20426A4-6A",
+        "MS20426AD6-7A",
+        "MS20426AD2-2A",
+        "MS20426AD4-7A",
+        "MS20426A2-4A",
+        "MS20426AD4-5A",
+        "MS20426AD3-4A",
+        "MS20426AD3-4",
+        "MS20426A2-3",
+        "MS20426AD3-5.5",
+        "MS20426AD3-3",
+        "MS20426AD4-4A",
+        "MS20426A2-3A",
+        "MS20426AD3-9",
+        "MS20426AD2-3",
+        "MS20470AD4-3",
+        "MS20470AD4-4A",
+        "MS20470AD4-5A",
+        "MS20470AD2-3A",
+        "MS20470AD3-3A"
+      ]
+    },
+    "Reference-MS21209.html": {
+      "description": "MS21209 screw-locking helical insert",
+      "parts": [
+        "MS21209C510",
+        "MS21209C0415L",
+        "MS21209C6-10",
+        "MS21209F1-15",
+        "MS21209C0415",
+        "MS21209F1-20P",
+        "MS21209C0615",
+        "MS21209C0410",
+        "MS21209F1-20"
+      ]
+    },
+    "Reference-NAS1130.html": {
+      "description": "NAS1130 tangless helical insert",
+      "parts": [
+        "NAS1130-06-15",
+        "NAS1130-3L10P",
+        "NAS1130-06-10DSF",
+        "NAS1130-08L10P",
+        "NAS1130-06L15",
+        "NAS1130-04L10P",
+        "NAS1130-04L15D",
+        "NAS1130-02L15D",
+        "NAS1130-04L15",
+        "NAS1130-08L20",
+        "NAS1130-06-10"
       ]
     }
   },
@@ -3200,6 +3369,396 @@
         "thread": "1-64 UNRC-3A",
         "length": "3/16",
         "configuration": "Passivated CRES"
+      }
+    ]
+  },
+  "stocked_pin_sizes": {
+    "MS16555": [
+      {
+        "part": "MS16555-608",
+        "diameter": "1/16",
+        "length": "3/4",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16555-601",
+        "diameter": "1/16",
+        "length": "3/16",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16555-643",
+        "diameter": "3/16",
+        "length": "1",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16555-621",
+        "diameter": "3/32",
+        "length": "5/8",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16555-602",
+        "diameter": "1/16",
+        "length": "1/4",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16555-627",
+        "diameter": "1/8",
+        "length": "1/2",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16555-625",
+        "diameter": "1/8",
+        "length": "3/8",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16555-620",
+        "diameter": "3/32",
+        "length": "1/2",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16555-629",
+        "diameter": "1/8",
+        "length": "3/4",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16555-626",
+        "diameter": "1/8",
+        "length": "7/16",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16555-604",
+        "diameter": "Confirm drawing",
+        "length": "Confirm drawing",
+        "configuration": "Dowel; confirm full configuration"
+      },
+      {
+        "part": "MS16555-603",
+        "diameter": "Confirm drawing",
+        "length": "Confirm drawing",
+        "configuration": "Dowel; confirm full configuration"
+      },
+      {
+        "part": "MS16555-640",
+        "diameter": "3/16",
+        "length": "5/8",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16555-631",
+        "diameter": "1/8",
+        "length": "1",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16555-618",
+        "diameter": "3/32",
+        "length": "3/8",
+        "configuration": "Passivated CRES"
+      }
+    ],
+    "MS16562": [
+      {
+        "part": "MS16562-192",
+        "diameter": "1/16",
+        "length": "3/8",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16562-216",
+        "diameter": "3/32",
+        "length": "3/4",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16562-211",
+        "diameter": "3/32",
+        "length": "3/8",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16562-191",
+        "diameter": "1/16",
+        "length": "5/16",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16562-224",
+        "diameter": "1/8",
+        "length": "3/4",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16562-210",
+        "diameter": "3/32",
+        "length": "5/16",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16562-190",
+        "diameter": "1/16",
+        "length": "1/4",
+        "configuration": "Passivated CRES"
+      }
+    ]
+  },
+  "solid_rivet_sizes": {
+    "MS20426": [
+      {
+        "part": "MS20426A4-6A",
+        "diameter": "1/8",
+        "length": "3/8",
+        "configuration": "1100 aluminum; clear anodized"
+      },
+      {
+        "part": "MS20426AD6-7A",
+        "diameter": "3/16",
+        "length": "7/16",
+        "configuration": "2117 aluminum; clear anodized"
+      },
+      {
+        "part": "MS20426AD2-2A",
+        "diameter": "1/16",
+        "length": "1/8",
+        "configuration": "2117 aluminum; clear anodized"
+      },
+      {
+        "part": "MS20426AD4-7A",
+        "diameter": "1/8",
+        "length": "7/16",
+        "configuration": "2117 aluminum; clear anodized"
+      },
+      {
+        "part": "MS20426A2-4A",
+        "diameter": "1/16",
+        "length": "1/4",
+        "configuration": "1100 aluminum; clear anodized"
+      },
+      {
+        "part": "MS20426AD4-5A",
+        "diameter": "1/8",
+        "length": "5/16",
+        "configuration": "2117 aluminum; clear anodized"
+      },
+      {
+        "part": "MS20426AD3-4A",
+        "diameter": "3/32",
+        "length": "1/4",
+        "configuration": "2117 aluminum; clear anodized"
+      },
+      {
+        "part": "MS20426AD3-4",
+        "diameter": "3/32",
+        "length": "1/4",
+        "configuration": "2117 aluminum; chemical treatment"
+      },
+      {
+        "part": "MS20426A2-3",
+        "diameter": "1/16",
+        "length": "3/16",
+        "configuration": "1100 aluminum; chemical treatment"
+      },
+      {
+        "part": "MS20426AD3-5.5",
+        "diameter": "3/32",
+        "length": "Confirm drawing",
+        "configuration": "2117 aluminum; chemical treatment"
+      },
+      {
+        "part": "MS20426AD3-3",
+        "diameter": "3/32",
+        "length": "3/16",
+        "configuration": "2117 aluminum; chemical treatment"
+      },
+      {
+        "part": "MS20426AD4-4A",
+        "diameter": "1/8",
+        "length": "1/4",
+        "configuration": "2117 aluminum; clear anodized"
+      },
+      {
+        "part": "MS20426A2-3A",
+        "diameter": "1/16",
+        "length": "3/16",
+        "configuration": "1100 aluminum; clear anodized"
+      },
+      {
+        "part": "MS20426AD3-9",
+        "diameter": "3/32",
+        "length": "9/16",
+        "configuration": "2117 aluminum; chemical treatment"
+      },
+      {
+        "part": "MS20426AD2-3",
+        "diameter": "1/16",
+        "length": "3/16",
+        "configuration": "2117 aluminum; chemical treatment"
+      }
+    ],
+    "MS20470": [
+      {
+        "part": "MS20470AD4-3",
+        "diameter": "1/8",
+        "length": "3/16",
+        "configuration": "2117 aluminum; chemical treatment"
+      },
+      {
+        "part": "MS20470AD4-4A",
+        "diameter": "1/8",
+        "length": "1/4",
+        "configuration": "2117 aluminum; clear anodized"
+      },
+      {
+        "part": "MS20470AD4-5A",
+        "diameter": "1/8",
+        "length": "5/16",
+        "configuration": "2117 aluminum; clear anodized"
+      },
+      {
+        "part": "MS20470AD2-3A",
+        "diameter": "1/16",
+        "length": "3/16",
+        "configuration": "2117 aluminum; clear anodized"
+      },
+      {
+        "part": "MS20470AD3-3A",
+        "diameter": "3/32",
+        "length": "3/16",
+        "configuration": "2117 aluminum; clear anodized"
+      }
+    ]
+  },
+  "helical_insert_sizes": {
+    "MS21209": [
+      {
+        "part": "MS21209C510",
+        "thread": "Confirm drawing",
+        "length_multiple": "Confirm drawing",
+        "configuration": "Screw-locking; confirm size code"
+      },
+      {
+        "part": "MS21209C0415L",
+        "thread": "4-40 UNC",
+        "length_multiple": "1.5D",
+        "configuration": "Screw-locking; dry-film lubricated"
+      },
+      {
+        "part": "MS21209C6-10",
+        "thread": "3/8-16 UNC",
+        "length_multiple": "1D",
+        "configuration": "Screw-locking; unplated"
+      },
+      {
+        "part": "MS21209F1-15",
+        "thread": "10-32 UNF",
+        "length_multiple": "1.5D",
+        "configuration": "Screw-locking; unplated"
+      },
+      {
+        "part": "MS21209C0415",
+        "thread": "4-40 UNC",
+        "length_multiple": "1.5D",
+        "configuration": "Screw-locking; unplated"
+      },
+      {
+        "part": "MS21209F1-20P",
+        "thread": "10-32 UNF",
+        "length_multiple": "2D",
+        "configuration": "Screw-locking; cadmium plated"
+      },
+      {
+        "part": "MS21209C0615",
+        "thread": "6-32 UNC",
+        "length_multiple": "1.5D",
+        "configuration": "Screw-locking; unplated"
+      },
+      {
+        "part": "MS21209C0410",
+        "thread": "4-40 UNC",
+        "length_multiple": "1D",
+        "configuration": "Screw-locking; unplated"
+      },
+      {
+        "part": "MS21209F1-20",
+        "thread": "10-32 UNF",
+        "length_multiple": "2D",
+        "configuration": "Screw-locking; unplated"
+      }
+    ],
+    "NAS1130": [
+      {
+        "part": "NAS1130-06-15",
+        "thread": "6-32 UNC",
+        "length_multiple": "1.5D",
+        "configuration": "Free-running; unplated"
+      },
+      {
+        "part": "NAS1130-3L10P",
+        "thread": "10-32 UNF",
+        "length_multiple": "1D",
+        "configuration": "Screw-locking; cadmium plated"
+      },
+      {
+        "part": "NAS1130-06-10DSF",
+        "thread": "6-32 UNC",
+        "length_multiple": "1D",
+        "configuration": "Free-running; dry film; SF supply identifier"
+      },
+      {
+        "part": "NAS1130-08L10P",
+        "thread": "8-32 UNC",
+        "length_multiple": "1D",
+        "configuration": "Screw-locking; cadmium plated"
+      },
+      {
+        "part": "NAS1130-06L15",
+        "thread": "6-32 UNC",
+        "length_multiple": "1.5D",
+        "configuration": "Screw-locking; unplated"
+      },
+      {
+        "part": "NAS1130-04L10P",
+        "thread": "4-40 UNC",
+        "length_multiple": "1D",
+        "configuration": "Screw-locking; cadmium plated"
+      },
+      {
+        "part": "NAS1130-04L15D",
+        "thread": "4-40 UNC",
+        "length_multiple": "1.5D",
+        "configuration": "Screw-locking; dry-film lubricated"
+      },
+      {
+        "part": "NAS1130-02L15D",
+        "thread": "2-56 UNC",
+        "length_multiple": "1.5D",
+        "configuration": "Screw-locking; dry-film lubricated"
+      },
+      {
+        "part": "NAS1130-04L15",
+        "thread": "4-40 UNC",
+        "length_multiple": "1.5D",
+        "configuration": "Screw-locking; unplated"
+      },
+      {
+        "part": "NAS1130-08L20",
+        "thread": "8-32 UNC",
+        "length_multiple": "2D",
+        "configuration": "Screw-locking; unplated"
+      },
+      {
+        "part": "NAS1130-06-10",
+        "thread": "6-32 UNC",
+        "length_multiple": "1D",
+        "configuration": "Free-running; unplated"
       }
     ]
   }

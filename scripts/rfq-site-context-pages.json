@@ -171,6 +171,10 @@
     "title": "MS21083 low-height insert locknuts",
     "prefill": "MS21083 low-height insert locknuts\n"
   },
+  "Reference-MS21209.html": {
+    "title": "MS21209 screw-locking helical-coil inserts",
+    "prefill": "MS21209 screw-locking helical-coil inserts\n"
+  },
   "Reference-MS24665-MS20392.html": {
     "title": "MS24665 cotter and MS20392 headed pins",
     "prefill": "MS24665 cotter and MS20392 headed pins\n"
@@ -210,6 +214,10 @@
   "Reference-MS51957.html": {
     "title": "MS51957 pan head machine screws",
     "prefill": "MS51957 pan head machine screws\n"
+  },
+  "Reference-NAS1130.html": {
+    "title": "NAS1130 tangless helical-coil inserts",
+    "prefill": "NAS1130 tangless helical-coil inserts\n"
   },
   "Reference-NAS1291.html": {
     "title": "NAS1291 low-height self-locking hex nuts",
