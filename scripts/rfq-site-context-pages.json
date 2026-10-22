@@ -143,6 +143,14 @@
     "title": "MS16562 slotted spring pins",
     "prefill": "MS16562 slotted spring pins\n"
   },
+  "Reference-MS16995.html": {
+    "title": "MS16995 coarse-thread stainless socket screws",
+    "prefill": "MS16995 coarse-thread stainless socket screws\n"
+  },
+  "Reference-MS16996.html": {
+    "title": "MS16996 fine-thread stainless socket screws",
+    "prefill": "MS16996 fine-thread stainless socket screws\n"
+  },
   "Reference-MS20426-MS20470.html": {
     "title": "MS20426 and MS20470 solid rivets",
     "prefill": "MS20426 and MS20470 solid rivets\n"
@@ -206,6 +214,10 @@
   "Reference-NAS1291.html": {
     "title": "NAS1291 low-height self-locking hex nuts",
     "prefill": "NAS1291 low-height self-locking hex nuts\n"
+  },
+  "Reference-NAS1352.html": {
+    "title": "NAS1352 coarse-thread socket-head cap screws",
+    "prefill": "NAS1352 coarse-thread socket-head cap screws\n"
   },
   "Reference-NAS1399.html": {
     "title": "NAS1399 flush-head locked-spindle blind rivets",
