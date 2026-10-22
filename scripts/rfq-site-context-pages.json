@@ -67,9 +67,21 @@
     "title": "Prop 65 FAQ",
     "prefill": "Inquiry regarding: Prop 65 FAQ\n"
   },
+  "Reference-AN3.html": {
+    "title": "AN3 aircraft hex-head bolts",
+    "prefill": "AN3 aircraft hex-head bolts\n"
+  },
+  "Reference-AN4.html": {
+    "title": "AN4 aircraft hex-head bolts",
+    "prefill": "AN4 aircraft hex-head bolts\n"
+  },
   "Reference-AN960-NAS1149.html": {
     "title": "AN960 and NAS1149 washers",
     "prefill": "AN960 and NAS1149 washers\n"
+  },
+  "Reference-Family-aircraft-bolts.html": {
+    "title": "Mil-Spec aircraft bolts",
+    "prefill": "Mil-Spec aircraft bolts\n"
   },
   "Reference-Family-hex-cap-screws.html": {
     "title": "Mil-Spec hex cap screws",
@@ -143,6 +155,10 @@
     "title": "MS21042 self-locking nuts",
     "prefill": "MS21042 self-locking nuts\n"
   },
+  "Reference-MS21076.html": {
+    "title": "MS21076 low-height floating nutplates",
+    "prefill": "MS21076 low-height floating nutplates\n"
+  },
   "Reference-MS21083.html": {
     "title": "MS21083 low-height insert locknuts",
     "prefill": "MS21083 low-height insert locknuts\n"
@@ -162,6 +178,10 @@
   "Reference-MS35307-MS35308.html": {
     "title": "MS35307 and MS35308 hex cap screws",
     "prefill": "MS35307 and MS35308 hex cap screws\n"
+  },
+  "Reference-MS35338.html": {
+    "title": "MS35338 helical spring lock washers",
+    "prefill": "MS35338 helical spring lock washers\n"
   },
   "Reference-MS51021.html": {
     "title": "MS51021 stainless cup-point set screws",
@@ -190,6 +210,14 @@
   "Reference-NAS1399.html": {
     "title": "NAS1399 flush-head locked-spindle blind rivets",
     "prefill": "NAS1399 flush-head locked-spindle blind rivets\n"
+  },
+  "Reference-NAS1791.html": {
+    "title": "NAS1791 floating replaceable-element nutplates",
+    "prefill": "NAS1791 floating replaceable-element nutplates\n"
+  },
+  "Reference-NAS620.html": {
+    "title": "NAS620 reduced-outside-diameter flat washers",
+    "prefill": "NAS620 reduced-outside-diameter flat washers\n"
   },
   "Reference-NAS671.html": {
     "title": "NAS671 small-pattern plain hex nuts",

@@ -147,15 +147,15 @@
     },
     {
       "root": "MS35338",
-      "description": "Split lock washers",
+      "description": "Regular helical spring lock washers",
       "family": "Washers",
-      "source": "K"
+      "source": "MS35338-L"
     },
     {
       "root": "NAS620",
-      "description": "Flat washers",
+      "description": "Reduced-outside-diameter flat washers",
       "family": "Washers",
-      "source": "K"
+      "source": "NAS620-8"
     },
     {
       "root": "NAS1149",
@@ -696,6 +696,30 @@
       "description": "100-degree flush-head locked-spindle blind rivets",
       "family": "Rivets",
       "source": "CH-NAS1399"
+    },
+    {
+      "root": "AN3",
+      "description": "10-32 aircraft hex-head bolts",
+      "family": "Aircraft bolts",
+      "source": "AN3-AN20-DRAWING"
+    },
+    {
+      "root": "AN4",
+      "description": "1/4-28 aircraft hex-head bolts",
+      "family": "Aircraft bolts",
+      "source": "AN3-AN20-DRAWING"
+    },
+    {
+      "root": "NAS1791",
+      "description": "Two-lug floating variable-counterbore nutplates with replaceable nut elements",
+      "family": "Nuts",
+      "source": "NF-NAS1791"
+    },
+    {
+      "root": "MS21076",
+      "description": "Low-height two-lug floating CRES nutplates with reduced rivet spacing",
+      "family": "Nuts",
+      "source": "MS21076-H"
     }
   ],
   "cross_references": [
@@ -879,6 +903,13 @@
       "successor": "NASM20605",
       "description": "Nonstructural 100-degree flush-head blind rivets, Class 2",
       "ident": "39817",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS21076",
+      "successor": "NASM21076",
+      "description": "Low-height two-lug floating CRES nutplates, reduced rivet spacing",
+      "ident": "39900",
       "status": "Canceled"
     }
   ],
@@ -1132,6 +1163,51 @@
       "name": "DLA ASSIST MS20605 document record",
       "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39817",
       "scope": "Official indexed record: canceled August 18, 1998; successor NASM20605. Full direct record retrieval unavailable during review. Reviewed 2026-10-22."
+    },
+    "MS35338-L": {
+      "name": "MS35338 revision L government drawing, supplier mirror",
+      "url": "https://www.fastenerz.com/specs/ms35338.pdf",
+      "scope": "Primary drawing visually reviewed: selected nominal sizes and material groups. Plated carbon steel does not alone specify cadmium versus permitted zinc. Dash 96 is phosphor bronze/tin-brass, not steel. Reviewed 2026-10-22."
+    },
+    "NAS620-8": {
+      "name": "NAS620 revision 8 standard, distributor-hosted authorized scan",
+      "url": "https://www.aaestore.com.au/media/specs/NAS620.pdf",
+      "scope": "Table I and material codes visually reviewed. Selected nominal thickness, screw-size reference and material only. Light-series suffix L retained. Manufacturer-summary thickness errors not carried into data. Reviewed 2026-10-22."
+    },
+    "AN3-AN20-DRAWING": {
+      "name": "AN3 through AN20 revision 12 government drawing, AIRFASCO mirror",
+      "url": "https://www.airfasco.com/drawings/AN/AN3-AN20/AN3-AN20%20Series%20Print.pdf",
+      "scope": "Four-sheet primary drawing visually reviewed for selected AN3 and AN4 nominal length and grip. Family-specific grip values used; generic AN4 index incorrectly repeats AN3 grip values. Includes legacy drilling identifiers and no-dash convention. Reviewed 2026-10-22."
+    },
+    "AF-AN3": {
+      "name": "AIRFASCO AN3 manufacturer reference",
+      "url": "https://www.airfasco.com/products/AN/AN3-AN20/AN3.php",
+      "scope": "Supplemental manufacturer thread/drilling nomenclature cross-check for selected AN3 entries. Reviewed 2026-10-22."
+    },
+    "AF-AN4-25": {
+      "name": "AIRFASCO AN4-25A manufacturer detail",
+      "url": "https://www.airfasco.com/search/products_search.php?PartNumber=AN4-25A&s=1",
+      "scope": "Confirms 1/4-28 UNF-3A, 2.656 length and 2.188 grip. Manufacturer detailed page agrees with primary drawing; its generic AN4 index does not. Reviewed 2026-10-22."
+    },
+    "MS21076-H": {
+      "name": "MS21076 revision H government drawing, technical-library mirror",
+      "url": "https://www.abbottaerospace.com/downloads/ms21076-nut-self-locking-plate-two-lug-floating-reduced-rivet-spacing-low-height-cres-125-ksi-ftu-450f-and-800f/?ind=1461245531363&wpdmdl=3229",
+      "scope": "Two-sheet primary drawing visually reviewed. Selected L08N: .1640-32 UNJC-3B; A286, passivated and dry-film lubricated, without eyelets. L is not the H silver-plated configuration. Reviewed 2026-10-22."
+    },
+    "D-MS21076": {
+      "name": "DLA ASSIST MS21076 document record",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39900",
+      "scope": "Canceled February 7, 2000, successor NASM21076; direct record reviewed. Reviewed 2026-10-22."
+    },
+    "NF-NAS1791": {
+      "name": "NAFCO NAS1791 family engineering reference",
+      "url": "https://nafcousa.com/products/na2361-series-self-locking-nut-plate-nas1791/",
+      "scope": "Family construction only: two-lug floating variable-counterbore nutplate with replaceable element. NAFCO proprietary NA2361 size/finish decoding is not transferred to NAS stock part numbers. No exact NAS thread, coating, counterbore depth or temperature rating asserted. Reviewed 2026-10-22."
+    },
+    "AIA-NAS1791": {
+      "name": "AIA NAS1791 publisher catalog",
+      "url": "https://store.accuristech.com/standards/aia-nas1791?product_id=2604706",
+      "scope": "Confirms NAS1791 title and scope; no purchased drawing contents implied. Reviewed 2026-10-22."
     }
   },
   "shoulder_socket": [
@@ -1895,6 +1971,76 @@
         "MS24693C35",
         "MS24693C30"
       ]
+    },
+    "Reference-MS35338.html": {
+      "description": "MS35338 helical spring lock washer",
+      "parts": [
+        "MS35338-40",
+        "MS35338-135",
+        "MS35338-41",
+        "MS35338-136",
+        "MS35338-96",
+        "MS35338-134",
+        "MS35338-141",
+        "MS35338-139",
+        "MS35338-137",
+        "MS35338-42",
+        "MS35338-138",
+        "MS35338-39"
+      ]
+    },
+    "Reference-NAS620.html": {
+      "description": "NAS620 reduced-OD flat washer",
+      "parts": [
+        "NAS620C4",
+        "NAS620C6",
+        "NAS620C0",
+        "NAS620C2",
+        "NAS620C8L",
+        "NAS620C8",
+        "NAS620-0",
+        "NAS620C4L",
+        "NAS620C416",
+        "NAS620-4",
+        "NAS620C6L",
+        "NAS620C5",
+        "NAS620A8",
+        "NAS620-10",
+        "NAS620C3L",
+        "NAS620-8",
+        "NAS620C10"
+      ]
+    },
+    "Reference-AN3.html": {
+      "description": "AN3 aircraft hex-head bolt",
+      "parts": [
+        "AN3-17A",
+        "AN3-15A",
+        "AN3H6A"
+      ]
+    },
+    "Reference-AN4.html": {
+      "description": "AN4 aircraft hex-head bolt",
+      "parts": [
+        "AN4-25A",
+        "AN4-23A",
+        "AN4-27",
+        "AN4-26A",
+        "AN4-24A"
+      ]
+    },
+    "Reference-MS21076.html": {
+      "description": "MS21076 low-height floating nutplate",
+      "parts": [
+        "MS21076L08N"
+      ]
+    },
+    "Reference-NAS1791.html": {
+      "description": "NAS1791 floating replaceable-element nutplate",
+      "parts": [
+        "NAS1791C08-3",
+        "NAS1791A3-1"
+      ]
     }
   },
   "blind_rivet_sizes": {
@@ -2164,6 +2310,255 @@
         "thread": "6-32 UNC-2A",
         "length": "3/4",
         "configuration": "Passivated CRES"
+      }
+    ]
+  },
+  "stocked_washer_sizes": {
+    "MS35338": [
+      {
+        "part": "MS35338-40",
+        "size": "#4",
+        "configuration": "Plated carbon steel"
+      },
+      {
+        "part": "MS35338-135",
+        "size": "#4",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS35338-41",
+        "size": "#6",
+        "configuration": "Plated carbon steel"
+      },
+      {
+        "part": "MS35338-136",
+        "size": "#6",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS35338-96",
+        "size": "#2",
+        "configuration": "Phosphor bronze / tin-brass option"
+      },
+      {
+        "part": "MS35338-134",
+        "size": "#2",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS35338-141",
+        "size": "3/8",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS35338-139",
+        "size": "1/4",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS35338-137",
+        "size": "#8",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS35338-42",
+        "size": "#8",
+        "configuration": "Plated carbon steel"
+      },
+      {
+        "part": "MS35338-138",
+        "size": "#10",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS35338-39",
+        "size": "#2",
+        "configuration": "Plated carbon steel"
+      }
+    ],
+    "NAS620": [
+      {
+        "part": "NAS620C4",
+        "size": "#4",
+        "thickness": "0.032",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "NAS620C6",
+        "size": "#6",
+        "thickness": "0.032",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "NAS620C0",
+        "size": "#0",
+        "thickness": "0.016",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "NAS620C2",
+        "size": "#2",
+        "thickness": "0.016",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "NAS620C8L",
+        "size": "#8",
+        "thickness": "0.016",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "NAS620C8",
+        "size": "#8",
+        "thickness": "0.032",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "NAS620-0",
+        "size": "#0",
+        "thickness": "0.016",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "NAS620C4L",
+        "size": "#4",
+        "thickness": "0.016",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "NAS620C416",
+        "size": "1/4",
+        "thickness": "0.063",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "NAS620-4",
+        "size": "#4",
+        "thickness": "0.032",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "NAS620C6L",
+        "size": "#6",
+        "thickness": "0.016",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "NAS620C5",
+        "size": "#5",
+        "thickness": "0.032",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "NAS620A8",
+        "size": "#8",
+        "thickness": "0.032",
+        "configuration": "Aluminum alloy"
+      },
+      {
+        "part": "NAS620-10",
+        "size": "#10",
+        "thickness": "0.063",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "NAS620C3L",
+        "size": "#3",
+        "thickness": "0.016",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "NAS620-8",
+        "size": "#8",
+        "thickness": "0.032",
+        "configuration": "Cadmium-plated steel"
+      },
+      {
+        "part": "NAS620C10",
+        "size": "#10",
+        "thickness": "0.063",
+        "configuration": "Passivated CRES"
+      }
+    ]
+  },
+  "aircraft_bolt_sizes": {
+    "AN3": [
+      {
+        "part": "AN3-17A",
+        "thread": "10-32 UNF-3A",
+        "length": "1.906",
+        "grip": "1.500",
+        "configuration": "Undrilled head and shank"
+      },
+      {
+        "part": "AN3-15A",
+        "thread": "10-32 UNF-3A",
+        "length": "1.656",
+        "grip": "1.250",
+        "configuration": "Undrilled head and shank"
+      },
+      {
+        "part": "AN3H6A",
+        "thread": "10-32 UNF-3A",
+        "length": "0.781",
+        "grip": "0.375",
+        "configuration": "Drilled head; undrilled shank"
+      }
+    ],
+    "AN4": [
+      {
+        "part": "AN4-25A",
+        "thread": "1/4-28 UNF-3A",
+        "length": "2.656",
+        "grip": "2.188",
+        "configuration": "Undrilled head and shank"
+      },
+      {
+        "part": "AN4-23A",
+        "thread": "1/4-28 UNF-3A",
+        "length": "2.406",
+        "grip": "1.938",
+        "configuration": "Undrilled head and shank"
+      },
+      {
+        "part": "AN4-27",
+        "thread": "1/4-28 UNF-3A",
+        "length": "2.906",
+        "grip": "2.438",
+        "configuration": "Undrilled head; drilled shank"
+      },
+      {
+        "part": "AN4-26A",
+        "thread": "1/4-28 UNF-3A",
+        "length": "2.781",
+        "grip": "2.313",
+        "configuration": "Undrilled head and shank"
+      },
+      {
+        "part": "AN4-24A",
+        "thread": "1/4-28 UNF-3A",
+        "length": "2.531",
+        "grip": "2.063",
+        "configuration": "Undrilled head and shank"
+      }
+    ]
+  },
+  "stocked_nutplate_references": {
+    "MS21076": [
+      {
+        "part": "MS21076L08N",
+        "thread": "8-32 UNJC-3B",
+        "configuration": "A286; passivated, dry-film lubricated; without eyelets"
+      }
+    ],
+    "NAS1791": [
+      {
+        "part": "NAS1791C08-3",
+        "configuration": "Two-lug floating; replaceable nut element"
+      },
+      {
+        "part": "NAS1791A3-1",
+        "configuration": "Two-lug floating; replaceable nut element"
       }
     ]
   }
