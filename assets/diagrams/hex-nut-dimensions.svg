@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" role="img" aria-labelledby="title desc">
+<title id="title">Hex nut identification dimensions</title>
+<desc id="desc">Schematic face and side views of a hex nut. W is width across opposite flats, H is axial nut height and d identifies the threaded opening. Locking construction is not shown. Not to scale.</desc>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto-start-reverse"><path d="M7 3.5 0 0 0 7Z" fill="#2a2d6b"/></marker></defs>
+<style>.part{fill:#edeef6;stroke:#2a2d6b;stroke-width:3;stroke-linejoin:round}.detail{fill:none;stroke:#2a2d6b;stroke-width:2}.axis{stroke:#8d8b9b;stroke-width:1.2;stroke-dasharray:12 5 2 5}.ext{fill:none;stroke:#8d8b9b;stroke-width:1.2}.dim{stroke:#2a2d6b;stroke-width:1.6;marker-start:url(#arrow);marker-end:url(#arrow)}.label{fill:#2a2d6b;font:26px Georgia,serif;font-style:italic;text-anchor:middle}.note{fill:#2a2d6b;font:17px sans-serif;text-anchor:middle}</style>
+<text class="note" x="180" y="40">Face view</text><text class="note" x="500" y="40">Side view</text>
+<path class="part" d="M100 150L140 80H220L260 150L220 220H140Z"/>
+<circle cx="180" cy="150" r="32" fill="#faf8f3" stroke="#2a2d6b" stroke-width="2"/>
+<path class="axis" d="M80 150H280M180 65V235"/>
+<path class="ext" d="M225 80H310M225 220H310"/><path class="dim" d="M295 84V216"/>
+<text class="label" x="324" y="158">W</text>
+<path class="ext" d="M198 130L235 105H265"/><text class="label" x="278" y="112">d</text>
+<path class="part" d="M440 85H560V215H440Z"/>
+<path class="detail" d="M452 85V215M548 85V215M440 117H560M440 183H560"/>
+<path class="axis" d="M420 150H580"/><path class="ext" d="M440 220V263M560 220V263"/>
+<path class="dim" d="M444 248H556"/><text class="label" x="500" y="282">H</text>
+</svg>

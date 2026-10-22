@@ -19,10 +19,12 @@ for path in sorted(W.glob('*.html')):
  s=re.sub(r'href="Quote\.html\?context=[^"]*"', 'href="Quote.html?context='+path.name+'"', s)
  s=s.replace('href="Quote.html"','href="Quote.html?context='+path.name+'"')
  path.write_text(s)
+part_guides=json.loads((W/'scripts/mil-spec-data.json').read_text()).get('stocked_part_guides',{})
 script='''/* Site-wide RFQ context. No submission interception, network request or browser storage. */
 (function(){
  'use strict';
  const pages = '''+json.dumps(pages,ensure_ascii=False)+''';
+ const partGuides = '''+json.dumps(part_guides,ensure_ascii=False)+''';
  const form=document.querySelector('form.rfq-form');
  const script=document.currentScript;
  if(!form || !script || !script.src)return;
@@ -37,8 +39,9 @@ script='''/* Site-wide RFQ context. No submission interception, network request 
  const details=document.querySelector('#rfq-details');
  if(details && !details.value.trim()){
   const requestedPart=params.get('part');
-  const selectedMS51021=key==='Reference-MS51021.html' && /^MS51021-(9|10|11|21)$/.test(requestedPart || '');
-  details.value=selectedMS51021 ? requestedPart+' - MS51021 stainless cup-point set screw\\n' : source.prefill;
+  const guide=Object.prototype.hasOwnProperty.call(partGuides,key) ? partGuides[key] : null;
+  const selectedPart=guide && guide.parts.includes(requestedPart);
+  details.value=selectedPart ? requestedPart+' - '+guide.description+'\\n' : source.prefill;
  }
  for(const [name,value] of [['rfq_source_page',source.title],['rfq_source_url',url.href]]){
   const input=document.createElement('input');input.type='hidden';input.name=name;input.value=value;form.appendChild(input);

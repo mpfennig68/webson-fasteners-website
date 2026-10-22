@@ -437,7 +437,7 @@
       "root": "MS21083",
       "description": "Low-height nonmetallic-insert locknuts",
       "family": "Nuts",
-      "source": "G"
+      "source": "AF-MS21083"
     },
     {
       "root": "MS17828",
@@ -678,6 +678,18 @@
       "description": "Legacy universal-head aluminum rivets",
       "family": "Rivets",
       "source": "D-AN470"
+    },
+    {
+      "root": "NAS671",
+      "description": "Plain small-pattern nonstructural hex nuts",
+      "family": "Nuts",
+      "source": "NAS671-R9"
+    },
+    {
+      "root": "NAS1291",
+      "description": "Low-height lightweight self-locking hex nuts",
+      "family": "Nuts",
+      "source": "NAS1291-R13"
     }
   ],
   "cross_references": [
@@ -847,6 +859,13 @@
       "successor": "NASM51021",
       "description": "Stainless cup-point hex-socket set screws, UNC-3A",
       "ident": "43139",
+      "status": "Canceled"
+    },
+    {
+      "root": "MS21083",
+      "successor": "NASM21083",
+      "description": "Low-height nonmetallic-insert self-locking hex nuts",
+      "ident": "39907",
       "status": "Canceled"
     }
   ],
@@ -1035,6 +1054,26 @@
       "name": "DLA ASSIST record: NASM51021",
       "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=207148",
       "scope": "Active adopted standard; adoption 1999-09-30 and reaffirmation 2020-10-01. Reviewed 2026-10-22; full current standard not independently obtained."
+    },
+    "NAS671-R9": {
+      "name": "NAS671 revision 9, January 31, 2020, primary standard excerpt",
+      "url": "https://img.antpedia.com/standard/files/pdfs_ora/20251230/1/AIA%20NAS%20NAS671%202020.pdf",
+      "scope": "Sheet 1, Table I and material/finish/code definitions. Downloaded and reviewed 2026-10-22. Only selected nominal thread designations and material/finish identifications summarized; not a full current acceptance drawing."
+    },
+    "NAS1291-R13": {
+      "name": "NAS1291 revision 13, February 28, 2010, primary standard mirror",
+      "url": "https://www.aaestore.com.au/media/specs/NAS1291.pdf",
+      "scope": "Selected C3M and C4M thread/material/lubricant identification; historical revision, not asserted latest. Reviewed 2026-10-22. No universal suffix rules or interchangeability asserted."
+    },
+    "AF-MS21083": {
+      "name": "AIRFASCO manufacturer MS21083 product index",
+      "url": "https://airfasco.com/products/MS/MS21083.php",
+      "scope": "Selected N3, N12, N16 and C08 thread designations; cadmium-plated steel versus passivated CRES; nonmetallic insert and low-height family. Identification only. Reviewed 2026-10-22."
+    },
+    "D-MS21083": {
+      "name": "DLA ASSIST record: MS21083",
+      "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=39907",
+      "scope": "Indexed official record identifies cancellation July 19, 2000 and successor NASM21083; direct page retrieval unavailable, official search extract reviewed 2026-10-22."
     }
   },
   "shoulder_socket": [
@@ -1636,5 +1675,105 @@
       "length": "1/8",
       "length_decimal": "0.125"
     }
-  ]
+  ],
+  "nut_sizes": {
+    "NAS671": [
+      {
+        "part": "NAS671-4",
+        "thread": "4-40 UNJC-3B",
+        "material": "Cadmium-plated steel"
+      },
+      {
+        "part": "NAS671C4",
+        "thread": "4-40 UNJC-3B",
+        "material": "Passivated CRES"
+      },
+      {
+        "part": "NAS671-6",
+        "thread": "6-32 UNJC-3B",
+        "material": "Cadmium-plated steel"
+      },
+      {
+        "part": "NAS671C10",
+        "thread": "10-32 UNJF-3B",
+        "material": "Passivated CRES"
+      },
+      {
+        "part": "NAS671C2",
+        "thread": "2-56 UNJC-3B",
+        "material": "Passivated CRES"
+      }
+    ],
+    "NAS1291": [
+      {
+        "part": "NAS1291C4M",
+        "thread": "1/4-28 UNJF-3B",
+        "material": "A286 / dry-film lubricant"
+      },
+      {
+        "part": "NAS1291C3M",
+        "thread": "10-32 UNJF-3B",
+        "material": "A286 / dry-film lubricant"
+      }
+    ],
+    "MS21083": [
+      {
+        "part": "MS21083N16",
+        "thread": "1-12 UNJF-3B",
+        "material": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS21083N3",
+        "thread": "10-32 UNJF-3B",
+        "material": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS21083N12",
+        "thread": "3/4-16 UNJF-3B",
+        "material": "Cadmium-plated steel"
+      },
+      {
+        "part": "MS21083C08",
+        "thread": "8-32 UNJC-3B",
+        "material": "Passivated CRES"
+      }
+    ]
+  },
+  "stocked_part_guides": {
+    "Reference-MS51021.html": {
+      "description": "MS51021 stainless cup-point set screw",
+      "parts": [
+        "MS51021-9",
+        "MS51021-10",
+        "MS51021-11",
+        "MS51021-21"
+      ]
+    },
+    "Reference-NAS671.html": {
+      "description": "NAS671 plain hex nut",
+      "parts": [
+        "NAS671-4",
+        "NAS671C4",
+        "NAS671-6",
+        "NAS671C10",
+        "NAS671C2"
+      ]
+    },
+    "Reference-NAS1291.html": {
+      "description": "NAS1291 all-metal locknut",
+      "parts": [
+        "NAS1291C4M",
+        "NAS1291C3M"
+      ]
+    },
+    "Reference-MS21083.html": {
+      "description": "MS21083 nonmetallic-insert locknut",
+      "parts": [
+        "MS21083N16",
+        "MS21083N3",
+        "MS21083N12",
+        "MS21083C08"
+      ]
+    }
+  }
 }

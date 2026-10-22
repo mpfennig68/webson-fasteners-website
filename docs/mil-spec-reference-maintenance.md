@@ -32,3 +32,7 @@ October 18 site-wide cleanup: added the Mil-Spec Reference footer link to 28 rem
 ## October 22: MS51021 extension
 
 The generator now includes Reference-MS51021.html, a four-row selected plain set-screw table in set_screw_sizes, and assets/diagrams/cup-point-set-screw-dimensions.svg. The directory, set-screw family, technical-table directory, document cross-reference, sitemap and both RFQ context registers include the new guide. Only the four selected plain MS51021 designations are accepted by the part-specific RFQ prefill; an unsupported or out-of-context part parameter falls back to the normal page context. Keep the same validation in scripts/build-site-rfq-context.py and its generated asset. Research scope is recorded in mil-spec-research-notes.md.
+
+## October 22: stocked nut reference expansion
+
+NAS671 and NAS1291 are now directory series; MS21083 now has its own guide. Data-driven selected tables include stock status with a prior-sale disclaimer. The nut_sizes register owns the 11 selected nut rows; stocked_part_guides owns all 15 supported part-specific RFQs. The site RFQ generator reads that allowlist so rebuilding does not lose part prefill. NAS671/NAS1291/MS21083 use the generic hex-nut measurement schematic, which omits locking geometry. Update row data, allowlists and source notes together when extending the selection.
