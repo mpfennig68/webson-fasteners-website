@@ -52,8 +52,8 @@
     "prefill": "Inquiry regarding: Electronic Hardware\n"
   },
   "Products-Mil-Spec-Hardware.html": {
-    "title": "Mil-Spec Fasteners",
-    "prefill": "Inquiry regarding: Mil-Spec Fasteners\n"
+    "title": "Mil-Spec Fasteners Supplier",
+    "prefill": "Inquiry regarding: Mil-Spec Fasteners Supplier\n"
   },
   "Products-Southco.html": {
     "title": "Southco Latches, Hinges, Pulls & Fasteners",
@@ -290,6 +290,10 @@
   "Resources-Mil-Spec-Cross-Reference.html": {
     "title": "Mil-Spec specification cross-reference",
     "prefill": "Inquiry regarding: Mil-Spec specification cross-reference\n"
+  },
+  "Resources-Mil-Spec-Guide.html": {
+    "title": "Mil-Spec fastener buyer’s guide",
+    "prefill": "Inquiry regarding: Mil-Spec fastener buyer’s guide\n"
   },
   "Resources-Mil-Spec-Materials-Finishes.html": {
     "title": "Mil-Spec materials and finishes",

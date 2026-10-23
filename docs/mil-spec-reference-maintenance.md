@@ -36,3 +36,6 @@ The generator now includes Reference-MS51021.html, a four-row selected plain set
 ## October 22: stocked nut reference expansion
 
 NAS671 and NAS1291 are now directory series; MS21083 now has its own guide. Data-driven selected tables include stock status with a prior-sale disclaimer. The nut_sizes register owns the 11 selected nut rows; stocked_part_guides owns all 15 supported part-specific RFQs. The site RFQ generator reads that allowlist so rebuilding does not lose part prefill. NAS671/NAS1291/MS21083 use the generic hex-nut measurement schematic, which omits locking geometry. Update row data, allowlists and source notes together when extending the selection.
+
+
+The buyer’s guide is authored in scripts/mil-spec-buyers-guide.py and invoked by the main generator. Edit it there, then run python scripts/build-mil-spec-reference.py. The commercial supplier page is maintained directly with assets/mil-spec-landing.css. Keep FAQ JSON-LD identical to visible supplier answers. Reference pages inherit the supplier nav/footer. Recheck certificate validity and public RFQ file instructions before updating certification or upload claims.

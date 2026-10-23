@@ -765,3 +765,14 @@ Supersedes the unresolved identification notes above.
 - **FINAL-MS35335-G — MS35335 revision G government drawing, supplier mirror**: https://www.fastenerz.com/specs/ms35335.pdf
   - February 2, 2004, three sheets reviewed. -57 #4, ID .115–.123 OD .245–.260 thickness .015–.019; -59 #8, ID .168–.176 OD .365–.381 thickness .018–.023. Both are passivated corrosion-resistant steel UNS S41000, not cadmium-plated carbon steel. Public table uses limits, not nominal midpoints.
 - Scope: 29 exact stocked ordering identifiers across ten roots and seven guides (six new, MS21042 expanded). Groups: NAS662 7; NAS8100/NAS8101 5; MS21044/MS21042 6; MS21075/MS21077 5; MS27183/MS35333/MS35335 6. All original identifiers preserved. Custom BMFQ item omitted. No seal families added. No quantities, customer details, lot information, prices or sales metrics published. No unresolved placeholders.
+
+
+## Buyer guide and supplier-page refresh — 2026-10-22
+
+The supplier URL remains Products-Mil-Spec-Hardware.html. Resources-Mil-Spec-Guide.html covers broad buyer education; Purchasing FAQ remains the quick-answer resource. Reference navigation connects them without creating a second broad commercial landing page.
+
+Primary context: AIA Standards public FAQ, https://www.aia-aerospace.org/standards/ (reviewed 2026-10-22): NAS development, converted NASM documents, retention of MS part identification, qualification depending on the applicable standard. No licensed standard text reproduced. Worked examples come from the existing verified MS51957, MS51959 and NAS662 data; stocked allowlists remain unchanged.
+
+Webson certificate inspected visually: BSI FS 832143, Webson Fasteners LLC, AS9120B and ISO 9001:2015, scope “Distributor of fastening products and installation tooling.” Issued 2025-12-02; expiry 2028-12-01. Supplier registration is distinguished from product documentation. Company history/contact details retain existing Webson site facts.
+
+Corrected RFQ claims: Quote.html has no upload field. Buyers paste the part list into the RFQ and email supporting files to info@websonfasteners.com with company and part identification. No submission-provider or form behavior changes. No ranking, delivery-time, blanket conformity or documentation-availability promises added.
