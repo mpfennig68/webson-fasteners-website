@@ -723,3 +723,12 @@ Supersedes the unresolved identification notes above.
 - **NAS1676-ADOPT — NAS1676 government adoption notice, supplier-hosted copy**: https://www.fastenerz.com/specs/nas1676.pdf
   - Primary government notice identifies lock-spring, helical, hi-collar construction. Adoption dated September 29, 1995. This is an adoption notice, not the full NAS standard.
 - Original stock workbook supplies exact ordering identifiers and stocked status only. Public tables contain no quantities, prices, revenue, customers or locations. MS51959: 10 rows; MS15795: 9 rows; NAS1676: 3 rows. No unresolved placeholders published.
+
+
+## Tubular-rivet and external E-ring references — October 22, 2026
+
+- **MS16535-J — MS16535 revision J government drawing, archival copy**: https://www.ibiblio.org/apollo/Documents/assist.dla.mil/MS16535J.pdf
+  - May 26, 1992, all three sheets visually reviewed. Selected -3: carbon steel, body .058–.061, nominal length 5/32; -66N: nickel-plated brass, body .085–.089, length 3/16; -77: aluminum, body .085–.089, length 5/32. Table I material columns and length rows checked. N nickel finish preserved. Aluminum finish not asserted because the drawing permits options. No current-issue or stock-lot certification claim. Reviewed 2026-10-22.
+- **MS16633-D-A1 — MS16633 revision D amendment 1 government drawing, archival copy**: https://www.ibiblio.org/apollo/Documents/assist.dla.mil/MS16633D.pdf
+  - November 13, 2014, Table I, requirements and Table III visually reviewed. -1014: .140 shaft reference, .025 basic T, cadmium-plated carbon spring steel. -4006/.4009/-4018: .062/.094/.188 shaft references, .010/.015/.025 basic T, passivated CRES. T is an unplated basic dimension; drawing note adds .002 to the maximum thickness tolerance for plated and CRES rings. No load capacity or current-revision claim. Manufacturer web pages contain generic carbon-steel load-calculation notes even on CRES numbers; government part table controls the material description. Reviewed 2026-10-22.
+- Seven selected ordering identifiers match the original stock workbook exactly. Only identifiers and stocked status are taken from the inventory source; no quantities, prices, customer or transaction data published. No unresolved placeholder cells.

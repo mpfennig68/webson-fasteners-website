@@ -567,9 +567,9 @@
     },
     {
       "root": "MS16633",
-      "description": "Retaining ring family",
+      "description": "External E-type retaining rings, reduced section",
       "family": "Retaining rings",
-      "source": "R"
+      "source": "MS16633-D-A1"
     },
     {
       "root": "MS16634",
@@ -738,6 +738,12 @@
       "description": "Hi-collar helical spring lock washers",
       "family": "Washers",
       "source": "NAS1676-ADOPT"
+    },
+    {
+      "root": "MS16535",
+      "description": "Tubular rivets, oval head",
+      "family": "Rivets",
+      "source": "MS16535-J"
     }
   ],
   "cross_references": [
@@ -1363,6 +1369,16 @@
       "name": "NAS1676 government adoption notice, supplier-hosted copy",
       "url": "https://www.fastenerz.com/specs/nas1676.pdf",
       "scope": "Primary government notice identifies lock-spring, helical, hi-collar construction. Adoption dated September 29, 1995. This is an adoption notice, not the full NAS standard. Reviewed 2026-10-22."
+    },
+    "MS16535-J": {
+      "name": "MS16535 revision J government drawing, archival copy",
+      "url": "https://www.ibiblio.org/apollo/Documents/assist.dla.mil/MS16535J.pdf",
+      "scope": "May 26, 1992, all three sheets visually reviewed. Selected -3: carbon steel, body .058–.061, nominal length 5/32; -66N: nickel-plated brass, body .085–.089, length 3/16; -77: aluminum, body .085–.089, length 5/32. Table I material columns and length rows checked. N nickel finish preserved. Aluminum finish not asserted because the drawing permits options. No current-issue or stock-lot certification claim. Reviewed 2026-10-22."
+    },
+    "MS16633-D-A1": {
+      "name": "MS16633 revision D amendment 1 government drawing, archival copy",
+      "url": "https://www.ibiblio.org/apollo/Documents/assist.dla.mil/MS16633D.pdf",
+      "scope": "November 13, 2014, Table I, requirements and Table III visually reviewed. -1014: .140 shaft reference, .025 basic T, cadmium-plated carbon spring steel. -4006/.4009/-4018: .062/.094/.188 shaft references, .010/.015/.025 basic T, passivated CRES. T is an unplated basic dimension; drawing note adds .002 to the maximum thickness tolerance for plated and CRES rings. No load capacity or current-revision claim. Manufacturer web pages contain generic carbon-steel load-calculation notes even on CRES numbers; government part table controls the material description. Reviewed 2026-10-22."
     }
   },
   "shoulder_socket": [
@@ -2422,6 +2438,23 @@
         "NAS1676C4",
         "NAS1676C2",
         "NAS1676C0"
+      ]
+    },
+    "Reference-MS16535.html": {
+      "description": "MS16535 oval-head tubular rivet",
+      "parts": [
+        "MS16535-77",
+        "MS16535-66N",
+        "MS16535-3"
+      ]
+    },
+    "Reference-MS16633.html": {
+      "description": "MS16633 external E retaining ring",
+      "parts": [
+        "MS16633-1014",
+        "MS16633-4006",
+        "MS16633-4009",
+        "MS16633-4018"
       ]
     }
   },
@@ -3968,6 +4001,56 @@
         "thread": "6-32 UNC",
         "length_multiple": "1D",
         "configuration": "Free-running; unplated"
+      }
+    ]
+  },
+  "tubular_rivet_sizes": {
+    "MS16535": [
+      {
+        "part": "MS16535-77",
+        "body_diameter_limits": "0.085–0.089",
+        "length": "5/32",
+        "configuration": "Aluminum; oval head"
+      },
+      {
+        "part": "MS16535-66N",
+        "body_diameter_limits": "0.085–0.089",
+        "length": "3/16",
+        "configuration": "Nickel-plated brass; oval head"
+      },
+      {
+        "part": "MS16535-3",
+        "body_diameter_limits": "0.058–0.061",
+        "length": "5/32",
+        "configuration": "Cadmium-plated carbon steel; oval head"
+      }
+    ]
+  },
+  "retaining_ring_sizes": {
+    "MS16633": [
+      {
+        "part": "MS16633-1014",
+        "shaft_diameter": "0.140",
+        "basic_thickness": "0.025",
+        "configuration": "Cadmium-plated carbon spring steel"
+      },
+      {
+        "part": "MS16633-4006",
+        "shaft_diameter": "0.062",
+        "basic_thickness": "0.010",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16633-4009",
+        "shaft_diameter": "0.094",
+        "basic_thickness": "0.015",
+        "configuration": "Passivated CRES"
+      },
+      {
+        "part": "MS16633-4018",
+        "shaft_diameter": "0.188",
+        "basic_thickness": "0.025",
+        "configuration": "Passivated CRES"
       }
     ]
   }
