@@ -30,6 +30,16 @@ for(const [key,guide] of Object.entries(stockedGuides)){
  }
  assert.equal(run('?reference='+key+'&part=__proto__').details.value,pages[key].prefill);
 }
+const referenceGuides=JSON.parse(fs.readFileSync(path.join(root,'scripts/mil-spec-lookup-data.json'))).reference_part_guides;
+for(const [key,guide] of Object.entries(referenceGuides)){
+ for(const part of guide.parts){
+  const query='?reference='+encodeURIComponent(key)+'&part='+encodeURIComponent(part);
+  assert.equal(run(query).details.value,part+' - '+guide.description+'\n');
+  assert.equal(run(query,'Customer drawing requirements').details.value,'Customer drawing requirements');
+ }
+ assert.equal(run('?reference='+key+'&part='+encodeURIComponent('<script>')).details.value,pages[key].prefill);
+}
+assert.equal(run('?reference=Reference-Keylocking-Insert-Comparison.html&part=MS35307-303').details.value,pages['Reference-Keylocking-Insert-Comparison.html'].prefill);
 assert.equal(run('?reference=Reference-NAS671.html&part=NAS1291C4M').details.value,pages['Reference-NAS671.html'].prefill);
 for(const key of ['__proto__','constructor','../secret.html','https://evil.test','Quote.html','missing.html']){const r=run('?context='+encodeURIComponent(key));assert.equal(r.details.value,'');assert.equal(r.fields.length,0);}
 assert.equal(run('').details.value,'');assert.equal(run('').fields.length,0);assert.equal(run('?context=index.html','',true,'https://www.websonfasteners.com','https://evil.test').fields.length,0);

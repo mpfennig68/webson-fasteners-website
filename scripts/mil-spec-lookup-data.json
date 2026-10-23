@@ -1,0 +1,6356 @@
+{
+  "reviewed": "2026-10-23",
+  "hex_cap_screws": {
+    "MS35307": [
+      {
+        "part": "MS35307-301",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "3/8",
+        "decimal_length": "0.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-302",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "7/16",
+        "decimal_length": "0.438",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-303",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "1/2",
+        "decimal_length": "0.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-304",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "9/16",
+        "decimal_length": "0.562",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-305",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-306",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-307",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-308",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-309",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-310",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-311",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-312",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-313",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-314",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-315",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-316",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-317",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-318",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-319",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-320",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-321",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-322",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-323",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-324",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-325",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-326",
+        "diameter": "1/4",
+        "thread": "1/4-20 UNC-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-327",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "3/8",
+        "decimal_length": "0.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-328",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "7/16",
+        "decimal_length": "0.438",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-329",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "1/2",
+        "decimal_length": "0.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-330",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "9/16",
+        "decimal_length": "0.562",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-331",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-332",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-333",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-334",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-335",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-336",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-337",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-338",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-339",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-340",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-341",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-342",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-343",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-344",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-345",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-346",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-347",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-348",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-349",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-350",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-351",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-352",
+        "diameter": "5/16",
+        "thread": "5/16-18 UNC-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-353",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "3/8",
+        "decimal_length": "0.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-354",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "7/16",
+        "decimal_length": "0.438",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-355",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "1/2",
+        "decimal_length": "0.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-356",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "9/16",
+        "decimal_length": "0.562",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-357",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-358",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-359",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-360",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-361",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-362",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-363",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-364",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-365",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-366",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-367",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-368",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-369",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-370",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-371",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-372",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-373",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-374",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-375",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-376",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-377",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-378",
+        "diameter": "3/8",
+        "thread": "3/8-16 UNC-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-379",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "7/16",
+        "decimal_length": "0.438",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-380",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "1/2",
+        "decimal_length": "0.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-381",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "9/16",
+        "decimal_length": "0.562",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-382",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-383",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-384",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-385",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-386",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-387",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-388",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-389",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-390",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-391",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-392",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-393",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-394",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-395",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-396",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-397",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-398",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-399",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-400",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-401",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-402",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-403",
+        "diameter": "7/16",
+        "thread": "7/16-14 UNC-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-404",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "1/2",
+        "decimal_length": "0.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-405",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "9/16",
+        "decimal_length": "0.562",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-406",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-407",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-408",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-409",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-410",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-411",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-412",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-413",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-414",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-415",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-416",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-417",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-418",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-419",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-420",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-421",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-422",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-423",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-424",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-425",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-426",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-427",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-428",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-429",
+        "diameter": "1/2",
+        "thread": "1/2-13 UNC-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-430",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "9/16",
+        "decimal_length": "0.562",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-431",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-432",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-433",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-434",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-435",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-436",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-437",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-438",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-439",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-440",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-441",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-442",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-443",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-444",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-445",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-446",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-447",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-448",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-449",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-450",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-451",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-452",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-453",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-454",
+        "diameter": "9/16",
+        "thread": "9/16-12 UNC-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-455",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-456",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-457",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-458",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-459",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-460",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-461",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-462",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-463",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-464",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-465",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-466",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-467",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-468",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-469",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-470",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-471",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-472",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-473",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-474",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-475",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-476",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-477",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-478",
+        "diameter": "5/8",
+        "thread": "5/8-11 UNC-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-479",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-480",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-481",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-482",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-483",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-484",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-485",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-486",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-487",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-488",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-489",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-490",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-491",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-492",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-493",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-494",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-495",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-496",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-497",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-498",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-499",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-500",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-501",
+        "diameter": "3/4",
+        "thread": "3/4-10 UNC-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-502",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-503",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-504",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-505",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-506",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-507",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-508",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-509",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-510",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-511",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-512",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-513",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-514",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-515",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-516",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-517",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-518",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-519",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-520",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-521",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-522",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-523",
+        "diameter": "7/8",
+        "thread": "7/8-9 UNC-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-524",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-525",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-526",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-527",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-528",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-529",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-530",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-531",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-532",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-533",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-534",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-535",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-536",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-537",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-538",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-539",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-540",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-541",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-542",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-543",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-544",
+        "diameter": "1",
+        "thread": "1-8 UNC-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-545",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-546",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-547",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-548",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-549",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-550",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-551",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-552",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-553",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-554",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-555",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-556",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-557",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-558",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-559",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-560",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-561",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-562",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-563",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-564",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-7 UNC-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-565",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-566",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-567",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-568",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-569",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-570",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-571",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-572",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-573",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-574",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-575",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-576",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-577",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-578",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-579",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-580",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-581",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-582",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35307-583",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-7 UNC-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      }
+    ],
+    "MS35308": [
+      {
+        "part": "MS35308-301",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "3/8",
+        "decimal_length": "0.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-302",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "7/16",
+        "decimal_length": "0.438",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-303",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "1/2",
+        "decimal_length": "0.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-304",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "9/16",
+        "decimal_length": "0.562",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-305",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-306",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-307",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-308",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-309",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-310",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-311",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-312",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-313",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-314",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-315",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-316",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-317",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-318",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-319",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-320",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-321",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-322",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-323",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-324",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-325",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-326",
+        "diameter": "1/4",
+        "thread": "1/4-28 UNF-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-327",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "3/8",
+        "decimal_length": "0.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-328",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "7/16",
+        "decimal_length": "0.438",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-329",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "1/2",
+        "decimal_length": "0.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-330",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "9/16",
+        "decimal_length": "0.562",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-331",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-332",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-333",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-334",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-335",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-336",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-337",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-338",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-339",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-340",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-341",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-342",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-343",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-344",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-345",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-346",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-347",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-348",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-349",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-350",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-351",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-352",
+        "diameter": "5/16",
+        "thread": "5/16-24 UNF-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-353",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "3/8",
+        "decimal_length": "0.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-354",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "7/16",
+        "decimal_length": "0.438",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-355",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "1/2",
+        "decimal_length": "0.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-356",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "9/16",
+        "decimal_length": "0.562",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-357",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-358",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-359",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-360",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-361",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-362",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-363",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-364",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-365",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-366",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-367",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-368",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-369",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-370",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-371",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-372",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-373",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-374",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-375",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-376",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-377",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-378",
+        "diameter": "3/8",
+        "thread": "3/8-24 UNF-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-379",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "7/16",
+        "decimal_length": "0.438",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-380",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "1/2",
+        "decimal_length": "0.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-381",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "9/16",
+        "decimal_length": "0.562",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-382",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-383",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-384",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-385",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-386",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-387",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-388",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-389",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-390",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-391",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-392",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-393",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-394",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-395",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-396",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-397",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-398",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-399",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-400",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-401",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-402",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-403",
+        "diameter": "7/16",
+        "thread": "7/16-20 UNF-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-404",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "1/2",
+        "decimal_length": "0.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-405",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "9/16",
+        "decimal_length": "0.562",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-406",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-407",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-408",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-409",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-410",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-411",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-412",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-413",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-414",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-415",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-416",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-417",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-418",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-419",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-420",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-421",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-422",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-423",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-424",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-425",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-426",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-427",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-428",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-429",
+        "diameter": "1/2",
+        "thread": "1/2-20 UNF-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-430",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "9/16",
+        "decimal_length": "0.562",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-431",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-432",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-433",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-434",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-435",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-436",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-437",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-438",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-439",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-440",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-441",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-442",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-443",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-444",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-445",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-446",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-447",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-448",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-449",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-450",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-451",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-452",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-453",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-454",
+        "diameter": "9/16",
+        "thread": "9/16-18 UNF-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-455",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "5/8",
+        "decimal_length": "0.625",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-456",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-457",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-458",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-459",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-460",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-461",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-462",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-463",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-464",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-465",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-466",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-467",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-468",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-469",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-470",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-471",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-472",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-473",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-474",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-475",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-476",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-477",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-478",
+        "diameter": "5/8",
+        "thread": "5/8-18 UNF-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-479",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "3/4",
+        "decimal_length": "0.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-480",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-481",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-482",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-483",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-484",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-485",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-486",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-487",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-488",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-489",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-490",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-491",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-492",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-493",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-494",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-495",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-496",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-497",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-498",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-499",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-500",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-501",
+        "diameter": "3/4",
+        "thread": "3/4-16 UNF-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-502",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "7/8",
+        "decimal_length": "0.875",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-503",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-504",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-505",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-506",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-507",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-508",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-509",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-510",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-511",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-512",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-513",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-514",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-515",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-516",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-517",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-518",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-519",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-520",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-521",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-522",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-523",
+        "diameter": "7/8",
+        "thread": "7/8-14 UNF-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-524",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "1",
+        "decimal_length": "1.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-525",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-526",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-527",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-528",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-529",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-530",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-531",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-532",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-533",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-534",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-535",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-536",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-537",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-538",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-539",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-540",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-541",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-542",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-543",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-544",
+        "diameter": "1",
+        "thread": "1-12 UNF-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-545",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "1-1/8",
+        "decimal_length": "1.125",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-546",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-547",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-548",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-549",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-550",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-551",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-552",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-553",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-554",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-555",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-556",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-557",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-558",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-559",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-560",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-561",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-562",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-563",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-564",
+        "diameter": "1-1/8",
+        "thread": "1-1/8-12 UNF-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-565",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "1-1/4",
+        "decimal_length": "1.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-566",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "1-3/8",
+        "decimal_length": "1.375",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-567",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "1-1/2",
+        "decimal_length": "1.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-568",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "1-3/4",
+        "decimal_length": "1.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-569",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "2",
+        "decimal_length": "2.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-570",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "2-1/4",
+        "decimal_length": "2.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-571",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "2-1/2",
+        "decimal_length": "2.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-572",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "2-3/4",
+        "decimal_length": "2.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-573",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "3",
+        "decimal_length": "3.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-574",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "3-1/4",
+        "decimal_length": "3.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-575",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "3-1/2",
+        "decimal_length": "3.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-576",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "3-3/4",
+        "decimal_length": "3.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-577",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "4",
+        "decimal_length": "4.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-578",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "4-1/4",
+        "decimal_length": "4.250",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-579",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "4-1/2",
+        "decimal_length": "4.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-580",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "4-3/4",
+        "decimal_length": "4.750",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-581",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "5",
+        "decimal_length": "5.000",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-582",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "5-1/2",
+        "decimal_length": "5.500",
+        "material": "CRES; passivated"
+      },
+      {
+        "part": "MS35308-583",
+        "diameter": "1-1/4",
+        "thread": "1-1/4-12 UNF-2A",
+        "length": "6",
+        "decimal_length": "6.000",
+        "material": "CRES; passivated"
+      }
+    ]
+  },
+  "washer_dimensions": [
+    {
+      "size": "#2",
+      "id_min": ".088",
+      "id_max": ".094",
+      "od_max": ".172",
+      "width_min": ".035",
+      "thickness_min": ".020",
+      "thickness_max": "0.028",
+      "steel_dash": "39",
+      "phosphate_dash": "58",
+      "bronze_dash": "96",
+      "nickel_dash": "115",
+      "cres_dash": "134",
+      "magnetic_dash": "153"
+    },
+    {
+      "size": "#4",
+      "id_min": ".114",
+      "id_max": ".120",
+      "od_max": ".209",
+      "width_min": ".040",
+      "thickness_min": ".025",
+      "thickness_max": "0.033",
+      "steel_dash": "40",
+      "phosphate_dash": "59",
+      "bronze_dash": "97",
+      "nickel_dash": "116",
+      "cres_dash": "135",
+      "magnetic_dash": "154"
+    },
+    {
+      "size": "#6",
+      "id_min": ".141",
+      "id_max": ".148",
+      "od_max": ".250",
+      "width_min": ".047",
+      "thickness_min": ".031",
+      "thickness_max": "0.039",
+      "steel_dash": "41",
+      "phosphate_dash": "60",
+      "bronze_dash": "98",
+      "nickel_dash": "117",
+      "cres_dash": "136",
+      "magnetic_dash": "155"
+    },
+    {
+      "size": "#8",
+      "id_min": ".167",
+      "id_max": ".174",
+      "od_max": ".293",
+      "width_min": ".055",
+      "thickness_min": ".040",
+      "thickness_max": "0.048",
+      "steel_dash": "42",
+      "phosphate_dash": "61",
+      "bronze_dash": "99",
+      "nickel_dash": "118",
+      "cres_dash": "137",
+      "magnetic_dash": "156"
+    },
+    {
+      "size": "#10",
+      "id_min": ".193",
+      "id_max": ".200",
+      "od_max": ".334",
+      "width_min": ".062",
+      "thickness_min": ".047",
+      "thickness_max": "0.055",
+      "steel_dash": "43",
+      "phosphate_dash": "62",
+      "bronze_dash": "100",
+      "nickel_dash": "119",
+      "cres_dash": "138",
+      "magnetic_dash": "157"
+    },
+    {
+      "size": "1/4",
+      "id_min": ".252",
+      "id_max": ".260",
+      "od_max": ".487",
+      "width_min": ".108",
+      "thickness_min": ".062",
+      "thickness_max": "0.072",
+      "steel_dash": "44",
+      "phosphate_dash": "63",
+      "bronze_dash": "101",
+      "nickel_dash": "120",
+      "cres_dash": "139",
+      "magnetic_dash": "158"
+    },
+    {
+      "size": "5/16",
+      "id_min": ".314",
+      "id_max": ".322",
+      "od_max": ".583",
+      "width_min": ".125",
+      "thickness_min": ".078",
+      "thickness_max": "0.088",
+      "steel_dash": "45",
+      "phosphate_dash": "64",
+      "bronze_dash": "102",
+      "nickel_dash": "121",
+      "cres_dash": "140",
+      "magnetic_dash": "159"
+    },
+    {
+      "size": "3/8",
+      "id_min": ".377",
+      "id_max": ".385",
+      "od_max": ".680",
+      "width_min": ".141",
+      "thickness_min": ".094",
+      "thickness_max": "0.104",
+      "steel_dash": "46",
+      "phosphate_dash": "65",
+      "bronze_dash": "103",
+      "nickel_dash": "122",
+      "cres_dash": "141",
+      "magnetic_dash": "160"
+    },
+    {
+      "size": "7/16",
+      "id_min": ".440",
+      "id_max": ".450",
+      "od_max": ".776",
+      "width_min": ".156",
+      "thickness_min": ".109",
+      "thickness_max": "0.119",
+      "steel_dash": "47",
+      "phosphate_dash": "66",
+      "bronze_dash": "104",
+      "nickel_dash": "123",
+      "cres_dash": "142",
+      "magnetic_dash": "161"
+    },
+    {
+      "size": "1/2",
+      "id_min": ".502",
+      "id_max": ".512",
+      "od_max": ".869",
+      "width_min": ".171",
+      "thickness_min": ".125",
+      "thickness_max": "0.135",
+      "steel_dash": "48",
+      "phosphate_dash": "67",
+      "bronze_dash": "105",
+      "nickel_dash": "124",
+      "cres_dash": "143",
+      "magnetic_dash": "162"
+    },
+    {
+      "size": "9/16",
+      "id_min": ".564",
+      "id_max": ".574",
+      "od_max": ".965",
+      "width_min": ".188",
+      "thickness_min": ".141",
+      "thickness_max": "0.151",
+      "steel_dash": "49",
+      "phosphate_dash": "68",
+      "bronze_dash": "106",
+      "nickel_dash": "125",
+      "cres_dash": "144",
+      "magnetic_dash": "163"
+    },
+    {
+      "size": "5/8",
+      "id_min": ".628",
+      "id_max": ".641",
+      "od_max": "1.073",
+      "width_min": ".203",
+      "thickness_min": ".156",
+      "thickness_max": "0.166",
+      "steel_dash": "50",
+      "phosphate_dash": "69",
+      "bronze_dash": "107",
+      "nickel_dash": "126",
+      "cres_dash": "145",
+      "magnetic_dash": "164"
+    },
+    {
+      "size": "3/4",
+      "id_min": ".753",
+      "id_max": ".766",
+      "od_max": "1.265",
+      "width_min": ".234",
+      "thickness_min": ".188",
+      "thickness_max": "0.198",
+      "steel_dash": "51",
+      "phosphate_dash": "70",
+      "bronze_dash": "108",
+      "nickel_dash": "127",
+      "cres_dash": "146",
+      "magnetic_dash": "165"
+    },
+    {
+      "size": "7/8",
+      "id_min": ".878",
+      "id_max": ".894",
+      "od_max": "1.459",
+      "width_min": ".266",
+      "thickness_min": ".219",
+      "thickness_max": "0.239",
+      "steel_dash": "52",
+      "phosphate_dash": "71",
+      "bronze_dash": "109",
+      "nickel_dash": "128",
+      "cres_dash": "147",
+      "magnetic_dash": "166"
+    },
+    {
+      "size": "1",
+      "id_min": "1.003",
+      "id_max": "1.024",
+      "od_max": "1.656",
+      "width_min": ".297",
+      "thickness_min": ".250",
+      "thickness_max": "0.270",
+      "steel_dash": "53",
+      "phosphate_dash": "72",
+      "bronze_dash": "110",
+      "nickel_dash": "129",
+      "cres_dash": "148",
+      "magnetic_dash": "167"
+    },
+    {
+      "size": "1-1/8",
+      "id_min": "1.129",
+      "id_max": "1.153",
+      "od_max": "1.847",
+      "width_min": ".328",
+      "thickness_min": ".281",
+      "thickness_max": "0.301",
+      "steel_dash": "54",
+      "phosphate_dash": "",
+      "bronze_dash": "111",
+      "nickel_dash": "130",
+      "cres_dash": "149",
+      "magnetic_dash": "168"
+    },
+    {
+      "size": "1-1/4",
+      "id_min": "1.254",
+      "id_max": "1.280",
+      "od_max": "2.036",
+      "width_min": ".359",
+      "thickness_min": ".312",
+      "thickness_max": "0.332",
+      "steel_dash": "55",
+      "phosphate_dash": "",
+      "bronze_dash": "112",
+      "nickel_dash": "131",
+      "cres_dash": "150",
+      "magnetic_dash": "169"
+    },
+    {
+      "size": "1-3/8",
+      "id_min": "1.379",
+      "id_max": "1.408",
+      "od_max": "2.219",
+      "width_min": ".391",
+      "thickness_min": ".344",
+      "thickness_max": "0.364",
+      "steel_dash": "56",
+      "phosphate_dash": "",
+      "bronze_dash": "113",
+      "nickel_dash": "132",
+      "cres_dash": "151",
+      "magnetic_dash": "170"
+    },
+    {
+      "size": "1-1/2",
+      "id_min": "1.504",
+      "id_max": "1.534",
+      "od_max": "2.419",
+      "width_min": ".422",
+      "thickness_min": ".375",
+      "thickness_max": "0.395",
+      "steel_dash": "57",
+      "phosphate_dash": "",
+      "bronze_dash": "114",
+      "nickel_dash": "133",
+      "cres_dash": "152",
+      "magnetic_dash": "171"
+    }
+  ],
+  "helical_cross_references": {
+    "tanged": [
+      {
+        "standard": "MS21209C0210",
+        "thread": "2-56 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.0860",
+        "kato": "TLC-02C-0086",
+        "heli_coil": "3585-02CN086",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13522"
+      },
+      {
+        "standard": "MS21209C0220",
+        "thread": "2-56 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.1720",
+        "kato": "TLC-02C-0172",
+        "heli_coil": "3585-02CN172",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13524"
+      },
+      {
+        "standard": "MS21209C0410",
+        "thread": "4-40 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.1120",
+        "kato": "TLC-04C-0112",
+        "heli_coil": "3585-04CN112",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13542"
+      },
+      {
+        "standard": "MS21209C0420",
+        "thread": "4-40 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.2240",
+        "kato": "TLC-04C-0224",
+        "heli_coil": "3585-04CN224",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13544"
+      },
+      {
+        "standard": "MS21209C0610",
+        "thread": "6-32 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.1380",
+        "kato": "TLC-06C-0138",
+        "heli_coil": "3585-06CN138",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13562"
+      },
+      {
+        "standard": "MS21209C0620",
+        "thread": "6-32 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.2760",
+        "kato": "TLC-06C-0276",
+        "heli_coil": "3585-06CN276",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13564"
+      },
+      {
+        "standard": "MS21209C0810",
+        "thread": "8-32 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.1640",
+        "kato": "TLC-2C-0164",
+        "heli_coil": "3585-2CN164",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13582"
+      },
+      {
+        "standard": "MS21209C0820",
+        "thread": "8-32 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.3280",
+        "kato": "TLC-2C-0328",
+        "heli_coil": "3585-2CN328",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13584"
+      },
+      {
+        "standard": "MS21209C1-10",
+        "thread": "10-24 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.1900",
+        "kato": "TLC-3C-0190",
+        "heli_coil": "3585-3CN190",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13602"
+      },
+      {
+        "standard": "MS21209C1-20",
+        "thread": "10-24 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.3800",
+        "kato": "TLC-3C-0380",
+        "heli_coil": "3585-3CN380",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13604"
+      },
+      {
+        "standard": "MS21209C4-10",
+        "thread": "1/4-20 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.2500",
+        "kato": "TLC-4C-0250",
+        "heli_coil": "3585-4CN250",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13042"
+      },
+      {
+        "standard": "MS21209C4-20",
+        "thread": "1/4-20 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.5000",
+        "kato": "TLC-4C-0500",
+        "heli_coil": "3585-4CN500",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13044"
+      },
+      {
+        "standard": "MS21209C5-10",
+        "thread": "5/16-18 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.3125",
+        "kato": "TLC-5C-0312",
+        "heli_coil": "3585-5CN312",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13052"
+      },
+      {
+        "standard": "MS21209C5-20",
+        "thread": "5/16-18 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.6250",
+        "kato": "TLC-5C-0625",
+        "heli_coil": "3585-5CN625",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13054"
+      },
+      {
+        "standard": "MS21209C6-10",
+        "thread": "3/8-16 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.3750",
+        "kato": "TLC-6C-0375",
+        "heli_coil": "3585-6CN375",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13062"
+      },
+      {
+        "standard": "MS21209C6-20",
+        "thread": "3/8-16 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.7500",
+        "kato": "TLC-6C-0750",
+        "heli_coil": "3585-6CN750",
+        "construction": "Tanged; screw-locking",
+        "recoil": "13064"
+      },
+      {
+        "standard": "MS21209F1-10",
+        "thread": "10-32 UNF",
+        "length_multiple": "1D",
+        "installed_length": "0.1900",
+        "kato": "TLF-3C-0190",
+        "heli_coil": "3591-3CN190",
+        "construction": "Tanged; screw-locking",
+        "recoil": "14602MS"
+      },
+      {
+        "standard": "MS21209F1-20",
+        "thread": "10-32 UNF",
+        "length_multiple": "2D",
+        "installed_length": "0.3800",
+        "kato": "TLF-3C-0380",
+        "heli_coil": "3591-3CN380",
+        "construction": "Tanged; screw-locking",
+        "recoil": "14614MS"
+      },
+      {
+        "standard": "MS21209F4-10",
+        "thread": "1/4-28 UNF",
+        "length_multiple": "1D",
+        "installed_length": "0.2500",
+        "kato": "TLF-4C-0250",
+        "heli_coil": "3591-4CN250",
+        "construction": "Tanged; screw-locking",
+        "recoil": "14142MS"
+      },
+      {
+        "standard": "MS21209F4-20",
+        "thread": "1/4-28 UNF",
+        "length_multiple": "2D",
+        "installed_length": "0.5000",
+        "kato": "TLF-4C-0500",
+        "heli_coil": "3591-4CN500",
+        "construction": "Tanged; screw-locking",
+        "recoil": "14144MS"
+      },
+      {
+        "standard": "MS21209F5-10",
+        "thread": "5/16-24 UNF",
+        "length_multiple": "1D",
+        "installed_length": "0.3125",
+        "kato": "TLF-5C-0312",
+        "heli_coil": "3591-5CN312",
+        "construction": "Tanged; screw-locking",
+        "recoil": "14052MS"
+      },
+      {
+        "standard": "MS21209F5-20",
+        "thread": "5/16-24 UNF",
+        "length_multiple": "2D",
+        "installed_length": "0.6250",
+        "kato": "TLF-5C-0625",
+        "heli_coil": "3591-5CN625",
+        "construction": "Tanged; screw-locking",
+        "recoil": "14054MS"
+      }
+    ],
+    "tangless": [
+      {
+        "standard": "NAS1130-02L10",
+        "thread": "2-56 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.0860",
+        "kato": "2TLC-02C-0086",
+        "heli_coil": "T3585-02C086",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-02L20",
+        "thread": "2-56 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.1720",
+        "kato": "2TLC-02C-0172",
+        "heli_coil": "T3585-02C172",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-04L10",
+        "thread": "4-40 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.1120",
+        "kato": "2TLC-04C-0112",
+        "heli_coil": "T3585-04C112",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-04L20",
+        "thread": "4-40 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.2240",
+        "kato": "2TLC-04C-0224",
+        "heli_coil": "T3585-04C224",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-06L10",
+        "thread": "6-32 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.1380",
+        "kato": "2TLC-06C-0138",
+        "heli_coil": "T3585-06C138",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-06L20",
+        "thread": "6-32 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.2760",
+        "kato": "2TLC-06C-0276",
+        "heli_coil": "T3585-06C276",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-08L10",
+        "thread": "8-32 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.1640",
+        "kato": "2TLC-2C-0164",
+        "heli_coil": "T3585-2C164",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-08L20",
+        "thread": "8-32 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.3280",
+        "kato": "2TLC-2C-0328",
+        "heli_coil": "T3585-2C328",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-4L10",
+        "thread": "1/4-20 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.2500",
+        "kato": "2TLC-4C-0250",
+        "heli_coil": "T3585-4C250",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-4L20",
+        "thread": "1/4-20 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.5000",
+        "kato": "2TLC-4C-0500",
+        "heli_coil": "T3585-4C500",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-5CL10",
+        "thread": "5/16-18 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.3125",
+        "kato": "2TLC-5C-0312",
+        "heli_coil": "---",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-5CL20",
+        "thread": "5/16-18 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.6250",
+        "kato": "2TLC-5C-0625",
+        "heli_coil": "---",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-6CL10",
+        "thread": "3/8-16 UNC",
+        "length_multiple": "1D",
+        "installed_length": "0.3750",
+        "kato": "2TLC-6C-0375",
+        "heli_coil": "---",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-6CL20",
+        "thread": "3/8-16 UNC",
+        "length_multiple": "2D",
+        "installed_length": "0.7500",
+        "kato": "2TLC-6C-0750",
+        "heli_coil": "---",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-3L10",
+        "thread": "10-32 UNF",
+        "length_multiple": "1D",
+        "installed_length": "0.1900",
+        "kato": "2TLF-3C-0190",
+        "heli_coil": "T3591-3C190",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-3L20",
+        "thread": "10-32 UNF",
+        "length_multiple": "2D",
+        "installed_length": "0.3800",
+        "kato": "2TLF-3C-0380",
+        "heli_coil": "T3591-3C380",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-4FL10",
+        "thread": "1/4-28 UNF",
+        "length_multiple": "1D",
+        "installed_length": "0.2500",
+        "kato": "2TLF-4C-0250",
+        "heli_coil": "T3591-4C250",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-4FL20",
+        "thread": "1/4-28 UNF",
+        "length_multiple": "2D",
+        "installed_length": "0.5000",
+        "kato": "2TLF-4C-0500",
+        "heli_coil": "T3591-4C500",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-5FL10",
+        "thread": "5/16-24 UNF",
+        "length_multiple": "1D",
+        "installed_length": "0.3125",
+        "kato": "2TLF-5C-0312",
+        "heli_coil": "---",
+        "construction": "Tangless; screw-locking"
+      },
+      {
+        "standard": "NAS1130-5FL20",
+        "thread": "5/16-24 UNF",
+        "length_multiple": "2D",
+        "installed_length": "0.6250",
+        "kato": "2TLF-5C-0625",
+        "heli_coil": "---",
+        "construction": "Tangless; screw-locking"
+      }
+    ]
+  },
+  "keylocking_comparison": [
+    {
+      "part": "MS51830-101",
+      "family": "Miniature",
+      "internal": "2-56 UNJC-3B",
+      "external": "8-32 UNC-3A",
+      "length": ".120",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KNCA0256J"
+    },
+    {
+      "part": "MS51830-102",
+      "family": "Miniature",
+      "internal": "4-40 UNJC-3B",
+      "external": "10-32 UNF-2A",
+      "length": ".170",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KNCA0440J"
+    },
+    {
+      "part": "MS51830-103",
+      "family": "Miniature",
+      "internal": "6-32 UNJC-3B",
+      "external": "12-28 UNF-2A",
+      "length": ".170",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KNC0632J"
+    },
+    {
+      "part": "MS51830-104",
+      "family": "Miniature",
+      "internal": "8-32 UNJC-3B",
+      "external": "1/4-28 UNF-2A",
+      "length": ".220",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KNCA0832J"
+    },
+    {
+      "part": "MS51830-105",
+      "family": "Lightweight",
+      "internal": "10-24 UNJC-3B",
+      "external": "5/16-18 UNC-2A (mod.)",
+      "length": ".310",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KN1024J"
+    },
+    {
+      "part": "MS51830-106",
+      "family": "Lightweight",
+      "internal": "1/4-20 UNJC-3B",
+      "external": "3/8-16 UNC-2A (mod.)",
+      "length": ".370",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KN420J"
+    },
+    {
+      "part": "MS51830-107",
+      "family": "Lightweight",
+      "internal": "5/16-18 UNJC-3B",
+      "external": "7/16-14 UNC-2A (mod.)",
+      "length": ".430",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KN518J"
+    },
+    {
+      "part": "MS51830-108",
+      "family": "Lightweight",
+      "internal": "3/8-16 UNJC-3B",
+      "external": "1/2-13 UNC-2A (mod.)",
+      "length": ".500",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KN616J"
+    },
+    {
+      "part": "MS51831-101",
+      "family": "Heavy duty",
+      "internal": "10-24 UNJC-3B",
+      "external": "3/8-16 UNC-2A (mod.)",
+      "length": ".310",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KNH1024J"
+    },
+    {
+      "part": "MS51831-102",
+      "family": "Heavy duty",
+      "internal": "1/4-20 UNJC-3B",
+      "external": "7/16-14 UNC-2A (mod.)",
+      "length": ".370",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KNH420J"
+    },
+    {
+      "part": "MS51831-103",
+      "family": "Heavy duty",
+      "internal": "5/16-18 UNJC-3B",
+      "external": "1/2-13 UNC-2A (mod.)",
+      "length": ".430",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KNH518J"
+    },
+    {
+      "part": "MS51831-104",
+      "family": "Heavy duty",
+      "internal": "3/8-16 UNJC-3B",
+      "external": "9/16-12 UNC-2A (mod.)",
+      "length": ".500",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KNH616J"
+    },
+    {
+      "part": "MS51832-101",
+      "family": "Extra heavy duty",
+      "internal": "10-24 UNJC-3B",
+      "external": "7/16-14 UNC-2A (mod.)",
+      "length": ".310",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KNHXH1024J"
+    },
+    {
+      "part": "MS51832-102",
+      "family": "Extra heavy duty",
+      "internal": "1/4-20 UNJC-3B",
+      "external": "1/2-13 UNC-2A (mod.)",
+      "length": ".370",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KNHXH420J"
+    },
+    {
+      "part": "MS51832-103",
+      "family": "Extra heavy duty",
+      "internal": "5/16-18 UNJC-3B",
+      "external": "9/16-12 UNC-2A (mod.)",
+      "length": ".430",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KNHXH518J"
+    },
+    {
+      "part": "MS51832-104",
+      "family": "Extra heavy duty",
+      "internal": "3/8-16 UNJC-3B",
+      "external": "5/8-11 UNC-2A (mod.)",
+      "length": ".500",
+      "locking": "Nonlocking internal thread",
+      "keensert": "KNHXH616J"
+    }
+  ],
+  "shoulder_comparison": [
+    {
+      "socket": "MS51576-1",
+      "slotted": "MS51575-1",
+      "diameter": "1/8",
+      "length": "1/8",
+      "thread": "4-40"
+    },
+    {
+      "socket": "MS51576-2",
+      "slotted": "MS51575-2",
+      "diameter": "1/8",
+      "length": "3/16",
+      "thread": "4-40"
+    },
+    {
+      "socket": "MS51576-3",
+      "slotted": "MS51575-3",
+      "diameter": "1/8",
+      "length": "1/4",
+      "thread": "4-40"
+    },
+    {
+      "socket": "MS51576-4",
+      "slotted": "MS51575-4",
+      "diameter": "1/8",
+      "length": "5/16",
+      "thread": "4-40"
+    },
+    {
+      "socket": "MS51576-5",
+      "slotted": "MS51575-5",
+      "diameter": "1/8",
+      "length": "3/8",
+      "thread": "4-40"
+    },
+    {
+      "socket": "MS51576-6",
+      "slotted": "MS51575-6",
+      "diameter": "3/16",
+      "length": "1/8",
+      "thread": "8-32"
+    },
+    {
+      "socket": "MS51576-7",
+      "slotted": "MS51575-7",
+      "diameter": "3/16",
+      "length": "3/16",
+      "thread": "8-32"
+    },
+    {
+      "socket": "MS51576-8",
+      "slotted": "MS51575-8",
+      "diameter": "3/16",
+      "length": "1/4",
+      "thread": "8-32"
+    },
+    {
+      "socket": "MS51576-9",
+      "slotted": "MS51575-9",
+      "diameter": "3/16",
+      "length": "5/16",
+      "thread": "8-32"
+    },
+    {
+      "socket": "MS51576-10",
+      "slotted": "MS51575-10",
+      "diameter": "3/16",
+      "length": "3/8",
+      "thread": "8-32"
+    },
+    {
+      "socket": "MS51576-11",
+      "slotted": "MS51575-11",
+      "diameter": "3/16",
+      "length": "1/2",
+      "thread": "8-32"
+    },
+    {
+      "socket": "MS51576-12",
+      "slotted": "MS51575-12",
+      "diameter": "3/16",
+      "length": "5/8",
+      "thread": "8-32"
+    },
+    {
+      "socket": "MS51576-13",
+      "slotted": "MS51575-13",
+      "diameter": "3/16",
+      "length": "3/4",
+      "thread": "8-32"
+    },
+    {
+      "socket": "MS51576-14",
+      "slotted": "MS51575-14",
+      "diameter": "3/16",
+      "length": "1",
+      "thread": "8-32"
+    },
+    {
+      "socket": "MS51576-15",
+      "slotted": "MS51575-15",
+      "diameter": "3/16",
+      "length": "1-1/4",
+      "thread": "8-32"
+    },
+    {
+      "socket": "MS51576-16",
+      "slotted": "MS51575-17",
+      "diameter": "1/4",
+      "length": "3/16",
+      "thread": "10-32"
+    },
+    {
+      "socket": "MS51576-17",
+      "slotted": "MS51575-18",
+      "diameter": "1/4",
+      "length": "1/4",
+      "thread": "10-32"
+    },
+    {
+      "socket": "MS51576-18",
+      "slotted": "MS51575-19",
+      "diameter": "1/4",
+      "length": "5/16",
+      "thread": "10-32"
+    },
+    {
+      "socket": "MS51576-19",
+      "slotted": "MS51575-20",
+      "diameter": "1/4",
+      "length": "3/8",
+      "thread": "10-32"
+    },
+    {
+      "socket": "MS51576-20",
+      "slotted": "MS51575-21",
+      "diameter": "1/4",
+      "length": "1/2",
+      "thread": "10-32"
+    },
+    {
+      "socket": "MS51576-21",
+      "slotted": "MS51575-22",
+      "diameter": "1/4",
+      "length": "5/8",
+      "thread": "10-32"
+    },
+    {
+      "socket": "MS51576-22",
+      "slotted": "MS51575-23",
+      "diameter": "1/4",
+      "length": "3/4",
+      "thread": "10-32"
+    },
+    {
+      "socket": "MS51576-23",
+      "slotted": "MS51575-24",
+      "diameter": "1/4",
+      "length": "1",
+      "thread": "10-32"
+    },
+    {
+      "socket": "MS51576-24",
+      "slotted": "MS51575-25",
+      "diameter": "1/4",
+      "length": "1-1/4",
+      "thread": "10-32"
+    }
+  ],
+  "reference_part_guides": {
+    "Reference-MS35307-MS35308.html": {
+      "description": "MS35307 / MS35308 passivated CRES hex cap screw",
+      "parts": [
+        "MS35307-301",
+        "MS35307-302",
+        "MS35307-303",
+        "MS35307-304",
+        "MS35307-305",
+        "MS35307-306",
+        "MS35307-307",
+        "MS35307-308",
+        "MS35307-309",
+        "MS35307-310",
+        "MS35307-311",
+        "MS35307-312",
+        "MS35307-313",
+        "MS35307-314",
+        "MS35307-315",
+        "MS35307-316",
+        "MS35307-317",
+        "MS35307-318",
+        "MS35307-319",
+        "MS35307-320",
+        "MS35307-321",
+        "MS35307-322",
+        "MS35307-323",
+        "MS35307-324",
+        "MS35307-325",
+        "MS35307-326",
+        "MS35307-327",
+        "MS35307-328",
+        "MS35307-329",
+        "MS35307-330",
+        "MS35307-331",
+        "MS35307-332",
+        "MS35307-333",
+        "MS35307-334",
+        "MS35307-335",
+        "MS35307-336",
+        "MS35307-337",
+        "MS35307-338",
+        "MS35307-339",
+        "MS35307-340",
+        "MS35307-341",
+        "MS35307-342",
+        "MS35307-343",
+        "MS35307-344",
+        "MS35307-345",
+        "MS35307-346",
+        "MS35307-347",
+        "MS35307-348",
+        "MS35307-349",
+        "MS35307-350",
+        "MS35307-351",
+        "MS35307-352",
+        "MS35307-353",
+        "MS35307-354",
+        "MS35307-355",
+        "MS35307-356",
+        "MS35307-357",
+        "MS35307-358",
+        "MS35307-359",
+        "MS35307-360",
+        "MS35307-361",
+        "MS35307-362",
+        "MS35307-363",
+        "MS35307-364",
+        "MS35307-365",
+        "MS35307-366",
+        "MS35307-367",
+        "MS35307-368",
+        "MS35307-369",
+        "MS35307-370",
+        "MS35307-371",
+        "MS35307-372",
+        "MS35307-373",
+        "MS35307-374",
+        "MS35307-375",
+        "MS35307-376",
+        "MS35307-377",
+        "MS35307-378",
+        "MS35307-379",
+        "MS35307-380",
+        "MS35307-381",
+        "MS35307-382",
+        "MS35307-383",
+        "MS35307-384",
+        "MS35307-385",
+        "MS35307-386",
+        "MS35307-387",
+        "MS35307-388",
+        "MS35307-389",
+        "MS35307-390",
+        "MS35307-391",
+        "MS35307-392",
+        "MS35307-393",
+        "MS35307-394",
+        "MS35307-395",
+        "MS35307-396",
+        "MS35307-397",
+        "MS35307-398",
+        "MS35307-399",
+        "MS35307-400",
+        "MS35307-401",
+        "MS35307-402",
+        "MS35307-403",
+        "MS35307-404",
+        "MS35307-405",
+        "MS35307-406",
+        "MS35307-407",
+        "MS35307-408",
+        "MS35307-409",
+        "MS35307-410",
+        "MS35307-411",
+        "MS35307-412",
+        "MS35307-413",
+        "MS35307-414",
+        "MS35307-415",
+        "MS35307-416",
+        "MS35307-417",
+        "MS35307-418",
+        "MS35307-419",
+        "MS35307-420",
+        "MS35307-421",
+        "MS35307-422",
+        "MS35307-423",
+        "MS35307-424",
+        "MS35307-425",
+        "MS35307-426",
+        "MS35307-427",
+        "MS35307-428",
+        "MS35307-429",
+        "MS35307-430",
+        "MS35307-431",
+        "MS35307-432",
+        "MS35307-433",
+        "MS35307-434",
+        "MS35307-435",
+        "MS35307-436",
+        "MS35307-437",
+        "MS35307-438",
+        "MS35307-439",
+        "MS35307-440",
+        "MS35307-441",
+        "MS35307-442",
+        "MS35307-443",
+        "MS35307-444",
+        "MS35307-445",
+        "MS35307-446",
+        "MS35307-447",
+        "MS35307-448",
+        "MS35307-449",
+        "MS35307-450",
+        "MS35307-451",
+        "MS35307-452",
+        "MS35307-453",
+        "MS35307-454",
+        "MS35307-455",
+        "MS35307-456",
+        "MS35307-457",
+        "MS35307-458",
+        "MS35307-459",
+        "MS35307-460",
+        "MS35307-461",
+        "MS35307-462",
+        "MS35307-463",
+        "MS35307-464",
+        "MS35307-465",
+        "MS35307-466",
+        "MS35307-467",
+        "MS35307-468",
+        "MS35307-469",
+        "MS35307-470",
+        "MS35307-471",
+        "MS35307-472",
+        "MS35307-473",
+        "MS35307-474",
+        "MS35307-475",
+        "MS35307-476",
+        "MS35307-477",
+        "MS35307-478",
+        "MS35307-479",
+        "MS35307-480",
+        "MS35307-481",
+        "MS35307-482",
+        "MS35307-483",
+        "MS35307-484",
+        "MS35307-485",
+        "MS35307-486",
+        "MS35307-487",
+        "MS35307-488",
+        "MS35307-489",
+        "MS35307-490",
+        "MS35307-491",
+        "MS35307-492",
+        "MS35307-493",
+        "MS35307-494",
+        "MS35307-495",
+        "MS35307-496",
+        "MS35307-497",
+        "MS35307-498",
+        "MS35307-499",
+        "MS35307-500",
+        "MS35307-501",
+        "MS35307-502",
+        "MS35307-503",
+        "MS35307-504",
+        "MS35307-505",
+        "MS35307-506",
+        "MS35307-507",
+        "MS35307-508",
+        "MS35307-509",
+        "MS35307-510",
+        "MS35307-511",
+        "MS35307-512",
+        "MS35307-513",
+        "MS35307-514",
+        "MS35307-515",
+        "MS35307-516",
+        "MS35307-517",
+        "MS35307-518",
+        "MS35307-519",
+        "MS35307-520",
+        "MS35307-521",
+        "MS35307-522",
+        "MS35307-523",
+        "MS35307-524",
+        "MS35307-525",
+        "MS35307-526",
+        "MS35307-527",
+        "MS35307-528",
+        "MS35307-529",
+        "MS35307-530",
+        "MS35307-531",
+        "MS35307-532",
+        "MS35307-533",
+        "MS35307-534",
+        "MS35307-535",
+        "MS35307-536",
+        "MS35307-537",
+        "MS35307-538",
+        "MS35307-539",
+        "MS35307-540",
+        "MS35307-541",
+        "MS35307-542",
+        "MS35307-543",
+        "MS35307-544",
+        "MS35307-545",
+        "MS35307-546",
+        "MS35307-547",
+        "MS35307-548",
+        "MS35307-549",
+        "MS35307-550",
+        "MS35307-551",
+        "MS35307-552",
+        "MS35307-553",
+        "MS35307-554",
+        "MS35307-555",
+        "MS35307-556",
+        "MS35307-557",
+        "MS35307-558",
+        "MS35307-559",
+        "MS35307-560",
+        "MS35307-561",
+        "MS35307-562",
+        "MS35307-563",
+        "MS35307-564",
+        "MS35307-565",
+        "MS35307-566",
+        "MS35307-567",
+        "MS35307-568",
+        "MS35307-569",
+        "MS35307-570",
+        "MS35307-571",
+        "MS35307-572",
+        "MS35307-573",
+        "MS35307-574",
+        "MS35307-575",
+        "MS35307-576",
+        "MS35307-577",
+        "MS35307-578",
+        "MS35307-579",
+        "MS35307-580",
+        "MS35307-581",
+        "MS35307-582",
+        "MS35307-583",
+        "MS35308-301",
+        "MS35308-302",
+        "MS35308-303",
+        "MS35308-304",
+        "MS35308-305",
+        "MS35308-306",
+        "MS35308-307",
+        "MS35308-308",
+        "MS35308-309",
+        "MS35308-310",
+        "MS35308-311",
+        "MS35308-312",
+        "MS35308-313",
+        "MS35308-314",
+        "MS35308-315",
+        "MS35308-316",
+        "MS35308-317",
+        "MS35308-318",
+        "MS35308-319",
+        "MS35308-320",
+        "MS35308-321",
+        "MS35308-322",
+        "MS35308-323",
+        "MS35308-324",
+        "MS35308-325",
+        "MS35308-326",
+        "MS35308-327",
+        "MS35308-328",
+        "MS35308-329",
+        "MS35308-330",
+        "MS35308-331",
+        "MS35308-332",
+        "MS35308-333",
+        "MS35308-334",
+        "MS35308-335",
+        "MS35308-336",
+        "MS35308-337",
+        "MS35308-338",
+        "MS35308-339",
+        "MS35308-340",
+        "MS35308-341",
+        "MS35308-342",
+        "MS35308-343",
+        "MS35308-344",
+        "MS35308-345",
+        "MS35308-346",
+        "MS35308-347",
+        "MS35308-348",
+        "MS35308-349",
+        "MS35308-350",
+        "MS35308-351",
+        "MS35308-352",
+        "MS35308-353",
+        "MS35308-354",
+        "MS35308-355",
+        "MS35308-356",
+        "MS35308-357",
+        "MS35308-358",
+        "MS35308-359",
+        "MS35308-360",
+        "MS35308-361",
+        "MS35308-362",
+        "MS35308-363",
+        "MS35308-364",
+        "MS35308-365",
+        "MS35308-366",
+        "MS35308-367",
+        "MS35308-368",
+        "MS35308-369",
+        "MS35308-370",
+        "MS35308-371",
+        "MS35308-372",
+        "MS35308-373",
+        "MS35308-374",
+        "MS35308-375",
+        "MS35308-376",
+        "MS35308-377",
+        "MS35308-378",
+        "MS35308-379",
+        "MS35308-380",
+        "MS35308-381",
+        "MS35308-382",
+        "MS35308-383",
+        "MS35308-384",
+        "MS35308-385",
+        "MS35308-386",
+        "MS35308-387",
+        "MS35308-388",
+        "MS35308-389",
+        "MS35308-390",
+        "MS35308-391",
+        "MS35308-392",
+        "MS35308-393",
+        "MS35308-394",
+        "MS35308-395",
+        "MS35308-396",
+        "MS35308-397",
+        "MS35308-398",
+        "MS35308-399",
+        "MS35308-400",
+        "MS35308-401",
+        "MS35308-402",
+        "MS35308-403",
+        "MS35308-404",
+        "MS35308-405",
+        "MS35308-406",
+        "MS35308-407",
+        "MS35308-408",
+        "MS35308-409",
+        "MS35308-410",
+        "MS35308-411",
+        "MS35308-412",
+        "MS35308-413",
+        "MS35308-414",
+        "MS35308-415",
+        "MS35308-416",
+        "MS35308-417",
+        "MS35308-418",
+        "MS35308-419",
+        "MS35308-420",
+        "MS35308-421",
+        "MS35308-422",
+        "MS35308-423",
+        "MS35308-424",
+        "MS35308-425",
+        "MS35308-426",
+        "MS35308-427",
+        "MS35308-428",
+        "MS35308-429",
+        "MS35308-430",
+        "MS35308-431",
+        "MS35308-432",
+        "MS35308-433",
+        "MS35308-434",
+        "MS35308-435",
+        "MS35308-436",
+        "MS35308-437",
+        "MS35308-438",
+        "MS35308-439",
+        "MS35308-440",
+        "MS35308-441",
+        "MS35308-442",
+        "MS35308-443",
+        "MS35308-444",
+        "MS35308-445",
+        "MS35308-446",
+        "MS35308-447",
+        "MS35308-448",
+        "MS35308-449",
+        "MS35308-450",
+        "MS35308-451",
+        "MS35308-452",
+        "MS35308-453",
+        "MS35308-454",
+        "MS35308-455",
+        "MS35308-456",
+        "MS35308-457",
+        "MS35308-458",
+        "MS35308-459",
+        "MS35308-460",
+        "MS35308-461",
+        "MS35308-462",
+        "MS35308-463",
+        "MS35308-464",
+        "MS35308-465",
+        "MS35308-466",
+        "MS35308-467",
+        "MS35308-468",
+        "MS35308-469",
+        "MS35308-470",
+        "MS35308-471",
+        "MS35308-472",
+        "MS35308-473",
+        "MS35308-474",
+        "MS35308-475",
+        "MS35308-476",
+        "MS35308-477",
+        "MS35308-478",
+        "MS35308-479",
+        "MS35308-480",
+        "MS35308-481",
+        "MS35308-482",
+        "MS35308-483",
+        "MS35308-484",
+        "MS35308-485",
+        "MS35308-486",
+        "MS35308-487",
+        "MS35308-488",
+        "MS35308-489",
+        "MS35308-490",
+        "MS35308-491",
+        "MS35308-492",
+        "MS35308-493",
+        "MS35308-494",
+        "MS35308-495",
+        "MS35308-496",
+        "MS35308-497",
+        "MS35308-498",
+        "MS35308-499",
+        "MS35308-500",
+        "MS35308-501",
+        "MS35308-502",
+        "MS35308-503",
+        "MS35308-504",
+        "MS35308-505",
+        "MS35308-506",
+        "MS35308-507",
+        "MS35308-508",
+        "MS35308-509",
+        "MS35308-510",
+        "MS35308-511",
+        "MS35308-512",
+        "MS35308-513",
+        "MS35308-514",
+        "MS35308-515",
+        "MS35308-516",
+        "MS35308-517",
+        "MS35308-518",
+        "MS35308-519",
+        "MS35308-520",
+        "MS35308-521",
+        "MS35308-522",
+        "MS35308-523",
+        "MS35308-524",
+        "MS35308-525",
+        "MS35308-526",
+        "MS35308-527",
+        "MS35308-528",
+        "MS35308-529",
+        "MS35308-530",
+        "MS35308-531",
+        "MS35308-532",
+        "MS35308-533",
+        "MS35308-534",
+        "MS35308-535",
+        "MS35308-536",
+        "MS35308-537",
+        "MS35308-538",
+        "MS35308-539",
+        "MS35308-540",
+        "MS35308-541",
+        "MS35308-542",
+        "MS35308-543",
+        "MS35308-544",
+        "MS35308-545",
+        "MS35308-546",
+        "MS35308-547",
+        "MS35308-548",
+        "MS35308-549",
+        "MS35308-550",
+        "MS35308-551",
+        "MS35308-552",
+        "MS35308-553",
+        "MS35308-554",
+        "MS35308-555",
+        "MS35308-556",
+        "MS35308-557",
+        "MS35308-558",
+        "MS35308-559",
+        "MS35308-560",
+        "MS35308-561",
+        "MS35308-562",
+        "MS35308-563",
+        "MS35308-564",
+        "MS35308-565",
+        "MS35308-566",
+        "MS35308-567",
+        "MS35308-568",
+        "MS35308-569",
+        "MS35308-570",
+        "MS35308-571",
+        "MS35308-572",
+        "MS35308-573",
+        "MS35308-574",
+        "MS35308-575",
+        "MS35308-576",
+        "MS35308-577",
+        "MS35308-578",
+        "MS35308-579",
+        "MS35308-580",
+        "MS35308-581",
+        "MS35308-582",
+        "MS35308-583"
+      ]
+    },
+    "Reference-Helical-Insert-Cross-Reference.html": {
+      "description": "helical insert cross-reference inquiry",
+      "parts": [
+        "MS21209C0210",
+        "TLC-02C-0086",
+        "3585-02CN086",
+        "13522",
+        "MS21209C0220",
+        "TLC-02C-0172",
+        "3585-02CN172",
+        "13524",
+        "MS21209C0410",
+        "TLC-04C-0112",
+        "3585-04CN112",
+        "13542",
+        "MS21209C0420",
+        "TLC-04C-0224",
+        "3585-04CN224",
+        "13544",
+        "MS21209C0610",
+        "TLC-06C-0138",
+        "3585-06CN138",
+        "13562",
+        "MS21209C0620",
+        "TLC-06C-0276",
+        "3585-06CN276",
+        "13564",
+        "MS21209C0810",
+        "TLC-2C-0164",
+        "3585-2CN164",
+        "13582",
+        "MS21209C0820",
+        "TLC-2C-0328",
+        "3585-2CN328",
+        "13584",
+        "MS21209C1-10",
+        "TLC-3C-0190",
+        "3585-3CN190",
+        "13602",
+        "MS21209C1-20",
+        "TLC-3C-0380",
+        "3585-3CN380",
+        "13604",
+        "MS21209C4-10",
+        "TLC-4C-0250",
+        "3585-4CN250",
+        "13042",
+        "MS21209C4-20",
+        "TLC-4C-0500",
+        "3585-4CN500",
+        "13044",
+        "MS21209C5-10",
+        "TLC-5C-0312",
+        "3585-5CN312",
+        "13052",
+        "MS21209C5-20",
+        "TLC-5C-0625",
+        "3585-5CN625",
+        "13054",
+        "MS21209C6-10",
+        "TLC-6C-0375",
+        "3585-6CN375",
+        "13062",
+        "MS21209C6-20",
+        "TLC-6C-0750",
+        "3585-6CN750",
+        "13064",
+        "MS21209F1-10",
+        "TLF-3C-0190",
+        "3591-3CN190",
+        "14602MS",
+        "MS21209F1-20",
+        "TLF-3C-0380",
+        "3591-3CN380",
+        "14614MS",
+        "MS21209F4-10",
+        "TLF-4C-0250",
+        "3591-4CN250",
+        "14142MS",
+        "MS21209F4-20",
+        "TLF-4C-0500",
+        "3591-4CN500",
+        "14144MS",
+        "MS21209F5-10",
+        "TLF-5C-0312",
+        "3591-5CN312",
+        "14052MS",
+        "MS21209F5-20",
+        "TLF-5C-0625",
+        "3591-5CN625",
+        "14054MS",
+        "NAS1130-02L10",
+        "2TLC-02C-0086",
+        "T3585-02C086",
+        "NAS1130-02L20",
+        "2TLC-02C-0172",
+        "T3585-02C172",
+        "NAS1130-04L10",
+        "2TLC-04C-0112",
+        "T3585-04C112",
+        "NAS1130-04L20",
+        "2TLC-04C-0224",
+        "T3585-04C224",
+        "NAS1130-06L10",
+        "2TLC-06C-0138",
+        "T3585-06C138",
+        "NAS1130-06L20",
+        "2TLC-06C-0276",
+        "T3585-06C276",
+        "NAS1130-08L10",
+        "2TLC-2C-0164",
+        "T3585-2C164",
+        "NAS1130-08L20",
+        "2TLC-2C-0328",
+        "T3585-2C328",
+        "NAS1130-4L10",
+        "2TLC-4C-0250",
+        "T3585-4C250",
+        "NAS1130-4L20",
+        "2TLC-4C-0500",
+        "T3585-4C500",
+        "NAS1130-5CL10",
+        "2TLC-5C-0312",
+        "NAS1130-5CL20",
+        "2TLC-5C-0625",
+        "NAS1130-6CL10",
+        "2TLC-6C-0375",
+        "NAS1130-6CL20",
+        "2TLC-6C-0750",
+        "NAS1130-3L10",
+        "2TLF-3C-0190",
+        "T3591-3C190",
+        "NAS1130-3L20",
+        "2TLF-3C-0380",
+        "T3591-3C380",
+        "NAS1130-4FL10",
+        "2TLF-4C-0250",
+        "T3591-4C250",
+        "NAS1130-4FL20",
+        "2TLF-4C-0500",
+        "T3591-4C500",
+        "NAS1130-5FL10",
+        "2TLF-5C-0312",
+        "NAS1130-5FL20",
+        "2TLF-5C-0625"
+      ]
+    },
+    "Reference-Keylocking-Insert-Comparison.html": {
+      "description": "nonlocking stainless keylocking insert",
+      "parts": [
+        "MS51830-101",
+        "MS51830-102",
+        "MS51830-103",
+        "MS51830-104",
+        "MS51830-105",
+        "MS51830-106",
+        "MS51830-107",
+        "MS51830-108",
+        "MS51831-101",
+        "MS51831-102",
+        "MS51831-103",
+        "MS51831-104",
+        "MS51832-101",
+        "MS51832-102",
+        "MS51832-103",
+        "MS51832-104",
+        "KNCA0256J",
+        "KNCA0440J",
+        "KNC0632J",
+        "KNCA0832J",
+        "KN1024J",
+        "KN420J",
+        "KN518J",
+        "KN616J",
+        "KNH1024J",
+        "KNH420J",
+        "KNH518J",
+        "KNH616J",
+        "KNHXH1024J",
+        "KNHXH420J",
+        "KNHXH518J",
+        "KNHXH616J"
+      ]
+    },
+    "Reference-Shoulder-Screw-Comparison.html": {
+      "description": "precision shoulder screw comparison",
+      "parts": [
+        "MS51576-1",
+        "MS51575-1",
+        "MS51576-2",
+        "MS51575-2",
+        "MS51576-3",
+        "MS51575-3",
+        "MS51576-4",
+        "MS51575-4",
+        "MS51576-5",
+        "MS51575-5",
+        "MS51576-6",
+        "MS51575-6",
+        "MS51576-7",
+        "MS51575-7",
+        "MS51576-8",
+        "MS51575-8",
+        "MS51576-9",
+        "MS51575-9",
+        "MS51576-10",
+        "MS51575-10",
+        "MS51576-11",
+        "MS51575-11",
+        "MS51576-12",
+        "MS51575-12",
+        "MS51576-13",
+        "MS51575-13",
+        "MS51576-14",
+        "MS51575-14",
+        "MS51576-15",
+        "MS51575-15",
+        "MS51576-16",
+        "MS51575-17",
+        "MS51576-17",
+        "MS51575-18",
+        "MS51576-18",
+        "MS51575-19",
+        "MS51576-19",
+        "MS51575-20",
+        "MS51576-20",
+        "MS51575-21",
+        "MS51576-21",
+        "MS51575-22",
+        "MS51576-22",
+        "MS51575-23",
+        "MS51576-23",
+        "MS51575-24",
+        "MS51576-24",
+        "MS51575-25"
+      ]
+    }
+  }
+}

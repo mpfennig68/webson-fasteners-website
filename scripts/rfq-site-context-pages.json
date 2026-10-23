@@ -135,6 +135,14 @@
     "title": "Mil-Spec washers",
     "prefill": "Mil-Spec washers\n"
   },
+  "Reference-Helical-Insert-Cross-Reference.html": {
+    "title": "Helical insert cross-reference",
+    "prefill": "Helical insert cross-reference\n"
+  },
+  "Reference-Keylocking-Insert-Comparison.html": {
+    "title": "Keylocking insert size and part-number comparison",
+    "prefill": "Keylocking insert size and part-number comparison\n"
+  },
   "Reference-MS15795.html": {
     "title": "MS15795 stainless flat washers",
     "prefill": "MS15795 stainless flat washers\n"
@@ -286,6 +294,10 @@
   "Reference-NAS8100-NAS8101.html": {
     "title": "NAS8100 and NAS8101 A286 pan-head screws",
     "prefill": "NAS8100 and NAS8101 A286 pan-head screws\n"
+  },
+  "Reference-Shoulder-Screw-Comparison.html": {
+    "title": "MS51575 and MS51576 shoulder-screw comparison",
+    "prefill": "MS51575 and MS51576 shoulder-screw comparison\n"
   },
   "Resources-Mil-Spec-Cross-Reference.html": {
     "title": "Mil-Spec specification cross-reference",

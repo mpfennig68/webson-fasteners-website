@@ -3,7 +3,7 @@
   "families": 14,
   "document_records": 28,
   "technical_rows": 381,
-  "guides": 41,
+  "guides": 42,
   "glossary_terms": 46,
   "pages": [
     "Resources-Mil-Spec-Reference.html",
@@ -63,11 +63,21 @@
     "Reference-MS21075-MS21077.html",
     "Reference-MS27183.html",
     "Reference-MS35333-MS35335.html",
+    "Reference-Helical-Insert-Cross-Reference.html",
+    "Reference-Keylocking-Insert-Comparison.html",
+    "Reference-Shoulder-Screw-Comparison.html",
     "Resources-Mil-Spec-Tables.html",
     "Resources-Mil-Spec-Terminology.html",
     "Resources-Mil-Spec-RFQ-Checklist.html",
     "Resources-Mil-Spec-Materials-Finishes.html",
     "Resources-Mil-Spec-Purchasing-FAQ.html",
     "Resources-Mil-Spec-Guide.html"
-  ]
+  ],
+  "lookup_rows": {
+    "hex_cap_screws": 566,
+    "washer_dimensions": 19,
+    "helical_cross_references": 42,
+    "keylocking_comparison": 16,
+    "shoulder_comparison": 24
+  }
 }

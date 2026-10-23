@@ -20,6 +20,8 @@ for path in sorted(W.glob('*.html')):
  s=s.replace('href="Quote.html"','href="Quote.html?context='+path.name+'"')
  path.write_text(s)
 part_guides=json.loads((W/'scripts/mil-spec-data.json').read_text()).get('stocked_part_guides',{})
+lookup_guides=json.loads((W/'scripts/mil-spec-lookup-data.json').read_text()).get('reference_part_guides',{})
+part_guides={**lookup_guides,**part_guides}
 script='''/* Site-wide RFQ context. No submission interception, network request or browser storage. */
 (function(){
  'use strict';

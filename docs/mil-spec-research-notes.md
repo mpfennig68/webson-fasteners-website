@@ -776,3 +776,41 @@ Primary context: AIA Standards public FAQ, https://www.aia-aerospace.org/standar
 Webson certificate inspected visually: BSI FS 832143, Webson Fasteners LLC, AS9120B and ISO 9001:2015, scope “Distributor of fastening products and installation tooling.” Issued 2025-12-02; expiry 2028-12-01. Supplier registration is distinguished from product documentation. Company history/contact details retain existing Webson site facts.
 
 Corrected RFQ claims: Quote.html has no upload field. Buyers paste the part list into the RFQ and email supporting files to info@websonfasteners.com with company and part identification. No submission-provider or form behavior changes. No ranking, delivery-time, blanket conformity or documentation-availability promises added.
+
+## October 23, 2026 — dimensional lookup and manufacturer cross-reference expansion
+
+Scope: 566 base hex-screw designations (283 each MS35307 and MS35308), 19 MS35338 geometry rows plus a 19-row material/dash-number matrix, 42 selected bulk screw-locking insert manufacturer relationships (22 tanged and 20 tangless), 16 selected nonlocking 303 CRES keylocking references, and 24 existing-data shoulder-size pairs. No new stocked claims, inventory quantities, seal families or commercial certifications introduced. Stock data is untouched. No blanket authorized-distributor or approved-alternate claim.
+
+Sources and verification:
+
+- MS35307E, 25 April 1997, public-domain government drawing: https://fastenerz.com/specs/ms35307.pdf . Table I on sheet 2 parsed from populated cells by physical column position; all 283 base dash numbers 301–583 checked against rendered sheet. No sequential size extrapolation. Passivated CRES UNC-2A; alloy, grade and additional order requirements not inferred from a bare number. Fraction labels are identification aids; decimals retain the drawing's rounding.
+- MS35308E legacy government drawing scan, library mirror: https://globalsupplyinc.com/wp-content/uploads/2020/05/MS35308E.pdf . Sheets 1 and 2 visually inspected independently; populated dash/length cells align with the MS35307 matrix but UNF-2A TPI values are taken from the fine-thread drawing (28,24,24,20,20,18,18,16,14,12,12,12). The historical interchangeability table is not published as an unrestricted substitution list. Amendment 1, 26 June 1996, reviewed at https://www.fastenerz.com/specs/ms35308e.pdf ; it updates permeability and thread-reference notes, not the dimensional matrix. Neither legacy document is represented as the latest NASM issue.
+- MS35338L, 7 April 1994, public-domain government drawing: https://www.fastenerz.com/specs/ms35338.pdf . All Table I geometry and material columns visually transcribed. A is ID limits; B is maximum OD; W is minimum section width; C is minimum thickness. Maximum C computed from requirement 4: +.008 for .086–.190 nominal series, +.010 for .250–.750, +.020 for .875–1.500. C is not free spring height; no spring-height values inferred. Phosphate carbon-steel entries stop at -72 (1 inch); blank cells retained thereafter. -134 through -152 are nonmagnetic CRES, -153 through -171 Type 420. Revision L calls out Type 316 through 1/4 inch in the first group. Stocked entries remain the prior 12 items only.
+- KATO manufacturer bulk tanged locking cross-reference: https://www.katofastening.com/inserts/crosrefclt.html . Selected 1D/2D UNC and UNF MS21209 rows. Preserve exact KATO, Heli-Coil and Recoil ordering numbers, including MS endings on relevant Recoil fine-thread rows. The anomalous 10-32 1.5D Recoil row was not selected. Strip-feed tables were reviewed but not used; they contain separate packaging identifiers and some inconsistent cells.
+- KATO manufacturer bulk tangless locking cross-reference: https://www.katofastening.com/inserts/crossreftlc.html . Selected 1D/2D NAS1130 rows only. Do not reproduce the manufacturer's cross-construction “MS Equivalent” column: MS21209 tanged and NAS1130 tangless stay in separate tables. Blank Heli-Coil cells reflect no published number in this selection. Length in inches is the nominal mating-thread diameter multiplied by D; it is not free-coil length or hole-preparation depth. Optional finish/supply suffixes are outside these selected uncoated bulk references.
+- Howmet HFS5949 0120, 2020 Keysert and Keensert catalog: https://www.howmet.com/wp-content/uploads/sites/3/2023/05/Keysert_and_Keenserts_Catalog.pdf . Pages 11–13 visually reviewed for 16 selected nonlocking miniature/lightweight/heavy/extra-heavy MS insert dimensions, internal/external threads and nominal lengths. External UN family derived from the explicit thread size, with class/modification preserved; no installation instructions copied. Some catalog entries are activity-limited: do not assert current availability.
+- Fairchild/Tridair original manufacturer cross-reference catalog, historical supplier mirror: https://www.northeastaero.com/pdf/northeast-aerospace-keensert-catalog.pdf . PDF pages 7–9 (printed pages 5–7) visually checked for the selected 303 CRES KNCA/KNC/KN/KNH/KNHXH to MS relationships. Nonlocking forms only; do not transfer material or locking suffixes between systems without review. Current Howmet catalog detail also corroborates KNH420J → MS51831-102 and KN420J → MS51830-106; current miniature listing corroborates distinct KNCAL0440J and KNCL0632J locking forms, not used to manufacture nonlocking variants.
+- Shoulder comparison: existing verified `shoulder_socket` and `shoulder_slotted` arrays. Pair only rows with identical nominal shoulder diameter, shoulder length AND male thread. 24 pairs; head/drive difference is explicit, no approved-alternate claim. MS51576-16 pairs dimensionally with MS51575-17, not -16.
+
+MF Supply review (discovery and layout only, never the sole authority for technical values):
+https://www.mfsupply.com/Cross_Reference_Brands_Equivalent_Fasteners_s/6803.htm
+https://www.mfsupply.com/MS35307_s/1948.htm
+https://www.mfsupply.com/Precision_Shoulder_Screws_Cross_Reference_s/6819.htm
+https://www.mfsupply.com/Keensert_Cross_Reference_Inch_Mil_Spec_s/1950.htm
+https://www.mfsupply.com/Dowel_Pins_Cross_Ref_Inch_Mil_Spec_Metric_Branded_s/6816.htm
+https://www.mfsupply.com/Spacers_Cross_Reference_Hex_Round_s/6833.htm
+https://www.mfsupply.com/Standoffs_Cross_Reference_Hex_Round_s/6832.htm
+
+Further candidate groups: verified full AN960/NAS1149 mappings; retaining-ring manufacturer maps; commercial precision-dowel, spacer and standoff maps. Brand maps require primary manufacturer support for exact variants; avoid filling blank resources with assumed equivalence. AMPG indexed older catalog contained military cross-references, but the current linked PDF did not provide the same retrievable content; no AMPG mappings were published from search snippets alone.
+
+Implementation: `mil-spec-lookup-data.json` is separate from the stocked data. `build-mil-spec-lookups.py` renders tables through the existing reference pipeline. Inquiry allowlists accept only explicitly listed page/part pairs and preserve customer-entered text. Formcarry configuration and form submission are unchanged. Research links remain excluded from public hosting.
+
+Source snapshot SHA-256 checksums (reviewed local copies; not hosted):
+
+- ms35307.pdf: `72685f425c13e821320f9f4ef724acfcc6fc45bd5a08bedd432f8d8e9269356d`
+- ms35308.pdf: `9960e97b588e83b242995d541e7321581391b002c0ec8d595bb047c0692437e4`
+- ms35338.pdf: `f543971cc8a619fed13b1ce7f38b264b3743de9383ee316d29477c65e101f7dc`
+- howmet.pdf: `1b4b686f5e904fcde62ac6043bb6aff499dab694b39ce77bc9d8eba2e170177b`
+- tridair.pdf: `81e43fcf06c58322b1a7a0e15d53d8b97a13824b2c52b4e16fbabd60025a9738`
+- kato-tanged.html: `d52f08c61ddf5f089176123070fe25531b3237c230129e7b2d03602205dfd07f`
+- kato-tangless.html: `a8764f698fe65eef94a3c447d4b86b7221aeea6891c9bee75048df171573fb8a`
