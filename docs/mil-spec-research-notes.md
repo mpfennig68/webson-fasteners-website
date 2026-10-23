@@ -700,3 +700,13 @@ Source URLs and scope are in the source register. All dimensions remain selected
 - NAS1130: KATO manufacturer thread/length and type tables, KATO dry-film strip-feed reference, Stanley manufacturer technical bulletin HC600, and Bollhoff Blue Book issue 3 August 2012 reviewed. L is the locking type before length; D dry-film and P cadmium are finish suffixes. The DSF stock item description explicitly states strip fed in the original workbook. KATO states NAS/MS standard designations do not themselves identify strip-feed packaging. Preserve supplier ordering identifier, and ask for manufacturer and supply format. Do not publish manufacturer cross-reference lists as blanket approved alternates.
 
 Nominal helical-insert length is the installed length as a multiple of nominal mating-thread diameter; it is not free-coil length, STI tapped-hole diameter or installation depth. RFQ context uses exact stock identifiers and the existing validated page/part mapping; native Formcarry form remains unchanged. Original guide comparison sections are preserved. Docs/scripts stay excluded from hosting.
+
+
+## Owner-confirmed corrections — October 22, 2026
+
+Supersedes the unresolved identification notes above.
+- MS16555-603: owner confirms nominal 1/16 x 5/16 inch. MS16555-604: owner confirms 1/16 x 3/8 inch. Public configuration uses solid dowel pin without adding an unconfirmed finish.
+- Original workbook MS21209C510: owner confirms exact designation MS21209-C5-10, 5/16-18 UNC, 0.312 inch nominal installed length (1D), self-locking stainless-steel helical insert. Updated public row and RFQ allowlist; workbook identifier preserved here for provenance.
+- MS20426AD3-5.5: owner-provided supplier listing https://military-fasteners.com/products/ms20426ad3-5-5-solid-rivet identifies 0.34375 inch (11/32) fastener length, 0.09375 inch (3/32) shank and 2117 aluminum. Retrieved supplier's own product description; exact decimal part notation retained.
+- MS35206-213NP: owner directs that NP variant not be marketed. Removed from public stock data and RFQ allowlist. Base MS35206-213 remains.
+- Removed unresolved-table placeholder wording from all generated stocked pin, rivet and insert tables.

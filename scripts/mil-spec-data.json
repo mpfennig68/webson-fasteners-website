@@ -2065,8 +2065,7 @@
         "MS35206-228",
         "MS35206-233",
         "MS35206-243",
-        "MS35206-246",
-        "MS35206-213NP"
+        "MS35206-246"
       ]
     },
     "Reference-MS24693.html": {
@@ -2335,7 +2334,7 @@
     "Reference-MS21209.html": {
       "description": "MS21209 screw-locking helical insert",
       "parts": [
-        "MS21209C510",
+        "MS21209-C5-10",
         "MS21209C0415L",
         "MS21209C6-10",
         "MS21209F1-15",
@@ -2460,12 +2459,6 @@
         "thread": "8-32 UNC-2A",
         "length": "5/8",
         "configuration": "Cadmium-plated steel"
-      },
-      {
-        "part": "MS35206-213NP",
-        "thread": "4-40 UNC-2A",
-        "length": "1/4",
-        "configuration": "Patched steel; confirm drawing"
       }
     ],
     "MS24693": [
@@ -3436,15 +3429,15 @@
       },
       {
         "part": "MS16555-604",
-        "diameter": "Confirm drawing",
-        "length": "Confirm drawing",
-        "configuration": "Dowel; confirm full configuration"
+        "diameter": "1/16",
+        "length": "3/8",
+        "configuration": "Solid dowel pin"
       },
       {
         "part": "MS16555-603",
-        "diameter": "Confirm drawing",
-        "length": "Confirm drawing",
-        "configuration": "Dowel; confirm full configuration"
+        "diameter": "1/16",
+        "length": "5/16",
+        "configuration": "Solid dowel pin"
       },
       {
         "part": "MS16555-640",
@@ -3569,7 +3562,7 @@
       {
         "part": "MS20426AD3-5.5",
         "diameter": "3/32",
-        "length": "Confirm drawing",
+        "length": "11/32",
         "configuration": "2117 aluminum; chemical treatment"
       },
       {
@@ -3639,10 +3632,10 @@
   "helical_insert_sizes": {
     "MS21209": [
       {
-        "part": "MS21209C510",
-        "thread": "Confirm drawing",
-        "length_multiple": "Confirm drawing",
-        "configuration": "Screw-locking; confirm size code"
+        "part": "MS21209-C5-10",
+        "thread": "5/16-18 UNC",
+        "length_multiple": "1D (0.312 in)",
+        "configuration": "Screw-locking; stainless steel"
       },
       {
         "part": "MS21209C0415L",
