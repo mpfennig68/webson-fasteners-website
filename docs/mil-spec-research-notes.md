@@ -732,3 +732,36 @@ Supersedes the unresolved identification notes above.
 - **MS16633-D-A1 — MS16633 revision D amendment 1 government drawing, archival copy**: https://www.ibiblio.org/apollo/Documents/assist.dla.mil/MS16633D.pdf
   - November 13, 2014, Table I, requirements and Table III visually reviewed. -1014: .140 shaft reference, .025 basic T, cadmium-plated carbon spring steel. -4006/.4009/-4018: .062/.094/.188 shaft references, .010/.015/.025 basic T, passivated CRES. T is an unplated basic dimension; drawing note adds .002 to the maximum thickness tolerance for plated and CRES rings. No load capacity or current-revision claim. Manufacturer web pages contain generic carbon-steel load-calculation notes even on CRES numbers; government part table controls the material description. Reviewed 2026-10-22.
 - Seven selected ordering identifiers match the original stock workbook exactly. Only identifiers and stocked status are taken from the inventory source; no quantities, prices, customer or transaction data published. No unresolved placeholder cells.
+
+
+## Final five requested stocked groups — October 22, 2026
+
+- **FINAL-NAS662-NEF — North East Fasteners official NAS662 product references**: https://nef1.com/parts/nas662c2lpr3/
+  - Manufacturer indexed product documentation confirms 2-56 UNC-2A, 100-degree cross-recessed head, 300-series CRES, passivated, patch-type locking and 3/16 length. Individual C2R2/R4/R5/R9 pages checked in indexed manufacturer documentation: 1/8,1/4,5/16,9/16. Direct fetch unavailable; indexed official manufacturer descriptions used. C2R3 length corroborated by BILD manufacturer table.
+- **FINAL-NAS662-BILD — BILD Industries NAS662 manufacturer table**: https://bildindustries.com/wp-content/uploads/2024/07/NAS662.pdf
+  - Selected C2R2 through C2R5 mappings: 2-56, lengths .125,.188,.250,.312. Passivated 300-series CRES. Manufacturer table, not full NAS standard.
+- **FINAL-NAS662-C0 — Hardware Specialty own-brand NAS662C0LPR3 catalog documentation**: https://www.hardwarespecialty.com/Product/1323567
+  - Own-brand primary product documentation names NAS662C0LER3/NAS662C0LPR3, 0-80 UNF-2A, 3/16 length, 100-degree Phillips head, passivated stainless and nylon patch. Exact Webson stock LP identifier retained; no public interchangeability claim from vendor slash designation.
+- **FINAL-NAS8100-FD — Fastener Dimensions manufacturer NAS8100–NAS8106 series document**: https://www.fastenerdimensions.com/upload/documentgroups/mainfiles/NAS8100%20thru%20NAS8106.pdf
+  - Manufacturer primary documentation confirms A286, .1120-40/.1380-32 threads, full thread, cross recess NAS7100. U clean/passivated; hyphen cadmium Type II Class 2 with green end marking. No locking code in selected stock; U is a finish code, not a locking code. No latest-revision claim.
+- **FINAL-NAS8100-SIZES — Hardware Specialty own-brand NAS8100U8 catalog documentation**: https://www.hardwarespecialty.com/Product/1249803
+  - Primary own-brand official catalog: 4-40 UNJC-3A x 1/2, A286, no locking element. NAS8100U6 (1249792) 3/8; NAS8100U12 (1249781) 3/4; NAS8101U8 (1249799) 6-32 UNJC-3A x 1/2. Manufacturer Fastener Dimensions controls finish descriptions over vendor generic Plain label. U6/U12 lengths also match owner workbook descriptions. NAS8100-6 uses same length code as U6; original-stock dash and finish retained.
+- **FINAL-MS21044-H — MS21044 revision H government drawing, Airfasco manufacturer mirror**: https://airfasco.com/drawings/MS/MS21044/MS21044%20REV%20H.pdf
+  - December 20, 1991, three sheets visually reviewed. Selected sizes 04=4-40,06=6-32,3=10-32,4=1/4-28; UNJC/UNJF-3B. Regular height, nonmetallic insert. C passivated CRES; N cadmium-plated steel. No current-issue claim.
+- **FINAL-MS21042-H — MS21042 revision H government drawing, supplier mirror**: https://www.fastenerz.com/specs/ms21042.pdf
+  - April 30, 1997, two sheets visually reviewed. Selected -4=1/4-28 UNJF-3B, L3=10-32 UNJF-3B. Non-CRES steel, cadmium plated; L dry-film lubricant. Reduced-height/reduced-hex all-metal locknut. Existing guide sections retained.
+- **FINAL-MS21075-H — MS21075 revision H government drawing, Airfasco manufacturer mirror**: https://airfasco.com/drawings/MS/MS21075/MS21075%20REV%20H.pdf
+  - March 28, 1995, two sheets visually reviewed. Selected 06=6-32 UNJC-3B,08=8-32 UNJC-3B,3=10-32 UNJF-3B. L dry film; hyphen non-dry-film. N no eyelets. Reduced rivet spacing, low height, floating, two lug, steel. Plating optional for L under manufacturer reference; no blanket cadmium assertion for L entries.
+- **FINAL-MS21075-AIR — Airfasco manufacturer MS21075 code index**: https://www.airfasco.aero/products/MS/MS21075.php
+  - Official manufacturer code documentation: N without eyelets; L dry-film lubricant. Non-dry-film selected versions cadmium plated; dry-film plating type optional. Thread references cross-checked with government drawing.
+- **FINAL-MS21077-NAFCO — NAFCO manufacturer NASM21077 family documentation**: https://nafcousa.com/products/nasm21077/
+  - Primary manufacturer technical documentation and both October 27, 2022 revision E NA2369 drawing sheets reviewed. Floating two-lug, nonmetallic nylon insert, steel nut. Size 8-32 UNJC-3B. No named manufacturer of Webson stock or full MS-to-NA2369 part conversion asserted. Public selected stock row identifies legacy MS21077-08 exactly; retainer-specific coating not inferred.
+- **FINAL-MS27183-D — MS27183 revision D government drawing, supplier mirror**: https://www.fastenerz.com/specs/ms27183.pdf
+  - June 17, 1991, three sheets visually reviewed. -3 #4, ID .125–.135 OD .312–.327 T .028–.048; -5 #8, ID .187–.197 OD .437–.452 T .036–.065. Carbon steel. Cadmium/zinc options exist; no specific stock-lot coating asserted.
+- **FINAL-MS35333-K — MS35333 revision K government drawing, archival mirror**: https://www.ibiblio.org/apollo/Documents/assist.dla.mil/MS35333K.pdf
+  - December 13, 1993, two sheets visually reviewed. Selected -36 #4, -38 #8, internal tooth, carbon steel. Public nominal dimensions use BILD manufacturer reference and are explicitly labeled nominal; no coating assumed for stock lots.
+- **FINAL-MS35333-BILD — BILD Industries internal-tooth washer manufacturer reference**: https://bildindustries.com/wp-content/uploads/2024/07/MS35333.pdf
+  - Selected internal -36 #4 nominal ID .119 OD .263 T .017; -38 #8 nominal ID .172 OD .333 T .021. Do not apply the internal dash sequence or material group to external MS35335 entries.
+- **FINAL-MS35335-G — MS35335 revision G government drawing, supplier mirror**: https://www.fastenerz.com/specs/ms35335.pdf
+  - February 2, 2004, three sheets reviewed. -57 #4, ID .115–.123 OD .245–.260 thickness .015–.019; -59 #8, ID .168–.176 OD .365–.381 thickness .018–.023. Both are passivated corrosion-resistant steel UNS S41000, not cadmium-plated carbon steel. Public table uses limits, not nominal midpoints.
+- Scope: 29 exact stocked ordering identifiers across ten roots and seven guides (six new, MS21042 expanded). Groups: NAS662 7; NAS8100/NAS8101 5; MS21044/MS21042 6; MS21075/MS21077 5; MS27183/MS35333/MS35335 6. All original identifiers preserved. Custom BMFQ item omitted. No seal families added. No quantities, customer details, lot information, prices or sales metrics published. No unresolved placeholders.

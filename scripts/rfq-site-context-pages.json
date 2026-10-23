@@ -172,8 +172,16 @@
     "prefill": "MS20605 nonstructural flush blind rivets\n"
   },
   "Reference-MS21042.html": {
-    "title": "MS21042 self-locking nuts",
-    "prefill": "MS21042 self-locking nuts\n"
+    "title": "MS21042 reduced-height locking nuts",
+    "prefill": "MS21042 reduced-height locking nuts\n"
+  },
+  "Reference-MS21044.html": {
+    "title": "MS21044 regular-height insert locknuts",
+    "prefill": "MS21044 regular-height insert locknuts\n"
+  },
+  "Reference-MS21075-MS21077.html": {
+    "title": "MS21075 and MS21077 floating nutplates",
+    "prefill": "MS21075 and MS21077 floating nutplates\n"
   },
   "Reference-MS21076.html": {
     "title": "MS21076 low-height floating nutplates",
@@ -195,6 +203,10 @@
     "title": "MS24693 100-degree flat-head machine screws",
     "prefill": "MS24693 100-degree flat-head machine screws\n"
   },
+  "Reference-MS27183.html": {
+    "title": "MS27183 flat steel washers",
+    "prefill": "MS27183 flat steel washers\n"
+  },
   "Reference-MS35206.html": {
     "title": "MS35206 pan-head machine screws",
     "prefill": "MS35206 pan-head machine screws\n"
@@ -202,6 +214,10 @@
   "Reference-MS35307-MS35308.html": {
     "title": "MS35307 and MS35308 hex cap screws",
     "prefill": "MS35307 and MS35308 hex cap screws\n"
+  },
+  "Reference-MS35333-MS35335.html": {
+    "title": "MS35333 and MS35335 tooth-lock washers",
+    "prefill": "MS35333 and MS35335 tooth-lock washers\n"
   },
   "Reference-MS35338.html": {
     "title": "MS35338 helical spring lock washers",
@@ -259,9 +275,17 @@
     "title": "NAS620 reduced-outside-diameter flat washers",
     "prefill": "NAS620 reduced-outside-diameter flat washers\n"
   },
+  "Reference-NAS662.html": {
+    "title": "NAS662 miniature flat-head screws",
+    "prefill": "NAS662 miniature flat-head screws\n"
+  },
   "Reference-NAS671.html": {
     "title": "NAS671 small-pattern plain hex nuts",
     "prefill": "NAS671 small-pattern plain hex nuts\n"
+  },
+  "Reference-NAS8100-NAS8101.html": {
+    "title": "NAS8100 and NAS8101 A286 pan-head screws",
+    "prefill": "NAS8100 and NAS8101 A286 pan-head screws\n"
   },
   "Resources-Mil-Spec-Cross-Reference.html": {
     "title": "Mil-Spec specification cross-reference",
