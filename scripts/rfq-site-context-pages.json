@@ -135,6 +135,10 @@
     "title": "Mil-Spec washers",
     "prefill": "Mil-Spec washers\n"
   },
+  "Reference-MS15795.html": {
+    "title": "MS15795 stainless flat washers",
+    "prefill": "MS15795 stainless flat washers\n"
+  },
   "Reference-MS16555-MS16556.html": {
     "title": "MS16555 and MS16556 dowel pins",
     "prefill": "MS16555 and MS16556 dowel pins\n"
@@ -215,6 +219,10 @@
     "title": "MS51957 pan head machine screws",
     "prefill": "MS51957 pan head machine screws\n"
   },
+  "Reference-MS51959.html": {
+    "title": "MS51959 82-degree flat-head machine screws",
+    "prefill": "MS51959 82-degree flat-head machine screws\n"
+  },
   "Reference-NAS1130.html": {
     "title": "NAS1130 tangless helical-coil inserts",
     "prefill": "NAS1130 tangless helical-coil inserts\n"
@@ -230,6 +238,10 @@
   "Reference-NAS1399.html": {
     "title": "NAS1399 flush-head locked-spindle blind rivets",
     "prefill": "NAS1399 flush-head locked-spindle blind rivets\n"
+  },
+  "Reference-NAS1676.html": {
+    "title": "NAS1676 hi-collar spring lock washers",
+    "prefill": "NAS1676 hi-collar spring lock washers\n"
   },
   "Reference-NAS1791.html": {
     "title": "NAS1791 floating replaceable-element nutplates",

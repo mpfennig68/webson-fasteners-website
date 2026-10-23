@@ -1,9 +1,9 @@
 {
-  "series": 122,
+  "series": 123,
   "families": 14,
   "document_records": 28,
-  "technical_rows": 323,
-  "guides": 30,
+  "technical_rows": 345,
+  "guides": 33,
   "glossary_terms": 46,
   "pages": [
     "Resources-Mil-Spec-Reference.html",
@@ -36,6 +36,9 @@
     "Reference-NAS1399.html",
     "Reference-MS35206.html",
     "Reference-MS24693.html",
+    "Reference-MS51959.html",
+    "Reference-MS15795.html",
+    "Reference-NAS1676.html",
     "Reference-MS35338.html",
     "Reference-NAS620.html",
     "Reference-AN3.html",

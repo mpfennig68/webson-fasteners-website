@@ -71,7 +71,7 @@
       "root": "MS51959",
       "description": "82° flat cross-recessed machine screws, corrosion-resistant steel, UNC",
       "family": "Machine screws",
-      "source": "D-MS51959"
+      "source": "MS51959-D"
     },
     {
       "root": "MS51960",
@@ -125,7 +125,7 @@
       "root": "MS15795",
       "description": "Flat washers",
       "family": "Washers",
-      "source": "K"
+      "source": "MS15795-G"
     },
     {
       "root": "MS27183",
@@ -732,6 +732,12 @@
       "description": "Free-running and screw-locking tangless helical-coil inserts",
       "family": "Threaded inserts",
       "source": "KATO-PARTS"
+    },
+    {
+      "root": "NAS1676",
+      "description": "Hi-collar helical spring lock washers",
+      "family": "Washers",
+      "source": "NAS1676-ADOPT"
     }
   ],
   "cross_references": [
@@ -1337,6 +1343,26 @@
       "name": "Bollhoff Aerospace Buyers Directory, issue 3 August 2012",
       "url": "https://media.boellhoff.com/files/pdf1/blue-book-en-0130.pdf",
       "scope": "NAS1130 page 54: tangless free-running and screw-locking, P cadmium and D dry-film versus self finish. No current issue or named brand of Webson stock asserted. Reviewed 2026-10-22."
+    },
+    "MS51959-D": {
+      "name": "MS51959 revision D government drawing, supplier-hosted copy",
+      "url": "https://www.fastenerz.com/specs/ms51959.pdf",
+      "scope": "April 25, 1997, four sheets visually reviewed. Table I confirms selected -1 through -5 and -12 through -17 thread/length mappings; 82-degree head; UNC-2A. Unsuffixed selected parts are passivated 300-series CRES. Reviewed 2026-10-22."
+    },
+    "MS15795-G": {
+      "name": "MS15795 revision G government drawing, supplier-hosted copy",
+      "url": "https://www.fastenerz.com/specs/ms15795.pdf",
+      "scope": "July 10, 1986, eight sheets visually reviewed. Selected 803,805,806,807,808,810,812,813 are the 300-series CRES group. Nominal ID, OD and thickness from Table I, not measured limits. B black-oxide finish; unsuffixed selected parts passivated. Manufacturer BILD table has misleading column labels; government drawing controls this reference. Reviewed 2026-10-22."
+    },
+    "MS51848-E": {
+      "name": "MS51848 revision E government drawing, supplier-hosted copy",
+      "url": "https://www.fastenerz.com/specs/ms51848e.pdf",
+      "scope": "December 13, 1993, two sheets visually reviewed. Table II specifically maps NAS1676C0/C2/C4 to MS51848-41/-43/-45; Table I identifies #0/#2/#4 and CRES group. Used for selected nominal size and material identification only. NAS1676 dimensions and tolerances are not copied from the replacement standard. No blanket substitution claim. Reviewed 2026-10-22."
+    },
+    "NAS1676-ADOPT": {
+      "name": "NAS1676 government adoption notice, supplier-hosted copy",
+      "url": "https://www.fastenerz.com/specs/nas1676.pdf",
+      "scope": "Primary government notice identifies lock-spring, helical, hi-collar construction. Adoption dated September 29, 1995. This is an adoption notice, not the full NAS standard. Reviewed 2026-10-22."
     }
   },
   "shoulder_socket": [
@@ -2360,6 +2386,43 @@
         "NAS1130-08L20",
         "NAS1130-06-10"
       ]
+    },
+    "Reference-MS51959.html": {
+      "description": "MS51959 82-degree flat-head machine screw",
+      "parts": [
+        "MS51959-13",
+        "MS51959-17",
+        "MS51959-1",
+        "MS51959-12",
+        "MS51959-15",
+        "MS51959-4",
+        "MS51959-5",
+        "MS51959-3",
+        "MS51959-2",
+        "MS51959-14"
+      ]
+    },
+    "Reference-MS15795.html": {
+      "description": "MS15795 flat washer",
+      "parts": [
+        "MS15795-803B",
+        "MS15795-806B",
+        "MS15795-813",
+        "MS15795-805",
+        "MS15795-803",
+        "MS15795-810",
+        "MS15795-812",
+        "MS15795-808B",
+        "MS15795-807"
+      ]
+    },
+    "Reference-NAS1676.html": {
+      "description": "NAS1676 hi-collar spring lock washer",
+      "parts": [
+        "NAS1676C4",
+        "NAS1676C2",
+        "NAS1676C0"
+      ]
     }
   },
   "blind_rivet_sizes": {
@@ -2824,6 +2887,68 @@
         "length": "7/16",
         "configuration": "Passivated CRES"
       }
+    ],
+    "MS51959": [
+      {
+        "part": "MS51959-13",
+        "thread": "4-40 UNC-2A",
+        "length": "1/4",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS51959-17",
+        "thread": "4-40 UNC-2A",
+        "length": "1/2",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS51959-1",
+        "thread": "2-56 UNC-2A",
+        "length": "1/8",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS51959-12",
+        "thread": "4-40 UNC-2A",
+        "length": "3/16",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS51959-15",
+        "thread": "4-40 UNC-2A",
+        "length": "3/8",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS51959-4",
+        "thread": "2-56 UNC-2A",
+        "length": "5/16",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS51959-5",
+        "thread": "2-56 UNC-2A",
+        "length": "3/8",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS51959-3",
+        "thread": "2-56 UNC-2A",
+        "length": "1/4",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS51959-2",
+        "thread": "2-56 UNC-2A",
+        "length": "3/16",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS51959-14",
+        "thread": "4-40 UNC-2A",
+        "length": "5/16",
+        "configuration": "Passivated 300-series CRES"
+      }
     ]
   },
   "stocked_washer_sizes": {
@@ -3117,6 +3242,97 @@
         "size": "5/16",
         "thickness": "0.016",
         "configuration": "Aluminum; no finish"
+      }
+    ],
+    "MS15795": [
+      {
+        "part": "MS15795-803B",
+        "size": "#4",
+        "inside_diameter": "0.125",
+        "outside_diameter": "0.250",
+        "thickness": "0.022",
+        "configuration": "Black-oxide 300-series CRES"
+      },
+      {
+        "part": "MS15795-806B",
+        "size": "#6",
+        "inside_diameter": "0.156",
+        "outside_diameter": "0.375",
+        "thickness": "0.049",
+        "configuration": "Black-oxide 300-series CRES"
+      },
+      {
+        "part": "MS15795-813",
+        "size": "3/8",
+        "inside_diameter": "0.406",
+        "outside_diameter": "0.812",
+        "thickness": "0.065",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS15795-805",
+        "size": "#6",
+        "inside_diameter": "0.156",
+        "outside_diameter": "0.312",
+        "thickness": "0.035",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS15795-803",
+        "size": "#4",
+        "inside_diameter": "0.125",
+        "outside_diameter": "0.250",
+        "thickness": "0.022",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS15795-810",
+        "size": "1/4",
+        "inside_diameter": "0.281",
+        "outside_diameter": "0.625",
+        "thickness": "0.065",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS15795-812",
+        "size": "5/16",
+        "inside_diameter": "0.344",
+        "outside_diameter": "0.688",
+        "thickness": "0.065",
+        "configuration": "Passivated 300-series CRES"
+      },
+      {
+        "part": "MS15795-808B",
+        "size": "#10",
+        "inside_diameter": "0.219",
+        "outside_diameter": "0.438",
+        "thickness": "0.049",
+        "configuration": "Black-oxide 300-series CRES"
+      },
+      {
+        "part": "MS15795-807",
+        "size": "#8",
+        "inside_diameter": "0.188",
+        "outside_diameter": "0.375",
+        "thickness": "0.049",
+        "configuration": "Passivated 300-series CRES"
+      }
+    ],
+    "NAS1676": [
+      {
+        "part": "NAS1676C4",
+        "size": "#4",
+        "configuration": "Hi-collar helical spring; CRES"
+      },
+      {
+        "part": "NAS1676C2",
+        "size": "#2",
+        "configuration": "Hi-collar helical spring; CRES"
+      },
+      {
+        "part": "NAS1676C0",
+        "size": "#0",
+        "configuration": "Hi-collar helical spring; CRES"
       }
     ]
   },

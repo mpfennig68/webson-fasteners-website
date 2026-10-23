@@ -710,3 +710,16 @@ Supersedes the unresolved identification notes above.
 - MS20426AD3-5.5: owner-provided supplier listing https://military-fasteners.com/products/ms20426ad3-5-5-solid-rivet identifies 0.34375 inch (11/32) fastener length, 0.09375 inch (3/32) shank and 2117 aluminum. Retrieved supplier's own product description; exact decimal part notation retained.
 - MS35206-213NP: owner directs that NP variant not be marketed. Removed from public stock data and RFQ allowlist. Base MS35206-213 remains.
 - Removed unresolved-table placeholder wording from all generated stocked pin, rivet and insert tables.
+
+
+## Stocked 82-degree screws and washer references — October 22, 2026
+
+- **MS51959-D — MS51959 revision D government drawing, supplier-hosted copy**: https://www.fastenerz.com/specs/ms51959.pdf
+  - April 25, 1997, four sheets visually reviewed. Table I confirms selected -1 through -5 and -12 through -17 thread/length mappings; 82-degree head; UNC-2A. Unsuffixed selected parts are passivated 300-series CRES.
+- **MS15795-G — MS15795 revision G government drawing, supplier-hosted copy**: https://www.fastenerz.com/specs/ms15795.pdf
+  - July 10, 1986, eight sheets visually reviewed. Selected 803,805,806,807,808,810,812,813 are the 300-series CRES group. Nominal ID, OD and thickness from Table I, not measured limits. B black-oxide finish; unsuffixed selected parts passivated. Manufacturer BILD table has misleading column labels; government drawing controls this reference.
+- **MS51848-E — MS51848 revision E government drawing, supplier-hosted copy**: https://www.fastenerz.com/specs/ms51848e.pdf
+  - December 13, 1993, two sheets visually reviewed. Table II specifically maps NAS1676C0/C2/C4 to MS51848-41/-43/-45; Table I identifies #0/#2/#4 and CRES group. Used for selected nominal size and material identification only. NAS1676 dimensions and tolerances are not copied from the replacement standard. No blanket substitution claim.
+- **NAS1676-ADOPT — NAS1676 government adoption notice, supplier-hosted copy**: https://www.fastenerz.com/specs/nas1676.pdf
+  - Primary government notice identifies lock-spring, helical, hi-collar construction. Adoption dated September 29, 1995. This is an adoption notice, not the full NAS standard.
+- Original stock workbook supplies exact ordering identifiers and stocked status only. Public tables contain no quantities, prices, revenue, customers or locations. MS51959: 10 rows; MS15795: 9 rows; NAS1676: 3 rows. No unresolved placeholders published.
