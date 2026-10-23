@@ -43,3 +43,11 @@ textarea.form-field{resize:vertical;min-height:130px}
   .site-footer>div:first-child{padding:40px 24px!important;grid-template-columns:1fr!important}
   .site-footer>div:last-child{padding:18px 24px!important}
 }
+
+/* Shared site navigation; active section stays consistent on generated pages. */
+.nav-links>a{color:#5b564c;font-weight:500;border-bottom:2px solid transparent;padding-bottom:3px}
+.nav-links>a.nav-active{color:#2a2d6b;font-weight:600;border-bottom-color:#2a2d6b}
+.site-skip{position:fixed;left:16px;top:-120px;z-index:100;background:#2a2d6b;color:#faf8f3;padding:12px 18px;font-size:14px}
+.site-skip:focus{top:12px;color:#faf8f3}
+.site-nav a:focus-visible,.site-footer a:focus-visible{outline:2px solid #2a2d6b;outline-offset:4px}
+#main{scroll-margin-top:120px}

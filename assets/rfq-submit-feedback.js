@@ -35,11 +35,11 @@
         status.textContent = 'Request received. Opening your confirmation…';
         window.location.assign('/thank-you.html');
       } else {
-        status.textContent = 'Your request was not accepted. Please check your details and try again, or email Matthew@websonfasteners.com or call (631) 243-1800.';
+        status.textContent = 'Your request was not accepted. Please check your details and try again, or email info@websonfasteners.com or call (631) 243-1800.';
         reset();
       }
     } catch (error) {
-      status.textContent = 'We could not confirm whether your request was received. Your entries are still here. To avoid a duplicate, please email Matthew@websonfasteners.com or call (631) 243-1800 before submitting again.';
+      status.textContent = 'We could not confirm whether your request was received. Your entries are still here. To avoid a duplicate, please email info@websonfasteners.com or call (631) 243-1800 before submitting again.';
       reset();
     } finally {
       window.clearTimeout(slow);

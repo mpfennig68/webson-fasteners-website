@@ -4,7 +4,7 @@ The custom product landing page covers component types and buying requirements. 
 
 Capabilities are drawn from the previously published custom product/service pages. Webson remains identified as a distributor coordinating qualified manufacturing partners. No new process qualification, engineering service, tolerance capability, lead-time commitment, MOQ or stock promise is introduced.
 
-The existing product image is explicitly captioned as illustrative. No customer case study or completed-part photograph has been verified in this checkout. Add actual project examples only with approved photographs, descriptions and permission; do not relabel illustrative imagery as evidence of past production.
+The existing product image is explicitly captioned as illustrative. No customer case study or completed-part photograph has been verified in this checkout. The user has declined customer photographs and project descriptions because of confidentiality. Do not request these as a future SEO step or relabel illustrative imagery as evidence of past production.
 
 RFQ links use the existing page-context allowlist. Drawings are emailed to info@websonfasteners.com with company and part number; Quote.html and Formcarry are unchanged. No live form was submitted during QA.
 

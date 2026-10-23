@@ -1,8 +1,9 @@
 """Carry page context into RFQs without intercepting native form submission."""
 from pathlib import Path
-import re,json,html
+import re,json,html,runpy
 W=Path(__file__).resolve().parents[1]
 def clean(s):return ' '.join(html.unescape(re.sub('<[^>]+>',' ',s)).split()).rstrip('.')
+runpy.run_path(str(W/'scripts/site-chrome.py'))['apply']()
 pages={}
 for path in sorted(W.glob('*.html')):
  s=path.read_text()
@@ -56,3 +57,6 @@ if 'src="assets/rfq-site-context.js"' not in s:s=s.replace('<script src="assets/
 p.write_text(s)
 (W/'scripts/rfq-site-context-pages.json').write_text(json.dumps(pages,indent=2,ensure_ascii=False)+'\n')
 print('RFQ page context available for',len(pages),'content pages.')
+
+# Keep canonical sitemap coverage in step with all page generators.
+runpy.run_path(str(W/'scripts/build-sitemap.py'))['build']()
