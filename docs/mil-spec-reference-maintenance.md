@@ -39,3 +39,6 @@ NAS671 and NAS1291 are now directory series; MS21083 now has its own guide. Data
 
 
 The buyer’s guide is authored in scripts/mil-spec-buyers-guide.py and invoked by the main generator. Edit it there, then run python scripts/build-mil-spec-reference.py. The commercial supplier page is maintained directly with assets/mil-spec-landing.css. Keep FAQ JSON-LD identical to visible supplier answers. Reference pages inherit the supplier nav/footer. Recheck certificate validity and public RFQ file instructions before updating certification or upload claims.
+
+
+Layout revision 2026-10-22: reference navigation uses six concise destinations; glossary and materials/finishes remain linked in the guide and contextual resources. Series without a detailed guide render a plain series label and blank Resource cell. The renderer combines dimension and identification content in one responsive section on 23 pages; the preserved MS51957 source is unpacked before rebuilding to keep builds idempotent. Do not restore the decorative supplier identity card. The buyer guide keeps a plain question index, now with stock availability, photo identification and unlisted-parts questions.

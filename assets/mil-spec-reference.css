@@ -11,3 +11,8 @@
 .ref-rfq-template{white-space:pre-wrap;overflow-wrap:anywhere;font:13px/2 "IBM Plex Mono",monospace;background:#fffdf8;border:1px solid var(--ref-rule);padding:22px;margin:22px 0;color:var(--ref-ink)}
 
 .ref-dimension-figure{margin:0;max-width:760px}.ref-dimension-figure img{display:block;width:100%;height:auto;background:#faf8f3;border:1px solid var(--ref-rule)}.ref-dimension-figure figcaption{font-size:14px;line-height:1.8;color:var(--ref-muted);padding-top:16px}.ref-section .ref-diagram-note{font-size:12px;margin-top:14px}
+
+/* Compact resource menu and a single identification/dimensions section. */
+.ref-subnav{gap:8px 26px;font-size:13px;padding-top:16px}.ref-subnav a{white-space:nowrap;padding:6px 0}.ref-part-grid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:34px;align-items:start}.ref-part-overview .ref-section{padding:0;border:0}.ref-part-copy .ref-kicker{display:none}.ref-part-overview h2{font-size:27px}.ref-part-visual .ref-dimension-figure{max-width:none}.ref-part-visual .ref-diagram-note,.ref-part-visual figcaption{font-size:12px;line-height:1.7}.ref-part-copy p{font-size:14px}.ref-part-visual h2{font-size:23px}.ref-part-copy .ref-links{grid-template-columns:1fr}.ref-part-overview .ref-table-wrap{max-width:100%}
+@media(max-width:900px){.ref-subnav{gap:8px 20px;font-size:12px}.ref-part-grid{gap:25px;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr)}}
+@media(max-width:640px){.ref-subnav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:5px 18px}.ref-subnav a{white-space:normal;width:fit-content}.ref-part-grid{grid-template-columns:1fr;gap:25px}.ref-part-overview h2{font-size:25px!important}.ref-part-visual h2{font-size:22px!important}}

@@ -30,6 +30,15 @@ DIAGRAM_PAGES={'Reference-MS15795.html':'washer','Reference-MS16995.html':'socke
 def diagram(kind):
  asset,title,caption=DIAGRAMS[kind]
  return section(title,'<figure class="ref-dimension-figure"><img src="assets/diagrams/'+asset+'" alt="'+h(title)+'" width="700" height="300" loading="lazy"><figcaption>'+h(caption)+'</figcaption></figure><p class="ref-diagram-note">Schematic only; not to scale. Letter labels are keys for this illustration. Use the applicable part specification for dimensions, tolerances and measurement conventions.</p>','DIMENSION GUIDE')
+def combine_part_overview(body):
+ # Share one full-width section; keep the original identification section intact.
+ visual=re.search(r'<section class="ref-section "><p class="ref-kicker">// DIMENSION GUIDE</p>(.*?)</section>',body,re.S)
+ identification=re.search(r'<section class="ref-section "><p class="ref-kicker">// (?:PART IDENTIFICATION|IDENTIFICATION|SERIES OVERVIEW)</p>.*?</section>',body,re.S)
+ if not visual or not identification:return body
+ combined='<section class="ref-section ref-part-overview"><p class="ref-kicker">// DIMENSIONS &amp; PART IDENTIFICATION</p><div class="ref-part-grid"><div class="ref-part-visual">'+visual[1]+'</div><div class="ref-part-copy">'+identification[0]+'</div></div></section>'
+ body=body.replace(identification[0],'',1)
+ return body.replace(visual[0],combined,1)
+
 def page(file,title,desc,heading,intro,body):
  crumbs=[('Home','index.html'),('Mil-Spec Reference','Resources-Mil-Spec-Reference.html')]
  if file!='Resources-Mil-Spec-Reference.html':crumbs.append((heading,file))
@@ -37,6 +46,7 @@ def page(file,title,desc,heading,intro,body):
  ld={'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':n,'item':URL+u}for i,(n,u)in enumerate(crumbs)]}
  article={'@context':'https://schema.org','@type':'WebPage','name':title,'description':desc,'url':URL+file,'inLanguage':'en-US','publisher':{'@type':'Organization','name':'Webson Fasteners','url':URL}}
  if file in DIAGRAM_PAGES and 'ref-dimension-figure' not in body:body=diagram(DIAGRAM_PAGES[file])+body
+ body=combine_part_overview(body)
  body=re.sub(r'<p class="ref-source">.*?</p>','',body,flags=re.S)
  body=re.sub(r'<a href="https?://[^"]+"[^>]*>(.*?)</a>',r'\1',body,flags=re.S)
  body=body.replace('href="Quote.html"','href="Quote.html?reference='+file+'"')
@@ -51,7 +61,7 @@ def page(file,title,desc,heading,intro,body):
 <script src="assets/mil-spec-reference.js" defer></script>
 </head><body><a class="ref-skip" href="#main">Skip to content</a>{nav}
 <main id="main" class="site-main reference-main"><header class="ref-hero"><nav class="ref-breadcrumb" aria-label="Breadcrumb">{breadcrumb}</nav><p class="ref-kicker">// TECHNICAL RESOURCES</p><h1>{heading}</h1><p class="ref-lead">{intro}</p>
-<nav class="ref-subnav" aria-label="Mil-Spec resources"><a href="Products-Mil-Spec-Hardware.html">Mil-Spec fasteners</a><a href="Resources-Mil-Spec-Guide.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Guide.html' else ''}>Buyer’s guide</a><a href="Resources-Mil-Spec-Reference.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Reference.html' else ''}>Series directory</a><a href="Resources-Mil-Spec-Cross-Reference.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Cross-Reference.html' else ''}>Cross-reference</a><a href="Resources-Mil-Spec-Tables.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Tables.html' else ''}>Technical tables</a><a href="Resources-Mil-Spec-Terminology.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Terminology.html' else ''}>Terminology</a><a href="Resources-Mil-Spec-RFQ-Checklist.html" {'aria-current="page"' if file=='Resources-Mil-Spec-RFQ-Checklist.html' else ''}>RFQ checklist</a><a href="Resources-Mil-Spec-Materials-Finishes.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Materials-Finishes.html' else ''}>Materials &amp; finishes</a><a href="Resources-Mil-Spec-Purchasing-FAQ.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Purchasing-FAQ.html' else ''}>Purchasing FAQs</a></nav></header>
+<nav class="ref-subnav" aria-label="Mil-Spec resources"><a href="Resources-Mil-Spec-Guide.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Guide.html' else ''}>Buyer’s guide</a><a href="Resources-Mil-Spec-Reference.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Reference.html' else ''}>Series directory</a><a href="Resources-Mil-Spec-Cross-Reference.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Cross-Reference.html' else ''}>Cross-reference</a><a href="Resources-Mil-Spec-Tables.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Tables.html' else ''}>Size tables</a><a href="Resources-Mil-Spec-Purchasing-FAQ.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Purchasing-FAQ.html' else ''}>Purchasing FAQs</a><a href="Resources-Mil-Spec-RFQ-Checklist.html" {'aria-current="page"' if file=='Resources-Mil-Spec-RFQ-Checklist.html' else ''}>RFQ checklist</a></nav></header>
 {body}
 {section('Have a part number or bill of material?','<p>Send the complete designation, quantity, required delivery date and documentation requirements. Webson will review your requirement for quotation.</p>'+actions(),'SOURCE WITH WEBSON','ref-tint')}
 </main>{footer}</body></html>'''
@@ -62,6 +72,7 @@ series=D['series'];cross=D['cross_references'];sources=D['sources'];generated=[]
 # Preserve the established MS51957 content while refreshing its resource navigation.
 prior=(W/'Reference-MS51957.html').read_text()
 prior_body=re.search(r'</header>(.*?)<section class="ref-section ref-tint"><p class="ref-kicker">// SOURCE WITH WEBSON',prior,re.S).group(1).strip()
+prior_body=re.sub(r'<section class="ref-section ref-part-overview">.*?<div class="ref-part-copy">(.*?)</div></div></section>',lambda m:m[1],prior_body,flags=re.S)
 prior_body=re.sub(r'<section class="ref-section "><p class="ref-kicker">// DIMENSION GUIDE</p>.*?</section>','',prior_body,flags=re.S)
 prior_body=re.sub(r'<section class="ref-section ref-stocked-selection">.*?</section>','',prior_body,flags=re.S)
 prior_body=re.sub(r'href="Quote.html\?reference=[^"]*"','href="Quote.html"',prior_body)
@@ -115,8 +126,8 @@ def filtered(headers,rows,caption,options=None,label='Product family'):
 def series_table(items,caption):
  rows=[]
  for r in items:
-  resource=r['guide']or familyfile(r['family'])
-  cells=[f'<a href="{resource}">{r["root"]}</a>',h(r['description']),h(r['family']),f'<a href="{resource}">'+('Read guide →'if r['guide']else'Family reference →')+'</a>']
+  resource=r['guide']
+  cells=[f'<a href="{resource}">{r["root"]}</a>' if resource else h(r['root']),h(r['description']),h(r['family']),f'<a href="{resource}">Read guide →</a>' if resource else '']
   rows.append({'cells':cells,'search':' '.join([r['root'],r['description'],r['family'],r['aliases'],'stainless'if'corrosion-resistant'in r['description']else'']),'family':r['family']})
  return filtered(['Series','Product description','Family','Resource'],rows,caption,sorted(set(r['family']for r in items)))
 def kv(rows,caption):return table(['Item','Reference'],rows,caption)
