@@ -59,3 +59,18 @@
 .ref-search-page .ref-global-search{margin-top:16px;padding-top:16px}
 .ref-search-page .ref-section{padding-top:30px}
 @media(max-width:640px){.ref-search-page h1{font-size:34px}.ref-search-results li .ref-search-quote{float:none;display:block;margin:14px 0}}
+
+/* Desktop: place the shared search beside the heading, at the upper right. */
+@media(min-width:1050px){
+ .reference-main .ref-hero{display:grid;grid-template-columns:minmax(0,1fr) 380px;column-gap:36px;align-items:start}
+ .ref-hero>.ref-breadcrumb{grid-column:1/-1;grid-row:1}
+ .ref-hero>.ref-kicker{grid-column:1;grid-row:2}
+ .ref-hero>h1{grid-column:1;grid-row:3}
+ .ref-hero>.ref-lead{grid-column:1;grid-row:4}
+ .ref-hero>.ref-subnav{grid-column:1/-1;grid-row:5}
+ .reference-main .ref-hero>.ref-global-search{grid-column:2;grid-row:2/5;margin:0;padding:0;border:0;min-width:0}
+ .ref-global-search-row{max-width:none}
+ .ref-hero>.ref-global-search input{font-size:13px;padding-inline:10px}
+ .ref-hero>.ref-global-search button{padding-inline:14px}
+ .ms-hero>.ms-hero-copy{grid-column:1;grid-row:2/5;min-width:0}
+}
