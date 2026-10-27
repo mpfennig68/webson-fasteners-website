@@ -27,6 +27,9 @@ part_guides={**lookup_guides,**part_guides}
 shoulders=json.loads((W/'scripts/mil-spec-data.json').read_text())
 for key,root,drive in [('shoulder_socket','MS51576','hex-socket'),('shoulder_slotted','MS51575','slotted')]:
  part_guides['Reference-'+root+'.html']={'description':root+' stainless '+drive+' shoulder screw','parts':[r['part']for r in shoulders[key]]}
+# Reference selections are explicitly allowed for quotation, without stock claims.
+for root,data in json.loads((W/'scripts/mil-spec-additional-screw-data.json').read_text()).items():
+ part_guides['Reference-'+root+'.html']={'description':data['description'],'parts':[r['part']for r in data['rows']]}
 search_index=W/'assets/mil-spec-search-index.json'
 if search_index.exists():
  part_guides['Resources-Mil-Spec-Part-Search.html']={'description':'Mil-Spec part reference','parts':[r['part']for r in json.loads(search_index.read_text())['parts']]}
