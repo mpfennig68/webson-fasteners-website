@@ -31,3 +31,6 @@
 [data-reference-block] .ref-search{flex:1 1 240px}
 [data-reference-block] .ref-filters>div:not(.ref-search){flex:0 1 175px}
 @media(max-width:640px){[data-reference-block] .ref-table-wrap{max-height:65vh}[data-reference-block] .ref-filters>div:not(.ref-search){flex:1 1 130px}[data-reference-table] th,[data-reference-table] td{padding:9px 10px}}
+
+/* Keep dimensional limits together in the purchasing tables. */
+.ref-dimension-table td:nth-child(n+2):nth-last-child(n+4){white-space:nowrap}

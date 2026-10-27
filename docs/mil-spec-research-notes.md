@@ -822,3 +822,17 @@ Primary manufacturer catalogs rechecked:
 - https://www.lyntron.com/ms-shoulder-screw-slot
 
 Extracted each catalog product row and matched all existing part, shoulder diameter, shoulder length and male-thread values (41 socket, 28 selected slotted). Added only that row's catalog material, head diameter, head length (displayed as head height), thread length and socket width where present. Decimal socket widths 0.094 and 0.1875 are retained as published. These are nominal catalog references, not tolerance/acceptance drawings. No stainless alloy, passivation, thread class, origin, DFARS or stock claim is extrapolated. Existing MS51575 selection and omitted dash 26 are preserved. Research remains excluded from deployment by _config.yml.
+
+## October 27, 2026 — MS nut, socket-screw and washer dimensions
+
+Added selected dimensional limits alongside all 39 existing stocked records across MS21042 (2), MS21044 (4), MS21083 (4), MS16995 (13), MS16996 (4) and MS35338 (12). Part identifiers, thread/length/material claims and part-specific RFQ allowlists are unchanged. No additional stocked designations or inventory quantities are published.
+
+Primary drawing verification (rendered locally and inspected, including enlarged table regions):
+- MS21044H sheet 1, September 21, 1993: https://airfasco.com/drawings/MS/MS21044/MS21044%20REV%20H.pdf . A=min/max height, B=min/max across flats including locking deformation. N04 height is .133–.157 (enlarged scan and manufacturer index agree), C06 .160–.188, N3 .208–.281, N4 .240–.360. Earlier notes' December 1991 attribution was incorrect for the linked scan.
+- MS21042M sheet 1, January 6, 1995: https://www.fastenerz.com/specs/ms21042.pdf . H=min/max height; W=min/max across flats including deformation, before lubrication. -4 H .204–.219 W .304–.316; L3 H .154–.188 W .243–.252. Earlier H/April 1997 attribution was incorrect for this linked scan.
+- MS21083H sheet 1, September 21, 1993: https://airfasco.com/drawings/MS/MS21083/MS21083H.pdf . A=min/max height; B=min/max across flats including deformation. C08 B minimum is .336, not .337. Manufacturer corroboration: https://airfasco.com/products/MS/MS21083.php and https://airfasco.com/products/MS/MS21044.php .
+- MS16995H sheets 2–3, April 25, 1997: https://fastenerz.com/specs/ms16995h.pdf . A=head diameter, H=head height, J=socket width across flats. Transcribed only selected #2, #4, #6, #8 and 1/4 limits. Thread length and hex-key nominal size are not inferred from J.
+- MS16996F sheet 1, November 24, 1993: https://www.fastenerz.com/specs/ms16996.pdf . Selected #0 and #10 A/H/J limits. Fine-thread #10 head maximum is .313; coarse-thread MS16995 #10 is .312. Original AAE mirror returned HTTP 403 for local download, so the same government drawing on Fastenerz was used. Earlier June 1993 attribution was incorrect for the linked scan.
+- MS35338 uses existing reviewed revision L dimensional data in scripts/mil-spec-lookup-data.json. Each of the 12 stock dash numbers is matched to exactly one reviewed material/dash row before attaching its ID limits, OD maximum and section-thickness limits. Section thickness is not free spring height.
+
+These supersede the earlier source-attribution dates for the same scans. They are historical reference issues, not claims of current standard revisions. Public tables label limits, nominal lengths and maxima distinctly. Sources remain repository-only; all customer-directed links stay within Webson.

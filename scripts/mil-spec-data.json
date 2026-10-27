@@ -1283,7 +1283,7 @@
     "MS16996-F": {
       "name": "MS16996 revision F primary government drawing, distributor mirror",
       "url": "https://www.aaestore.com.au/media/specs/MS16996.pdf",
-      "scope": "June 24, 1993. Two-sheet scan visually reviewed: -2 0-80 x 3/16; -10, -12, -14 are 10-32 x 1/2, 3/4, 1. UNF-3A; unsuffixed selected parts passivated. Reviewed 2026-10-22."
+      "scope": "November 24, 1993. Two-sheet scan visually reviewed: -2 0-80 x 3/16; -10, -12, -14 are 10-32 x 1/2, 3/4, 1. UNF-3A; unsuffixed selected parts passivated. Reviewed 2026-10-22."
     },
     "MW-MS16996-2": {
       "name": "MW Components / Ideal Fasteners MS16996-2 manufacturer detail",
@@ -1438,12 +1438,12 @@
     "FINAL-MS21044-H": {
       "name": "MS21044 revision H government drawing, Airfasco manufacturer mirror",
       "url": "https://airfasco.com/drawings/MS/MS21044/MS21044%20REV%20H.pdf",
-      "scope": "December 20, 1991, three sheets visually reviewed. Selected sizes 04=4-40,06=6-32,3=10-32,4=1/4-28; UNJC/UNJF-3B. Regular height, nonmetallic insert. C passivated CRES; N cadmium-plated steel. No current-issue claim. Reviewed 2026-10-22."
+      "scope": "September 21, 1993, three sheets visually reviewed. Selected sizes 04=4-40,06=6-32,3=10-32,4=1/4-28; UNJC/UNJF-3B. Regular height, nonmetallic insert. C passivated CRES; N cadmium-plated steel. No current-issue claim. Reviewed 2026-10-22."
     },
     "FINAL-MS21042-H": {
-      "name": "MS21042 revision H government drawing, supplier mirror",
+      "name": "MS21042 revision M government drawing, supplier mirror",
       "url": "https://www.fastenerz.com/specs/ms21042.pdf",
-      "scope": "April 30, 1997, two sheets visually reviewed. Selected -4=1/4-28 UNJF-3B, L3=10-32 UNJF-3B. Non-CRES steel, cadmium plated; L dry-film lubricant. Reduced-height/reduced-hex all-metal locknut. Existing guide sections retained. Reviewed 2026-10-22."
+      "scope": "January 6, 1995, two sheets visually reviewed. Selected -4=1/4-28 UNJF-3B, L3=10-32 UNJF-3B. Non-CRES steel, cadmium plated; L dry-film lubricant. Reduced-height/reduced-hex all-metal locknut. Existing guide sections retained. Reviewed 2026-10-22. Revision M confirmed from the scan; legacy source key retained."
     },
     "FINAL-MS21075-H": {
       "name": "MS21075 revision H government drawing, Airfasco manufacturer mirror",
@@ -1479,6 +1479,26 @@
       "name": "MS35335 revision G government drawing, supplier mirror",
       "url": "https://www.fastenerz.com/specs/ms35335.pdf",
       "scope": "February 2, 2004, three sheets reviewed. -57 #4, ID .115–.123 OD .245–.260 thickness .015–.019; -59 #8, ID .168–.176 OD .365–.381 thickness .018–.023. Both are passivated corrosion-resistant steel UNS S41000, not cadmium-plated carbon steel. Public table uses limits, not nominal midpoints. Reviewed 2026-10-22."
+    },
+    "OCT27-MS21044-H": {
+      "name": "MS21044H government drawing, manufacturer-hosted scan",
+      "url": "https://airfasco.com/drawings/MS/MS21044/MS21044%20REV%20H.pdf",
+      "scope": "Sheet 1 Table I, revision H September 21, 1993. Selected A height and B across-flats min/max, including locking deformation. Visually checked October 27, 2026."
+    },
+    "OCT27-MS21042-M": {
+      "name": "MS21042M government drawing, supplier-hosted scan",
+      "url": "https://www.fastenerz.com/specs/ms21042.pdf",
+      "scope": "Sheet 1 Table I, revision M January 6, 1995. Selected H height and W across-flats min/max. Across-flats values include locking deformation and are before lubrication. Visually checked October 27, 2026; prior H/1997 attribution corrected in research notes."
+    },
+    "OCT27-MS21083-H": {
+      "name": "MS21083H government drawing, manufacturer-hosted scan",
+      "url": "https://airfasco.com/drawings/MS/MS21083/MS21083H.pdf",
+      "scope": "Sheet 1 Table I, revision H September 21, 1993. Selected A height and B across-flats min/max including locking deformation. Visually checked October 27, 2026."
+    },
+    "OCT27-MS16996-F": {
+      "name": "MS16996F government drawing, alternate supplier mirror",
+      "url": "https://www.fastenerz.com/specs/ms16996.pdf",
+      "scope": "Sheet 1 Table I, revision F November 24, 1993. Selected 0-80 and 10-32 head diameter A, head height H, socket AF J min/max. Visually checked October 27, 2026. Prior June attribution corrected. Do not transfer .312 head maximum from MS16995 #10; MS16996F lists .313."
     }
   },
   "shoulder_socket": [
@@ -2442,56 +2462,76 @@
       {
         "part": "MS21083N16",
         "thread": "1-12 UNJF-3B",
-        "material": "Cadmium-plated steel"
+        "material": "Cadmium-plated steel",
+        "height_limits": "0.516–0.578",
+        "across_flats_limits": "1.427–1.440"
       },
       {
         "part": "MS21083N3",
         "thread": "10-32 UNJF-3B",
-        "material": "Cadmium-plated steel"
+        "material": "Cadmium-plated steel",
+        "height_limits": "0.157–0.188",
+        "across_flats_limits": "0.367–0.376"
       },
       {
         "part": "MS21083N12",
         "thread": "3/4-16 UNJF-3B",
-        "material": "Cadmium-plated steel"
+        "material": "Cadmium-plated steel",
+        "height_limits": "0.391–0.422",
+        "across_flats_limits": "1.052–1.064"
       },
       {
         "part": "MS21083C08",
         "thread": "8-32 UNJC-3B",
-        "material": "Passivated CRES"
+        "material": "Passivated CRES",
+        "height_limits": "0.157–0.188",
+        "across_flats_limits": "0.336–0.345"
       }
     ],
     "MS21044": [
       {
         "part": "MS21044C06",
         "thread": "6-32 UNJC-3B",
-        "material": "Passivated CRES; nonmetallic insert"
+        "material": "Passivated CRES; nonmetallic insert",
+        "height_limits": "0.160–0.188",
+        "across_flats_limits": "0.305–0.313"
       },
       {
         "part": "MS21044N04",
         "thread": "4-40 UNJC-3B",
-        "material": "Cadmium-plated steel; nonmetallic insert"
+        "material": "Cadmium-plated steel; nonmetallic insert",
+        "height_limits": "0.133–0.157",
+        "across_flats_limits": "0.243–0.251"
       },
       {
         "part": "MS21044N4",
         "thread": "1/4-28 UNJF-3B",
-        "material": "Cadmium-plated steel; nonmetallic insert"
+        "material": "Cadmium-plated steel; nonmetallic insert",
+        "height_limits": "0.240–0.360",
+        "across_flats_limits": "0.430–0.439"
       },
       {
         "part": "MS21044N3",
         "thread": "10-32 UNJF-3B",
-        "material": "Cadmium-plated steel; nonmetallic insert"
+        "material": "Cadmium-plated steel; nonmetallic insert",
+        "height_limits": "0.208–0.281",
+        "across_flats_limits": "0.367–0.376"
       }
     ],
     "MS21042": [
       {
         "part": "MS21042-4",
         "thread": "1/4-28 UNJF-3B",
-        "material": "Cadmium-plated steel; all-metal locking"
+        "material": "Cadmium-plated steel; all-metal locking",
+        "height_limits": "0.204–0.219",
+        "across_flats_limits": "0.304–0.316"
       },
       {
         "part": "MS21042L3",
         "thread": "10-32 UNJF-3B",
-        "material": "Cadmium-plated steel; all-metal locking; dry-film lubricated"
+        "material": "Cadmium-plated steel; all-metal locking; dry-film lubricated",
+        "height_limits": "0.154–0.188",
+        "across_flats_limits": "0.243–0.252"
       }
     ]
   },
@@ -3582,62 +3622,98 @@
       {
         "part": "MS35338-40",
         "size": "#4",
-        "configuration": "Plated carbon steel"
+        "configuration": "Plated carbon steel",
+        "inside_diameter_limits": ".114–.120",
+        "outside_diameter_max": ".209",
+        "section_thickness_limits": ".025–0.033"
       },
       {
         "part": "MS35338-135",
         "size": "#4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "inside_diameter_limits": ".114–.120",
+        "outside_diameter_max": ".209",
+        "section_thickness_limits": ".025–0.033"
       },
       {
         "part": "MS35338-41",
         "size": "#6",
-        "configuration": "Plated carbon steel"
+        "configuration": "Plated carbon steel",
+        "inside_diameter_limits": ".141–.148",
+        "outside_diameter_max": ".250",
+        "section_thickness_limits": ".031–0.039"
       },
       {
         "part": "MS35338-136",
         "size": "#6",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "inside_diameter_limits": ".141–.148",
+        "outside_diameter_max": ".250",
+        "section_thickness_limits": ".031–0.039"
       },
       {
         "part": "MS35338-96",
         "size": "#2",
-        "configuration": "Phosphor bronze / tin-brass option"
+        "configuration": "Phosphor bronze / tin-brass option",
+        "inside_diameter_limits": ".088–.094",
+        "outside_diameter_max": ".172",
+        "section_thickness_limits": ".020–0.028"
       },
       {
         "part": "MS35338-134",
         "size": "#2",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "inside_diameter_limits": ".088–.094",
+        "outside_diameter_max": ".172",
+        "section_thickness_limits": ".020–0.028"
       },
       {
         "part": "MS35338-141",
         "size": "3/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "inside_diameter_limits": ".377–.385",
+        "outside_diameter_max": ".680",
+        "section_thickness_limits": ".094–0.104"
       },
       {
         "part": "MS35338-139",
         "size": "1/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "inside_diameter_limits": ".252–.260",
+        "outside_diameter_max": ".487",
+        "section_thickness_limits": ".062–0.072"
       },
       {
         "part": "MS35338-137",
         "size": "#8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "inside_diameter_limits": ".167–.174",
+        "outside_diameter_max": ".293",
+        "section_thickness_limits": ".040–0.048"
       },
       {
         "part": "MS35338-42",
         "size": "#8",
-        "configuration": "Plated carbon steel"
+        "configuration": "Plated carbon steel",
+        "inside_diameter_limits": ".167–.174",
+        "outside_diameter_max": ".293",
+        "section_thickness_limits": ".040–0.048"
       },
       {
         "part": "MS35338-138",
         "size": "#10",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "inside_diameter_limits": ".193–.200",
+        "outside_diameter_max": ".334",
+        "section_thickness_limits": ".047–0.055"
       },
       {
         "part": "MS35338-39",
         "size": "#2",
-        "configuration": "Plated carbon steel"
+        "configuration": "Plated carbon steel",
+        "inside_diameter_limits": ".088–.094",
+        "outside_diameter_max": ".172",
+        "section_thickness_limits": ".020–0.028"
       }
     ],
     "NAS620": [
@@ -4132,79 +4208,118 @@
         "part": "MS16995-17B",
         "thread": "6-32 UNC-3A",
         "length": "3/8",
-        "configuration": "Black-oxide CRES"
+        "configuration": "Black-oxide CRES",
+        "head_diameter_limits": "0.218–0.226",
+        "head_height_limits": "0.134–0.138",
+        "socket_width_limits": "0.1094–0.1111"
       },
       {
         "part": "MS16995-2B",
         "thread": "2-56 UNC-3A",
         "length": "1/4",
-        "configuration": "Black-oxide CRES"
+        "configuration": "Black-oxide CRES",
+        "head_diameter_limits": "0.134–0.140",
+        "head_height_limits": "0.083–0.086",
+        "socket_width_limits": "0.0781–0.0791"
       },
       {
         "part": "MS16995-9",
         "thread": "4-40 UNC-3A",
         "length": "1/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.176–0.183",
+        "head_height_limits": "0.108–0.112",
+        "socket_width_limits": "0.0937–0.0952"
       },
       {
         "part": "MS16995-16",
         "thread": "6-32 UNC-3A",
         "length": "1/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.218–0.226",
+        "head_height_limits": "0.134–0.138",
+        "socket_width_limits": "0.1094–0.1111"
       },
       {
         "part": "MS16995-27",
         "thread": "8-32 UNC-3A",
         "length": "5/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.262–0.270",
+        "head_height_limits": "0.159–0.164",
+        "socket_width_limits": "0.1406–0.1426"
       },
       {
         "part": "MS16995-10",
         "thread": "4-40 UNC-3A",
         "length": "3/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.176–0.183",
+        "head_height_limits": "0.108–0.112",
+        "socket_width_limits": "0.0937–0.0952"
       },
       {
         "part": "MS16995-52",
         "thread": "1/4-20 UNC-3A",
         "length": "1",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.365–0.375",
+        "head_height_limits": "0.244–0.250",
+        "socket_width_limits": "0.1875–0.1900"
       },
       {
         "part": "MS16995-20",
         "thread": "6-32 UNC-3A",
         "length": "3/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.218–0.226",
+        "head_height_limits": "0.134–0.138",
+        "socket_width_limits": "0.1094–0.1111"
       },
       {
         "part": "MS16995-51",
         "thread": "1/4-20 UNC-3A",
         "length": "7/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.365–0.375",
+        "head_height_limits": "0.244–0.250",
+        "socket_width_limits": "0.1875–0.1900"
       },
       {
         "part": "MS16995-17",
         "thread": "6-32 UNC-3A",
         "length": "3/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.218–0.226",
+        "head_height_limits": "0.134–0.138",
+        "socket_width_limits": "0.1094–0.1111"
       },
       {
         "part": "MS16995-19",
         "thread": "6-32 UNC-3A",
         "length": "5/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.218–0.226",
+        "head_height_limits": "0.134–0.138",
+        "socket_width_limits": "0.1094–0.1111"
       },
       {
         "part": "MS16995-26",
         "thread": "8-32 UNC-3A",
         "length": "1/2",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.262–0.270",
+        "head_height_limits": "0.159–0.164",
+        "socket_width_limits": "0.1406–0.1426"
       },
       {
         "part": "MS16995-2",
         "thread": "2-56 UNC-3A",
         "length": "1/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.134–0.140",
+        "head_height_limits": "0.083–0.086",
+        "socket_width_limits": "0.0781–0.0791"
       }
     ],
     "MS16996": [
@@ -4212,25 +4327,37 @@
         "part": "MS16996-2",
         "thread": "0-80 UNF-3A",
         "length": "3/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.091–0.096",
+        "head_height_limits": "0.057–0.060",
+        "socket_width_limits": "0.0500–0.0510"
       },
       {
         "part": "MS16996-14",
         "thread": "10-32 UNF-3A",
         "length": "1",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.303–0.313",
+        "head_height_limits": "0.185–0.190",
+        "socket_width_limits": "0.1562–0.1587"
       },
       {
         "part": "MS16996-12",
         "thread": "10-32 UNF-3A",
         "length": "3/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.303–0.313",
+        "head_height_limits": "0.185–0.190",
+        "socket_width_limits": "0.1562–0.1587"
       },
       {
         "part": "MS16996-10",
         "thread": "10-32 UNF-3A",
         "length": "1/2",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.303–0.313",
+        "head_height_limits": "0.185–0.190",
+        "socket_width_limits": "0.1562–0.1587"
       }
     ],
     "NAS1352": [
