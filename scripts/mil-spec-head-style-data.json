@@ -1,0 +1,3487 @@
+{
+  "MS35190": {
+    "kind": "flat",
+    "description": "UNC carbon-steel cadmium-plated 82-degree flat-head screw",
+    "reviewed_issue": "MS35190F, sheets 1–2, 2 February 1976",
+    "source_url": "https://www.fastenerz.com/specs/ms35190.pdf",
+    "rows": [
+      {
+        "part": "MS35190-209",
+        "thread": "2-56",
+        "length": "0.125",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-210",
+        "thread": "2-56",
+        "length": "0.188",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-211",
+        "thread": "2-56",
+        "length": "0.250",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-212",
+        "thread": "2-56",
+        "length": "0.312",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-213",
+        "thread": "2-56",
+        "length": "0.375",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-214",
+        "thread": "2-56",
+        "length": "0.438",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-215",
+        "thread": "2-56",
+        "length": "0.500",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-216",
+        "thread": "2-56",
+        "length": "0.625",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-217",
+        "thread": "2-56",
+        "length": "0.750",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-218",
+        "thread": "2-56",
+        "length": "0.875",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-219",
+        "thread": "4-40",
+        "length": "0.125",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-220",
+        "thread": "4-40",
+        "length": "0.188",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-221",
+        "thread": "4-40",
+        "length": "0.250",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-222",
+        "thread": "4-40",
+        "length": "0.312",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-223",
+        "thread": "4-40",
+        "length": "0.375",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-224",
+        "thread": "4-40",
+        "length": "0.438",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-225",
+        "thread": "4-40",
+        "length": "0.500",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-226",
+        "thread": "4-40",
+        "length": "0.625",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-227",
+        "thread": "4-40",
+        "length": "0.750",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-228",
+        "thread": "4-40",
+        "length": "0.875",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-229",
+        "thread": "4-40",
+        "length": "1.000",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-230",
+        "thread": "4-40",
+        "length": "1.250",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-231",
+        "thread": "4-40",
+        "length": "1.500",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-232",
+        "thread": "6-32",
+        "length": "0.125",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-233",
+        "thread": "6-32",
+        "length": "0.188",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-234",
+        "thread": "6-32",
+        "length": "0.250",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-235",
+        "thread": "6-32",
+        "length": "0.312",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-236",
+        "thread": "6-32",
+        "length": "0.375",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-237",
+        "thread": "6-32",
+        "length": "0.438",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-238",
+        "thread": "6-32",
+        "length": "0.500",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-239",
+        "thread": "6-32",
+        "length": "0.625",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-240",
+        "thread": "6-32",
+        "length": "0.750",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-241",
+        "thread": "6-32",
+        "length": "0.875",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-242",
+        "thread": "6-32",
+        "length": "1.000",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-243",
+        "thread": "6-32",
+        "length": "1.250",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-244",
+        "thread": "6-32",
+        "length": "1.500",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-245",
+        "thread": "6-32",
+        "length": "1.750",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-246",
+        "thread": "6-32",
+        "length": "2.000",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-247",
+        "thread": "8-32",
+        "length": "0.125",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-248",
+        "thread": "8-32",
+        "length": "0.188",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-249",
+        "thread": "8-32",
+        "length": "0.250",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-250",
+        "thread": "8-32",
+        "length": "0.312",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-251",
+        "thread": "8-32",
+        "length": "0.375",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-252",
+        "thread": "8-32",
+        "length": "0.438",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-253",
+        "thread": "8-32",
+        "length": "0.500",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-254",
+        "thread": "8-32",
+        "length": "0.625",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-255",
+        "thread": "8-32",
+        "length": "0.750",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-256",
+        "thread": "8-32",
+        "length": "0.875",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-257",
+        "thread": "8-32",
+        "length": "1.000",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-258",
+        "thread": "8-32",
+        "length": "1.250",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-259",
+        "thread": "8-32",
+        "length": "1.500",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-260",
+        "thread": "8-32",
+        "length": "1.750",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-261",
+        "thread": "8-32",
+        "length": "2.000",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-262",
+        "thread": "8-32",
+        "length": "2.250",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-263",
+        "thread": "8-32",
+        "length": "2.500",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-264",
+        "thread": "8-32",
+        "length": "2.750",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-265",
+        "thread": "8-32",
+        "length": "3.000",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-266",
+        "thread": "10-24",
+        "length": "0.188",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-267",
+        "thread": "10-24",
+        "length": "0.250",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-268",
+        "thread": "10-24",
+        "length": "0.312",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-269",
+        "thread": "10-24",
+        "length": "0.375",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-270",
+        "thread": "10-24",
+        "length": "0.438",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-271",
+        "thread": "10-24",
+        "length": "0.500",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-272",
+        "thread": "10-24",
+        "length": "0.625",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-273",
+        "thread": "10-24",
+        "length": "0.750",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-274",
+        "thread": "10-24",
+        "length": "0.875",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-275",
+        "thread": "10-24",
+        "length": "1.000",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-276",
+        "thread": "10-24",
+        "length": "1.250",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-277",
+        "thread": "10-24",
+        "length": "1.500",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-278",
+        "thread": "10-24",
+        "length": "1.750",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-279",
+        "thread": "10-24",
+        "length": "2.000",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-280",
+        "thread": "10-24",
+        "length": "2.250",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-281",
+        "thread": "10-24",
+        "length": "2.500",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-282",
+        "thread": "10-24",
+        "length": "2.750",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-283",
+        "thread": "10-24",
+        "length": "3.000",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-284",
+        "thread": "1/4-20",
+        "length": "0.312",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-285",
+        "thread": "1/4-20",
+        "length": "0.375",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-286",
+        "thread": "1/4-20",
+        "length": "0.438",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-287",
+        "thread": "1/4-20",
+        "length": "0.500",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-288",
+        "thread": "1/4-20",
+        "length": "0.625",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-289",
+        "thread": "1/4-20",
+        "length": "0.750",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-290",
+        "thread": "1/4-20",
+        "length": "0.875",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-291",
+        "thread": "1/4-20",
+        "length": "1.000",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-292",
+        "thread": "1/4-20",
+        "length": "1.250",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-293",
+        "thread": "1/4-20",
+        "length": "1.500",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-294",
+        "thread": "1/4-20",
+        "length": "1.750",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-295",
+        "thread": "1/4-20",
+        "length": "2.000",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-296",
+        "thread": "1/4-20",
+        "length": "2.250",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-297",
+        "thread": "1/4-20",
+        "length": "2.500",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-298",
+        "thread": "1/4-20",
+        "length": "2.750",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-299",
+        "thread": "1/4-20",
+        "length": "3.000",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-300",
+        "thread": "5/16-18",
+        "length": "0.375",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-301",
+        "thread": "5/16-18",
+        "length": "0.438",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-302",
+        "thread": "5/16-18",
+        "length": "0.500",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-303",
+        "thread": "5/16-18",
+        "length": "0.625",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-304",
+        "thread": "5/16-18",
+        "length": "0.750",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-305",
+        "thread": "5/16-18",
+        "length": "0.875",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-306",
+        "thread": "5/16-18",
+        "length": "1.000",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-307",
+        "thread": "5/16-18",
+        "length": "1.250",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-308",
+        "thread": "5/16-18",
+        "length": "1.500",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-309",
+        "thread": "5/16-18",
+        "length": "1.750",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-310",
+        "thread": "5/16-18",
+        "length": "2.000",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-311",
+        "thread": "5/16-18",
+        "length": "2.250",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-312",
+        "thread": "5/16-18",
+        "length": "2.500",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-313",
+        "thread": "5/16-18",
+        "length": "2.750",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-314",
+        "thread": "5/16-18",
+        "length": "3.000",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-315",
+        "thread": "3/8-16",
+        "length": "0.500",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-316",
+        "thread": "3/8-16",
+        "length": "0.625",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-317",
+        "thread": "3/8-16",
+        "length": "0.750",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-318",
+        "thread": "3/8-16",
+        "length": "0.875",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-319",
+        "thread": "3/8-16",
+        "length": "1.000",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-320",
+        "thread": "3/8-16",
+        "length": "1.250",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-321",
+        "thread": "3/8-16",
+        "length": "1.500",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-322",
+        "thread": "3/8-16",
+        "length": "1.750",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-323",
+        "thread": "3/8-16",
+        "length": "2.000",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-324",
+        "thread": "3/8-16",
+        "length": "2.250",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-325",
+        "thread": "3/8-16",
+        "length": "2.500",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-326",
+        "thread": "3/8-16",
+        "length": "2.750",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35190-327",
+        "thread": "3/8-16",
+        "length": "3.000",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      }
+    ]
+  },
+  "MS35191": {
+    "kind": "flat",
+    "description": "UNF carbon-steel cadmium-plated 82-degree flat-head screw",
+    "reviewed_issue": "MS35191G, sheets 1–2, 26 July 1976",
+    "source_url": "https://www.fastenerz.com/specs/ms35191g.pdf",
+    "rows": [
+      {
+        "part": "MS35191-201",
+        "thread": "0-80",
+        "length": "0.125",
+        "head_diameter_max": "0.119",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-202",
+        "thread": "0-80",
+        "length": "0.188",
+        "head_diameter_max": "0.119",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-203",
+        "thread": "0-80",
+        "length": "0.250",
+        "head_diameter_max": "0.119",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-204",
+        "thread": "0-80",
+        "length": "0.312",
+        "head_diameter_max": "0.119",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-205",
+        "thread": "0-80",
+        "length": "0.375",
+        "head_diameter_max": "0.119",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-213",
+        "thread": "2-64",
+        "length": "0.125",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-214",
+        "thread": "2-64",
+        "length": "0.188",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-215",
+        "thread": "2-64",
+        "length": "0.250",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-216",
+        "thread": "2-64",
+        "length": "0.312",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-217",
+        "thread": "2-64",
+        "length": "0.375",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-218",
+        "thread": "2-64",
+        "length": "0.438",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-219",
+        "thread": "2-64",
+        "length": "0.500",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-220",
+        "thread": "2-64",
+        "length": "0.625",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-221",
+        "thread": "2-64",
+        "length": "0.750",
+        "head_diameter_max": "0.172",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-222",
+        "thread": "4-48",
+        "length": "0.125",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-223",
+        "thread": "4-48",
+        "length": "0.188",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-224",
+        "thread": "4-48",
+        "length": "0.250",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-225",
+        "thread": "4-48",
+        "length": "0.312",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-226",
+        "thread": "4-48",
+        "length": "0.375",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-227",
+        "thread": "4-48",
+        "length": "0.438",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-228",
+        "thread": "4-48",
+        "length": "0.500",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-229",
+        "thread": "4-48",
+        "length": "0.625",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-230",
+        "thread": "4-48",
+        "length": "0.750",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-231",
+        "thread": "4-48",
+        "length": "0.875",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-232",
+        "thread": "4-48",
+        "length": "1.000",
+        "head_diameter_max": "0.225",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-233",
+        "thread": "6-40",
+        "length": "0.125",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-234",
+        "thread": "6-40",
+        "length": "0.188",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-235",
+        "thread": "6-40",
+        "length": "0.250",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-236",
+        "thread": "6-40",
+        "length": "0.312",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-237",
+        "thread": "6-40",
+        "length": "0.375",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-238",
+        "thread": "6-40",
+        "length": "0.438",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-239",
+        "thread": "6-40",
+        "length": "0.500",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-240",
+        "thread": "6-40",
+        "length": "0.625",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-241",
+        "thread": "6-40",
+        "length": "0.750",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-242",
+        "thread": "6-40",
+        "length": "0.875",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-243",
+        "thread": "6-40",
+        "length": "1.000",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-244",
+        "thread": "6-40",
+        "length": "1.250",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-245",
+        "thread": "6-40",
+        "length": "1.500",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-246",
+        "thread": "6-40",
+        "length": "1.750",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-247",
+        "thread": "6-40",
+        "length": "2.000",
+        "head_diameter_max": "0.279",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-248",
+        "thread": "8-36",
+        "length": "0.125",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-249",
+        "thread": "8-36",
+        "length": "0.188",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-250",
+        "thread": "8-36",
+        "length": "0.250",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-251",
+        "thread": "8-36",
+        "length": "0.312",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-252",
+        "thread": "8-36",
+        "length": "0.375",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-253",
+        "thread": "8-36",
+        "length": "0.438",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-254",
+        "thread": "8-36",
+        "length": "0.500",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-255",
+        "thread": "8-36",
+        "length": "0.625",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-256",
+        "thread": "8-36",
+        "length": "0.750",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-257",
+        "thread": "8-36",
+        "length": "0.875",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-258",
+        "thread": "8-36",
+        "length": "1.000",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-259",
+        "thread": "8-36",
+        "length": "1.250",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-260",
+        "thread": "8-36",
+        "length": "1.500",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-261",
+        "thread": "8-36",
+        "length": "1.750",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-262",
+        "thread": "8-36",
+        "length": "2.000",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-263",
+        "thread": "8-36",
+        "length": "2.250",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-264",
+        "thread": "8-36",
+        "length": "2.500",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-265",
+        "thread": "8-36",
+        "length": "2.750",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-266",
+        "thread": "8-36",
+        "length": "3.000",
+        "head_diameter_max": "0.332",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-267",
+        "thread": "10-32",
+        "length": "0.188",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-268",
+        "thread": "10-32",
+        "length": "0.250",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-269",
+        "thread": "10-32",
+        "length": "0.312",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-270",
+        "thread": "10-32",
+        "length": "0.375",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-271",
+        "thread": "10-32",
+        "length": "0.438",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-272",
+        "thread": "10-32",
+        "length": "0.500",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-273",
+        "thread": "10-32",
+        "length": "0.625",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-274",
+        "thread": "10-32",
+        "length": "0.750",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-275",
+        "thread": "10-32",
+        "length": "0.875",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-276",
+        "thread": "10-32",
+        "length": "1.000",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-277",
+        "thread": "10-32",
+        "length": "1.250",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-278",
+        "thread": "10-32",
+        "length": "1.500",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-279",
+        "thread": "10-32",
+        "length": "1.750",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-280",
+        "thread": "10-32",
+        "length": "2.000",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-281",
+        "thread": "10-32",
+        "length": "2.250",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-282",
+        "thread": "10-32",
+        "length": "2.500",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-283",
+        "thread": "10-32",
+        "length": "2.750",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-284",
+        "thread": "10-32",
+        "length": "3.000",
+        "head_diameter_max": "0.385",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-285",
+        "thread": "1/4-28",
+        "length": "0.250",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-286",
+        "thread": "1/4-28",
+        "length": "0.312",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-287",
+        "thread": "1/4-28",
+        "length": "0.375",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-288",
+        "thread": "1/4-28",
+        "length": "0.438",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-289",
+        "thread": "1/4-28",
+        "length": "0.500",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-290",
+        "thread": "1/4-28",
+        "length": "0.625",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-291",
+        "thread": "1/4-28",
+        "length": "0.750",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-292",
+        "thread": "1/4-28",
+        "length": "0.875",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-293",
+        "thread": "1/4-28",
+        "length": "1.000",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-294",
+        "thread": "1/4-28",
+        "length": "1.250",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-295",
+        "thread": "1/4-28",
+        "length": "1.500",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-296",
+        "thread": "1/4-28",
+        "length": "1.750",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-297",
+        "thread": "1/4-28",
+        "length": "2.000",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-298",
+        "thread": "1/4-28",
+        "length": "2.250",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-299",
+        "thread": "1/4-28",
+        "length": "2.500",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-300",
+        "thread": "1/4-28",
+        "length": "2.750",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-301",
+        "thread": "1/4-28",
+        "length": "3.000",
+        "head_diameter_max": "0.507",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-302",
+        "thread": "5/16-24",
+        "length": "0.375",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-303",
+        "thread": "5/16-24",
+        "length": "0.438",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-304",
+        "thread": "5/16-24",
+        "length": "0.500",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-305",
+        "thread": "5/16-24",
+        "length": "0.625",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-306",
+        "thread": "5/16-24",
+        "length": "0.750",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-307",
+        "thread": "5/16-24",
+        "length": "0.875",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-308",
+        "thread": "5/16-24",
+        "length": "1.000",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-309",
+        "thread": "5/16-24",
+        "length": "1.250",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-310",
+        "thread": "5/16-24",
+        "length": "1.500",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-311",
+        "thread": "5/16-24",
+        "length": "1.750",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-312",
+        "thread": "5/16-24",
+        "length": "2.000",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-313",
+        "thread": "5/16-24",
+        "length": "2.250",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-314",
+        "thread": "5/16-24",
+        "length": "2.500",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-315",
+        "thread": "5/16-24",
+        "length": "2.750",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-316",
+        "thread": "5/16-24",
+        "length": "3.000",
+        "head_diameter_max": "0.635",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-317",
+        "thread": "3/8-24",
+        "length": "0.500",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-318",
+        "thread": "3/8-24",
+        "length": "0.625",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-319",
+        "thread": "3/8-24",
+        "length": "0.750",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-320",
+        "thread": "3/8-24",
+        "length": "0.875",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-321",
+        "thread": "3/8-24",
+        "length": "1.000",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-322",
+        "thread": "3/8-24",
+        "length": "1.250",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-323",
+        "thread": "3/8-24",
+        "length": "1.500",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-324",
+        "thread": "3/8-24",
+        "length": "1.750",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-325",
+        "thread": "3/8-24",
+        "length": "2.000",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-326",
+        "thread": "3/8-24",
+        "length": "2.250",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-327",
+        "thread": "3/8-24",
+        "length": "2.500",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-328",
+        "thread": "3/8-24",
+        "length": "2.750",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      },
+      {
+        "part": "MS35191-329",
+        "thread": "3/8-24",
+        "length": "3.000",
+        "head_diameter_max": "0.762",
+        "head_angle": "82°"
+      }
+    ]
+  },
+  "MS35265": {
+    "kind": "fillister",
+    "description": "UNC carbon-steel cadmium-plated drilled slotted fillister-head screw",
+    "reviewed_issue": "MS35265C, sheets 1–2, 6 March 1974",
+    "source_url": "https://www.fastenerz.com/specs/ms35265c.pdf",
+    "rows": [
+      {
+        "part": "MS35265-1",
+        "thread": "2-56",
+        "length": "0.12",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35265-2",
+        "thread": "2-56",
+        "length": "0.19",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35265-3",
+        "thread": "2-56",
+        "length": "0.25",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35265-4",
+        "thread": "2-56",
+        "length": "0.31",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35265-5",
+        "thread": "2-56",
+        "length": "0.38",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35265-6",
+        "thread": "2-56",
+        "length": "0.44",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35265-7",
+        "thread": "2-56",
+        "length": "0.50",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35265-8",
+        "thread": "2-56",
+        "length": "0.62",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35265-9",
+        "thread": "2-56",
+        "length": "0.75",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35265-10",
+        "thread": "2-56",
+        "length": "0.88",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35265-11",
+        "thread": "4-40",
+        "length": "0.12",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-12",
+        "thread": "4-40",
+        "length": "0.19",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-13",
+        "thread": "4-40",
+        "length": "0.25",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-14",
+        "thread": "4-40",
+        "length": "0.31",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-15",
+        "thread": "4-40",
+        "length": "0.38",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-16",
+        "thread": "4-40",
+        "length": "0.44",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-17",
+        "thread": "4-40",
+        "length": "0.50",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-18",
+        "thread": "4-40",
+        "length": "0.62",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-19",
+        "thread": "4-40",
+        "length": "0.75",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-20",
+        "thread": "4-40",
+        "length": "0.88",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-21",
+        "thread": "4-40",
+        "length": "1.00",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-22",
+        "thread": "4-40",
+        "length": "1.25",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-23",
+        "thread": "4-40",
+        "length": "1.50",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35265-24",
+        "thread": "6-32",
+        "length": "0.12",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-25",
+        "thread": "6-32",
+        "length": "0.19",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-26",
+        "thread": "6-32",
+        "length": "0.25",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-27",
+        "thread": "6-32",
+        "length": "0.31",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-28",
+        "thread": "6-32",
+        "length": "0.38",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-29",
+        "thread": "6-32",
+        "length": "0.44",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-30",
+        "thread": "6-32",
+        "length": "0.50",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-31",
+        "thread": "6-32",
+        "length": "0.62",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-32",
+        "thread": "6-32",
+        "length": "0.75",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-33",
+        "thread": "6-32",
+        "length": "0.88",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-34",
+        "thread": "6-32",
+        "length": "1.00",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-35",
+        "thread": "6-32",
+        "length": "1.25",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-36",
+        "thread": "6-32",
+        "length": "1.50",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-37",
+        "thread": "6-32",
+        "length": "1.75",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-38",
+        "thread": "6-32",
+        "length": "2.00",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35265-39",
+        "thread": "8-32",
+        "length": "0.12",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-40",
+        "thread": "8-32",
+        "length": "0.19",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-41",
+        "thread": "8-32",
+        "length": "0.25",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-42",
+        "thread": "8-32",
+        "length": "0.31",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-43",
+        "thread": "8-32",
+        "length": "0.38",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-44",
+        "thread": "8-32",
+        "length": "0.44",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-45",
+        "thread": "8-32",
+        "length": "0.50",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-46",
+        "thread": "8-32",
+        "length": "0.62",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-47",
+        "thread": "8-32",
+        "length": "0.75",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-48",
+        "thread": "8-32",
+        "length": "0.88",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-49",
+        "thread": "8-32",
+        "length": "1.00",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-50",
+        "thread": "8-32",
+        "length": "1.25",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-51",
+        "thread": "8-32",
+        "length": "1.50",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-52",
+        "thread": "8-32",
+        "length": "1.75",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-53",
+        "thread": "8-32",
+        "length": "2.00",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-54",
+        "thread": "8-32",
+        "length": "2.25",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-55",
+        "thread": "8-32",
+        "length": "2.50",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-56",
+        "thread": "8-32",
+        "length": "2.75",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-57",
+        "thread": "8-32",
+        "length": "3.00",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35265-58",
+        "thread": "10-24",
+        "length": "0.19",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-59",
+        "thread": "10-24",
+        "length": "0.25",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-60",
+        "thread": "10-24",
+        "length": "0.31",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-61",
+        "thread": "10-24",
+        "length": "0.38",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-62",
+        "thread": "10-24",
+        "length": "0.44",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-63",
+        "thread": "10-24",
+        "length": "0.50",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-64",
+        "thread": "10-24",
+        "length": "0.62",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-65",
+        "thread": "10-24",
+        "length": "0.75",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-66",
+        "thread": "10-24",
+        "length": "0.88",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-67",
+        "thread": "10-24",
+        "length": "1.00",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-68",
+        "thread": "10-24",
+        "length": "1.25",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-69",
+        "thread": "10-24",
+        "length": "1.50",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-70",
+        "thread": "10-24",
+        "length": "1.75",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-71",
+        "thread": "10-24",
+        "length": "2.00",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-72",
+        "thread": "10-24",
+        "length": "2.25",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-73",
+        "thread": "10-24",
+        "length": "2.50",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-74",
+        "thread": "10-24",
+        "length": "2.75",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-75",
+        "thread": "10-24",
+        "length": "3.00",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35265-76",
+        "thread": "1/4-20",
+        "length": "0.31",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-77",
+        "thread": "1/4-20",
+        "length": "0.38",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-78",
+        "thread": "1/4-20",
+        "length": "0.44",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-79",
+        "thread": "1/4-20",
+        "length": "0.50",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-80",
+        "thread": "1/4-20",
+        "length": "0.62",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-81",
+        "thread": "1/4-20",
+        "length": "0.75",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-82",
+        "thread": "1/4-20",
+        "length": "0.88",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-83",
+        "thread": "1/4-20",
+        "length": "1.00",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-84",
+        "thread": "1/4-20",
+        "length": "1.25",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-85",
+        "thread": "1/4-20",
+        "length": "1.50",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-86",
+        "thread": "1/4-20",
+        "length": "1.75",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-87",
+        "thread": "1/4-20",
+        "length": "2.00",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-88",
+        "thread": "1/4-20",
+        "length": "2.25",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-89",
+        "thread": "1/4-20",
+        "length": "2.50",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-90",
+        "thread": "1/4-20",
+        "length": "2.75",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-91",
+        "thread": "1/4-20",
+        "length": "3.00",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35265-92",
+        "thread": "5/16-18",
+        "length": "0.38",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-93",
+        "thread": "5/16-18",
+        "length": "0.44",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-94",
+        "thread": "5/16-18",
+        "length": "0.50",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-95",
+        "thread": "5/16-18",
+        "length": "0.62",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-96",
+        "thread": "5/16-18",
+        "length": "0.75",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-97",
+        "thread": "5/16-18",
+        "length": "0.88",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-98",
+        "thread": "5/16-18",
+        "length": "1.00",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-99",
+        "thread": "5/16-18",
+        "length": "1.25",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-100",
+        "thread": "5/16-18",
+        "length": "1.50",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-101",
+        "thread": "5/16-18",
+        "length": "1.75",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-102",
+        "thread": "5/16-18",
+        "length": "2.00",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-103",
+        "thread": "5/16-18",
+        "length": "2.25",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-104",
+        "thread": "5/16-18",
+        "length": "2.50",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-105",
+        "thread": "5/16-18",
+        "length": "2.75",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-106",
+        "thread": "5/16-18",
+        "length": "3.00",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35265-107",
+        "thread": "3/8-16",
+        "length": "0.50",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35265-108",
+        "thread": "3/8-16",
+        "length": "0.62",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35265-109",
+        "thread": "3/8-16",
+        "length": "0.75",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35265-110",
+        "thread": "3/8-16",
+        "length": "0.88",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35265-111",
+        "thread": "3/8-16",
+        "length": "1.00",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35265-112",
+        "thread": "3/8-16",
+        "length": "1.25",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35265-113",
+        "thread": "3/8-16",
+        "length": "1.50",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35265-114",
+        "thread": "3/8-16",
+        "length": "1.75",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35265-115",
+        "thread": "3/8-16",
+        "length": "2.00",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35265-116",
+        "thread": "3/8-16",
+        "length": "2.25",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35265-117",
+        "thread": "3/8-16",
+        "length": "2.50",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35265-118",
+        "thread": "3/8-16",
+        "length": "2.75",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35265-119",
+        "thread": "3/8-16",
+        "length": "3.00",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      }
+    ],
+    "head_geometry": [
+      {
+        "thread": "2-56",
+        "head_side_height_limits": "0.055–0.062",
+        "slot_width_limits": "0.023–0.031",
+        "drilled_hole_diameter_nominal": "0.031"
+      },
+      {
+        "thread": "4-40",
+        "head_side_height_limits": "0.072–0.079",
+        "slot_width_limits": "0.031–0.039",
+        "drilled_hole_diameter_nominal": "0.037"
+      },
+      {
+        "thread": "6-32",
+        "head_side_height_limits": "0.089–0.096",
+        "slot_width_limits": "0.039–0.048",
+        "drilled_hole_diameter_nominal": "0.046"
+      },
+      {
+        "thread": "8-32",
+        "head_side_height_limits": "0.106–0.113",
+        "slot_width_limits": "0.045–0.054",
+        "drilled_hole_diameter_nominal": "0.046"
+      },
+      {
+        "thread": "10-24",
+        "head_side_height_limits": "0.123–0.130",
+        "slot_width_limits": "0.050–0.060",
+        "drilled_hole_diameter_nominal": "0.046"
+      },
+      {
+        "thread": "1/4-20",
+        "head_side_height_limits": "0.161–0.170",
+        "slot_width_limits": "0.064–0.075",
+        "drilled_hole_diameter_nominal": "0.062"
+      },
+      {
+        "thread": "5/16-18",
+        "head_side_height_limits": "0.201–0.211",
+        "slot_width_limits": "0.072–0.084",
+        "drilled_hole_diameter_nominal": "0.070"
+      },
+      {
+        "thread": "3/8-16",
+        "head_side_height_limits": "0.242–0.253",
+        "slot_width_limits": "0.081–0.094",
+        "drilled_hole_diameter_nominal": "0.070"
+      }
+    ]
+  },
+  "MS35266": {
+    "kind": "fillister",
+    "description": "UNF carbon-steel cadmium-plated drilled slotted fillister-head screw",
+    "reviewed_issue": "MS35266C, sheets 1–2, 6 March 1974",
+    "source_url": "https://www.fastenerz.com/specs/ms35266c.pdf",
+    "rows": [
+      {
+        "part": "MS35266-1",
+        "thread": "2-64",
+        "length": "0.12",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35266-2",
+        "thread": "2-64",
+        "length": "0.19",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35266-3",
+        "thread": "2-64",
+        "length": "0.25",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35266-4",
+        "thread": "2-64",
+        "length": "0.31",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35266-5",
+        "thread": "2-64",
+        "length": "0.38",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35266-6",
+        "thread": "2-64",
+        "length": "0.44",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35266-7",
+        "thread": "2-64",
+        "length": "0.50",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35266-8",
+        "thread": "2-64",
+        "length": "0.62",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35266-9",
+        "thread": "2-64",
+        "length": "0.75",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35266-10",
+        "thread": "2-64",
+        "length": "0.88",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35266-11",
+        "thread": "4-48",
+        "length": "0.12",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-12",
+        "thread": "4-48",
+        "length": "0.19",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-13",
+        "thread": "4-48",
+        "length": "0.25",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-14",
+        "thread": "4-48",
+        "length": "0.31",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-15",
+        "thread": "4-48",
+        "length": "0.38",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-16",
+        "thread": "4-48",
+        "length": "0.44",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-17",
+        "thread": "4-48",
+        "length": "0.50",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-18",
+        "thread": "4-48",
+        "length": "0.62",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-19",
+        "thread": "4-48",
+        "length": "0.75",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-20",
+        "thread": "4-48",
+        "length": "0.88",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-21",
+        "thread": "4-48",
+        "length": "1.00",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-22",
+        "thread": "4-48",
+        "length": "1.25",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-23",
+        "thread": "4-48",
+        "length": "1.50",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35266-24",
+        "thread": "6-40",
+        "length": "0.12",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-25",
+        "thread": "6-40",
+        "length": "0.19",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-26",
+        "thread": "6-40",
+        "length": "0.25",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-27",
+        "thread": "6-40",
+        "length": "0.31",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-28",
+        "thread": "6-40",
+        "length": "0.38",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-29",
+        "thread": "6-40",
+        "length": "0.44",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-30",
+        "thread": "6-40",
+        "length": "0.50",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-31",
+        "thread": "6-40",
+        "length": "0.62",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-32",
+        "thread": "6-40",
+        "length": "0.75",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-33",
+        "thread": "6-40",
+        "length": "0.88",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-34",
+        "thread": "6-40",
+        "length": "1.00",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-35",
+        "thread": "6-40",
+        "length": "1.25",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-36",
+        "thread": "6-40",
+        "length": "1.50",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-37",
+        "thread": "6-40",
+        "length": "1.75",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-38",
+        "thread": "6-40",
+        "length": "2.00",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35266-39",
+        "thread": "8-36",
+        "length": "0.12",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-40",
+        "thread": "8-36",
+        "length": "0.19",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-41",
+        "thread": "8-36",
+        "length": "0.25",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-42",
+        "thread": "8-36",
+        "length": "0.31",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-43",
+        "thread": "8-36",
+        "length": "0.38",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-44",
+        "thread": "8-36",
+        "length": "0.44",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-45",
+        "thread": "8-36",
+        "length": "0.50",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-46",
+        "thread": "8-36",
+        "length": "0.62",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-47",
+        "thread": "8-36",
+        "length": "0.75",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-48",
+        "thread": "8-36",
+        "length": "0.88",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-49",
+        "thread": "8-36",
+        "length": "1.00",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-50",
+        "thread": "8-36",
+        "length": "1.25",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-51",
+        "thread": "8-36",
+        "length": "1.50",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-52",
+        "thread": "8-36",
+        "length": "1.75",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-53",
+        "thread": "8-36",
+        "length": "2.00",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-54",
+        "thread": "8-36",
+        "length": "2.25",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-55",
+        "thread": "8-36",
+        "length": "2.50",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-56",
+        "thread": "8-36",
+        "length": "2.75",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-57",
+        "thread": "8-36",
+        "length": "3.00",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35266-58",
+        "thread": "10-32",
+        "length": "0.19",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-59",
+        "thread": "10-32",
+        "length": "0.25",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-60",
+        "thread": "10-32",
+        "length": "0.31",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-61",
+        "thread": "10-32",
+        "length": "0.38",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-62",
+        "thread": "10-32",
+        "length": "0.44",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-63",
+        "thread": "10-32",
+        "length": "0.50",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-64",
+        "thread": "10-32",
+        "length": "0.62",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-65",
+        "thread": "10-32",
+        "length": "0.75",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-66",
+        "thread": "10-32",
+        "length": "0.88",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-67",
+        "thread": "10-32",
+        "length": "1.00",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-68",
+        "thread": "10-32",
+        "length": "1.25",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-69",
+        "thread": "10-32",
+        "length": "1.50",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-70",
+        "thread": "10-32",
+        "length": "1.75",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-71",
+        "thread": "10-32",
+        "length": "2.00",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-72",
+        "thread": "10-32",
+        "length": "2.25",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-73",
+        "thread": "10-32",
+        "length": "2.50",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-74",
+        "thread": "10-32",
+        "length": "2.75",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-75",
+        "thread": "10-32",
+        "length": "3.00",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35266-76",
+        "thread": "1/4-28",
+        "length": "0.31",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-77",
+        "thread": "1/4-28",
+        "length": "0.38",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-78",
+        "thread": "1/4-28",
+        "length": "0.44",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-79",
+        "thread": "1/4-28",
+        "length": "0.50",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-80",
+        "thread": "1/4-28",
+        "length": "0.62",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-81",
+        "thread": "1/4-28",
+        "length": "0.75",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-82",
+        "thread": "1/4-28",
+        "length": "0.88",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-83",
+        "thread": "1/4-28",
+        "length": "1.00",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-84",
+        "thread": "1/4-28",
+        "length": "1.25",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-85",
+        "thread": "1/4-28",
+        "length": "1.50",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-86",
+        "thread": "1/4-28",
+        "length": "1.75",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-87",
+        "thread": "1/4-28",
+        "length": "2.00",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-88",
+        "thread": "1/4-28",
+        "length": "2.25",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-89",
+        "thread": "1/4-28",
+        "length": "2.50",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-90",
+        "thread": "1/4-28",
+        "length": "2.75",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-91",
+        "thread": "1/4-28",
+        "length": "3.00",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35266-92",
+        "thread": "5/16-24",
+        "length": "0.38",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-93",
+        "thread": "5/16-24",
+        "length": "0.44",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-94",
+        "thread": "5/16-24",
+        "length": "0.50",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-95",
+        "thread": "5/16-24",
+        "length": "0.62",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-96",
+        "thread": "5/16-24",
+        "length": "0.75",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-97",
+        "thread": "5/16-24",
+        "length": "0.88",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-98",
+        "thread": "5/16-24",
+        "length": "1.00",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-99",
+        "thread": "5/16-24",
+        "length": "1.25",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-100",
+        "thread": "5/16-24",
+        "length": "1.50",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-101",
+        "thread": "5/16-24",
+        "length": "1.75",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-102",
+        "thread": "5/16-24",
+        "length": "2.00",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-103",
+        "thread": "5/16-24",
+        "length": "2.25",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-104",
+        "thread": "5/16-24",
+        "length": "2.50",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-105",
+        "thread": "5/16-24",
+        "length": "2.75",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-106",
+        "thread": "5/16-24",
+        "length": "3.00",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35266-107",
+        "thread": "3/8-24",
+        "length": "0.50",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35266-108",
+        "thread": "3/8-24",
+        "length": "0.62",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35266-109",
+        "thread": "3/8-24",
+        "length": "0.75",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35266-110",
+        "thread": "3/8-24",
+        "length": "0.88",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35266-111",
+        "thread": "3/8-24",
+        "length": "1.00",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35266-112",
+        "thread": "3/8-24",
+        "length": "1.25",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35266-113",
+        "thread": "3/8-24",
+        "length": "1.50",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35266-114",
+        "thread": "3/8-24",
+        "length": "1.75",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35266-115",
+        "thread": "3/8-24",
+        "length": "2.00",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35266-116",
+        "thread": "3/8-24",
+        "length": "2.25",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35266-117",
+        "thread": "3/8-24",
+        "length": "2.50",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35266-118",
+        "thread": "3/8-24",
+        "length": "2.75",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35266-119",
+        "thread": "3/8-24",
+        "length": "3.00",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      }
+    ],
+    "head_geometry": [
+      {
+        "thread": "2-64",
+        "head_side_height_limits": "0.055–0.062",
+        "slot_width_limits": "0.023–0.031",
+        "drilled_hole_diameter_nominal": "0.031"
+      },
+      {
+        "thread": "4-48",
+        "head_side_height_limits": "0.072–0.079",
+        "slot_width_limits": "0.031–0.039",
+        "drilled_hole_diameter_nominal": "0.037"
+      },
+      {
+        "thread": "6-40",
+        "head_side_height_limits": "0.089–0.096",
+        "slot_width_limits": "0.039–0.048",
+        "drilled_hole_diameter_nominal": "0.046"
+      },
+      {
+        "thread": "8-36",
+        "head_side_height_limits": "0.106–0.113",
+        "slot_width_limits": "0.045–0.054",
+        "drilled_hole_diameter_nominal": "0.046"
+      },
+      {
+        "thread": "10-32",
+        "head_side_height_limits": "0.123–0.130",
+        "slot_width_limits": "0.050–0.060",
+        "drilled_hole_diameter_nominal": "0.046"
+      },
+      {
+        "thread": "1/4-28",
+        "head_side_height_limits": "0.161–0.170",
+        "slot_width_limits": "0.064–0.075",
+        "drilled_hole_diameter_nominal": "0.062"
+      },
+      {
+        "thread": "5/16-24",
+        "head_side_height_limits": "0.201–0.211",
+        "slot_width_limits": "0.072–0.084",
+        "drilled_hole_diameter_nominal": "0.070"
+      },
+      {
+        "thread": "3/8-24",
+        "head_side_height_limits": "0.242–0.253",
+        "slot_width_limits": "0.081–0.094",
+        "drilled_hole_diameter_nominal": "0.070"
+      }
+    ]
+  }
+}
