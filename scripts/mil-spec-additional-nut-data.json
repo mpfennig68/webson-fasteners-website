@@ -1,0 +1,923 @@
+{
+  "MS35649": {
+    "description": "UNC plain hex machine-screw nut",
+    "reviewed_issue": "MS35649H, sheets 1–2, 12 February 1988",
+    "source_url": "https://globalsupplyinc.com/wp-content/uploads/2020/05/MS35649H.pdf",
+    "status_note": "Reviewed historical MS35649H dimensional reference. The DLA record lists MS35649 as canceled and names NASM35649 as its successor. A document successor is not an automatic part-number conversion.",
+    "rows": [
+      {
+        "part": "MS35649-222",
+        "thread": "2-56",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.180–0.187",
+        "thickness_limits": "0.057–0.066"
+      },
+      {
+        "part": "MS35649-23",
+        "thread": "2-56",
+        "material_finish": "Carbon steel / phosphate",
+        "across_flats_limits": "0.180–0.187",
+        "thickness_limits": "0.057–0.066"
+      },
+      {
+        "part": "MS35649-224",
+        "thread": "2-56",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.180–0.187",
+        "thickness_limits": "0.057–0.066"
+      },
+      {
+        "part": "MS35649-225B",
+        "thread": "2-56",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.180–0.187",
+        "thickness_limits": "0.057–0.066"
+      },
+      {
+        "part": "MS35649-225T",
+        "thread": "2-56",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.180–0.187",
+        "thickness_limits": "0.057–0.066"
+      },
+      {
+        "part": "MS35649-242",
+        "thread": "4-40",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.241–0.250",
+        "thickness_limits": "0.087–0.098"
+      },
+      {
+        "part": "MS35649-43",
+        "thread": "4-40",
+        "material_finish": "Carbon steel / phosphate",
+        "across_flats_limits": "0.241–0.250",
+        "thickness_limits": "0.087–0.098"
+      },
+      {
+        "part": "MS35649-244",
+        "thread": "4-40",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.241–0.250",
+        "thickness_limits": "0.087–0.098"
+      },
+      {
+        "part": "MS35649-245B",
+        "thread": "4-40",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.241–0.250",
+        "thickness_limits": "0.087–0.098"
+      },
+      {
+        "part": "MS35649-245T",
+        "thread": "4-40",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.241–0.250",
+        "thickness_limits": "0.087–0.098"
+      },
+      {
+        "part": "MS35649-262",
+        "thread": "6-32",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.302–0.312",
+        "thickness_limits": "0.102–0.114"
+      },
+      {
+        "part": "MS35649-63",
+        "thread": "6-32",
+        "material_finish": "Carbon steel / phosphate",
+        "across_flats_limits": "0.302–0.312",
+        "thickness_limits": "0.102–0.114"
+      },
+      {
+        "part": "MS35649-264",
+        "thread": "6-32",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.302–0.312",
+        "thickness_limits": "0.102–0.114"
+      },
+      {
+        "part": "MS35649-265B",
+        "thread": "6-32",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.302–0.312",
+        "thickness_limits": "0.102–0.114"
+      },
+      {
+        "part": "MS35649-265T",
+        "thread": "6-32",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.302–0.312",
+        "thickness_limits": "0.102–0.114"
+      },
+      {
+        "part": "MS35649-282",
+        "thread": "8-32",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.332–0.344",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35649-83",
+        "thread": "8-32",
+        "material_finish": "Carbon steel / phosphate",
+        "across_flats_limits": "0.332–0.344",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35649-284",
+        "thread": "8-32",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.332–0.344",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35649-286B",
+        "thread": "8-32",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.332–0.344",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35649-286T",
+        "thread": "8-32",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.332–0.344",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35649-202",
+        "thread": "10-24",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.362–0.375",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35649-103",
+        "thread": "10-24",
+        "material_finish": "Carbon steel / phosphate",
+        "across_flats_limits": "0.362–0.375",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35649-204",
+        "thread": "10-24",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.362–0.375",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35649-205B",
+        "thread": "10-24",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.362–0.375",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35649-205T",
+        "thread": "10-24",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.362–0.375",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35649-2252",
+        "thread": "1/4-20",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.423–0.437",
+        "thickness_limits": "0.178–0.193"
+      },
+      {
+        "part": "MS35649-2254",
+        "thread": "1/4-20",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.423–0.437",
+        "thickness_limits": "0.178–0.193"
+      },
+      {
+        "part": "MS35649-2255B",
+        "thread": "1/4-20",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.423–0.437",
+        "thickness_limits": "0.178–0.193"
+      },
+      {
+        "part": "MS35649-2255T",
+        "thread": "1/4-20",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.423–0.437",
+        "thickness_limits": "0.178–0.193"
+      },
+      {
+        "part": "MS35649-2312",
+        "thread": "5/16-18",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.545–0.562",
+        "thickness_limits": "0.208–0.225"
+      },
+      {
+        "part": "MS35649-2314",
+        "thread": "5/16-18",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.545–0.562",
+        "thickness_limits": "0.208–0.225"
+      },
+      {
+        "part": "MS35649-2315B",
+        "thread": "5/16-18",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.545–0.562",
+        "thickness_limits": "0.208–0.225"
+      },
+      {
+        "part": "MS35649-2315T",
+        "thread": "5/16-18",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.545–0.562",
+        "thickness_limits": "0.208–0.225"
+      },
+      {
+        "part": "MS35649-2382",
+        "thread": "3/8-16",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.607–0.625",
+        "thickness_limits": "0.239–0.257"
+      },
+      {
+        "part": "MS35649-2384",
+        "thread": "3/8-16",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.607–0.625",
+        "thickness_limits": "0.239–0.257"
+      },
+      {
+        "part": "MS35649-2385B",
+        "thread": "3/8-16",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.607–0.625",
+        "thickness_limits": "0.239–0.257"
+      },
+      {
+        "part": "MS35649-2385T",
+        "thread": "3/8-16",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.607–0.625",
+        "thickness_limits": "0.239–0.257"
+      }
+    ]
+  },
+  "MS35650": {
+    "description": "UNF plain hex machine-screw nut",
+    "reviewed_issue": "MS35650G with Amendment 1 (21 July 2000), Table I; base issue 7 October 1985",
+    "source_url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=42248",
+    "status_note": "The dimensions use the amended Table I, rather than the original 1985 table. Send the specification issue required by the drawing; a matching nominal thread alone does not establish a replacement.",
+    "rows": [
+      {
+        "part": "MS35650-312",
+        "thread": "0-80",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.150–0.158",
+        "thickness_limits": "0.043–0.050"
+      },
+      {
+        "part": "MS35650-13",
+        "thread": "0-80",
+        "material_finish": "Carbon steel / phosphate",
+        "across_flats_limits": "0.150–0.158",
+        "thickness_limits": "0.043–0.050"
+      },
+      {
+        "part": "MS35650-314",
+        "thread": "0-80",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.150–0.158",
+        "thickness_limits": "0.043–0.050"
+      },
+      {
+        "part": "MS35650-315B",
+        "thread": "0-80",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.150–0.158",
+        "thickness_limits": "0.043–0.050"
+      },
+      {
+        "part": "MS35650-315T",
+        "thread": "0-80",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.150–0.158",
+        "thickness_limits": "0.043–0.050"
+      },
+      {
+        "part": "MS35650-322",
+        "thread": "2-64",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.180–0.189",
+        "thickness_limits": "0.057–0.066"
+      },
+      {
+        "part": "MS35650-23",
+        "thread": "2-64",
+        "material_finish": "Carbon steel / phosphate",
+        "across_flats_limits": "0.180–0.189",
+        "thickness_limits": "0.057–0.066"
+      },
+      {
+        "part": "MS35650-324",
+        "thread": "2-64",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.180–0.189",
+        "thickness_limits": "0.057–0.066"
+      },
+      {
+        "part": "MS35650-325B",
+        "thread": "2-64",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.180–0.189",
+        "thickness_limits": "0.057–0.066"
+      },
+      {
+        "part": "MS35650-325T",
+        "thread": "2-64",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.180–0.189",
+        "thickness_limits": "0.057–0.066"
+      },
+      {
+        "part": "MS35650-342",
+        "thread": "4-48",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.241–0.251",
+        "thickness_limits": "0.087–0.098"
+      },
+      {
+        "part": "MS35650-43",
+        "thread": "4-48",
+        "material_finish": "Carbon steel / phosphate",
+        "across_flats_limits": "0.241–0.251",
+        "thickness_limits": "0.087–0.098"
+      },
+      {
+        "part": "MS35650-344",
+        "thread": "4-48",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.241–0.251",
+        "thickness_limits": "0.087–0.098"
+      },
+      {
+        "part": "MS35650-345B",
+        "thread": "4-48",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.241–0.251",
+        "thickness_limits": "0.087–0.098"
+      },
+      {
+        "part": "MS35650-345T",
+        "thread": "4-48",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.241–0.251",
+        "thickness_limits": "0.087–0.098"
+      },
+      {
+        "part": "MS35650-362",
+        "thread": "6-40",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.302–0.315",
+        "thickness_limits": "0.102–0.114"
+      },
+      {
+        "part": "MS35650-63",
+        "thread": "6-40",
+        "material_finish": "Carbon steel / phosphate",
+        "across_flats_limits": "0.302–0.315",
+        "thickness_limits": "0.102–0.114"
+      },
+      {
+        "part": "MS35650-364",
+        "thread": "6-40",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.302–0.315",
+        "thickness_limits": "0.102–0.114"
+      },
+      {
+        "part": "MS35650-365B",
+        "thread": "6-40",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.302–0.315",
+        "thickness_limits": "0.102–0.114"
+      },
+      {
+        "part": "MS35650-365T",
+        "thread": "6-40",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.302–0.315",
+        "thickness_limits": "0.102–0.114"
+      },
+      {
+        "part": "MS35650-382",
+        "thread": "8-36",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.332–0.346",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35650-83",
+        "thread": "8-36",
+        "material_finish": "Carbon steel / phosphate",
+        "across_flats_limits": "0.332–0.346",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35650-384",
+        "thread": "8-36",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.332–0.346",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35650-386B",
+        "thread": "8-36",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.332–0.346",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35650-386T",
+        "thread": "8-36",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.332–0.346",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35650-302",
+        "thread": "10-32",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.362–0.377",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35650-103",
+        "thread": "10-32",
+        "material_finish": "Carbon steel / phosphate",
+        "across_flats_limits": "0.362–0.377",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35650-304",
+        "thread": "10-32",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.362–0.377",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35650-305B",
+        "thread": "10-32",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.362–0.377",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35650-305T",
+        "thread": "10-32",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.362–0.377",
+        "thickness_limits": "0.117–0.130"
+      },
+      {
+        "part": "MS35650-3252",
+        "thread": "1/4-28",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.423–0.440",
+        "thickness_limits": "0.178–0.193"
+      },
+      {
+        "part": "MS35650-3254",
+        "thread": "1/4-28",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.423–0.440",
+        "thickness_limits": "0.178–0.193"
+      },
+      {
+        "part": "MS35650-3255B",
+        "thread": "1/4-28",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.423–0.440",
+        "thickness_limits": "0.178–0.193"
+      },
+      {
+        "part": "MS35650-3255T",
+        "thread": "1/4-28",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.423–0.440",
+        "thickness_limits": "0.178–0.193"
+      },
+      {
+        "part": "MS35650-3312",
+        "thread": "5/16-24",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.545–0.564",
+        "thickness_limits": "0.208–0.225"
+      },
+      {
+        "part": "MS35650-3314",
+        "thread": "5/16-24",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.545–0.564",
+        "thickness_limits": "0.208–0.225"
+      },
+      {
+        "part": "MS35650-3315B",
+        "thread": "5/16-24",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.545–0.564",
+        "thickness_limits": "0.208–0.225"
+      },
+      {
+        "part": "MS35650-3315T",
+        "thread": "5/16-24",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.545–0.564",
+        "thickness_limits": "0.208–0.225"
+      },
+      {
+        "part": "MS35650-3382",
+        "thread": "3/8-24",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.607–0.627",
+        "thickness_limits": "0.239–0.257"
+      },
+      {
+        "part": "MS35650-3384",
+        "thread": "3/8-24",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.607–0.627",
+        "thickness_limits": "0.239–0.257"
+      },
+      {
+        "part": "MS35650-3385B",
+        "thread": "3/8-24",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.607–0.627",
+        "thickness_limits": "0.239–0.257"
+      },
+      {
+        "part": "MS35650-3385T",
+        "thread": "3/8-24",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.607–0.627",
+        "thickness_limits": "0.239–0.257"
+      },
+      {
+        "part": "MS35650-3392",
+        "thread": "1/2-20",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.788–0.814",
+        "thickness_limits": "0.402–0.442"
+      },
+      {
+        "part": "MS35650-3394",
+        "thread": "1/2-20",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.788–0.814",
+        "thickness_limits": "0.402–0.442"
+      },
+      {
+        "part": "MS35650-3395B",
+        "thread": "1/2-20",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.788–0.814",
+        "thickness_limits": "0.402–0.442"
+      },
+      {
+        "part": "MS35650-3395T",
+        "thread": "1/2-20",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.788–0.814",
+        "thickness_limits": "0.402–0.442"
+      },
+      {
+        "part": "MS35650-3402",
+        "thread": "5/8-18",
+        "material_finish": "Carbon steel / cadmium",
+        "across_flats_limits": "0.969–1.002",
+        "thickness_limits": "0.509–0.553"
+      },
+      {
+        "part": "MS35650-3404",
+        "thread": "5/8-18",
+        "material_finish": "CRES / passivated",
+        "across_flats_limits": "0.969–1.002",
+        "thickness_limits": "0.509–0.553"
+      },
+      {
+        "part": "MS35650-3405B",
+        "thread": "5/8-18",
+        "material_finish": "Brass / black oxide",
+        "across_flats_limits": "0.969–1.002",
+        "thickness_limits": "0.509–0.553"
+      },
+      {
+        "part": "MS35650-3405T",
+        "thread": "5/8-18",
+        "material_finish": "Brass / tin",
+        "across_flats_limits": "0.969–1.002",
+        "thickness_limits": "0.509–0.553"
+      }
+    ]
+  },
+  "MS51967": {
+    "description": "UNC carbon-steel cadmium-plated plain hex nut",
+    "reviewed_issue": "MS51967D, sheet 1, 30 March 1970",
+    "source_url": "https://globalsupplyinc.com/wp-content/uploads/2020/05/MS51967D.pdf",
+    "status_note": "The DLA record lists this family as inactive. The table summarizes selected historical dimensional references for purchasing identification; retain the governing issue and application requirements from your drawing.",
+    "rows": [
+      {
+        "part": "MS51967-2",
+        "thread": "1/4-20",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.428–0.4375",
+        "thickness_limits": "0.212–0.226"
+      },
+      {
+        "part": "MS51967-3",
+        "thread": "1/4-20",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.428–0.4375",
+        "thickness_limits": "0.212–0.226"
+      },
+      {
+        "part": "MS51967-5",
+        "thread": "5/16-18",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.489–0.5000",
+        "thickness_limits": "0.258–0.273"
+      },
+      {
+        "part": "MS51967-6",
+        "thread": "5/16-18",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.489–0.5000",
+        "thickness_limits": "0.258–0.273"
+      },
+      {
+        "part": "MS51967-8",
+        "thread": "3/8-16",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.551–0.5625",
+        "thickness_limits": "0.320–0.337"
+      },
+      {
+        "part": "MS51967-9",
+        "thread": "3/8-16",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.551–0.5625",
+        "thickness_limits": "0.320–0.337"
+      },
+      {
+        "part": "MS51967-11",
+        "thread": "7/16-14",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.675–0.6875",
+        "thickness_limits": "0.365–0.385"
+      },
+      {
+        "part": "MS51967-12",
+        "thread": "7/16-14",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.675–0.6875",
+        "thickness_limits": "0.365–0.385"
+      },
+      {
+        "part": "MS51967-14",
+        "thread": "1/2-13",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.736–0.7500",
+        "thickness_limits": "0.427–0.448"
+      },
+      {
+        "part": "MS51967-15",
+        "thread": "1/2-13",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.736–0.7500",
+        "thickness_limits": "0.427–0.448"
+      },
+      {
+        "part": "MS51967-17",
+        "thread": "9/16-12",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.861–0.8750",
+        "thickness_limits": "0.473–0.496"
+      },
+      {
+        "part": "MS51967-18",
+        "thread": "9/16-12",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.861–0.8750",
+        "thickness_limits": "0.473–0.496"
+      },
+      {
+        "part": "MS51967-20",
+        "thread": "5/8-11",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.922–0.9375",
+        "thickness_limits": "0.535–0.559"
+      },
+      {
+        "part": "MS51967-21",
+        "thread": "5/8-11",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.922–0.9375",
+        "thickness_limits": "0.535–0.559"
+      },
+      {
+        "part": "MS51967-23",
+        "thread": "3/4-10",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "1.088–1.1250",
+        "thickness_limits": "0.617–0.665"
+      },
+      {
+        "part": "MS51967-24",
+        "thread": "3/4-10",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "1.088–1.1250",
+        "thickness_limits": "0.617–0.665"
+      },
+      {
+        "part": "MS51967-26",
+        "thread": "7/8-9",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "1.269–1.3125",
+        "thickness_limits": "0.724–0.776"
+      },
+      {
+        "part": "MS51967-27",
+        "thread": "7/8-9",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "1.269–1.3125",
+        "thickness_limits": "0.724–0.776"
+      },
+      {
+        "part": "MS51967-29",
+        "thread": "1-8",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "1.450–1.5000",
+        "thickness_limits": "0.831–0.887"
+      },
+      {
+        "part": "MS51967-30",
+        "thread": "1-8",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "1.450–1.5000",
+        "thickness_limits": "0.831–0.887"
+      }
+    ]
+  },
+  "MS51968": {
+    "description": "UNF carbon-steel cadmium-plated plain hex nut",
+    "reviewed_issue": "MS51968C, sheets 1–2, 30 March 1970",
+    "source_url": "https://globalsupplyinc.com/wp-content/uploads/2020/05/MS51968C.pdf",
+    "status_note": "The DLA record lists this family as inactive. The table summarizes selected historical dimensional references for purchasing identification; retain the governing issue and application requirements from your drawing.",
+    "rows": [
+      {
+        "part": "MS51968-2",
+        "thread": "1/4-28",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.428–0.4375",
+        "thickness_limits": "0.212–0.226"
+      },
+      {
+        "part": "MS51968-3",
+        "thread": "1/4-28",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.428–0.4375",
+        "thickness_limits": "0.212–0.226"
+      },
+      {
+        "part": "MS51968-5",
+        "thread": "5/16-24",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.489–0.5000",
+        "thickness_limits": "0.258–0.273"
+      },
+      {
+        "part": "MS51968-6",
+        "thread": "5/16-24",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.489–0.5000",
+        "thickness_limits": "0.258–0.273"
+      },
+      {
+        "part": "MS51968-8",
+        "thread": "3/8-24",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.551–0.5625",
+        "thickness_limits": "0.320–0.337"
+      },
+      {
+        "part": "MS51968-9",
+        "thread": "3/8-24",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.551–0.5625",
+        "thickness_limits": "0.320–0.337"
+      },
+      {
+        "part": "MS51968-11",
+        "thread": "7/16-20",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.675–0.6875",
+        "thickness_limits": "0.365–0.385"
+      },
+      {
+        "part": "MS51968-12",
+        "thread": "7/16-20",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.675–0.6875",
+        "thickness_limits": "0.365–0.385"
+      },
+      {
+        "part": "MS51968-14",
+        "thread": "1/2-20",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.736–0.7500",
+        "thickness_limits": "0.427–0.448"
+      },
+      {
+        "part": "MS51968-15",
+        "thread": "1/2-20",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.736–0.7500",
+        "thickness_limits": "0.427–0.448"
+      },
+      {
+        "part": "MS51968-17",
+        "thread": "9/16-18",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.861–0.8750",
+        "thickness_limits": "0.473–0.496"
+      },
+      {
+        "part": "MS51968-18",
+        "thread": "9/16-18",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.861–0.8750",
+        "thickness_limits": "0.473–0.496"
+      },
+      {
+        "part": "MS51968-20",
+        "thread": "5/8-18",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "0.922–0.9375",
+        "thickness_limits": "0.535–0.559"
+      },
+      {
+        "part": "MS51968-21",
+        "thread": "5/8-18",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "0.922–0.9375",
+        "thickness_limits": "0.535–0.559"
+      },
+      {
+        "part": "MS51968-23",
+        "thread": "3/4-16",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "1.088–1.1250",
+        "thickness_limits": "0.617–0.665"
+      },
+      {
+        "part": "MS51968-24",
+        "thread": "3/4-16",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "1.088–1.1250",
+        "thickness_limits": "0.617–0.665"
+      },
+      {
+        "part": "MS51968-26",
+        "thread": "7/8-14",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "1.269–1.3125",
+        "thickness_limits": "0.724–0.776"
+      },
+      {
+        "part": "MS51968-27",
+        "thread": "7/8-14",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "1.269–1.3125",
+        "thickness_limits": "0.724–0.776"
+      },
+      {
+        "part": "MS51968-29",
+        "thread": "1-12",
+        "material_finish": "Grade B carbon steel / cadmium",
+        "across_flats_limits": "1.450–1.5000",
+        "thickness_limits": "0.831–0.887"
+      },
+      {
+        "part": "MS51968-30",
+        "thread": "1-12",
+        "material_finish": "Grade C carbon steel / cadmium",
+        "across_flats_limits": "1.450–1.5000",
+        "thickness_limits": "0.831–0.887"
+      }
+    ]
+  }
+}

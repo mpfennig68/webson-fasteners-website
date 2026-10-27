@@ -243,6 +243,14 @@
     "title": "MS35338 helical spring lock washers",
     "prefill": "MS35338 helical spring lock washers\n"
   },
+  "Reference-MS35649.html": {
+    "title": "MS35649 coarse-thread hex machine-screw nuts",
+    "prefill": "MS35649 coarse-thread hex machine-screw nuts\n"
+  },
+  "Reference-MS35650.html": {
+    "title": "MS35650 fine-thread hex machine-screw nuts",
+    "prefill": "MS35650 fine-thread hex machine-screw nuts\n"
+  },
   "Reference-MS51021.html": {
     "title": "MS51021 stainless cup-point set screws",
     "prefill": "MS51021 stainless cup-point set screws\n"
@@ -274,6 +282,14 @@
   "Reference-MS51960.html": {
     "title": "MS51960 fine-thread 82-degree flat-head screws",
     "prefill": "MS51960 fine-thread 82-degree flat-head screws\n"
+  },
+  "Reference-MS51967.html": {
+    "title": "MS51967 coarse-thread finished hex nuts",
+    "prefill": "MS51967 coarse-thread finished hex nuts\n"
+  },
+  "Reference-MS51968.html": {
+    "title": "MS51968 fine-thread finished hex nuts",
+    "prefill": "MS51968 fine-thread finished hex nuts\n"
   },
   "Reference-NAS1130.html": {
     "title": "NAS1130 tangless helical-coil inserts",

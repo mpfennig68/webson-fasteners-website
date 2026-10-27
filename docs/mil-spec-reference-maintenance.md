@@ -70,3 +70,9 @@ Eighty existing machine-screw rows now show added head data: MS35206 (10) and MS
 Exact search results also offer a direct quote link through the search page. The RFQ generator reads only the generated index's exact designations into a dedicated allowlist, preserving customer-entered text and rejecting unlisted or out-of-context values. Build order is public tables → search index → RFQ context; never derive stocked status from this allowlist.
 
 Browser checks passed for landing-page search → MS51576-16 result → filtered dimensions → prefilled RFQ; unlisted MS51576-999 family fallback; direct quoting of the unstocked reference MS35338-153; and MS35307 browsing/pagination from 40 to 80 of 283 matches. No live inquiry submitted.
+
+## October 27: additional screw and nut reference families
+
+Additional reference data is separate from stock data: `mil-spec-additional-screw-data.json` owns 399 entries across MS35207/MS51958/MS51960/MS16997; `mil-spec-additional-nut-data.json` owns 127 across MS35649/MS35650/MS51967/MS51968. Each corresponding `build-mil-spec-additional-*.py` renderer runs inside the main build. Preserve the source issue attached to each table and the distinction between nominal values and limits. MS35650 uses Amendment 1, not the original G table. Brass nut references include the selected B or T finish letter. Finished hex nut Grade A dash numbers remain omitted as canceled.
+
+Both additional registers feed explicit part-specific RFQ allowlists; the global index independently reads the published tables. The lookup now contains 1,612 exact entries across 129 series. Run `check-ms-additional-screws.py` and `check-ms-additional-nuts.py` with the existing checks after edits. These additions are references for quotation, not new stock evidence.
