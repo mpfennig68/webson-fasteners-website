@@ -48,6 +48,13 @@ for(const [root,part,drive] of [['MS51576','MS51576-16','hex-socket'],['MS51575'
  for(const invalid of [root+'-999','__proto__',root==='MS51576'?'MS51575-17':'MS51576-16'])
   assert.equal(run('?reference='+key+'&part='+invalid).details.value,pages[key].prefill);
 }
+for(const part of ['MS51576-16','MS35338-153','MS35206-213']){
+ const query='?reference=Resources-Mil-Spec-Part-Search.html&part='+part;
+ assert.equal(run(query).details.value,part+' - Mil-Spec part reference\n');
+ assert.equal(run(query,'Existing requirement').details.value,'Existing requirement');
+}
+for(const part of ['MS51576-999','MS353070-303','<script>','__proto__'])
+ assert.equal(run('?reference=Resources-Mil-Spec-Part-Search.html&part='+encodeURIComponent(part)).details.value,pages['Resources-Mil-Spec-Part-Search.html'].prefill);
 for(const key of ['__proto__','constructor','../secret.html','https://evil.test','Quote.html','missing.html']){const r=run('?context='+encodeURIComponent(key));assert.equal(r.details.value,'');assert.equal(r.fields.length,0);}
 assert.equal(run('').details.value,'');assert.equal(run('').fields.length,0);assert.equal(run('?context=index.html','',true,'https://www.websonfasteners.com','https://evil.test').fields.length,0);
 for(const key of Object.keys(pages)){

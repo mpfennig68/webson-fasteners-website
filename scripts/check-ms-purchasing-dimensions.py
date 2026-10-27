@@ -6,7 +6,7 @@ import json,re
 
 W=Path(__file__).resolve().parents[1]
 D=json.loads((W/'scripts/mil-spec-data.json').read_text())
-groups=[('nut_sizes',root)for root in ['MS21042','MS21044','MS21083']]+[('socket_screw_sizes',root)for root in ['MS16995','MS16996']]+[('stocked_washer_sizes','MS35338')]
+groups=[('nut_sizes',root)for root in ['MS21042','MS21044','MS21083']]+[('socket_screw_sizes',root)for root in ['MS16995','MS16996']]+[('stocked_washer_sizes','MS35338')]+[('machine_screw_sizes',root)for root in ['MS35206','MS51957','MS24693','MS51959']]
 parts={}
 total=0
 for key,root in groups:
@@ -32,5 +32,10 @@ assert parts['MS16996-2']['socket_width_limits']=='0.0500–0.0510'
 assert parts['MS16995-2']['socket_width_limits']=='0.0781–0.0791'
 assert parts['MS35338-40']['inside_diameter_limits']=='.114–.120'
 assert parts['MS35338-40']['section_thickness_limits']=='.025–0.033'
-assert total==39,total
+assert parts['MS35206-213']['head_height_limits']=='0.0700–0.0800'
+assert parts['MS51957-124']['head_diameter_limits']=='0.2560–0.2700'
+assert parts['MS24693C218']['head_diameter_max']=='0.119'
+assert parts['MS24693C218']['head_angle_nominal']=='100°'
+assert parts['MS51959-3']['head_angle_nominal']=='82°'
+assert total==119,total
 print(f'{total} MS stock rows pass visible dimensions, ordered bounds, quote links and drawing spot checks.')

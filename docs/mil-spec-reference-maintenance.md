@@ -56,3 +56,17 @@ The shared filtered renderer adds exact visible-cell size selectors where applic
 Nut rows in MS21042/MS21044/MS21083 now include height and across-flats limits. MS16995/MS16996 rows include head diameter, head height and socket AF limits. The 12 MS35338 stock rows now carry geometry from the existing verified dash-number matrix. All 39 existing stocked identifiers and their RFQ allowlists are preserved. Keep limits separate from nominal tool sizes, and washer section thickness separate from free height. Read the October 27 research notes for corrected historical scan revision/date attributions.
 
 The builder now preserves a newer sitemap lastmod instead of overwriting it with the October 22/23 baseline during regeneration. Run scripts/check-ms-purchasing-dimensions.py after changing these dimensional fields.
+
+## October 27: global part search and machine-screw dimensions
+
+Every reference/resource page and the Mil-Spec supplier landing page has one shared GET search form targeting Resources-Mil-Spec-Part-Search.html. The search index is generated from published HTML tables by scripts/build-mil-spec-part-search.py at the end of the main build. It currently covers 1,086 unique exact designations plus 129 family roots. Prefer a stocked row and then a part's own guide when the same designation occurs in comparison tables. The index contains only already-public part information, not private stock quantities or original workbook data.
+
+Exact entries link to stable table anchors with ?part=...; mil-spec-reference.js initializes only the table blocks containing that exact designation. Complete unlisted sizes return their known family guide without assuming a listed size, part equivalence, stock status or MS/NASM prefix conversion. Series searches browse the listed sizes. Search results are paged in groups of 40. The JSON and result script load only on the search page, so the shared forms do not add a search-index download on every reference page. Without JavaScript the series/table directories remain available.
+
+Run node scripts/check-mil-spec-part-search.cjs along with the dimensional, RFQ and site-integrity checks. Preserve query escaping, exact-prefix boundaries, textContent-only result rendering, local result links and static canonical URLs. Regeneration must preserve exactly one shared search form, including on the retained MS51957 guide and supplier landing page.
+
+Eighty existing machine-screw rows now show added head data: MS35206 (10) and MS51957 (33) use head diameter/height limits; MS24693 (27) and MS51959 (10) show maximum sharp-head diameter and nominal head angle. Countersunk head reference heights and minimum-sharp diameters are not presented as actual measured acceptance limits.
+
+Exact search results also offer a direct quote link through the search page. The RFQ generator reads only the generated index's exact designations into a dedicated allowlist, preserving customer-entered text and rejecting unlisted or out-of-context values. Build order is public tables → search index → RFQ context; never derive stocked status from this allowlist.
+
+Browser checks passed for landing-page search → MS51576-16 result → filtered dimensions → prefilled RFQ; unlisted MS51576-999 family fallback; direct quoting of the unstocked reference MS35338-153; and MS35307 browsing/pagination from 40 to 80 of 283 matches. No live inquiry submitted.

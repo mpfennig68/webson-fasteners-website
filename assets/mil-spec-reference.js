@@ -45,6 +45,10 @@
       count.textContent = visible + ' of ' + rows.length + ' entries shown';
       empty.hidden = visible !== 0;
     }
+    const requestedPart = new URL(window.location.href).searchParams.get('part');
+    if (requestedPart && rows.some(function (row) {
+      return Array.from(row.cells).some(function (cell) { return normalize(cell.textContent) === normalize(requestedPart); });
+    })) search.value = requestedPart;
     controls.hidden = false;
     search.addEventListener('input', update);
     if (family) family.addEventListener('change', update);

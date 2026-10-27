@@ -836,3 +836,13 @@ Primary drawing verification (rendered locally and inspected, including enlarged
 - MS35338 uses existing reviewed revision L dimensional data in scripts/mil-spec-lookup-data.json. Each of the 12 stock dash numbers is matched to exactly one reviewed material/dash row before attaching its ID limits, OD maximum and section-thickness limits. Section thickness is not free spring height.
 
 These supersede the earlier source-attribution dates for the same scans. They are historical reference issues, not claims of current standard revisions. Public tables label limits, nominal lengths and maxima distinctly. Sources remain repository-only; all customer-directed links stay within Webson.
+
+## October 27, 2026 — machine-screw head references
+
+Reviewed primary government drawings as rendered PDFs; selected numerical values remain separate from stock status and nominal length. No new stock parts, manufacturers or approval claims added.
+- MS35206, sheet 1 Table I, revision H December 3, 1991 (sheet also carries a June 25, 1993 approval annotation): https://www.fastenerz.com/specs/ms35206.pdf . Selected #4, #6 and #8 head diameter and head height limits. BILD's existing manufacturer reference uses nominal/midpoint dimensions, which are not substituted for these min/max values.
+- MS51957D April 25, 1997, sheet 2 Table I: https://www.fastenerz.com/specs/ms51957.pdf . Selected #2/#4/#6/#8/1/4 A and H min/max values, including 1/4 head diameter .4730–.4920 and height .1620–.1750.
+- MS24693H October 26, 1994, sheet 1 Table I: https://airfasco.com/drawings/MS/MS24693/MS24693%20REV%20H.pdf . Selected #0/#4/#6/#8/#10 maximum sharp-head diameters .119/.225/.279/.332/.385 and nominal 100-degree included angle. Actual permitted truncated-head minimum differs from minimum sharp diameter; H is a reference dimension. Neither minimum sharp diameter nor reference head height is added as an acceptance limit. The date supersedes the earlier June 2000 attribution for this linked scan.
+- MS51959D April 25, 1997, sheet 2 Table I and sheet 1 head geometry: https://www.fastenerz.com/specs/ms51959.pdf . Selected #2 and #4 maximum sharp-head diameters .172/.225; nominal 82-degree included head angle (drawing range 80–82 degrees). Undercut-head height and reference full-head height are distinct; neither is generalized across all selected lengths.
+
+Global search does not introduce external technical data. Its JSON is derived only from the published tables and existing series register, with source links retained only here in excluded repository documentation. Listed reference designations are not all stocked items; the search preserves each winning public row's stock distinction and directs missing exact entries to family guidance.
