@@ -271,6 +271,18 @@
     "title": "MS51021 stainless cup-point set screws",
     "prefill": "MS51021 stainless cup-point set screws\n"
   },
+  "Reference-MS51023.html": {
+    "title": "MS51023 cup-point set screws",
+    "prefill": "MS51023 cup-point set screws\n"
+  },
+  "Reference-MS51031.html": {
+    "title": "MS51031 flat-point set screws",
+    "prefill": "MS51031 flat-point set screws\n"
+  },
+  "Reference-MS51047.html": {
+    "title": "MS51047 half-dog-point set screws",
+    "prefill": "MS51047 half-dog-point set screws\n"
+  },
   "Reference-MS51575.html": {
     "title": "MS51575 precision shoulder screws",
     "prefill": "MS51575 precision shoulder screws\n"
@@ -298,6 +310,10 @@
   "Reference-MS51960.html": {
     "title": "MS51960 fine-thread 82-degree flat-head screws",
     "prefill": "MS51960 fine-thread 82-degree flat-head screws\n"
+  },
+  "Reference-MS51963.html": {
+    "title": "MS51963 cup-point set screws",
+    "prefill": "MS51963 cup-point set screws\n"
   },
   "Reference-MS51967.html": {
     "title": "MS51967 coarse-thread finished hex nuts",
