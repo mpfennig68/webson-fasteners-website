@@ -1188,7 +1188,7 @@
     "MS24693-H": {
       "name": "MS24693 revision H primary government drawing, manufacturer mirror",
       "url": "https://airfasco.com/drawings/MS/MS24693/MS24693%20REV%20H.pdf",
-      "scope": "Five-sheet government drawing, June 20, 2000, visually reviewed: selected UNC and UNF nominal lengths and C/S legacy finish codes. Includes dimensional code changes; no blanket part substitution asserted. Reviewed 2026-10-22."
+      "scope": "Five-sheet government drawing, October 26, 1994, visually reviewed: selected UNC and UNF nominal lengths and C/S legacy finish codes. Includes dimensional code changes; no blanket part substitution asserted. Reviewed 2026-10-22."
     },
     "AF-MS24693": {
       "name": "AIRFASCO MS24693 manufacturer index",
@@ -1499,6 +1499,16 @@
       "name": "MS16996F government drawing, alternate supplier mirror",
       "url": "https://www.fastenerz.com/specs/ms16996.pdf",
       "scope": "Sheet 1 Table I, revision F November 24, 1993. Selected 0-80 and 10-32 head diameter A, head height H, socket AF J min/max. Visually checked October 27, 2026. Prior June attribution corrected. Do not transfer .312 head maximum from MS16995 #10; MS16996F lists .313."
+    },
+    "OCT27-MS35206": {
+      "name": "MS35206 government drawing, supplier-hosted copy",
+      "url": "https://www.fastenerz.com/specs/ms35206.pdf",
+      "scope": "Sheet 1 Table I, visibly marked revision H December 3, 1991, includes June 25, 1993 approval annotation. Selected #4/#6/#8 A head diameter and H head height min/max checked October 27, 2026. Manufacturer nominal/midpoint values are not substituted for drawing limits."
+    },
+    "OCT27-MS24693-H": {
+      "name": "MS24693H government drawing, manufacturer mirror",
+      "url": "https://airfasco.com/drawings/MS/MS24693/MS24693%20REV%20H.pdf",
+      "scope": "Sheet 1, revision H October 26, 1994. Selected A maximum sharp-head diameter and nominal 100-degree included head angle. Actual permitted truncated-head minimum differs from min-sharp; no reference H is presented as a measured limit. Earlier June 2000 attribution does not describe this scan. Checked October 27, 2026."
     }
   },
   "shoulder_socket": [
@@ -3055,61 +3065,81 @@
         "part": "MS35206-213",
         "thread": "4-40 UNC-2A",
         "length": "1/4",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS35206-214",
         "thread": "4-40 UNC-2A",
         "length": "5/16",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS35206-215",
         "thread": "4-40 UNC-2A",
         "length": "3/8",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS35206-216",
         "thread": "4-40 UNC-2A",
         "length": "7/16",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS35206-218",
         "thread": "4-40 UNC-2A",
         "length": "5/8",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS35206-227",
         "thread": "6-32 UNC-2A",
         "length": "5/16",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_limits": "0.2560–0.2700",
+        "head_height_limits": "0.0870–0.0970"
       },
       {
         "part": "MS35206-228",
         "thread": "6-32 UNC-2A",
         "length": "3/8",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_limits": "0.2560–0.2700",
+        "head_height_limits": "0.0870–0.0970"
       },
       {
         "part": "MS35206-233",
         "thread": "6-32 UNC-2A",
         "length": "7/8",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_limits": "0.2560–0.2700",
+        "head_height_limits": "0.0870–0.0970"
       },
       {
         "part": "MS35206-243",
         "thread": "8-32 UNC-2A",
         "length": "3/8",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_limits": "0.3060–0.3220",
+        "head_height_limits": "0.1050–0.1150"
       },
       {
         "part": "MS35206-246",
         "thread": "8-32 UNC-2A",
         "length": "5/8",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_limits": "0.3060–0.3220",
+        "head_height_limits": "0.1050–0.1150"
       }
     ],
     "MS24693": [
@@ -3117,163 +3147,217 @@
         "part": "MS24693S3",
         "thread": "4-40 UNC-2A",
         "length": "5/16",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C38",
         "thread": "6-32 UNC-2A",
         "length": "1-3/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.279",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C3",
         "thread": "4-40 UNC-2A",
         "length": "5/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C40",
         "thread": "6-32 UNC-2A",
         "length": "2",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.279",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693S4",
         "thread": "4-40 UNC-2A",
         "length": "3/8",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C2NP",
         "thread": "4-40 UNC-2A",
         "length": "1/4",
-        "configuration": "Passivated CRES; patch per drawing"
+        "configuration": "Passivated CRES; patch per drawing",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693S2",
         "thread": "4-40 UNC-2A",
         "length": "1/4",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693S49",
         "thread": "8-32 UNC-2A",
         "length": "7/16",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_max": "0.332",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C422",
         "thread": "0-80 UNF-2A",
         "length": "5/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.119",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C1",
         "thread": "4-40 UNC-2A",
         "length": "3/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C23",
         "thread": "6-32 UNC-2A",
         "length": "3/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.279",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C2",
         "thread": "4-40 UNC-2A",
         "length": "1/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C8",
         "thread": "4-40 UNC-2A",
         "length": "3/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693S24",
         "thread": "6-32 UNC-2A",
         "length": "1/4",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_max": "0.279",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C17NP",
         "thread": "4-40 UNC-2A",
         "length": "1-7/8",
-        "configuration": "Passivated CRES; patch per drawing"
+        "configuration": "Passivated CRES; patch per drawing",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C25",
         "thread": "6-32 UNC-2A",
         "length": "5/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.279",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C1NP",
         "thread": "4-40 UNC-2A",
         "length": "3/16",
-        "configuration": "Passivated CRES; patch per drawing"
+        "configuration": "Passivated CRES; patch per drawing",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693S6",
         "thread": "4-40 UNC-2A",
         "length": "1/2",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693S1",
         "thread": "4-40 UNC-2A",
         "length": "3/16",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C218",
         "thread": "0-80 UNF-2A",
         "length": "1/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.119",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693S7",
         "thread": "4-40 UNC-2A",
         "length": "5/8",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C217",
         "thread": "0-80 UNF-2A",
         "length": "3/32",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.119",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693S272",
         "thread": "10-32 UNF-2A",
         "length": "1/2",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_max": "0.385",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693S25",
         "thread": "6-32 UNC-2A",
         "length": "5/16",
-        "configuration": "Cadmium-plated steel"
+        "configuration": "Cadmium-plated steel",
+        "head_diameter_max": "0.279",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C24",
         "thread": "6-32 UNC-2A",
         "length": "1/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.279",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C35",
         "thread": "6-32 UNC-2A",
         "length": "1-3/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.279",
+        "head_angle_nominal": "100°"
       },
       {
         "part": "MS24693C30",
         "thread": "6-32 UNC-2A",
         "length": "3/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_max": "0.279",
+        "head_angle_nominal": "100°"
       }
     ],
     "MS51957": [
@@ -3281,199 +3365,265 @@
         "part": "MS51957-2",
         "thread": "2-56 UNC-2A",
         "length": "3/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.1550–0.1670",
+        "head_height_limits": "0.0530–0.0620"
       },
       {
         "part": "MS51957-14",
         "thread": "4-40 UNC-2A",
         "length": "5/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS51957-28",
         "thread": "6-32 UNC-2A",
         "length": "3/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2560–0.2700",
+        "head_height_limits": "0.0870–0.0970"
       },
       {
         "part": "MS51957-14B",
         "thread": "4-40 UNC-2A",
         "length": "5/16",
-        "configuration": "Black-oxide CRES"
+        "configuration": "Black-oxide CRES",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS51957-30B",
         "thread": "6-32 UNC-2A",
         "length": "1/2",
-        "configuration": "Black-oxide CRES"
+        "configuration": "Black-oxide CRES",
+        "head_diameter_limits": "0.2560–0.2700",
+        "head_height_limits": "0.0870–0.0970"
       },
       {
         "part": "MS51957-4",
         "thread": "2-56 UNC-2A",
         "length": "5/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.1550–0.1670",
+        "head_height_limits": "0.0530–0.0620"
       },
       {
         "part": "MS51957-18",
         "thread": "4-40 UNC-2A",
         "length": "5/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS51957-5",
         "thread": "2-56 UNC-2A",
         "length": "3/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.1550–0.1670",
+        "head_height_limits": "0.0530–0.0620"
       },
       {
         "part": "MS51957-3",
         "thread": "2-56 UNC-2A",
         "length": "1/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.1550–0.1670",
+        "head_height_limits": "0.0530–0.0620"
       },
       {
         "part": "MS51957-13B",
         "thread": "4-40 UNC-2A",
         "length": "1/4",
-        "configuration": "Black-oxide CRES"
+        "configuration": "Black-oxide CRES",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS51957-87",
         "thread": "1/4-20 UNC-2A",
         "length": "2",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.4730–0.4920",
+        "head_height_limits": "0.1620–0.1750"
       },
       {
         "part": "MS51957-124",
         "thread": "6-32 UNC-2A",
         "length": "1-1/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2560–0.2700",
+        "head_height_limits": "0.0870–0.0970"
       },
       {
         "part": "MS51957-12",
         "thread": "4-40 UNC-2A",
         "length": "3/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS51957-20",
         "thread": "4-40 UNC-2A",
         "length": "7/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS51957-45",
         "thread": "8-32 UNC-2A",
         "length": "1/2",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.3060–0.3220",
+        "head_height_limits": "0.1050–0.1150"
       },
       {
         "part": "MS51957-16",
         "thread": "4-40 UNC-2A",
         "length": "7/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS51957-33B",
         "thread": "6-32 UNC-2A",
         "length": "7/8",
-        "configuration": "Black-oxide CRES"
+        "configuration": "Black-oxide CRES",
+        "head_diameter_limits": "0.2560–0.2700",
+        "head_height_limits": "0.0870–0.0970"
       },
       {
         "part": "MS51957-4B",
         "thread": "2-56 UNC-2A",
         "length": "5/16",
-        "configuration": "Black-oxide CRES"
+        "configuration": "Black-oxide CRES",
+        "head_diameter_limits": "0.1550–0.1670",
+        "head_height_limits": "0.0530–0.0620"
       },
       {
         "part": "MS51957-13",
         "thread": "4-40 UNC-2A",
         "length": "1/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS51957-22",
         "thread": "4-40 UNC-2A",
         "length": "1-1/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS51957-33",
         "thread": "6-32 UNC-2A",
         "length": "7/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2560–0.2700",
+        "head_height_limits": "0.0870–0.0970"
       },
       {
         "part": "MS51957-17B",
         "thread": "4-40 UNC-2A",
         "length": "1/2",
-        "configuration": "Black-oxide CRES"
+        "configuration": "Black-oxide CRES",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS51957-15",
         "thread": "4-40 UNC-2A",
         "length": "3/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS51957-35",
         "thread": "6-32 UNC-2A",
         "length": "1-1/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2560–0.2700",
+        "head_height_limits": "0.0870–0.0970"
       },
       {
         "part": "MS51957-3B",
         "thread": "2-56 UNC-2A",
         "length": "1/4",
-        "configuration": "Black-oxide CRES"
+        "configuration": "Black-oxide CRES",
+        "head_diameter_limits": "0.1550–0.1670",
+        "head_height_limits": "0.0530–0.0620"
       },
       {
         "part": "MS51957-41",
         "thread": "8-32 UNC-2A",
         "length": "1/4",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.3060–0.3220",
+        "head_height_limits": "0.1050–0.1150"
       },
       {
         "part": "MS51957-1",
         "thread": "2-56 UNC-2A",
         "length": "1/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.1550–0.1670",
+        "head_height_limits": "0.0530–0.0620"
       },
       {
         "part": "MS51957-17",
         "thread": "4-40 UNC-2A",
         "length": "1/2",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2050–0.2190",
+        "head_height_limits": "0.0700–0.0800"
       },
       {
         "part": "MS51957-6",
         "thread": "2-56 UNC-2A",
         "length": "7/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.1550–0.1670",
+        "head_height_limits": "0.0530–0.0620"
       },
       {
         "part": "MS51957-30",
         "thread": "6-32 UNC-2A",
         "length": "1/2",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2560–0.2700",
+        "head_height_limits": "0.0870–0.0970"
       },
       {
         "part": "MS51957-7",
         "thread": "2-56 UNC-2A",
         "length": "1/2",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.1550–0.1670",
+        "head_height_limits": "0.0530–0.0620"
       },
       {
         "part": "MS51957-43",
         "thread": "8-32 UNC-2A",
         "length": "3/8",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.3060–0.3220",
+        "head_height_limits": "0.1050–0.1150"
       },
       {
         "part": "MS51957-29",
         "thread": "6-32 UNC-2A",
         "length": "7/16",
-        "configuration": "Passivated CRES"
+        "configuration": "Passivated CRES",
+        "head_diameter_limits": "0.2560–0.2700",
+        "head_height_limits": "0.0870–0.0970"
       }
     ],
     "MS51959": [
@@ -3481,61 +3631,81 @@
         "part": "MS51959-13",
         "thread": "4-40 UNC-2A",
         "length": "1/4",
-        "configuration": "Passivated 300-series CRES"
+        "configuration": "Passivated 300-series CRES",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "82°"
       },
       {
         "part": "MS51959-17",
         "thread": "4-40 UNC-2A",
         "length": "1/2",
-        "configuration": "Passivated 300-series CRES"
+        "configuration": "Passivated 300-series CRES",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "82°"
       },
       {
         "part": "MS51959-1",
         "thread": "2-56 UNC-2A",
         "length": "1/8",
-        "configuration": "Passivated 300-series CRES"
+        "configuration": "Passivated 300-series CRES",
+        "head_diameter_max": "0.172",
+        "head_angle_nominal": "82°"
       },
       {
         "part": "MS51959-12",
         "thread": "4-40 UNC-2A",
         "length": "3/16",
-        "configuration": "Passivated 300-series CRES"
+        "configuration": "Passivated 300-series CRES",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "82°"
       },
       {
         "part": "MS51959-15",
         "thread": "4-40 UNC-2A",
         "length": "3/8",
-        "configuration": "Passivated 300-series CRES"
+        "configuration": "Passivated 300-series CRES",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "82°"
       },
       {
         "part": "MS51959-4",
         "thread": "2-56 UNC-2A",
         "length": "5/16",
-        "configuration": "Passivated 300-series CRES"
+        "configuration": "Passivated 300-series CRES",
+        "head_diameter_max": "0.172",
+        "head_angle_nominal": "82°"
       },
       {
         "part": "MS51959-5",
         "thread": "2-56 UNC-2A",
         "length": "3/8",
-        "configuration": "Passivated 300-series CRES"
+        "configuration": "Passivated 300-series CRES",
+        "head_diameter_max": "0.172",
+        "head_angle_nominal": "82°"
       },
       {
         "part": "MS51959-3",
         "thread": "2-56 UNC-2A",
         "length": "1/4",
-        "configuration": "Passivated 300-series CRES"
+        "configuration": "Passivated 300-series CRES",
+        "head_diameter_max": "0.172",
+        "head_angle_nominal": "82°"
       },
       {
         "part": "MS51959-2",
         "thread": "2-56 UNC-2A",
         "length": "3/16",
-        "configuration": "Passivated 300-series CRES"
+        "configuration": "Passivated 300-series CRES",
+        "head_diameter_max": "0.172",
+        "head_angle_nominal": "82°"
       },
       {
         "part": "MS51959-14",
         "thread": "4-40 UNC-2A",
         "length": "5/16",
-        "configuration": "Passivated 300-series CRES"
+        "configuration": "Passivated 300-series CRES",
+        "head_diameter_max": "0.225",
+        "head_angle_nominal": "82°"
       }
     ],
     "NAS662": [

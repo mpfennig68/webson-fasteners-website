@@ -34,3 +34,28 @@
 
 /* Keep dimensional limits together in the purchasing tables. */
 .ref-dimension-table td:nth-child(n+2):nth-last-child(n+4){white-space:nowrap}
+
+/* A common part-number search across the Mil-Spec reference section. */
+.ref-global-search{margin-top:24px;padding-top:22px;border-top:1px solid var(--ref-rule)}
+.ref-global-search label{display:block;font-size:13px;font-weight:600;color:var(--ref-blue);margin-bottom:9px}
+.ref-global-search-row{display:flex;gap:10px;max-width:790px}
+.ref-global-search input{min-width:0;flex:1;padding:12px 14px;border:1px solid #b9b6c6;background:#fffdf8;font:14px 'Libre Franklin',sans-serif;border-radius:0}
+.ref-global-search button{border:1px solid var(--ref-blue);background:var(--ref-blue);color:#fff;padding:12px 20px;font:600 13px 'Libre Franklin',sans-serif;white-space:nowrap;cursor:pointer}
+.ref-global-search p{font-size:12px;line-height:1.6;color:var(--ref-muted);margin:9px 0 0}
+.ref-search-results{list-style:none;padding:0;margin:20px 0}
+.ref-search-results li{padding:20px 0;border-bottom:1px solid var(--ref-rule)}
+.ref-search-results li>a{font:500 15px 'IBM Plex Mono',monospace;color:var(--ref-blue);text-decoration:underline;text-underline-offset:4px}
+.ref-search-results li p{font-size:13px;margin:10px 0 7px;max-width:100%;line-height:1.8}
+.ref-search-stock-note{font-size:11px;color:var(--ref-muted)}
+.ref-search-family-links{display:flex;flex-wrap:wrap;gap:12px 24px;margin:18px 0}
+.ref-search-family-links a{font-size:14px;color:var(--ref-blue);text-decoration:underline;text-underline-offset:4px}
+@media(max-width:640px){.ref-global-search-row{gap:8px}.ref-global-search button{padding:12px}.ref-global-search input{font-size:16px;width:100%}.ref-search-results li>a{font-size:14px}}
+.ref-search-family-links:empty{display:none}
+.ref-search-results li .ref-search-quote{float:right;font:600 12px 'Libre Franklin',sans-serif;margin:2px 0 10px 18px}
+.ref-search-page .ref-hero{padding-top:32px}
+.ref-search-page .ref-breadcrumb{margin-bottom:18px}
+.ref-search-page h1{font-size:42px}
+.ref-search-page .ref-lead{margin:16px 0 20px;font-size:15px}
+.ref-search-page .ref-global-search{margin-top:16px;padding-top:16px}
+.ref-search-page .ref-section{padding-top:30px}
+@media(max-width:640px){.ref-search-page h1{font-size:34px}.ref-search-results li .ref-search-quote{float:none;display:block;margin:14px 0}}

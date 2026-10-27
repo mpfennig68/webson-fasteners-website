@@ -12,6 +12,9 @@ fonts=re.search(r'<link rel="preconnect".*?<style>',base,re.S).group().removesuf
 icons='\n'.join(re.findall(r'<link rel="(?:icon|apple-touch-icon)"[^>]+>',base))
 URL='https://www.websonfasteners.com/'
 def h(v):return html.escape(v,quote=True)
+SEARCH_PAGE='Resources-Mil-Spec-Part-Search.html'
+def part_search_form():
+ return '<div class="ref-global-search"><form action="'+SEARCH_PAGE+'" method="get" role="search"><label for="mil-spec-part-search">Search all Mil-Spec references</label><div class="ref-global-search-row"><input id="mil-spec-part-search" name="q" type="search" maxlength="100" placeholder="Enter an MS, NAS or AN part number" autocomplete="off"><button type="submit">Find part →</button></div><p>Try MS51576-16, MS35338-40 or a series such as MS35206. <a href="'+SEARCH_PAGE+'">Open part search →</a></p></form></div>'
 def section(title,body,kicker='',cls=''):
  return f'<section class="ref-section {cls}">'+(f'<p class="ref-kicker">// {kicker}</p>' if kicker else '')+f'<h2>{title}</h2>{body}</section>'
 def actions():return '<div class="ref-actions"><a class="ref-button" href="Quote.html">Request a Quote →</a><a href="Products-Mil-Spec-Hardware.html">Mil-Spec sourcing capabilities →</a></div>'
@@ -48,7 +51,7 @@ def page(file,title,desc,heading,intro,body):
  if file in DIAGRAM_PAGES and 'ref-dimension-figure' not in body:body=diagram(DIAGRAM_PAGES[file])+body
  body=combine_part_overview(body)
  body=enhance_lookup_page(file,body)
- if file in ['Reference-MS21042.html','Reference-MS21044.html','Reference-MS21083.html','Reference-MS16995.html','Reference-MS16996.html','Reference-MS35338.html']:
+ if file in ['Reference-MS21042.html','Reference-MS21044.html','Reference-MS21083.html','Reference-MS16995.html','Reference-MS16996.html','Reference-MS35338.html','Reference-MS35206.html','Reference-MS51957.html','Reference-MS24693.html','Reference-MS51959.html']:
   body=body.replace('<table data-reference-table>','<table class="ref-dimension-table" data-reference-table>')
  body=re.sub(r'<p class="ref-source">.*?</p>','',body,flags=re.S)
  body=re.sub(r'<a href="https?://[^"]+"[^>]*>(.*?)</a>',r'\1',body,flags=re.S)
@@ -61,10 +64,10 @@ def page(file,title,desc,heading,intro,body):
 <link rel="stylesheet" href="assets/site.css"><link rel="stylesheet" href="assets/mil-spec-reference.css">
 <link rel="canonical" href="{URL+file}"><meta property="og:type" content="website"><meta property="og:site_name" content="Webson Fasteners"><meta property="og:title" content="{h(title)}"><meta property="og:description" content="{h(desc)}"><meta property="og:url" content="{URL+file}"><meta property="og:image" content="{URL}assets/images/webson-8a24453b26a2.webp">
 <script type="application/ld+json">{json.dumps(ld)}</script><script type="application/ld+json">{json.dumps(article)}</script>
-<script src="assets/mil-spec-reference.js" defer></script>
+<script src="assets/mil-spec-reference.js" defer></script>{'<script src="assets/mil-spec-part-search.js" defer></script>'if file==SEARCH_PAGE else''}
 </head><body><a class="ref-skip" href="#main">Skip to content</a>{nav}
-<main id="main" class="site-main reference-main"><header class="ref-hero"><nav class="ref-breadcrumb" aria-label="Breadcrumb">{breadcrumb}</nav><p class="ref-kicker">// TECHNICAL RESOURCES</p><h1>{heading}</h1><p class="ref-lead">{intro}</p>
-<nav class="ref-subnav" aria-label="Mil-Spec resources"><a href="Resources-Mil-Spec-Guide.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Guide.html' else ''}>Buyer’s guide</a><a href="Resources-Mil-Spec-Reference.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Reference.html' else ''}>Series directory</a><a href="Resources-Mil-Spec-Cross-Reference.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Cross-Reference.html' else ''}>Cross-reference</a><a href="Resources-Mil-Spec-Tables.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Tables.html' else ''}>Size tables</a><a href="Resources-Mil-Spec-Purchasing-FAQ.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Purchasing-FAQ.html' else ''}>Purchasing FAQs</a><a href="Resources-Mil-Spec-RFQ-Checklist.html" {'aria-current="page"' if file=='Resources-Mil-Spec-RFQ-Checklist.html' else ''}>RFQ checklist</a></nav></header>
+<main id="main" class="site-main reference-main{' ref-search-page'if file==SEARCH_PAGE else''}"><header class="ref-hero"><nav class="ref-breadcrumb" aria-label="Breadcrumb">{breadcrumb}</nav><p class="ref-kicker">// TECHNICAL RESOURCES</p><h1>{heading}</h1><p class="ref-lead">{intro}</p>
+<nav class="ref-subnav" aria-label="Mil-Spec resources"><a href="Resources-Mil-Spec-Guide.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Guide.html' else ''}>Buyer’s guide</a><a href="Resources-Mil-Spec-Reference.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Reference.html' else ''}>Series directory</a><a href="Resources-Mil-Spec-Cross-Reference.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Cross-Reference.html' else ''}>Cross-reference</a><a href="Resources-Mil-Spec-Tables.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Tables.html' else ''}>Size tables</a><a href="Resources-Mil-Spec-Purchasing-FAQ.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Purchasing-FAQ.html' else ''}>Purchasing FAQs</a><a href="Resources-Mil-Spec-RFQ-Checklist.html" {'aria-current="page"' if file=='Resources-Mil-Spec-RFQ-Checklist.html' else ''}>RFQ checklist</a></nav>{part_search_form()}</header>
 {body}
 {section('Have a part number or bill of material?','<p>Send the complete designation, quantity, required delivery date and documentation requirements. Webson will review your requirement for quotation.</p>'+actions(),'SOURCE WITH WEBSON','ref-tint')}
 </main>{footer}</body></html>'''
@@ -120,7 +123,7 @@ def table(headers,rows,caption,searchable=False):
   attrs=''
   if isinstance(row,dict):attrs=' data-search="'+h(row.get('search',' '.join(re.sub('<[^>]+>',' ',str(v))for v in cells)))+'" data-family="'+h(row.get('family',''))+'"'
   body+='<tr'+attrs+'>'+''.join(f'<{"th scope=\"row\"" if i==0 else "td"}>{v}</{"th" if i==0 else "td"}>'for i,v in enumerate(cells))+'</tr>'
- return '<div class="ref-table-wrap" role="region" tabindex="0" aria-label="'+h(caption)+'"><table'+(' data-reference-table'if searchable else'')+'><caption>'+h(caption)+'</caption><thead><tr>'+''.join('<th scope="col">'+h(x)+'</th>'for x in headers)+'</tr></thead><tbody>'+body+'</tbody></table></div>'
+ return '<div id="reference-table-'+slug(caption)+'" class="ref-table-wrap" role="region" tabindex="0" aria-label="'+h(caption)+'"><table'+(' data-reference-table'if searchable else'')+'><caption>'+h(caption)+'</caption><thead><tr>'+''.join('<th scope="col">'+h(x)+'</th>'for x in headers)+'</tr></thead><tbody>'+body+'</tbody></table></div>'
 def filtered(headers,rows,caption,options=None,label='Product family'):
  ident='filter-'+slug(caption)
  controls='<div class="ref-filters" data-reference-filters hidden><div class="ref-search"><label for="'+ident+'">Search this table</label><input type="search" id="'+ident+'" data-reference-search placeholder="Enter a part number, term or dimension"></div>'
@@ -285,7 +288,11 @@ def stocked_reference_table(root,key,fields,headers,caption):
 def rivet_table(root):
  return stocked_reference_table(root,'blind_rivet_sizes',['diameter','grip','configuration'],['Nominal diameter (in)','Grip range (in)','Configuration'],root+' stocked blind-rivet references')
 def screw_table(root):
- return stocked_reference_table(root,'machine_screw_sizes',['thread','length','configuration'],['Thread','Nominal length (in)','Configuration'],root+' stocked machine-screw references')+('<p>Rows marked patched identify a stocked modified configuration. Dimensions describe the base screw; confirm the patch specification and drawing before ordering.</p>' if root!='MS35206' else '')
+ pan=root in ['MS35206','MS51957']
+ fields=['thread','length']+(['head_diameter_limits','head_height_limits']if pan else['head_diameter_max','head_angle_nominal'])+['configuration']
+ headers=['Thread','Nominal '+('under-head'if pan else'overall')+' length (in)']+(['Head diameter limits (in)','Head height limits (in)']if pan else['Head diameter max (in)','Nominal head angle'])+['Material / finish']
+ note='<p>Head diameter and height are minimum–maximum drawing limits. The pan-head length is measured beneath the head.</p>'if pan else'<p>Head diameter is the drawing’s maximum sharp-head diameter; the permitted minimum for a truncated head is a separate requirement. Nominal length includes the countersunk head. Keep the head angle with the drawing callout.</p>'
+ return stocked_reference_table(root,'machine_screw_sizes',fields,headers,root+' stocked machine-screw dimensions')+note+('<p>Rows marked patched identify a stocked modified configuration. Dimensions describe the base screw; confirm the patch specification and drawing before ordering.</p>' if root=='MS24693' else '')
 
 guide('Reference-MS20605.html','MS20605 Blind Rivets | Stocked Sizes and Grip Ranges','MS20605 nonstructural flush blind rivets.','Find selected stocked MS20605 blind rivets, compare nominal diameters and grip ranges, and request pricing from Webson.',[
  ('Identify the nonstructural flush-head family','<p>MS20605 identifies Class 2 nonstructural blind rivets with a 100-degree flush head. Retain the complete material, diameter and grip designation when requesting a quote.</p><p>This family should be distinguished from structural locked-spindle blind rivets and from solid rivets. Matching the diameter and head angle does not establish interchangeability.</p>','PART IDENTIFICATION'),
@@ -321,7 +328,7 @@ def washer_stock_table(root):
  return stocked_reference_table(root,key,['size','thickness','configuration'],['Screw / bolt size (ref)','Nominal thickness (in)','Material / finish'],root+' stocked washer references')
 guide('Reference-MS51959.html','MS51959 Screws | Stocked 82-Degree Flat-Head Sizes','MS51959 82-degree flat-head machine screws.','Find selected stocked MS51959 stainless machine screws, compare nominal threads and overall lengths, and request pricing from Webson.',[
  ('82-degree countersunk head and coarse threads','<p>MS51959 identifies cross-recessed, 82-degree flat-head machine screws in corrosion-resistant steel with UNC-2A threads. The selected unsuffixed entries are passivated 300-series stainless steel.</p>','PART IDENTIFICATION'),
- ('Stocked MS51959 part numbers',stocked_reference_table('MS51959','machine_screw_sizes',['thread','length','configuration'],['Thread','Nominal overall length (in)','Material / finish'],'MS51959 stocked flat-head screw references'),'STOCKED SELECTION'),
+ ('Stocked MS51959 part numbers',screw_table('MS51959'),'STOCKED SELECTION'),
  ('Overall length includes the head','<p>For these flat-head screws, length is measured from the top of the head to the tip. MS51959-3 is a 2-56 by 1/4-inch selection; MS51959-13 is a 4-40 by 1/4-inch selection.</p><p>The same nominal length can occur under different dash numbers because the thread size also changes. Use the complete designation when ordering.</p>','LENGTH CONVENTION'),
  ('Keep the countersink angle with the part number','<p>The 82-degree MS51959 head requires a matching seat. MS24693 uses a 100-degree head, while MS51957 has a raised pan head. Head angle and length convention belong in any comparison.</p>'+chips([('MS24693: 100-degree flat-head screws','Reference-MS24693.html'),('MS51957: stainless pan-head screws','Reference-MS51957.html')]),'HEAD COMPARISON'),
  ('Preserve the specified designation','<p>The legacy MS51959 document names NASM51959 as its successor. Include the complete part number, quantity, required delivery date, governing issue and certification requirements with your inquiry.</p>'+chips([('Machine-screw family directory',familyfile('Machine screws')),('Specification cross-reference','Resources-Mil-Spec-Cross-Reference.html')]),'SOURCE WITH WEBSON')])
@@ -396,7 +403,7 @@ def socket_stock_table(root):
  return stocked_reference_table(root,'socket_screw_sizes',['thread','length','configuration'],['Thread','Nominal under-head length (in)','Configuration'],root+' stocked socket-screw references')
 
 # Refresh the stock selection while retaining the established MS51957 reference content.
-ms51957_stock=stocked_reference_table('MS51957','machine_screw_sizes',['thread','length','configuration'],['Thread','Nominal under-head length (in)','Material / finish'],'MS51957 stocked machine-screw references')+'<p>For the selected parts, a B ending identifies black oxide on corrosion-resistant steel. Unsuffixed entries identify passivated CRES. Retain the finish suffix when requesting a quote.</p>'
+ms51957_stock=screw_table('MS51957')+'<p>For the selected parts, a B ending identifies black oxide on corrosion-resistant steel. Unsuffixed entries identify passivated CRES. Retain the finish suffix when requesting a quote.</p>'
 page('Reference-MS51957.html','MS51957 Screws | Stocked Stainless Pan-Head Sizes | Webson','Compare selected stocked MS51957 stainless pan-head machine screws, nominal threads and lengths, and passivated versus black-oxide finishes.','MS51957 pan head machine screws.','Look up selected stocked UNC-2A stainless pan-head screws and send Webson the complete part number for pricing and availability.',section('Stocked MS51957 part numbers',ms51957_stock,'STOCKED SELECTION','ref-stocked-selection')+prior_body)
 
 guide('Reference-MS16995.html','MS16995 Socket Screws | Stocked UNC Stainless Sizes','MS16995 coarse-thread stainless socket screws.','Compare selected stocked MS16995 UNC-3A socket-head cap screws, nominal lengths, head dimensions, socket widths and finishes, and request a quote from Webson.',[
@@ -637,6 +644,14 @@ page('Resources-Mil-Spec-Purchasing-FAQ.html','Mil-Spec Fastener Purchasing FAQs
 # Buyer’s guide shares the reference rendering and RFQ context pipeline.
 runpy.run_path(str(W/'scripts/mil-spec-buyers-guide.py'),init_globals={'section':section,'table':table,'chips':chips,'page':page})
 
+# Shared exact-part search, with a static directory fallback.
+page(SEARCH_PAGE,'Mil-Spec Part Number Search | MS, NAS & AN | Webson','Search listed MS, NAS and AN part numbers across Webson dimensional tables and open the matching family guide.','Find a Mil-Spec part number.','Search a complete part number or browse a series. Matches link to the published size table; Webson confirms availability and the full requirement with your quote.',section('Search results','<p data-part-search-status role="status" aria-live="polite">Enter a part number or series above.</p><div data-part-search-results></div><noscript><p>Part search requires JavaScript. Browse the series directory and size tables below, or contact Webson with your complete part number.</p></noscript>','PART LOOKUP')+section('Browse the references',chips([('Mil-Spec series directory','Resources-Mil-Spec-Reference.html'),('Dimensional size tables','Resources-Mil-Spec-Tables.html'),('Send a part number for review','Quote.html')]),'MORE WAYS TO FIND A PART'))
+landing=W/'Products-Mil-Spec-Hardware.html'
+content=landing.read_text()
+content=re.sub(r'<div class="ref-global-search">.*?</form></div>','',content,flags=re.S)
+content=content.replace('</div></header>','</div>'+part_search_form()+'</header>',1)
+landing.write_text(content)
+
 # Sitemap: idempotently add each generated canonical URL.
 sitemap=(W/'sitemap.xml').read_text()
 sitemap=re.sub(r'\s*<url>\s*<loc>https://www\.websonfasteners\.com/Resources-Mil-Spec-Sources\.html</loc>.*?</url>','',sitemap,flags=re.S)
@@ -661,6 +676,7 @@ tracking=re.sub(r'const pages = /\* REFERENCE_PAGES_START \*/.*?/\* REFERENCE_PA
 tracking_path.write_text(tracking)
 print(json.dumps(report,indent=2))
 
+# Index public tables before generating the validated exact-part RFQ allowlist.
+runpy.run_path(str(W/'scripts/build-mil-spec-part-search.py'))['build'](W,guide_map)
 # Reapply site-wide RFQ context after regenerating pages.
-import runpy
 runpy.run_path(str(W/'scripts/build-site-rfq-context.py'),run_name='__main__')
