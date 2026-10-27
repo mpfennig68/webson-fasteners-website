@@ -223,6 +223,14 @@
     "title": "MS27183 flat steel washers",
     "prefill": "MS27183 flat steel washers\n"
   },
+  "Reference-MS35190.html": {
+    "title": "MS35190 coarse-thread 82-degree flat-head screws",
+    "prefill": "MS35190 coarse-thread 82-degree flat-head screws\n"
+  },
+  "Reference-MS35191.html": {
+    "title": "MS35191 fine-thread 82-degree flat-head screws",
+    "prefill": "MS35191 fine-thread 82-degree flat-head screws\n"
+  },
   "Reference-MS35206.html": {
     "title": "MS35206 pan-head machine screws",
     "prefill": "MS35206 pan-head machine screws\n"
@@ -230,6 +238,14 @@
   "Reference-MS35207.html": {
     "title": "MS35207 fine-thread carbon-steel pan-head screws",
     "prefill": "MS35207 fine-thread carbon-steel pan-head screws\n"
+  },
+  "Reference-MS35265.html": {
+    "title": "MS35265 coarse-thread drilled fillister-head screws",
+    "prefill": "MS35265 coarse-thread drilled fillister-head screws\n"
+  },
+  "Reference-MS35266.html": {
+    "title": "MS35266 fine-thread drilled fillister-head screws",
+    "prefill": "MS35266 fine-thread drilled fillister-head screws\n"
   },
   "Reference-MS35307-MS35308.html": {
     "title": "MS35307 and MS35308 hex cap screws",
