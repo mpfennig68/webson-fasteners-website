@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" role="img" aria-labelledby="title desc">
+<title id="title">Flat-point set screw dimensions</title><desc id="desc">Conceptual face and side views of a headless hex-socket set screw. J marks nominal socket width. L includes the point. C marks flat point diameter. Not to scale.</desc>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto-start-reverse"><path d="M7 3.5 0 0 0 7Z" fill="#2a2d6b"/></marker></defs>
+<style>.part{fill:#edeef6;stroke:#2a2d6b;stroke-width:3;stroke-linejoin:round}.detail{fill:none;stroke:#2a2d6b;stroke-width:2}.ext{fill:none;stroke:#8d8b9b;stroke-width:1.2}.dim{fill:none;stroke:#2a2d6b;stroke-width:1.6;marker-start:url(#arrow);marker-end:url(#arrow)}.label{fill:#2a2d6b;font:22px Georgia,serif;text-anchor:middle}.note{fill:#2a2d6b;font:16px sans-serif;text-anchor:middle}</style>
+<circle class="part" cx="110" cy="140" r="52"/><path class="part" d="M85 126L110 112L135 126V154L110 168L85 154Z"/>
+<path class="ext" d="M85 124V75M135 124V75"/><path class="dim" d="M88 82H132"/><text class="label" x="110" y="64">J</text><text class="note" x="110" y="228">Socket end</text>
+<path class="part" d="M260 100H590L610 120V160L590 180H260Z"/><path class="detail" d="M260 123H300L316 140L300 157H260"/>
+<path class="detail" d="M330 101l18 78"/><path class="detail" d="M355 101l18 78"/><path class="detail" d="M380 101l18 78"/><path class="detail" d="M405 101l18 78"/><path class="detail" d="M430 101l18 78"/><path class="detail" d="M455 101l18 78"/><path class="detail" d="M480 101l18 78"/><path class="detail" d="M505 101l18 78"/><path class="detail" d="M530 101l18 78"/>
+<path class="ext" d="M260 186V250M610 174V250"/><path class="dim" d="M264 238H606"/><text class="label" x="435" y="277">L — overall length</text>
+<path class="ext" d="M615 120H655M615 160H655"/><path class="dim" d="M642 123V157"/><text class="label" x="674" y="148">C</text>
+<text class="note" x="435" y="30">Schematic · not to scale</text>
+</svg>
