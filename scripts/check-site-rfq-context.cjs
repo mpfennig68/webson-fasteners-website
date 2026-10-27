@@ -41,6 +41,13 @@ for(const [key,guide] of Object.entries(referenceGuides)){
 }
 assert.equal(run('?reference=Reference-Keylocking-Insert-Comparison.html&part=MS35307-303').details.value,pages['Reference-Keylocking-Insert-Comparison.html'].prefill);
 assert.equal(run('?reference=Reference-NAS671.html&part=NAS1291C4M').details.value,pages['Reference-NAS671.html'].prefill);
+for(const [root,part,drive] of [['MS51576','MS51576-16','hex-socket'],['MS51575','MS51575-17','slotted']]){
+ const key='Reference-'+root+'.html',query='?reference='+key+'&part='+part;
+ assert.equal(run(query).details.value,part+' - '+root+' stainless '+drive+' shoulder screw\n');
+ assert.equal(run(query,'Customer drawing').details.value,'Customer drawing');
+ for(const invalid of [root+'-999','__proto__',root==='MS51576'?'MS51575-17':'MS51576-16'])
+  assert.equal(run('?reference='+key+'&part='+invalid).details.value,pages[key].prefill);
+}
 for(const key of ['__proto__','constructor','../secret.html','https://evil.test','Quote.html','missing.html']){const r=run('?context='+encodeURIComponent(key));assert.equal(r.details.value,'');assert.equal(r.fields.length,0);}
 assert.equal(run('').details.value,'');assert.equal(run('').fields.length,0);assert.equal(run('?context=index.html','',true,'https://www.websonfasteners.com','https://evil.test').fields.length,0);
 for(const key of Object.keys(pages)){

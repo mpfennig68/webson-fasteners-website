@@ -1486,247 +1486,452 @@
       "part": "MS51576-1",
       "diameter": "1/8",
       "length": "1/8",
-      "thread": "4-40"
+      "thread": "4-40",
+      "material": "Stainless steel",
+      "head_diameter": "1/4",
+      "head_height": "1/8",
+      "thread_length": "5/32",
+      "socket_width": "5/64"
     },
     {
       "part": "MS51576-2",
       "diameter": "1/8",
       "length": "3/16",
-      "thread": "4-40"
+      "thread": "4-40",
+      "material": "Stainless steel",
+      "head_diameter": "1/4",
+      "head_height": "1/8",
+      "thread_length": "5/32",
+      "socket_width": "5/64"
     },
     {
       "part": "MS51576-3",
       "diameter": "1/8",
       "length": "1/4",
-      "thread": "4-40"
+      "thread": "4-40",
+      "material": "Stainless steel",
+      "head_diameter": "1/4",
+      "head_height": "1/8",
+      "thread_length": "5/32",
+      "socket_width": "5/64"
     },
     {
       "part": "MS51576-4",
       "diameter": "1/8",
       "length": "5/16",
-      "thread": "4-40"
+      "thread": "4-40",
+      "material": "Stainless steel",
+      "head_diameter": "1/4",
+      "head_height": "1/8",
+      "thread_length": "5/32",
+      "socket_width": "5/64"
     },
     {
       "part": "MS51576-5",
       "diameter": "1/8",
       "length": "3/8",
-      "thread": "4-40"
+      "thread": "4-40",
+      "material": "Stainless steel",
+      "head_diameter": "1/4",
+      "head_height": "1/8",
+      "thread_length": "5/32",
+      "socket_width": "5/64"
     },
     {
       "part": "MS51576-6",
       "diameter": "3/16",
       "length": "1/8",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16",
+      "socket_width": "0.094"
     },
     {
       "part": "MS51576-7",
       "diameter": "3/16",
       "length": "3/16",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16",
+      "socket_width": "0.094"
     },
     {
       "part": "MS51576-8",
       "diameter": "3/16",
       "length": "1/4",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16",
+      "socket_width": "0.094"
     },
     {
       "part": "MS51576-9",
       "diameter": "3/16",
       "length": "5/16",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16",
+      "socket_width": "0.094"
     },
     {
       "part": "MS51576-10",
       "diameter": "3/16",
       "length": "3/8",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16",
+      "socket_width": "0.094"
     },
     {
       "part": "MS51576-11",
       "diameter": "3/16",
       "length": "1/2",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16",
+      "socket_width": "0.094"
     },
     {
       "part": "MS51576-12",
       "diameter": "3/16",
       "length": "5/8",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16",
+      "socket_width": "0.094"
     },
     {
       "part": "MS51576-13",
       "diameter": "3/16",
       "length": "3/4",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16",
+      "socket_width": "0.094"
     },
     {
       "part": "MS51576-14",
       "diameter": "3/16",
       "length": "1",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16",
+      "socket_width": "0.094"
     },
     {
       "part": "MS51576-15",
       "diameter": "3/16",
       "length": "1-1/4",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16",
+      "socket_width": "0.094"
     },
     {
       "part": "MS51576-16",
       "diameter": "1/4",
       "length": "3/16",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4",
+      "socket_width": "1/8"
     },
     {
       "part": "MS51576-17",
       "diameter": "1/4",
       "length": "1/4",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4",
+      "socket_width": "1/8"
     },
     {
       "part": "MS51576-18",
       "diameter": "1/4",
       "length": "5/16",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4",
+      "socket_width": "1/8"
     },
     {
       "part": "MS51576-19",
       "diameter": "1/4",
       "length": "3/8",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4",
+      "socket_width": "1/8"
     },
     {
       "part": "MS51576-20",
       "diameter": "1/4",
       "length": "1/2",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4",
+      "socket_width": "1/8"
     },
     {
       "part": "MS51576-21",
       "diameter": "1/4",
       "length": "5/8",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4",
+      "socket_width": "1/8"
     },
     {
       "part": "MS51576-22",
       "diameter": "1/4",
       "length": "3/4",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4",
+      "socket_width": "1/8"
     },
     {
       "part": "MS51576-23",
       "diameter": "1/4",
       "length": "1",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4",
+      "socket_width": "1/8"
     },
     {
       "part": "MS51576-24",
       "diameter": "1/4",
       "length": "1-1/4",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4",
+      "socket_width": "1/8"
     },
     {
       "part": "MS51576-25",
       "diameter": "1/4",
       "length": "1-1/2",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4",
+      "socket_width": "1/8"
     },
     {
       "part": "MS51576-26",
       "diameter": "5/16",
       "length": "1/2",
-      "thread": "1/4-20"
+      "thread": "1/4-20",
+      "material": "Stainless steel",
+      "head_diameter": "1/2",
+      "head_height": "7/32",
+      "thread_length": "7/16",
+      "socket_width": "5/32"
     },
     {
       "part": "MS51576-27",
       "diameter": "5/16",
       "length": "5/8",
-      "thread": "1/4-20"
+      "thread": "1/4-20",
+      "material": "Stainless steel",
+      "head_diameter": "1/2",
+      "head_height": "7/32",
+      "thread_length": "7/16",
+      "socket_width": "5/32"
     },
     {
       "part": "MS51576-28",
       "diameter": "5/16",
       "length": "3/4",
-      "thread": "1/4-20"
+      "thread": "1/4-20",
+      "material": "Stainless steel",
+      "head_diameter": "1/2",
+      "head_height": "7/32",
+      "thread_length": "7/16",
+      "socket_width": "5/32"
     },
     {
       "part": "MS51576-29",
       "diameter": "5/16",
       "length": "1",
-      "thread": "1/4-20"
+      "thread": "1/4-20",
+      "material": "Stainless steel",
+      "head_diameter": "1/2",
+      "head_height": "7/32",
+      "thread_length": "7/16",
+      "socket_width": "5/32"
     },
     {
       "part": "MS51576-30",
       "diameter": "5/16",
       "length": "1-1/4",
-      "thread": "1/4-20"
+      "thread": "1/4-20",
+      "material": "Stainless steel",
+      "head_diameter": "1/2",
+      "head_height": "7/32",
+      "thread_length": "7/16",
+      "socket_width": "5/32"
     },
     {
       "part": "MS51576-31",
       "diameter": "5/16",
       "length": "1-1/2",
-      "thread": "1/4-20"
+      "thread": "1/4-20",
+      "material": "Stainless steel",
+      "head_diameter": "1/2",
+      "head_height": "7/32",
+      "thread_length": "7/16",
+      "socket_width": "5/32"
     },
     {
       "part": "MS51576-32",
       "diameter": "3/8",
       "length": "5/8",
-      "thread": "5/16-18"
+      "thread": "5/16-18",
+      "material": "Stainless steel",
+      "head_diameter": "9/16",
+      "head_height": "1/4",
+      "thread_length": "1/2",
+      "socket_width": "0.1875"
     },
     {
       "part": "MS51576-33",
       "diameter": "3/8",
       "length": "3/4",
-      "thread": "5/16-18"
+      "thread": "5/16-18",
+      "material": "Stainless steel",
+      "head_diameter": "9/16",
+      "head_height": "1/4",
+      "thread_length": "1/2",
+      "socket_width": "0.1875"
     },
     {
       "part": "MS51576-34",
       "diameter": "3/8",
       "length": "1",
-      "thread": "5/16-18"
+      "thread": "5/16-18",
+      "material": "Stainless steel",
+      "head_diameter": "9/16",
+      "head_height": "1/4",
+      "thread_length": "1/2",
+      "socket_width": "0.1875"
     },
     {
       "part": "MS51576-35",
       "diameter": "3/8",
       "length": "1-1/4",
-      "thread": "5/16-18"
+      "thread": "5/16-18",
+      "material": "Stainless steel",
+      "head_diameter": "9/16",
+      "head_height": "1/4",
+      "thread_length": "1/2",
+      "socket_width": "0.1875"
     },
     {
       "part": "MS51576-36",
       "diameter": "3/8",
       "length": "1-1/2",
-      "thread": "5/16-18"
+      "thread": "5/16-18",
+      "material": "Stainless steel",
+      "head_diameter": "9/16",
+      "head_height": "1/4",
+      "thread_length": "1/2",
+      "socket_width": "0.1875"
     },
     {
       "part": "MS51576-37",
       "diameter": "1/2",
       "length": "5/8",
-      "thread": "3/8-16"
+      "thread": "3/8-16",
+      "material": "Stainless steel",
+      "head_diameter": "3/4",
+      "head_height": "5/16",
+      "thread_length": "5/8",
+      "socket_width": "1/4"
     },
     {
       "part": "MS51576-38",
       "diameter": "1/2",
       "length": "3/4",
-      "thread": "3/8-16"
+      "thread": "3/8-16",
+      "material": "Stainless steel",
+      "head_diameter": "3/4",
+      "head_height": "5/16",
+      "thread_length": "5/8",
+      "socket_width": "1/4"
     },
     {
       "part": "MS51576-39",
       "diameter": "1/2",
       "length": "1",
-      "thread": "3/8-16"
+      "thread": "3/8-16",
+      "material": "Stainless steel",
+      "head_diameter": "3/4",
+      "head_height": "5/16",
+      "thread_length": "5/8",
+      "socket_width": "1/4"
     },
     {
       "part": "MS51576-40",
       "diameter": "1/2",
       "length": "1-1/4",
-      "thread": "3/8-16"
+      "thread": "3/8-16",
+      "material": "Stainless steel",
+      "head_diameter": "3/4",
+      "head_height": "5/16",
+      "thread_length": "5/8",
+      "socket_width": "1/4"
     },
     {
       "part": "MS51576-41",
       "diameter": "1/2",
       "length": "1-1/2",
-      "thread": "3/8-16"
+      "thread": "3/8-16",
+      "material": "Stainless steel",
+      "head_diameter": "3/4",
+      "head_height": "5/16",
+      "thread_length": "5/8",
+      "socket_width": "1/4"
     }
   ],
   "shoulder_slotted": [
@@ -1734,169 +1939,281 @@
       "part": "MS51575-1",
       "diameter": "1/8",
       "length": "1/8",
-      "thread": "4-40"
+      "thread": "4-40",
+      "material": "Stainless steel",
+      "head_diameter": "1/4",
+      "head_height": "1/8",
+      "thread_length": "5/32"
     },
     {
       "part": "MS51575-2",
       "diameter": "1/8",
       "length": "3/16",
-      "thread": "4-40"
+      "thread": "4-40",
+      "material": "Stainless steel",
+      "head_diameter": "1/4",
+      "head_height": "1/8",
+      "thread_length": "5/32"
     },
     {
       "part": "MS51575-3",
       "diameter": "1/8",
       "length": "1/4",
-      "thread": "4-40"
+      "thread": "4-40",
+      "material": "Stainless steel",
+      "head_diameter": "1/4",
+      "head_height": "1/8",
+      "thread_length": "5/32"
     },
     {
       "part": "MS51575-4",
       "diameter": "1/8",
       "length": "5/16",
-      "thread": "4-40"
+      "thread": "4-40",
+      "material": "Stainless steel",
+      "head_diameter": "1/4",
+      "head_height": "1/8",
+      "thread_length": "5/32"
     },
     {
       "part": "MS51575-5",
       "diameter": "1/8",
       "length": "3/8",
-      "thread": "4-40"
+      "thread": "4-40",
+      "material": "Stainless steel",
+      "head_diameter": "1/4",
+      "head_height": "1/8",
+      "thread_length": "5/32"
     },
     {
       "part": "MS51575-6",
       "diameter": "3/16",
       "length": "1/8",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16"
     },
     {
       "part": "MS51575-7",
       "diameter": "3/16",
       "length": "3/16",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16"
     },
     {
       "part": "MS51575-8",
       "diameter": "3/16",
       "length": "1/4",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16"
     },
     {
       "part": "MS51575-9",
       "diameter": "3/16",
       "length": "5/16",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16"
     },
     {
       "part": "MS51575-10",
       "diameter": "3/16",
       "length": "3/8",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16"
     },
     {
       "part": "MS51575-11",
       "diameter": "3/16",
       "length": "1/2",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16"
     },
     {
       "part": "MS51575-12",
       "diameter": "3/16",
       "length": "5/8",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16"
     },
     {
       "part": "MS51575-13",
       "diameter": "3/16",
       "length": "3/4",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16"
     },
     {
       "part": "MS51575-14",
       "diameter": "3/16",
       "length": "1",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16"
     },
     {
       "part": "MS51575-15",
       "diameter": "3/16",
       "length": "1-1/4",
-      "thread": "8-32"
+      "thread": "8-32",
+      "material": "Stainless steel",
+      "head_diameter": "5/16",
+      "head_height": "5/32",
+      "thread_length": "3/16"
     },
     {
       "part": "MS51575-16",
       "diameter": "1/4",
       "length": "1/8",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4"
     },
     {
       "part": "MS51575-17",
       "diameter": "1/4",
       "length": "3/16",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4"
     },
     {
       "part": "MS51575-18",
       "diameter": "1/4",
       "length": "1/4",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4"
     },
     {
       "part": "MS51575-19",
       "diameter": "1/4",
       "length": "5/16",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4"
     },
     {
       "part": "MS51575-20",
       "diameter": "1/4",
       "length": "3/8",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4"
     },
     {
       "part": "MS51575-21",
       "diameter": "1/4",
       "length": "1/2",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4"
     },
     {
       "part": "MS51575-22",
       "diameter": "1/4",
       "length": "5/8",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4"
     },
     {
       "part": "MS51575-23",
       "diameter": "1/4",
       "length": "3/4",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4"
     },
     {
       "part": "MS51575-24",
       "diameter": "1/4",
       "length": "1",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4"
     },
     {
       "part": "MS51575-25",
       "diameter": "1/4",
       "length": "1-1/4",
-      "thread": "10-32"
+      "thread": "10-32",
+      "material": "Stainless steel",
+      "head_diameter": "3/8",
+      "head_height": "3/16",
+      "thread_length": "1/4"
     },
     {
       "part": "MS51575-27",
       "diameter": "5/16",
       "length": "1/4",
-      "thread": "1/4-20"
+      "thread": "1/4-20",
+      "material": "Stainless steel",
+      "head_diameter": "1/2",
+      "head_height": "7/32",
+      "thread_length": "7/16"
     },
     {
       "part": "MS51575-28",
       "diameter": "5/16",
       "length": "5/16",
-      "thread": "1/4-20"
+      "thread": "1/4-20",
+      "material": "Stainless steel",
+      "head_diameter": "1/2",
+      "head_height": "7/32",
+      "thread_length": "7/16"
     },
     {
       "part": "MS51575-29",
       "diameter": "1/2",
       "length": "1/2",
-      "thread": "3/8-16"
+      "thread": "3/8-16",
+      "material": "Stainless steel",
+      "head_diameter": "3/4",
+      "head_height": "5/16",
+      "thread_length": "5/8"
     }
   ],
   "insert_threads": [

@@ -814,3 +814,11 @@ Source snapshot SHA-256 checksums (reviewed local copies; not hosted):
 - tridair.pdf: `81e43fcf06c58322b1a7a0e15d53d8b97a13824b2c52b4e16fbabd60025a9738`
 - kato-tanged.html: `d52f08c61ddf5f089176123070fe25531b3237c230129e7b2d03602205dfd07f`
 - kato-tangless.html: `a8764f698fe65eef94a3c447d4b86b7221aeea6891c9bee75048df171573fb8a`
+
+## October 27, 2026 — shoulder-screw purchasing dimensions
+
+Primary manufacturer catalogs rechecked:
+- https://www.lyntron.com/ms-shoulder-screw-socket
+- https://www.lyntron.com/ms-shoulder-screw-slot
+
+Extracted each catalog product row and matched all existing part, shoulder diameter, shoulder length and male-thread values (41 socket, 28 selected slotted). Added only that row's catalog material, head diameter, head length (displayed as head height), thread length and socket width where present. Decimal socket widths 0.094 and 0.1875 are retained as published. These are nominal catalog references, not tolerance/acceptance drawings. No stainless alloy, passivation, thread class, origin, DFARS or stock claim is extrapolated. Existing MS51575 selection and omitted dash 26 are preserved. Research remains excluded from deployment by _config.yml.
