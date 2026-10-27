@@ -34,6 +34,8 @@ for root,data in json.loads((W/'scripts/mil-spec-additional-nut-data.json').read
  part_guides['Reference-'+root+'.html']={'description':data['description'],'parts':[r['part']for r in data['rows']]}
 for root,data in json.loads((W/'scripts/mil-spec-head-style-data.json').read_text()).items():
  part_guides['Reference-'+root+'.html']={'description':data['description'],'parts':[r['part']for r in data['rows']]}
+for root,data in json.loads((W/'scripts/mil-spec-hex-cap-data.json').read_text()).items():
+ part_guides['Reference-'+root+'.html']={'description':data['description'],'parts':[r['part']for r in data['rows']]}
 search_index=W/'assets/mil-spec-search-index.json'
 if search_index.exists():
  part_guides['Resources-Mil-Spec-Part-Search.html']={'description':'Mil-Spec part reference','parts':[r['part']for r in json.loads(search_index.read_text())['parts']]}

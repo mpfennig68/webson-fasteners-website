@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 700 300" role="img" aria-labelledby="title desc">
+<title id="title">Hex cap screw dimensions</title><desc id="desc">Face and side views show width across flats F, axial head height H and under-head length L. Partial threading is schematic.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10" fill="none" stroke="#245875" stroke-width="1.5"/></marker></defs>
+<rect width="700" height="300" rx="12" fill="#f3f7fa"/>
+<g fill="#d5e1e8" stroke="#193d55" stroke-width="3"><path d="M105 72L155 101V159L105 188L55 159V101Z"/><path d="M260 95L269 88H296L305 95V165L296 172H269L260 165Z"/><path d="M305 112H590L605 130L590 148H305Z"/></g>
+<g fill="none" stroke="#6e8b9e" stroke-width="1.5"><path d="M400 112L414 148M425 112L439 148M450 112L464 148M475 112L489 148M500 112L514 148M525 112L539 148M550 112L564 148M575 112L589 148"/><path d="M55 162V220M155 162V220M260 88V60M305 88V60M305 175V245M605 155V245"/><path d="M75 130H135M105 102V158" stroke-dasharray="5 4"/></g>
+<g fill="none" stroke="#245875" stroke-width="2" marker-start="url(#a)" marker-end="url(#a)"><path d="M60 210H150"/><path d="M265 66H300"/><path d="M310 235H600"/></g>
+<g fill="#193d55" font-family="Arial,sans-serif" font-size="17"><text x="54" y="38">Face view</text><text x="260" y="38">H</text><text x="345" y="66">Side view</text><text x="48" y="244">F — across flats</text><text x="350" y="266">L — under-head length</text><text x="445" y="26" font-size="14">Schematic · not to scale</text></g>
+</svg>

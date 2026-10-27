@@ -307,6 +307,22 @@
     "title": "MS51968 fine-thread finished hex nuts",
     "prefill": "MS51968 fine-thread finished hex nuts\n"
   },
+  "Reference-MS90725.html": {
+    "title": "MS90725 Grade 5 coarse-thread hex cap screws",
+    "prefill": "MS90725 Grade 5 coarse-thread hex cap screws\n"
+  },
+  "Reference-MS90726.html": {
+    "title": "MS90726 Grade 5 fine-thread hex cap screws",
+    "prefill": "MS90726 Grade 5 fine-thread hex cap screws\n"
+  },
+  "Reference-MS90727.html": {
+    "title": "MS90727 Grade 8 fine-thread hex cap screws",
+    "prefill": "MS90727 Grade 8 fine-thread hex cap screws\n"
+  },
+  "Reference-MS90728.html": {
+    "title": "MS90728 Grade 8 coarse-thread hex cap screws",
+    "prefill": "MS90728 Grade 8 coarse-thread hex cap screws\n"
+  },
   "Reference-NAS1130.html": {
     "title": "NAS1130 tangless helical-coil inserts",
     "prefill": "NAS1130 tangless helical-coil inserts\n"
