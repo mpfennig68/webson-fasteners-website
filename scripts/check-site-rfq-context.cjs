@@ -30,6 +30,17 @@ for(const [key,guide] of Object.entries(stockedGuides)){
  }
  assert.equal(run('?reference='+key+'&part=__proto__').details.value,pages[key].prefill);
 }
+const additionalScrews=JSON.parse(fs.readFileSync(path.join(root,'scripts/mil-spec-additional-screw-data.json')));
+for(const [family,data] of Object.entries(additionalScrews)){
+ const key='Reference-'+family+'.html';
+ for(const row of data.rows){
+  const query='?reference='+key+'&part='+row.part;
+  assert.equal(run(query).details.value,row.part+' - '+data.description+'\n');
+  assert.equal(run(query,'Customer drawing').details.value,'Customer drawing');
+ }
+ for(const part of [family+'-99999','MS51576-16','__proto__'])
+  assert.equal(run('?reference='+key+'&part='+part).details.value,pages[key].prefill);
+}
 const referenceGuides=JSON.parse(fs.readFileSync(path.join(root,'scripts/mil-spec-lookup-data.json'))).reference_part_guides;
 for(const [key,guide] of Object.entries(referenceGuides)){
  for(const part of guide.parts){

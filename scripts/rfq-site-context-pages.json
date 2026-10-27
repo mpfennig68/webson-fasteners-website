@@ -175,6 +175,10 @@
     "title": "MS16996 fine-thread stainless socket screws",
     "prefill": "MS16996 fine-thread stainless socket screws\n"
   },
+  "Reference-MS16997.html": {
+    "title": "MS16997 alloy-steel UNC socket-head cap screws",
+    "prefill": "MS16997 alloy-steel UNC socket-head cap screws\n"
+  },
   "Reference-MS20426-MS20470.html": {
     "title": "MS20426 and MS20470 solid rivets",
     "prefill": "MS20426 and MS20470 solid rivets\n"
@@ -223,6 +227,10 @@
     "title": "MS35206 pan-head machine screws",
     "prefill": "MS35206 pan-head machine screws\n"
   },
+  "Reference-MS35207.html": {
+    "title": "MS35207 fine-thread carbon-steel pan-head screws",
+    "prefill": "MS35207 fine-thread carbon-steel pan-head screws\n"
+  },
   "Reference-MS35307-MS35308.html": {
     "title": "MS35307 and MS35308 hex cap screws",
     "prefill": "MS35307 and MS35308 hex cap screws\n"
@@ -255,9 +263,17 @@
     "title": "MS51957 pan head machine screws",
     "prefill": "MS51957 pan head machine screws\n"
   },
+  "Reference-MS51958.html": {
+    "title": "MS51958 fine-thread stainless pan-head screws",
+    "prefill": "MS51958 fine-thread stainless pan-head screws\n"
+  },
   "Reference-MS51959.html": {
     "title": "MS51959 82-degree flat-head machine screws",
     "prefill": "MS51959 82-degree flat-head machine screws\n"
+  },
+  "Reference-MS51960.html": {
+    "title": "MS51960 fine-thread 82-degree flat-head screws",
+    "prefill": "MS51960 fine-thread 82-degree flat-head screws\n"
   },
   "Reference-NAS1130.html": {
     "title": "NAS1130 tangless helical-coil inserts",
