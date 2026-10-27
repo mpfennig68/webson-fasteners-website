@@ -7,6 +7,7 @@
     if (!table || !controls) return;
     const search = controls.querySelector('[data-reference-search]');
     const family = controls.querySelector('[data-reference-family]');
+    const columns = Array.from(controls.querySelectorAll('[data-reference-column]'));
     const clear = controls.querySelector('[data-reference-clear]');
     const count = block.querySelector('[data-reference-count]');
     const empty = block.querySelector('[data-reference-empty]');
@@ -32,9 +33,12 @@
       }
       let visible = 0;
       rows.forEach(function (row, index) {
-        const text = normalize(row.dataset.search || row.textContent);
+        const text = normalize((row.dataset.search || '') + ' ' + row.textContent);
         const matches = exact !== -1 ? index === exact : terms.every(function (term) { return text.includes(term); });
-        const show = (!selected || row.dataset.family === selected) && matches;
+        const sizeMatch = columns.every(function (filter) {
+          return !filter.value || row.cells[Number(filter.dataset.referenceColumn)].textContent.trim() === filter.value;
+        });
+        const show = (!selected || row.dataset.family === selected) && matches && sizeMatch;
         row.hidden = !show;
         if (show) visible += 1;
       });
@@ -44,9 +48,11 @@
     controls.hidden = false;
     search.addEventListener('input', update);
     if (family) family.addEventListener('change', update);
+    columns.forEach(function (filter) { filter.addEventListener('change', update); });
     clear.addEventListener('click', function () {
       search.value = '';
       if (family) family.value = '';
+      columns.forEach(function (filter) { filter.value = ''; });
       update();
       search.focus();
     });

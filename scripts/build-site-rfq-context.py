@@ -23,6 +23,10 @@ for path in sorted(W.glob('*.html')):
 part_guides=json.loads((W/'scripts/mil-spec-data.json').read_text()).get('stocked_part_guides',{})
 lookup_guides=json.loads((W/'scripts/mil-spec-lookup-data.json').read_text()).get('reference_part_guides',{})
 part_guides={**lookup_guides,**part_guides}
+# Shoulder references are selectable for quotation without implying stocked status.
+shoulders=json.loads((W/'scripts/mil-spec-data.json').read_text())
+for key,root,drive in [('shoulder_socket','MS51576','hex-socket'),('shoulder_slotted','MS51575','slotted')]:
+ part_guides['Reference-'+root+'.html']={'description':root+' stainless '+drive+' shoulder screw','parts':[r['part']for r in shoulders[key]]}
 script='''/* Site-wide RFQ context. No submission interception, network request or browser storage. */
 (function(){
  'use strict';

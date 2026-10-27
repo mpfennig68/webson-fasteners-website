@@ -16,3 +16,18 @@
 .ref-subnav{gap:8px 26px;font-size:13px;padding-top:16px}.ref-subnav a{white-space:nowrap;padding:6px 0}.ref-part-grid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:34px;align-items:start}.ref-part-overview .ref-section{padding:0;border:0}.ref-part-copy .ref-kicker{display:none}.ref-part-overview h2{font-size:27px}.ref-part-visual .ref-dimension-figure{max-width:none}.ref-part-visual .ref-diagram-note,.ref-part-visual figcaption{font-size:12px;line-height:1.7}.ref-part-copy p{font-size:14px}.ref-part-visual h2{font-size:23px}.ref-part-copy .ref-links{grid-template-columns:1fr}.ref-part-overview .ref-table-wrap{max-width:100%}
 @media(max-width:900px){.ref-subnav{gap:8px 20px;font-size:12px}.ref-part-grid{gap:25px;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr)}}
 @media(max-width:640px){.ref-subnav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:5px 18px}.ref-subnav a{white-space:normal;width:fit-content}.ref-part-grid{grid-template-columns:1fr;gap:25px}.ref-part-overview h2{font-size:25px!important}.ref-part-visual h2{font-size:22px!important}}
+
+/* Dense comparison tables: retain part identity while scrolling wide specifications. */
+[data-reference-block] .ref-table-wrap{max-height:640px;scrollbar-gutter:stable;background:#fffdf8}
+[data-reference-table] th,[data-reference-table] td{padding:10px 12px;line-height:1.5}
+[data-reference-table] caption{background:#edeef6}
+[data-reference-table] thead th{position:sticky;top:0;z-index:2;min-width:90px;vertical-align:bottom}
+[data-reference-table] tbody th{position:sticky;left:0;z-index:1;background:#fffdf8;box-shadow:1px 0 0 var(--ref-rule)}
+[data-reference-table] tbody tr:nth-child(even) th{background:#f2eee5}
+[data-reference-table] tbody tr:hover,[data-reference-table] tbody tr:hover th{background:#e9eaf3}
+[data-reference-table] td{font-variant-numeric:tabular-nums}
+[data-reference-table] td a{white-space:nowrap}
+[data-reference-block] .ref-filters{gap:12px;margin-top:22px}
+[data-reference-block] .ref-search{flex:1 1 240px}
+[data-reference-block] .ref-filters>div:not(.ref-search){flex:0 1 175px}
+@media(max-width:640px){[data-reference-block] .ref-table-wrap{max-height:65vh}[data-reference-block] .ref-filters>div:not(.ref-search){flex:1 1 130px}[data-reference-table] th,[data-reference-table] td{padding:9px 10px}}
