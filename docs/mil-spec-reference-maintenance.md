@@ -50,3 +50,9 @@ The expanded lookup data is maintained in `scripts/mil-spec-lookup-data.json`, w
 The two shoulder tables display all 69 existing selected entries with visible male thread, shoulder diameter/length, catalog thread length, head diameter/height and socket width where applicable. Common material is stated as stainless steel. The row allowlists in build-site-rfq-context.py come from the shoulder data arrays; these are reference parts, not new stock claims. Preserve the omitted MS51575-26 unless independently verified.
 
 The shared filtered renderer adds exact visible-cell size selectors where applicable. Filters combine with search and the existing family filter; Clear filters resets all selectors. Shared styles tighten rows and pin table headers and row labels within the scroll region. All technical values and links are rendered in HTML without JavaScript.
+
+## October 27: next MS families
+
+Nut rows in MS21042/MS21044/MS21083 now include height and across-flats limits. MS16995/MS16996 rows include head diameter, head height and socket AF limits. The 12 MS35338 stock rows now carry geometry from the existing verified dash-number matrix. All 39 existing stocked identifiers and their RFQ allowlists are preserved. Keep limits separate from nominal tool sizes, and washer section thickness separate from free height. Read the October 27 research notes for corrected historical scan revision/date attributions.
+
+The builder now preserves a newer sitemap lastmod instead of overwriting it with the October 22/23 baseline during regeneration. Run scripts/check-ms-purchasing-dimensions.py after changing these dimensional fields.
