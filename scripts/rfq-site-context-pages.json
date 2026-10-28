@@ -35,6 +35,10 @@
     "title": "Industries Served",
     "prefill": "Inquiry regarding: Industries Served\n"
   },
+  "Products-Bushings.html": {
+    "title": "Panel Bushings & Insulating Sleeves",
+    "prefill": "Inquiry regarding: Panel Bushings & Insulating Sleeves\n"
+  },
   "Products-Commercial-Hardware.html": {
     "title": "Commercial Fasteners",
     "prefill": "Inquiry regarding: Commercial Fasteners\n"
@@ -58,6 +62,10 @@
   "Products-Handles.html": {
     "title": "Equipment Handles & Panel Pulls",
     "prefill": "Inquiry regarding: Equipment Handles & Panel Pulls\n"
+  },
+  "Products-Insulators.html": {
+    "title": "Insulating Washers, Sleeves & Supports",
+    "prefill": "Inquiry regarding: Insulating Washers, Sleeves & Supports\n"
   },
   "Products-Knobs.html": {
     "title": "Control Knobs & Clamping Knobs",
