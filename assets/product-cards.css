@@ -1,0 +1,17 @@
+/* Native category links: the whole box is the target, with no nested links. */
+.product-card,.product-cell{background:transparent;transition:background-color .15s ease;color:#1b1a17;text-decoration:none!important}
+.product-card{display:flex;flex-direction:column;align-items:flex-start;padding:26px 24px;border-right:1px solid #e4ded2;border-bottom:1px solid #e4ded2;min-width:0}
+.product-card-rule{width:28px;height:2px;background:#2a2d6b;margin-bottom:12px}
+.product-card h3{font-family:'Spectral',serif;font-size:20px;font-weight:500;line-height:1.3;margin:0}
+.product-card p{font-size:14px;line-height:1.65;color:#5b564c;margin:8px 0 16px}
+.product-card-arrow{color:#5b564c;font-size:20px;line-height:1;flex-shrink:0}
+.product-card>.product-card-arrow{margin-top:auto;align-self:flex-end}
+.product-cell{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.product-card:hover,.product-card:focus-visible,.product-cell:hover,.product-cell:focus-visible{background:#edeef6!important;color:#2a2d6b!important}
+.product-card:hover .product-card-arrow,.product-card:focus-visible .product-card-arrow,.product-cell:hover .product-card-arrow,.product-cell:focus-visible .product-card-arrow{color:#2a2d6b}
+.product-card:focus-visible,.product-cell:focus-visible{outline:2px solid #2a2d6b;outline-offset:-3px}
+@media(prefers-reduced-motion:reduce){.product-card,.product-cell{transition:none}}
+
+.product-cell-grid>*{min-width:0;overflow-wrap:anywhere}
+@media(max-width:900px){.product-cell-grid{grid-template-columns:repeat(3,minmax(0,1fr))!important}}
+@media(max-width:640px){.product-cell-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}.product-cell{min-height:44px}}
