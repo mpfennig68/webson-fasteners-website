@@ -219,6 +219,10 @@
     "title": "MS24693 100-degree flat-head machine screws",
     "prefill": "MS24693 100-degree flat-head machine screws\n"
   },
+  "Reference-MS25082.html": {
+    "title": "MS25082 thin electrical hex nuts",
+    "prefill": "MS25082 thin electrical hex nuts\n"
+  },
   "Reference-MS27183.html": {
     "title": "MS27183 flat steel washers",
     "prefill": "MS27183 flat steel washers\n"
@@ -279,6 +283,10 @@
     "title": "MS35650 fine-thread hex machine-screw nuts",
     "prefill": "MS35650 fine-thread hex machine-screw nuts\n"
   },
+  "Reference-MS35690.html": {
+    "title": "MS35690 plain hex nuts by grade and finish",
+    "prefill": "MS35690 plain hex nuts by grade and finish\n"
+  },
   "Reference-MS51021.html": {
     "title": "MS51021 stainless cup-point set screws",
     "prefill": "MS51021 stainless cup-point set screws\n"
@@ -327,6 +335,10 @@
     "title": "MS51963 cup-point set screws",
     "prefill": "MS51963 cup-point set screws\n"
   },
+  "Reference-MS51965.html": {
+    "title": "MS51965 flat-point set screws",
+    "prefill": "MS51965 flat-point set screws\n"
+  },
   "Reference-MS51967.html": {
     "title": "MS51967 coarse-thread finished hex nuts",
     "prefill": "MS51967 coarse-thread finished hex nuts\n"
@@ -334,6 +346,10 @@
   "Reference-MS51968.html": {
     "title": "MS51968 fine-thread finished hex nuts",
     "prefill": "MS51968 fine-thread finished hex nuts\n"
+  },
+  "Reference-MS51972.html": {
+    "title": "MS51972 stainless fine-thread hex nuts",
+    "prefill": "MS51972 stainless fine-thread hex nuts\n"
   },
   "Reference-MS90725.html": {
     "title": "MS90725 Grade 5 coarse-thread hex cap screws",
