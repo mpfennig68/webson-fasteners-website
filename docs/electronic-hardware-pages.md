@@ -127,3 +127,19 @@ Primary terminology and selection references:
 - Southco quick-access brochure: https://media.southco.com/media/static/documents/brochures/201808-BR-Quick-Access-Fasteners_EN.pdf
 
 Validation: integrity passed for 171 indexable pages with zero broken links/anchors, orphan pages or duplicate metadata. All 171 RFQ context routes and existing reference/Southco attribution checks passed. Browser QA verified 390px responsive frame containment and correct quote prefill for every new page. Commercial-to-Studs, Electronic-to-Quarter-Turn and Assembly-to-Hole-Plugs native card navigation passed; desktop Studs layout was inspected. No inquiry submitted.
+
+## October 28: final product-page closeout
+
+Completed the agreed final four pages: Self-Clinching Fasteners, Bearings, Casters and Hydraulic Fittings. Self-clinching guidance includes sheet material, hardness, thickness and installation fit. Bearing guidance preserves full manufacturer designations and configuration suffixes. Caster guidance separates mounting, installed height, brake function and approved system loading. Hydraulic fitting guidance identifies both interfaces and sealing geometry with the complete series/system requirement; no pressure values, compatibility approvals or installation instructions are invented.
+
+Commercial Hardware now has 16 full-card routes. Electronic Hardware also links to Self-Clinching Fasteners. Products links the three remaining listed product categories and the existing Mil-Spec page; the full product-range grid has no remaining plain category cells. Existing related pages provide return routes. The agreed expansion is complete at 37 dedicated product-category pages, in addition to the seven existing product hubs/custom pages. Native full-box links, arrows, blue hover/focus states and the existing Formcarry workflow are preserved.
+
+Primary technical references:
+- PennEngineering self-clinching technology: https://www.pemnet.com/products-overview/self-clinching-technology/
+- PennEngineering installation handbook: https://www.pemnet.com/eu/wp-content/uploads/sites/10/2022/06/self-clinching-fastener-handbook.pdf
+- NSK bearing designation and boundary dimensions: https://www.nsk.com/tools-resources/abc-bearings/bearing-designations/
+- NSK mounting and manufacturer differences: https://www.nsk.com/tools-resources/abc-bearings/mounting/
+- Colson caster selection: https://colsoncaster.com/select-the-best-caster/
+- Parker fitting/connection reference: https://discover.parker.com/tfd-training-resources
+
+Validation: site integrity passed for 175 indexable pages with zero broken links/anchors, orphan pages or duplicate metadata. All 175 RFQ context routes and existing reference/Southco attribution checks passed. Browser QA verified 390px responsive-frame containment and correct inquiry prefill on all four new pages, Products-to-Self-Clinching and Commercial-to-Bearings navigation, and desktop layout. No inquiry submitted.

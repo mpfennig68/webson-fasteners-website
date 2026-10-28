@@ -35,6 +35,10 @@
     "title": "Industries Served",
     "prefill": "Inquiry regarding: Industries Served\n"
   },
+  "Products-Bearings.html": {
+    "title": "Bearings & Bearing Replacement Requirements",
+    "prefill": "Inquiry regarding: Bearings & Bearing Replacement Requirements\n"
+  },
   "Products-Blind-Rivets.html": {
     "title": "Blind Rivets for Panels & Assemblies",
     "prefill": "Inquiry regarding: Blind Rivets for Panels & Assemblies\n"
@@ -54,6 +58,10 @@
   "Products-Captive-Panel-Hardware.html": {
     "title": "Captive Panel Screws & Retained Hardware",
     "prefill": "Inquiry regarding: Captive Panel Screws & Retained Hardware\n"
+  },
+  "Products-Casters.html": {
+    "title": "Equipment Casters & Replacement Casters",
+    "prefill": "Inquiry regarding: Equipment Casters & Replacement Casters\n"
   },
   "Products-Clips-Retaining-Components.html": {
     "title": "Clips & Retaining Components",
@@ -111,6 +119,10 @@
     "title": "Panel Hole Plugs & Closure Plugs",
     "prefill": "Inquiry regarding: Panel Hole Plugs & Closure Plugs\n"
   },
+  "Products-Hydraulic-Fittings.html": {
+    "title": "Hydraulic Fittings & Adapter Requirements",
+    "prefill": "Inquiry regarding: Hydraulic Fittings & Adapter Requirements\n"
+  },
   "Products-Insulators.html": {
     "title": "Insulating Washers, Sleeves & Supports",
     "prefill": "Inquiry regarding: Insulating Washers, Sleeves & Supports\n"
@@ -158,6 +170,10 @@
   "Products-Security-Screws.html": {
     "title": "Security Screws & Special Drive Fasteners",
     "prefill": "Inquiry regarding: Security Screws & Special Drive Fasteners\n"
+  },
+  "Products-Self-Clinching-Fasteners.html": {
+    "title": "Self-Clinching Nuts, Studs & Standoffs",
+    "prefill": "Inquiry regarding: Self-Clinching Nuts, Studs & Standoffs\n"
   },
   "Products-Shims.html": {
     "title": "Precision Shims & Shim Packs",
