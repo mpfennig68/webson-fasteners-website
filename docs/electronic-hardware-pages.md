@@ -105,3 +105,25 @@ Primary terminology sources:
 - Southco hinge categories: https://southco.com/hinges
 
 Validation: integrity passed with 161 indexable pages and no broken links/anchors, orphan pages or duplicate metadata. All 161 RFQ context routes and existing reference/Southco attribution checks passed. Browser QA confirmed narrow-screen containment and product-specific quote prefill for all five pages, Commercial Hardware mobile containment and Nuts-card navigation, desktop hinge layout and navigation to its existing Southco example. No inquiry submitted.
+
+## October 28: ten-page expansion
+
+Added Hex Bolts and Cap Screws, Studs, Threaded Rod, Security Screws, Shims, Disc Springs, Drawer and Equipment Slides, Hole Plugs, Connector Jack Screws and Quarter-Turn Fasteners. Each has distinct styles, fit requirements, material/installation context, FAQs and contextual RFQs. The copy identifies the purchasing requirement without inventing sizes, stock, performance ratings or manufacturer authorization. Security wording does not promise an assembly cannot be opened; slide ratings stay tied to the actual model and mounting conditions; quarter-turn systems are distinguished from other quick-access screws.
+
+Commercial Hardware now has 12 full-card destinations, including separate Studs and Threaded Rod and a new Shims card. Electronic Hardware adds Slides, Jack Screws and Quarter-Turn Fasteners; Assembly Components adds Disc Springs and Hole Plugs. Products has matching specific cells, with Springs explicitly renamed Disc Springs to preserve scope. All cards reuse the neutral/default, blue hover/focus and persistent-arrow styling. Related guides link in both directions.
+
+Primary terminology and selection references:
+- Bossard rods and studs: https://www.bossard.com/us-en/eshop/products/fastening-technology/standard-fastening-elements/screws/threaded-rods-and-threaded-studs/c/01.100.100.30/
+- Bossard product range: https://www.bossard.com/global-en/-/media/bossard-group/website/documents/brochures/brochures-products-english/product-solutions-range-overview-08-2021-en.pdf
+- Bryce drive/tool systems: https://www.brycefastener.com/loss-prevention-fastener-products-bolts-screws.html
+- SPIROL precision shims: https://www.spirol.com/product/precision-shims/
+- SPIROL disc springs and stacks: https://shop.spirol.com/category/disc-springs
+- Accuride order checklist: https://help.accuride-europe.com/knowledge/order-checklist
+- Accuride load definition: https://help.accuride-europe.com/knowledge/what-load-will-it-need-to-support
+- Heyco hole plugs: https://www.heyco.com/Brochures/Hole_Plugs_broch.pdf
+- Heyco thin-panel plugs: https://www.heyco.com/products/bushings-grommets-heycaps-plugs/tubing-caps-and-plugs/heyco-thin-panel-dome-plugs/
+- Keystone jack screws: https://beta.keyelco.com/userAssets/file/M70p100.pdf
+- Southco quarter-turn systems: https://southco.com/en_us_int/fasteners/emdzusemreg-quarter-turn-fasteners
+- Southco quick-access brochure: https://media.southco.com/media/static/documents/brochures/201808-BR-Quick-Access-Fasteners_EN.pdf
+
+Validation: integrity passed for 171 indexable pages with zero broken links/anchors, orphan pages or duplicate metadata. All 171 RFQ context routes and existing reference/Southco attribution checks passed. Browser QA verified 390px responsive frame containment and correct quote prefill for every new page. Commercial-to-Studs, Electronic-to-Quarter-Turn and Assembly-to-Hole-Plugs native card navigation passed; desktop Studs layout was inspected. No inquiry submitted.
