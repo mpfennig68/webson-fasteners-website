@@ -91,6 +91,10 @@
     "title": "Equipment Handles & Panel Pulls",
     "prefill": "Inquiry regarding: Equipment Handles & Panel Pulls\n"
   },
+  "Products-Hinges.html": {
+    "title": "Equipment Hinges & Positioning Hinges",
+    "prefill": "Inquiry regarding: Equipment Hinges & Positioning Hinges\n"
+  },
   "Products-Insulators.html": {
     "title": "Insulating Washers, Sleeves & Supports",
     "prefill": "Inquiry regarding: Insulating Washers, Sleeves & Supports\n"
@@ -107,9 +111,17 @@
     "title": "Mil-Spec Fasteners Supplier",
     "prefill": "Inquiry regarding: Mil-Spec Fasteners Supplier\n"
   },
+  "Products-Nuts.html": {
+    "title": "Hex Nuts, Locknuts & Specialty Nuts",
+    "prefill": "Inquiry regarding: Hex Nuts, Locknuts & Specialty Nuts\n"
+  },
   "Products-O-Rings.html": {
     "title": "O-Rings for Equipment Assemblies",
     "prefill": "Inquiry regarding: O-Rings for Equipment Assemblies\n"
+  },
+  "Products-Pins.html": {
+    "title": "Dowel Pins, Spring Pins & Retaining Pins",
+    "prefill": "Inquiry regarding: Dowel Pins, Spring Pins & Retaining Pins\n"
   },
   "Products-Precision-Screws.html": {
     "title": "Precision Screws & Electronic Fasteners",
@@ -118,6 +130,10 @@
   "Products-Rivet-Nuts.html": {
     "title": "Blind Rivet Nuts for Panels & Enclosures",
     "prefill": "Inquiry regarding: Blind Rivet Nuts for Panels & Enclosures\n"
+  },
+  "Products-Socket-Screws.html": {
+    "title": "Socket Head Screws & Socket Fasteners",
+    "prefill": "Inquiry regarding: Socket Head Screws & Socket Fasteners\n"
   },
   "Products-Southco.html": {
     "title": "Southco Latches, Hinges, Pulls & Fasteners",
@@ -134,6 +150,10 @@
   "Products-Threaded-Inserts.html": {
     "title": "Threaded Inserts for Electronic Assemblies",
     "prefill": "Inquiry regarding: Threaded Inserts for Electronic Assemblies\n"
+  },
+  "Products-Washers.html": {
+    "title": "Flat Washers, Lock Washers & Shims",
+    "prefill": "Inquiry regarding: Flat Washers, Lock Washers & Shims\n"
   },
   "Products.html": {
     "title": "Products",

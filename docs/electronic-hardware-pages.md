@@ -89,3 +89,19 @@ Primary selection references:
 - STANLEY blind rivet selection: https://asia.en.stanleyengineeredfastening.com/fasteners/rivets/non-structural-rivets
 
 Validation: integrity passed with 156 indexable pages and no broken links/anchors, orphan pages or duplicate metadata. All 156 contextual RFQ routes and existing reference/Southco attribution checks passed. Browser QA confirmed Grommets and Southco box navigation, transparent default versus blue keyboard-focus background, visible arrows and focus outlines. The hover selector shares that blue-fill rule. All five new pages passed 390px frame containment and product-specific quote-prefill checks. Products, Electronic Hardware and Assembly Components also passed narrow-screen containment checks. No inquiry submitted.
+
+## October 28: nuts, washers, pins, socket screws and hinges
+
+Added five product pages with distinct selection tables, fit checks and FAQs. Nuts preserve grade, locking design and envelope with the thread. Washers distinguish bearing, shim and specified locking functions. Pins identify the family and mating hole. Socket Screws separate head/drive geometry from thread and strength. Hinges cover mounting, pivot, movement, removal and positioning; the existing Southco positioning-hinge image is reused with its representative label and links to existing part pages.
+
+Commercial Hardware now has separate Nuts, Washers, Pins and Retaining Rings cards, plus linked Machine Screws, Socket Screws and Inserts. Categories without dedicated destinations retain their existing plain panels. Electronic Hardware adds a full-card Hinges route. Known matching cells on Products use the shared native full-box link/hover behavior. Related pages link back to the additions; no changes to MS dimensional data or stock evidence.
+
+Primary terminology sources:
+- Bossard screw/nut materials: https://www.bossard.com/global-en/-/media/bossard-group/website/documents/technical-resources/en/f-004-en.pdf
+- SPIROL shim/washer geometry: https://www.spirol.com/product/precision-shims/
+- Nord-Lock washer installation guidance: https://www.nord-lock.com/nord-lock/products/washers/product-guides/
+- SPIROL pin selection: https://my.spirol.com/resources/white-papers/how-to-select-the-proper-pin-for-your-application/
+- Unbrako socket screw engineering guide: https://www.unbrako.com/images/downloads/engguide.pdf
+- Southco hinge categories: https://southco.com/hinges
+
+Validation: integrity passed with 161 indexable pages and no broken links/anchors, orphan pages or duplicate metadata. All 161 RFQ context routes and existing reference/Southco attribution checks passed. Browser QA confirmed narrow-screen containment and product-specific quote prefill for all five pages, Commercial Hardware mobile containment and Nuts-card navigation, desktop hinge layout and navigation to its existing Southco example. No inquiry submitted.
