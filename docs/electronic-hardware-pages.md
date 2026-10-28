@@ -54,3 +54,22 @@ The Electronic Hardware hub and six established product pages link to both addit
 - Howmet captive screw installation methods: https://www.howmet.com/products/aerospace/panel-fasteners/captive-screws/installation-procedures/
 
 Validation: integrity passed for 146 indexable pages with no broken links/anchors, orphan pages or duplicate metadata. All 146 RFQ context routes and existing reference/Southco attribution checks passed. Browser QA checked desktop latch layout, both inquiry prefills, captive-page containment at a 390px responsive frame and an expandable FAQ. No inquiry submitted.
+
+## October 28: five-category expansion
+
+Added Precision Screws, Threaded Inserts, Rivet Nuts, Grommets and Cable Clamps. Each has its own product styles, fit checklist, application details, FAQs and contextual RFQ. Precision Screws links to existing MS screw families and reuses the established under-head-length schematic with its correct intrinsic dimensions and alt text. Threaded Inserts focuses on parent material and installation; Rivet Nuts on grip, hole and setting; Grommets on panel/groove/passage fit; Cable Clamps on supported diameter versus mounting features. No generic dimension tables, availability or material ratings are invented.
+
+The Electronic Hardware hub introduces Precision Screws directly and adds assembly-component routes. Existing Assembly Components sections link to the appropriate specific pages and a compact guide list. Eight earlier category pages link to precision screws and inserts. Corrected the old Electronic Hardware FAQ and matching schema text: drawings are emailed, not attached to the native RFQ form.
+
+Primary technical references used for selection terminology:
+- Keystone shoulder screws: https://www.keyelco.com/category.cfm/Panel-Hardware/Shoulder-Screws/id/490
+- PennEngineering threaded inserts: https://www.pemnet.com/products-overview/products-threaded-inserts/
+- PennEngineering heat/ultrasonic inserts: https://www.pemnet.com/products-overview/products-threaded-inserts/threaded-inserts-ultrasonic-heat-staking-inserts/
+- Böllhoff thread-repair systems: https://www.boellhoff.com/us-en/products/special-fasteners/repair-solutions/
+- AVK rivet-nut hole/grip selection: https://www.avkfasteners.com/products/rn.html
+- STANLEY Nutsert: https://europe.en.stanleyengineeredfastening.com/nutsert-09000-series-rivet-nuts---ns_09000_rn/p
+- Heyco grommets: https://www.heyco.com/products/bushings-grommets-heycaps-plugs/tubing-caps-and-plugs/universal-thermoplastic-rubber-grommets/
+- Heyco nylon clamps: https://www.heyco.com/products/heyware/wire-management/heyco-nylon-cable-clamps/
+- Heyco blind-mount clamps: https://www.heyco.com/products/heyware/bumpers-and-feet/heyco-blind-mount-cable-clamps/
+
+Validation: integrity passed with 151 indexable pages and zero broken links/anchors, orphan pages or duplicate metadata. RFQ context checks passed for 151 routes; existing reference/Southco attribution checks passed. Browser QA checked page containment at 390px frame width and correct quote prefill for all five new categories, expanded a cable-clamp FAQ and verified desktop hub-to-insert navigation. No inquiry submitted.
