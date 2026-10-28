@@ -1451,5 +1451,434 @@
         "point_diameter_limits": "0.194–0.212"
       }
     ]
+  },
+  "MS51965": {
+    "description": "cadmium-plated alloy steel flat-point UNC-3A plain set screw",
+    "point": "Flat",
+    "thread_series": "UNC-3A",
+    "material": "alloy steel",
+    "finish": "Cadmium plated",
+    "reviewed_issue": "MS51965B, sheet 1, 29 December 1972",
+    "source_url": "https://globalsupplyinc.com/wp-content/uploads/2020/05/MS51965B-1.pdf",
+    "scope": "52 selected plain references from 2-56 through 1/2-13",
+    "configuration": "Plain",
+    "rows": [
+      {
+        "part": "MS51965-1",
+        "thread": "2-56",
+        "length": "0.125",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.035",
+        "point_diameter_limits": "0.039–0.047"
+      },
+      {
+        "part": "MS51965-2",
+        "thread": "2-56",
+        "length": "0.188",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.035",
+        "point_diameter_limits": "0.039–0.047"
+      },
+      {
+        "part": "MS51965-8",
+        "thread": "4-40",
+        "length": "0.125",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.050",
+        "point_diameter_limits": "0.051–0.061"
+      },
+      {
+        "part": "MS51965-9",
+        "thread": "4-40",
+        "length": "0.188",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.050",
+        "point_diameter_limits": "0.051–0.061"
+      },
+      {
+        "part": "MS51965-10",
+        "thread": "4-40",
+        "length": "0.250",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.050",
+        "point_diameter_limits": "0.051–0.061"
+      },
+      {
+        "part": "MS51965-11",
+        "thread": "4-40",
+        "length": "0.312",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.050",
+        "point_diameter_limits": "0.051–0.061"
+      },
+      {
+        "part": "MS51965-17",
+        "thread": "6-32",
+        "length": "0.125",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.062",
+        "point_diameter_limits": "0.064–0.074"
+      },
+      {
+        "part": "MS51965-18",
+        "thread": "6-32",
+        "length": "0.188",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.062",
+        "point_diameter_limits": "0.064–0.074"
+      },
+      {
+        "part": "MS51965-19",
+        "thread": "6-32",
+        "length": "0.250",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.062",
+        "point_diameter_limits": "0.064–0.074"
+      },
+      {
+        "part": "MS51965-20",
+        "thread": "6-32",
+        "length": "0.312",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.062",
+        "point_diameter_limits": "0.064–0.074"
+      },
+      {
+        "part": "MS51965-21",
+        "thread": "6-32",
+        "length": "0.375",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.062",
+        "point_diameter_limits": "0.064–0.074"
+      },
+      {
+        "part": "MS51965-27",
+        "thread": "8-32",
+        "length": "0.125",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.078",
+        "point_diameter_limits": "0.076–0.087"
+      },
+      {
+        "part": "MS51965-28",
+        "thread": "8-32",
+        "length": "0.188",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.078",
+        "point_diameter_limits": "0.076–0.087"
+      },
+      {
+        "part": "MS51965-29",
+        "thread": "8-32",
+        "length": "0.250",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.078",
+        "point_diameter_limits": "0.076–0.087"
+      },
+      {
+        "part": "MS51965-30",
+        "thread": "8-32",
+        "length": "0.312",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.078",
+        "point_diameter_limits": "0.076–0.087"
+      },
+      {
+        "part": "MS51965-31",
+        "thread": "8-32",
+        "length": "0.375",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.078",
+        "point_diameter_limits": "0.076–0.087"
+      },
+      {
+        "part": "MS51965-32",
+        "thread": "8-32",
+        "length": "0.500",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.078",
+        "point_diameter_limits": "0.076–0.087"
+      },
+      {
+        "part": "MS51965-33",
+        "thread": "8-32",
+        "length": "0.625",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.078",
+        "point_diameter_limits": "0.076–0.087"
+      },
+      {
+        "part": "MS51965-39",
+        "thread": "10-24",
+        "length": "0.188",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.094",
+        "point_diameter_limits": "0.088–0.102"
+      },
+      {
+        "part": "MS51965-40",
+        "thread": "10-24",
+        "length": "0.250",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.094",
+        "point_diameter_limits": "0.088–0.102"
+      },
+      {
+        "part": "MS51965-41",
+        "thread": "10-24",
+        "length": "0.312",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.094",
+        "point_diameter_limits": "0.088–0.102"
+      },
+      {
+        "part": "MS51965-42",
+        "thread": "10-24",
+        "length": "0.375",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.094",
+        "point_diameter_limits": "0.088–0.102"
+      },
+      {
+        "part": "MS51965-43",
+        "thread": "10-24",
+        "length": "0.500",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.094",
+        "point_diameter_limits": "0.088–0.102"
+      },
+      {
+        "part": "MS51965-44",
+        "thread": "10-24",
+        "length": "0.625",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.094",
+        "point_diameter_limits": "0.088–0.102"
+      },
+      {
+        "part": "MS51965-45",
+        "thread": "10-24",
+        "length": "0.750",
+        "length_tolerance": "±0.020",
+        "socket_nominal": "0.094",
+        "point_diameter_limits": "0.088–0.102"
+      },
+      {
+        "part": "MS51965-51",
+        "thread": "1/4-20",
+        "length": "0.188",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.125",
+        "point_diameter_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS51965-52",
+        "thread": "1/4-20",
+        "length": "0.250",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.125",
+        "point_diameter_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS51965-53",
+        "thread": "1/4-20",
+        "length": "0.312",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.125",
+        "point_diameter_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS51965-54",
+        "thread": "1/4-20",
+        "length": "0.375",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.125",
+        "point_diameter_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS51965-55",
+        "thread": "1/4-20",
+        "length": "0.500",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.125",
+        "point_diameter_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS51965-56",
+        "thread": "1/4-20",
+        "length": "0.625",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.125",
+        "point_diameter_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS51965-57",
+        "thread": "1/4-20",
+        "length": "0.750",
+        "length_tolerance": "±0.020",
+        "socket_nominal": "0.125",
+        "point_diameter_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS51965-58",
+        "thread": "1/4-20",
+        "length": "1.000",
+        "length_tolerance": "±0.020",
+        "socket_nominal": "0.125",
+        "point_diameter_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS51965-64",
+        "thread": "5/16-18",
+        "length": "0.250",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.156",
+        "point_diameter_limits": "0.156–0.172"
+      },
+      {
+        "part": "MS51965-65",
+        "thread": "5/16-18",
+        "length": "0.312",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.156",
+        "point_diameter_limits": "0.156–0.172"
+      },
+      {
+        "part": "MS51965-66",
+        "thread": "5/16-18",
+        "length": "0.375",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.156",
+        "point_diameter_limits": "0.156–0.172"
+      },
+      {
+        "part": "MS51965-67",
+        "thread": "5/16-18",
+        "length": "0.500",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.156",
+        "point_diameter_limits": "0.156–0.172"
+      },
+      {
+        "part": "MS51965-68",
+        "thread": "5/16-18",
+        "length": "0.625",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.156",
+        "point_diameter_limits": "0.156–0.172"
+      },
+      {
+        "part": "MS51965-69",
+        "thread": "5/16-18",
+        "length": "0.875",
+        "length_tolerance": "±0.020",
+        "socket_nominal": "0.156",
+        "point_diameter_limits": "0.156–0.172"
+      },
+      {
+        "part": "MS51965-70",
+        "thread": "5/16-18",
+        "length": "1.000",
+        "length_tolerance": "±0.020",
+        "socket_nominal": "0.156",
+        "point_diameter_limits": "0.156–0.172"
+      },
+      {
+        "part": "MS51965-76",
+        "thread": "3/8-16",
+        "length": "0.250",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.188",
+        "point_diameter_limits": "0.194–0.212"
+      },
+      {
+        "part": "MS51965-77",
+        "thread": "3/8-16",
+        "length": "0.312",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.188",
+        "point_diameter_limits": "0.194–0.212"
+      },
+      {
+        "part": "MS51965-78",
+        "thread": "3/8-16",
+        "length": "0.375",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.188",
+        "point_diameter_limits": "0.194–0.212"
+      },
+      {
+        "part": "MS51965-79",
+        "thread": "3/8-16",
+        "length": "0.500",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.188",
+        "point_diameter_limits": "0.194–0.212"
+      },
+      {
+        "part": "MS51965-80",
+        "thread": "3/8-16",
+        "length": "0.625",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.188",
+        "point_diameter_limits": "0.194–0.212"
+      },
+      {
+        "part": "MS51965-81",
+        "thread": "3/8-16",
+        "length": "0.875",
+        "length_tolerance": "±0.020",
+        "socket_nominal": "0.188",
+        "point_diameter_limits": "0.194–0.212"
+      },
+      {
+        "part": "MS51965-82",
+        "thread": "3/8-16",
+        "length": "1.000",
+        "length_tolerance": "±0.020",
+        "socket_nominal": "0.188",
+        "point_diameter_limits": "0.194–0.212"
+      },
+      {
+        "part": "MS51965-88",
+        "thread": "1/2-13",
+        "length": "0.375",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.250",
+        "point_diameter_limits": "0.270–0.291"
+      },
+      {
+        "part": "MS51965-89",
+        "thread": "1/2-13",
+        "length": "0.500",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.250",
+        "point_diameter_limits": "0.270–0.291"
+      },
+      {
+        "part": "MS51965-90",
+        "thread": "1/2-13",
+        "length": "0.625",
+        "length_tolerance": "±0.010",
+        "socket_nominal": "0.250",
+        "point_diameter_limits": "0.270–0.291"
+      },
+      {
+        "part": "MS51965-91",
+        "thread": "1/2-13",
+        "length": "0.875",
+        "length_tolerance": "±0.020",
+        "socket_nominal": "0.250",
+        "point_diameter_limits": "0.270–0.291"
+      },
+      {
+        "part": "MS51965-92",
+        "thread": "1/2-13",
+        "length": "1.000",
+        "length_tolerance": "±0.020",
+        "socket_nominal": "0.250",
+        "point_diameter_limits": "0.270–0.291"
+      }
+    ]
   }
 }

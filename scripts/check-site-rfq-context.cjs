@@ -30,7 +30,7 @@ for(const [key,guide] of Object.entries(stockedGuides)){
  }
  assert.equal(run('?reference='+key+'&part=__proto__').details.value,pages[key].prefill);
 }
-const additionalScrews=Object.assign({},...['scripts/mil-spec-additional-screw-data.json','scripts/mil-spec-additional-nut-data.json','scripts/mil-spec-head-style-data.json','scripts/mil-spec-hex-cap-data.json','scripts/mil-spec-set-screw-data.json','scripts/mil-spec-fillister-cap-data.json'].map(file=>JSON.parse(fs.readFileSync(path.join(root,file)))));
+const additionalScrews=Object.assign({},...['scripts/mil-spec-additional-screw-data.json','scripts/mil-spec-additional-nut-data.json','scripts/mil-spec-head-style-data.json','scripts/mil-spec-hex-cap-data.json','scripts/mil-spec-set-screw-data.json','scripts/mil-spec-fillister-cap-data.json','scripts/mil-spec-plain-nut-data.json'].map(file=>JSON.parse(fs.readFileSync(path.join(root,file)))));
 for(const [family,data] of Object.entries(additionalScrews)){
  const key='Reference-'+family+'.html';
  for(const row of data.rows){
