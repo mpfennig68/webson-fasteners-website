@@ -73,3 +73,19 @@ Primary technical references used for selection terminology:
 - Heyco blind-mount clamps: https://www.heyco.com/products/heyware/bumpers-and-feet/heyco-blind-mount-cable-clamps/
 
 Validation: integrity passed with 151 indexable pages and zero broken links/anchors, orphan pages or duplicate metadata. RFQ context checks passed for 151 routes; existing reference/Southco attribution checks passed. Browser QA checked page containment at 390px frame width and correct quote prefill for all five new categories, expanded a cable-clamp FAQ and verified desktop hub-to-insert navigation. No inquiry submitted.
+
+## October 28: full-box links and five more assembly categories
+
+Added Gaskets, O-Rings, Cable Ties, Clips and Retaining Components, and Blind Rivets. The content distinguishes gasket thickness from joint compression, O-ring size from compound, tie length from bundle range, free ring size from the mating groove, and blind-rivet length from grip. Ratings, loads, compounds and installation acceptance remain tied to the actual part/assembly requirement.
+
+Replaced the first category grids in Electronic Hardware and Assembly Components with 17 native full-card anchors. Combined categories are split so each box has one destination. Each box keeps an aria-hidden arrow and neutral background; product-cards.css applies light blue #edeef6 on hover or focus-visible. Keyboard focus has a visible outline. Products.html uses the same behavior for Southco and the known category cells; Southco no longer has permanent blue fill. Product-range/manufacturer grids collapse to three/two columns at tablet/mobile widths. There is no JavaScript click interception and no nested interactive content. Keep cards as single anchors when adding categories.
+
+Primary selection references:
+- Parker O-Ring Handbook: https://www.parker.com/content/dam/Parker-com/Literature/O-Ring-Division-Literature/ORD-5700.pdf
+- Rogers gasket compression and gap: https://www.rogerscorp.com/blog/2025/the-mechanics-of-enclosure-seal-design-gap-spacing-cfd-and-compressibility
+- Heyco regular cable ties: https://heyco.com/products/heyware/cable-ties-and-accessories/heyco-regular-nytye-nylon-cable-ties-minature-intermediate-and-standard/
+- Smalley retaining ring selection: https://www.smalley.com/retaining-rings/selection-guide
+- Rotor Clip ring types: https://www.rotorclip.com/retaining-rings/
+- STANLEY blind rivet selection: https://asia.en.stanleyengineeredfastening.com/fasteners/rivets/non-structural-rivets
+
+Validation: integrity passed with 156 indexable pages and no broken links/anchors, orphan pages or duplicate metadata. All 156 contextual RFQ routes and existing reference/Southco attribution checks passed. Browser QA confirmed Grommets and Southco box navigation, transparent default versus blue keyboard-focus background, visible arrows and focus outlines. The hover selector shares that blue-fill rule. All five new pages passed 390px frame containment and product-specific quote-prefill checks. Products, Electronic Hardware and Assembly Components also passed narrow-screen containment checks. No inquiry submitted.
