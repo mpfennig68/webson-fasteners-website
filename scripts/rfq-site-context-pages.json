@@ -55,6 +55,14 @@
     "title": "Electronic Hardware",
     "prefill": "Inquiry regarding: Electronic Hardware\n"
   },
+  "Products-Handles.html": {
+    "title": "Equipment Handles & Panel Pulls",
+    "prefill": "Inquiry regarding: Equipment Handles & Panel Pulls\n"
+  },
+  "Products-Knobs.html": {
+    "title": "Control Knobs & Clamping Knobs",
+    "prefill": "Inquiry regarding: Control Knobs & Clamping Knobs\n"
+  },
   "Products-Mil-Spec-Hardware.html": {
     "title": "Mil-Spec Fasteners Supplier",
     "prefill": "Inquiry regarding: Mil-Spec Fasteners Supplier\n"
