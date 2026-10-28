@@ -29,3 +29,16 @@ Technical terminology checked against primary manufacturer pages (not a represen
 - Davies Molding control knob attachment options: https://daviesmolding.com/catalog/products/knobs/control
 
 Validation: site integrity passed for 142 indexable pages, with no broken links/anchors, orphan pages or duplicate metadata. RFQ page-context checks passed for 142 content routes; existing reference and Southco tracking checks passed. Browser QA inspected all three diagrams, verified Handle and Knob quote prefills, checked the revised spacer diagram and knob page in a 390px responsive frame without page overflow, followed spacer-to-knob navigation and expanded a knob FAQ. No inquiry submitted.
+
+## October 28: bushings and insulating hardware
+
+Added Products-Bushings.html and Products-Insulators.html as separate linked category pages. Copy focuses on observable purchasing details: mounting hole versus clear bore, panel thickness and retention, bearing-face coverage versus shoulder coverage, and the information needed to identify a replacement. Product-specific explanations take priority over generic marketing claims. No detector classification is promised. No stock quantities, manufacturer authorizations, test ratings or customer stories are invented.
+
+Native SVGs compare the panel hole with a bushing bore, and flat versus shoulder washer sections. The Electronic Hardware hub and the four earlier product pages link to the additions. Canonical metadata, breadcrumbs, sitemap and contextual RFQs follow the existing site workflow.
+
+Primary technical references:
+- Heyco metric snap bushings, mounting-hole and panel-thickness distinctions: https://www.heyco.com/products/bushings-grommets-heycaps-plugs/tubing-caps-and-plugs/heyco-metric-snap-bushings/
+- Heyco thick-panel snap bushings: https://www.heyco.com/products/bushings-grommets-heycaps-plugs/tubing-caps-and-plugs/heyco-thick-panel-snap-bushings/
+- Keystone flat/shoulder washers and bushings: https://beta.keyelco.com/category.cfm/Multi-Purpose-Hardware/Washers-Flat-Shoulder-Nylon-Fibre/p/1260/id/448
+
+Validation: site integrity passed with 144 indexable pages and no broken links/anchors, orphan pages or duplicate metadata. All 144 RFQ context routes and existing Mil-Spec/Southco attribution checks passed. Browser QA inspected the bushing diagram, checked the insulator section diagram at 390px frame width, confirmed page containment, expanded a shoulder-washer FAQ and verified both product inquiry prefills. No inquiry submitted.
