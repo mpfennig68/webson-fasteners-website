@@ -18,6 +18,17 @@ def part_search_form():
 def section(title,body,kicker='',cls=''):
  return f'<section class="ref-section {cls}">'+(f'<p class="ref-kicker">// {kicker}</p>' if kicker else '')+f'<h2>{title}</h2>{body}</section>'
 def actions():return '<div class="ref-actions"><a class="ref-button" href="Quote.html">Request a Quote →</a><a href="Products-Mil-Spec-Hardware.html">Mil-Spec sourcing capabilities →</a></div>'
+def quote_support(file):
+ # Keep trust and service links inside the final quote section, including retained guides.
+ trust='<div class="ref-quote-assurance"><h3>Certified distribution. Requirements reviewed.</h3><p>Webson is an AS9120B and ISO 9001:2015 certified distributor. Include required certificates, lot traceability and source restrictions with your inquiry so documentation and inspection requirements can be reviewed for the order.</p><div class="ref-assurance-links"><a href="Certifications.html">View our certificate and quality scope →</a><a href="Services-Aerospace-Traceability-Documentation.html">Documentation and traceability →</a></div></div>'
+ family=next((r['family']for r in series if r.get('guide')==file),None)
+ if family is None:family=next((f for f in families if familyfile(f)==file),None)
+ if file=='Reference-Shoulder-Screw-Comparison.html':family='Shoulder screws'
+ labels={'Machine screws':'custom screws and bolts','Socket screws':'custom socket screws','Shoulder screws':'custom shoulder screws','Hex cap screws':'custom bolts and hex-head parts','Set screws':'custom set screws','Pins':'custom pins and shafts','Spacers & standoffs':'custom spacers and standoffs'}
+ if family in labels:
+  trust+='<div class="ref-custom-route"><h3>Need a drawing-specific part?</h3><p>Explore '+labels[family]+' when the required geometry, material or finish calls for a made-to-print component. Your drawing and approval requirements define the custom configuration; Webson coordinates sourcing through manufacturing partners.</p><div class="ref-assurance-links"><a href="Products-Custom-Fasteners.html">'+h(labels[family].capitalize())+' and made-to-print parts →</a><a href="Services-Custom-Fastener-Manufacturing.html">Drawing review and manufacturing sourcing →</a></div></div>'
+ return trust
+
 DIAGRAMS={
  'machine':('machine-screw-dimensions.svg','Machine-screw length and thread diameter','L is the length from the bearing surface under the head to the tip. d identifies nominal thread diameter. This raised-head example does not show the length convention for countersunk screws.'),
  'shoulder':('shoulder-screw-dimensions.svg','Shoulder diameter and shoulder length','S is the smooth shoulder length from beneath the head to the shoulder transition. D is shoulder diameter. T marks the threaded-end section to the tip; its details and runout follow the selected specification.'),
@@ -74,7 +85,7 @@ def page(file,title,desc,heading,intro,body):
 <main id="main" class="site-main reference-main{' ref-search-page'if file==SEARCH_PAGE else''}"><header class="ref-hero"><nav class="ref-breadcrumb" aria-label="Breadcrumb">{breadcrumb}</nav><p class="ref-kicker">// TECHNICAL RESOURCES</p><h1>{heading}</h1><p class="ref-lead">{intro}</p>
 <nav class="ref-subnav" aria-label="Mil-Spec resources"><a href="Resources-Mil-Spec-Guide.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Guide.html' else ''}>Buyer’s guide</a><a href="Resources-Mil-Spec-Reference.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Reference.html' else ''}>Series directory</a><a href="Resources-Mil-Spec-Cross-Reference.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Cross-Reference.html' else ''}>Cross-reference</a><a href="Resources-Mil-Spec-Tables.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Tables.html' else ''}>Size tables</a><a href="Resources-Mil-Spec-Purchasing-FAQ.html" {'aria-current="page"' if file=='Resources-Mil-Spec-Purchasing-FAQ.html' else ''}>Purchasing FAQs</a><a href="Resources-Mil-Spec-RFQ-Checklist.html" {'aria-current="page"' if file=='Resources-Mil-Spec-RFQ-Checklist.html' else ''}>RFQ checklist</a></nav>{part_search_form()}</header>
 {body}
-{section('Have a part number or bill of material?','<p>Send the complete designation, quantity, required delivery date and documentation requirements. Webson will review your requirement for quotation.</p>'+actions(),'SOURCE WITH WEBSON','ref-tint')}
+{section('Have a part number or bill of material?','<p>Send the complete designation, quantity, required delivery date and documentation requirements. Webson will review your requirement for quotation.</p>'+quote_support(file)+actions(),'SOURCE WITH WEBSON','ref-tint')}
 </main>{footer}</body></html>'''
  out=out.replace('href="Quote.html"','href="Quote.html?reference='+file+'"')
  (W/file).write_text(out)
@@ -146,7 +157,7 @@ def filtered(headers,rows,caption,options=None,label='Product family'):
   field=ident+'-column-'+str(column)
   controls+='<div><label for="'+field+'">'+h(heading)+'</label><select id="'+field+'" data-reference-column="'+str(column)+'"><option value="">All</option>'+''.join('<option>'+h(v)+'</option>'for v in values)+'</select></div>'
  controls+='<button class="ref-clear" type="button" data-reference-clear>Clear filters</button></div><p class="ref-count" data-reference-count role="status" aria-live="polite"></p><p data-reference-empty hidden>No matching entries. Clear the filters or try a shorter search.</p>'
- return '<div data-reference-block>'+controls+table(headers,rows,caption,True)+'</div>'
+ return '<div data-reference-block>'+controls+'<p class="ref-table-hint" id="'+ident+'-hint">Scroll sideways to see all columns. The first column stays visible.</p>'+table(headers,rows,caption,True).replace('role="region"','role="region" aria-describedby="'+ident+'-hint"')+'</div>'
 def series_table(items,caption):
  rows=[]
  for r in items:
