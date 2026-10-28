@@ -1,0 +1,1983 @@
+{
+  "MS35275": {
+    "kind": "fillister",
+    "description": "Passivated stainless UNC-2A drilled slotted fillister-head screw",
+    "thread_series": "UNC-2A",
+    "reviewed_issue": "MS35275B, sheets 1–2, 14 June 1976",
+    "source_url": "https://globalsupplyinc.com/wp-content/uploads/2020/05/MS35275B.pdf",
+    "rows": [
+      {
+        "part": "MS35275-201",
+        "thread": "2-56",
+        "length": "0.125",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35275-202",
+        "thread": "2-56",
+        "length": "0.188",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35275-203",
+        "thread": "2-56",
+        "length": "0.250",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35275-204",
+        "thread": "2-56",
+        "length": "0.312",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35275-205",
+        "thread": "2-56",
+        "length": "0.375",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35275-206",
+        "thread": "2-56",
+        "length": "0.438",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35275-207",
+        "thread": "2-56",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35275-208",
+        "thread": "2-56",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35275-209",
+        "thread": "2-56",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35275-210",
+        "thread": "2-56",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.124–0.140",
+        "total_head_height_limits": "0.070–0.083"
+      },
+      {
+        "part": "MS35275-211",
+        "thread": "4-40",
+        "length": "0.125",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-212",
+        "thread": "4-40",
+        "length": "0.188",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-213",
+        "thread": "4-40",
+        "length": "0.250",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-214",
+        "thread": "4-40",
+        "length": "0.312",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-215",
+        "thread": "4-40",
+        "length": "0.375",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-216",
+        "thread": "4-40",
+        "length": "0.438",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-217",
+        "thread": "4-40",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-218",
+        "thread": "4-40",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-219",
+        "thread": "4-40",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-220",
+        "thread": "4-40",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-221",
+        "thread": "4-40",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-222",
+        "thread": "4-40",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-223",
+        "thread": "4-40",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.166–0.183",
+        "total_head_height_limits": "0.094–0.107"
+      },
+      {
+        "part": "MS35275-224",
+        "thread": "6-32",
+        "length": "0.125",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-225",
+        "thread": "6-32",
+        "length": "0.188",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-226",
+        "thread": "6-32",
+        "length": "0.250",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-227",
+        "thread": "6-32",
+        "length": "0.312",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-228",
+        "thread": "6-32",
+        "length": "0.375",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-229",
+        "thread": "6-32",
+        "length": "0.438",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-230",
+        "thread": "6-32",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-231",
+        "thread": "6-32",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-232",
+        "thread": "6-32",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-233",
+        "thread": "6-32",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-234",
+        "thread": "6-32",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-235",
+        "thread": "6-32",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-236",
+        "thread": "6-32",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-237",
+        "thread": "6-32",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-238",
+        "thread": "6-32",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.208–0.226",
+        "total_head_height_limits": "0.118–0.132"
+      },
+      {
+        "part": "MS35275-239",
+        "thread": "8-32",
+        "length": "0.125",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-240",
+        "thread": "8-32",
+        "length": "0.188",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-241",
+        "thread": "8-32",
+        "length": "0.250",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-242",
+        "thread": "8-32",
+        "length": "0.312",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-243",
+        "thread": "8-32",
+        "length": "0.375",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-244",
+        "thread": "8-32",
+        "length": "0.438",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-245",
+        "thread": "8-32",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-246",
+        "thread": "8-32",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-247",
+        "thread": "8-32",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-248",
+        "thread": "8-32",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-249",
+        "thread": "8-32",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-250",
+        "thread": "8-32",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-251",
+        "thread": "8-32",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-252",
+        "thread": "8-32",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-253",
+        "thread": "8-32",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-254",
+        "thread": "8-32",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-255",
+        "thread": "8-32",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-256",
+        "thread": "8-32",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-257",
+        "thread": "8-32",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.250–0.270",
+        "total_head_height_limits": "0.141–0.156"
+      },
+      {
+        "part": "MS35275-258",
+        "thread": "10-24",
+        "length": "0.188",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-259",
+        "thread": "10-24",
+        "length": "0.250",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-260",
+        "thread": "10-24",
+        "length": "0.312",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-261",
+        "thread": "10-24",
+        "length": "0.375",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-262",
+        "thread": "10-24",
+        "length": "0.438",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-263",
+        "thread": "10-24",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-264",
+        "thread": "10-24",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-265",
+        "thread": "10-24",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-266",
+        "thread": "10-24",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-267",
+        "thread": "10-24",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-268",
+        "thread": "10-24",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-269",
+        "thread": "10-24",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-270",
+        "thread": "10-24",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-271",
+        "thread": "10-24",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-272",
+        "thread": "10-24",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-273",
+        "thread": "10-24",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-274",
+        "thread": "10-24",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-275",
+        "thread": "10-24",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.292–0.313",
+        "total_head_height_limits": "0.165–0.180"
+      },
+      {
+        "part": "MS35275-276",
+        "thread": "1/4-20",
+        "length": "0.312",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-277",
+        "thread": "1/4-20",
+        "length": "0.375",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-278",
+        "thread": "1/4-20",
+        "length": "0.438",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-279",
+        "thread": "1/4-20",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-280",
+        "thread": "1/4-20",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-281",
+        "thread": "1/4-20",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-282",
+        "thread": "1/4-20",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-283",
+        "thread": "1/4-20",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-284",
+        "thread": "1/4-20",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-285",
+        "thread": "1/4-20",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-286",
+        "thread": "1/4-20",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-287",
+        "thread": "1/4-20",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-288",
+        "thread": "1/4-20",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-289",
+        "thread": "1/4-20",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-290",
+        "thread": "1/4-20",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-291",
+        "thread": "1/4-20",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.389–0.414",
+        "total_head_height_limits": "0.219–0.237"
+      },
+      {
+        "part": "MS35275-292",
+        "thread": "5/16-18",
+        "length": "0.375",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-293",
+        "thread": "5/16-18",
+        "length": "0.438",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-294",
+        "thread": "5/16-18",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-295",
+        "thread": "5/16-18",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-296",
+        "thread": "5/16-18",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-297",
+        "thread": "5/16-18",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-298",
+        "thread": "5/16-18",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-299",
+        "thread": "5/16-18",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-300",
+        "thread": "5/16-18",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-301",
+        "thread": "5/16-18",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-302",
+        "thread": "5/16-18",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-303",
+        "thread": "5/16-18",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-304",
+        "thread": "5/16-18",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-305",
+        "thread": "5/16-18",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-306",
+        "thread": "5/16-18",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.490–0.518",
+        "total_head_height_limits": "0.276–0.295"
+      },
+      {
+        "part": "MS35275-307",
+        "thread": "3/8-16",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35275-308",
+        "thread": "3/8-16",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35275-309",
+        "thread": "3/8-16",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35275-310",
+        "thread": "3/8-16",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35275-311",
+        "thread": "3/8-16",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.031",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35275-312",
+        "thread": "3/8-16",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35275-313",
+        "thread": "3/8-16",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35275-314",
+        "thread": "3/8-16",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35275-315",
+        "thread": "3/8-16",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.062",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35275-316",
+        "thread": "3/8-16",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35275-317",
+        "thread": "3/8-16",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35275-318",
+        "thread": "3/8-16",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      },
+      {
+        "part": "MS35275-319",
+        "thread": "3/8-16",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.094",
+        "head_diameter_limits": "0.590–0.622",
+        "total_head_height_limits": "0.333–0.355"
+      }
+    ],
+    "head_geometry": [
+      {
+        "thread": "2-56",
+        "head_side_height_limits": "0.055–0.062",
+        "slot_width_limits": "0.023–0.031",
+        "drilled_hole_nominal": "0.031"
+      },
+      {
+        "thread": "4-40",
+        "head_side_height_limits": "0.072–0.079",
+        "slot_width_limits": "0.031–0.039",
+        "drilled_hole_nominal": "0.037"
+      },
+      {
+        "thread": "6-32",
+        "head_side_height_limits": "0.089–0.096",
+        "slot_width_limits": "0.039–0.048",
+        "drilled_hole_nominal": "0.046"
+      },
+      {
+        "thread": "8-32",
+        "head_side_height_limits": "0.106–0.113",
+        "slot_width_limits": "0.045–0.054",
+        "drilled_hole_nominal": "0.046"
+      },
+      {
+        "thread": "10-24",
+        "head_side_height_limits": "0.123–0.130",
+        "slot_width_limits": "0.050–0.060",
+        "drilled_hole_nominal": "0.046"
+      },
+      {
+        "thread": "1/4-20",
+        "head_side_height_limits": "0.161–0.170",
+        "slot_width_limits": "0.064–0.075",
+        "drilled_hole_nominal": "0.062"
+      },
+      {
+        "thread": "5/16-18",
+        "head_side_height_limits": "0.201–0.211",
+        "slot_width_limits": "0.072–0.084",
+        "drilled_hole_nominal": "0.070"
+      },
+      {
+        "thread": "3/8-16",
+        "head_side_height_limits": "0.242–0.253",
+        "slot_width_limits": "0.081–0.094",
+        "drilled_hole_nominal": "0.070"
+      }
+    ]
+  },
+  "MS35311": {
+    "kind": "hex-cap",
+    "description": "Nickel-copper alloy plain-finish UNC-2A hex cap screw",
+    "thread_series": "UNC-2A",
+    "reviewed_issue": "MS35311A, sheets 1–2, 15 February 1973",
+    "source_url": "https://www.fastenerz.com/specs/ms35311a.pdf",
+    "rows": [
+      {
+        "part": "MS35311-1",
+        "thread": "1/4-20",
+        "length": "0.375",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-3",
+        "thread": "1/4-20",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-5",
+        "thread": "1/4-20",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-6",
+        "thread": "1/4-20",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-7",
+        "thread": "1/4-20",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-8",
+        "thread": "1/4-20",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-10",
+        "thread": "1/4-20",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-12",
+        "thread": "1/4-20",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-13",
+        "thread": "1/4-20",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-14",
+        "thread": "1/4-20",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-15",
+        "thread": "1/4-20",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-16",
+        "thread": "1/4-20",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-17",
+        "thread": "1/4-20",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-18",
+        "thread": "1/4-20",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35311-53",
+        "thread": "3/8-16",
+        "length": "0.375",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-55",
+        "thread": "3/8-16",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-57",
+        "thread": "3/8-16",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-58",
+        "thread": "3/8-16",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-59",
+        "thread": "3/8-16",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-60",
+        "thread": "3/8-16",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-62",
+        "thread": "3/8-16",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-64",
+        "thread": "3/8-16",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-65",
+        "thread": "3/8-16",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-66",
+        "thread": "3/8-16",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-67",
+        "thread": "3/8-16",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-68",
+        "thread": "3/8-16",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-69",
+        "thread": "3/8-16",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-70",
+        "thread": "3/8-16",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35311-104",
+        "thread": "1/2-13",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-106",
+        "thread": "1/2-13",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-107",
+        "thread": "1/2-13",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-108",
+        "thread": "1/2-13",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-109",
+        "thread": "1/2-13",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-111",
+        "thread": "1/2-13",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-113",
+        "thread": "1/2-13",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-114",
+        "thread": "1/2-13",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-115",
+        "thread": "1/2-13",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-116",
+        "thread": "1/2-13",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-117",
+        "thread": "1/2-13",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-118",
+        "thread": "1/2-13",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.090",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-119",
+        "thread": "1/2-13",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.090",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35311-155",
+        "thread": "5/8-11",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35311-156",
+        "thread": "5/8-11",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35311-157",
+        "thread": "5/8-11",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35311-158",
+        "thread": "5/8-11",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35311-160",
+        "thread": "5/8-11",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35311-162",
+        "thread": "5/8-11",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35311-163",
+        "thread": "5/8-11",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35311-164",
+        "thread": "5/8-11",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35311-165",
+        "thread": "5/8-11",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35311-166",
+        "thread": "5/8-11",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35311-167",
+        "thread": "5/8-11",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.100",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35311-168",
+        "thread": "5/8-11",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.100",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      }
+    ]
+  },
+  "MS35312": {
+    "kind": "hex-cap",
+    "description": "Nickel-copper alloy plain-finish UNF-2A hex cap screw",
+    "thread_series": "UNF-2A",
+    "reviewed_issue": "MS35312A, sheets 1–2, 15 February 1973",
+    "source_url": "https://www.fastenerz.com/specs/ms35312.pdf",
+    "rows": [
+      {
+        "part": "MS35312-1",
+        "thread": "1/4-28",
+        "length": "0.375",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-2",
+        "thread": "1/4-28",
+        "length": "0.438",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-3",
+        "thread": "1/4-28",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-4",
+        "thread": "1/4-28",
+        "length": "0.562",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-5",
+        "thread": "1/4-28",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-6",
+        "thread": "1/4-28",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-7",
+        "thread": "1/4-28",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-8",
+        "thread": "1/4-28",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-9",
+        "thread": "1/4-28",
+        "length": "1.125",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-10",
+        "thread": "1/4-28",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-11",
+        "thread": "1/4-28",
+        "length": "1.375",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-12",
+        "thread": "1/4-28",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-13",
+        "thread": "1/4-28",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-14",
+        "thread": "1/4-28",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-15",
+        "thread": "1/4-28",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-16",
+        "thread": "1/4-28",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-17",
+        "thread": "1/4-28",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-18",
+        "thread": "1/4-28",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.4280–0.4375",
+        "head_height_limits": "0.150–0.163"
+      },
+      {
+        "part": "MS35312-53",
+        "thread": "3/8-24",
+        "length": "0.375",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-54",
+        "thread": "3/8-24",
+        "length": "0.438",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-55",
+        "thread": "3/8-24",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-56",
+        "thread": "3/8-24",
+        "length": "0.562",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-57",
+        "thread": "3/8-24",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-58",
+        "thread": "3/8-24",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-59",
+        "thread": "3/8-24",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-60",
+        "thread": "3/8-24",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-61",
+        "thread": "3/8-24",
+        "length": "1.125",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-62",
+        "thread": "3/8-24",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-63",
+        "thread": "3/8-24",
+        "length": "1.375",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-64",
+        "thread": "3/8-24",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-65",
+        "thread": "3/8-24",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-66",
+        "thread": "3/8-24",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-67",
+        "thread": "3/8-24",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-68",
+        "thread": "3/8-24",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.040",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-69",
+        "thread": "3/8-24",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-70",
+        "thread": "3/8-24",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.5510–0.5625",
+        "head_height_limits": "0.226–0.243"
+      },
+      {
+        "part": "MS35312-104",
+        "thread": "1/2-20",
+        "length": "0.500",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-105",
+        "thread": "1/2-20",
+        "length": "0.562",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-106",
+        "thread": "1/2-20",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-107",
+        "thread": "1/2-20",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-108",
+        "thread": "1/2-20",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-109",
+        "thread": "1/2-20",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-110",
+        "thread": "1/2-20",
+        "length": "1.125",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-111",
+        "thread": "1/2-20",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-112",
+        "thread": "1/2-20",
+        "length": "1.375",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-113",
+        "thread": "1/2-20",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-114",
+        "thread": "1/2-20",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-115",
+        "thread": "1/2-20",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-116",
+        "thread": "1/2-20",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-117",
+        "thread": "1/2-20",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.060",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-118",
+        "thread": "1/2-20",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.090",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-119",
+        "thread": "1/2-20",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.090",
+        "across_flats_limits": "0.7360–0.7500",
+        "head_height_limits": "0.302–0.323"
+      },
+      {
+        "part": "MS35312-155",
+        "thread": "5/8-18",
+        "length": "0.625",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-156",
+        "thread": "5/8-18",
+        "length": "0.750",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-157",
+        "thread": "5/8-18",
+        "length": "0.875",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-158",
+        "thread": "5/8-18",
+        "length": "1.000",
+        "length_tolerance": "+0.000 / −0.030",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-159",
+        "thread": "5/8-18",
+        "length": "1.125",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-160",
+        "thread": "5/8-18",
+        "length": "1.250",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-161",
+        "thread": "5/8-18",
+        "length": "1.375",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-162",
+        "thread": "5/8-18",
+        "length": "1.500",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-163",
+        "thread": "5/8-18",
+        "length": "1.750",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-164",
+        "thread": "5/8-18",
+        "length": "2.000",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-165",
+        "thread": "5/8-18",
+        "length": "2.250",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-166",
+        "thread": "5/8-18",
+        "length": "2.500",
+        "length_tolerance": "+0.000 / −0.080",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-167",
+        "thread": "5/8-18",
+        "length": "2.750",
+        "length_tolerance": "+0.000 / −0.100",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      },
+      {
+        "part": "MS35312-168",
+        "thread": "5/8-18",
+        "length": "3.000",
+        "length_tolerance": "+0.000 / −0.100",
+        "across_flats_limits": "0.9220–0.9375",
+        "head_height_limits": "0.378–0.403"
+      }
+    ]
+  }
+}

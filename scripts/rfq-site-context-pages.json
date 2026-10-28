@@ -247,9 +247,21 @@
     "title": "MS35266 fine-thread drilled fillister-head screws",
     "prefill": "MS35266 fine-thread drilled fillister-head screws\n"
   },
+  "Reference-MS35275.html": {
+    "title": "MS35275 stainless drilled-fillister screws",
+    "prefill": "MS35275 stainless drilled-fillister screws\n"
+  },
   "Reference-MS35307-MS35308.html": {
     "title": "MS35307 and MS35308 hex cap screws",
     "prefill": "MS35307 and MS35308 hex cap screws\n"
+  },
+  "Reference-MS35311.html": {
+    "title": "MS35311 nickel-copper coarse-thread hex cap screws",
+    "prefill": "MS35311 nickel-copper coarse-thread hex cap screws\n"
+  },
+  "Reference-MS35312.html": {
+    "title": "MS35312 nickel-copper fine-thread hex cap screws",
+    "prefill": "MS35312 nickel-copper fine-thread hex cap screws\n"
   },
   "Reference-MS35333-MS35335.html": {
     "title": "MS35333 and MS35335 tooth-lock washers",
