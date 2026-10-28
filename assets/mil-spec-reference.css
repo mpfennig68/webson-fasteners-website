@@ -74,3 +74,21 @@
  .ref-hero>.ref-global-search button{padding-inline:14px}
  .ms-hero>.ms-hero-copy{grid-column:1;grid-row:2/5;min-width:0}
 }
+
+/* Quality context and relevant made-to-print routes beside the final quote action. */
+.ref-quote-assurance,.ref-custom-route{margin-top:24px;padding-top:22px;border-top:1px solid #d5cdbe;max-width:900px}
+.ref-quote-assurance h3,.ref-custom-route h3{font-size:23px;margin-bottom:10px}
+.ref-quote-assurance p,.ref-custom-route p{font-size:14px;margin-bottom:12px}
+.ref-assurance-links{display:flex;flex-wrap:wrap;gap:10px 24px;font-size:13px;line-height:1.7}
+.ref-assurance-links a{color:var(--ref-blue);text-decoration:underline;text-underline-offset:3px}
+.ref-table-hint{display:none}
+@media(max-width:640px){
+ .ref-filters input,.ref-filters select{font-size:16px}
+ .ref-assurance-links{flex-direction:column;gap:10px}
+ .ref-assurance-links a{display:block;padding-block:6px;overflow-wrap:anywhere}
+ .ref-section .ref-table-hint{display:block;font-size:12px;line-height:1.6;margin:0 0 12px;color:var(--ref-blue)}
+}
+@media(max-width:400px){
+ .ref-global-search-row{flex-direction:column}
+ .ref-global-search input,.ref-global-search button{width:100%;min-height:46px}
+}
