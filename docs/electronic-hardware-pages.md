@@ -42,3 +42,15 @@ Primary technical references:
 - Keystone flat/shoulder washers and bushings: https://beta.keyelco.com/category.cfm/Multi-Purpose-Hardware/Washers-Flat-Shoulder-Nylon-Fibre/p/1260/id/448
 
 Validation: site integrity passed with 144 indexable pages and no broken links/anchors, orphan pages or duplicate metadata. All 144 RFQ context routes and existing Mil-Spec/Southco attribution checks passed. Browser QA inspected the bushing diagram, checked the insulator section diagram at 390px frame width, confirmed page containment, expanded a shoulder-washer FAQ and verified both product inquiry prefills. No inquiry submitted.
+
+## October 28: latches and captive panel hardware
+
+Added Products-Latches.html and Products-Captive-Panel-Hardware.html with distinct purchasing guidance and FAQs. Latches separate door thickness, manufacturer-defined grip, cam/keeper geometry and operating clearance. Existing Southco part pages provide concrete catalog routes and the latch image; no new part specifications or ratings are invented. Captive hardware separates screw retention, optional spring action, panel installation, float and engaged/released clearance. It uses installation comparison tables rather than an unverified generic installation drawing.
+
+The Electronic Hardware hub and six established product pages link to both additions. Sources used for generic selection terminology:
+- Southco compression latch range: https://shop.southco.com/en_us/latches/compression-latches
+- Southco panel/frame/grip selection discussion: https://media.southco.com/media/static/documents/marketing/hb65/en/files/basic-html/page603.html
+- PennEngineering captive panel screw installation types: https://www.pemnet.com/products/engineering-guides/captive-panel-screws/
+- Howmet captive screw installation methods: https://www.howmet.com/products/aerospace/panel-fasteners/captive-screws/installation-procedures/
+
+Validation: integrity passed for 146 indexable pages with no broken links/anchors, orphan pages or duplicate metadata. All 146 RFQ context routes and existing reference/Southco attribution checks passed. Browser QA checked desktop latch layout, both inquiry prefills, captive-page containment at a 390px responsive frame and an expandable FAQ. No inquiry submitted.

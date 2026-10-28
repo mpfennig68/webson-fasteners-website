@@ -39,6 +39,10 @@
     "title": "Panel Bushings & Insulating Sleeves",
     "prefill": "Inquiry regarding: Panel Bushings & Insulating Sleeves\n"
   },
+  "Products-Captive-Panel-Hardware.html": {
+    "title": "Captive Panel Screws & Retained Hardware",
+    "prefill": "Inquiry regarding: Captive Panel Screws & Retained Hardware\n"
+  },
   "Products-Commercial-Hardware.html": {
     "title": "Commercial Fasteners",
     "prefill": "Inquiry regarding: Commercial Fasteners\n"
@@ -70,6 +74,10 @@
   "Products-Knobs.html": {
     "title": "Control Knobs & Clamping Knobs",
     "prefill": "Inquiry regarding: Control Knobs & Clamping Knobs\n"
+  },
+  "Products-Latches.html": {
+    "title": "Panel Latches & Enclosure Catches",
+    "prefill": "Inquiry regarding: Panel Latches & Enclosure Catches\n"
   },
   "Products-Mil-Spec-Hardware.html": {
     "title": "Mil-Spec Fasteners Supplier",
