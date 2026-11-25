@@ -1,0 +1,69 @@
+.buyer-article-page{margin:0;background:#f4efe9;color:#1b1a17;font-family:'Libre Franklin',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+.buyer-article-page *{box-sizing:border-box}
+.buyer-article-page a{color:inherit;text-decoration:none}
+.buyer-article-page a:hover{color:#2a2d6b}
+.buyer-article-page ::selection{background:#2a2d6b;color:#faf8f3}
+.article-main{max-width:1200px;margin:0 auto;background:#faf8f3;border-inline:1px solid #e4ded2}
+.buyer-article a:focus-visible{outline:2px solid #2a2d6b;outline-offset:5px}
+.buyer-article section[id],.buyer-article h2[id],.article-sources li[id]{scroll-margin-top:145px}
+.article-hero{padding:30px 48px 48px;border-bottom:1px solid #e4ded2}
+.article-breadcrumb{display:flex;flex-wrap:wrap;gap:10px;font-size:11px;color:#655f54;margin-bottom:38px;line-height:1.7}
+.article-breadcrumb a:hover{text-decoration:underline}
+.article-hero-grid{display:grid;grid-template-columns:minmax(0,1fr) 296px;gap:50px;align-items:center}
+.article-kicker{font-family:'IBM Plex Mono',monospace;font-size:10.5px;line-height:1.6;letter-spacing:.13em;color:#2a2d6b;margin:0 0 15px}
+.buyer-article h1,.buyer-article h2,.buyer-article h3{font-family:'Spectral',Georgia,serif;font-weight:400;letter-spacing:-.02em}
+.buyer-article h1{font-size:51px;line-height:1.08;margin:0;max-width:680px}
+.buyer-article h1 em{color:#2a2d6b;font-weight:400}
+.article-lead{font-size:16px;line-height:1.8;color:#5b564c;max-width:640px;margin:22px 0 0}
+.article-reading-time{font-family:'IBM Plex Mono',monospace;font-size:9.5px;letter-spacing:.07em;color:#655f54;margin:24px 0 0;line-height:1.6}
+.article-reading-time span{margin:0 8px}
+.article-certificate{padding:30px 27px;background:#edeef6;border-top:3px solid #2a2d6b}
+.article-certificate .article-kicker{font-size:9px;letter-spacing:.1em;margin-bottom:22px}
+.certificate-standard{font-family:'Spectral',Georgia,serif;font-size:40px;line-height:1;margin:0;color:#2a2d6b;letter-spacing:-.025em}
+.certificate-secondary{font-family:'Spectral',Georgia,serif;font-size:23px;margin:8px 0 0}
+.certificate-registrar{font-family:'IBM Plex Mono',monospace;font-size:11px;color:#5b564c;margin:19px 0 0}
+.certificate-scope{font-size:12px;line-height:1.8;color:#5b564c;border-top:1px solid #d3d0e0;padding-top:16px;margin:17px 0 17px}
+.article-text-link{font-size:12px;font-weight:600;line-height:1.8;border-bottom:1px solid #2a2d6b;padding-bottom:3px;display:inline-block}
+.article-section{padding:40px 48px;border-bottom:1px solid #e4ded2}
+.buyer-article h2{font-size:32px;line-height:1.2;margin:0 0 19px}
+.article-prose{max-width:810px}
+.buyer-article p:not([class]),.article-prose p,.article-benefit p:not(.article-number),.article-check-section>div>p:last-child{font-size:14px;line-height:1.85;color:#514c43;margin:0 0 14px}
+.article-prose p:last-child{margin-bottom:0}
+.buyer-article sup{font-size:9px;line-height:0;margin-left:2px;color:#2a2d6b}
+.buyer-article sup a{text-decoration:underline;text-underline-offset:2px;padding:3px}
+.article-intro{padding-bottom:34px}
+.article-benefits{padding-top:34px}
+.article-benefit-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:32px;margin-top:29px}
+.article-benefit{border-top:1px solid #d3d0e0;padding-top:20px}
+.article-number{font-family:'IBM Plex Mono',monospace;font-size:11px;color:#2a2d6b;letter-spacing:.12em;margin:0 0 13px}
+.buyer-article h3{font-size:23px;line-height:1.2;margin:0 0 15px}
+.article-benefit p:not(.article-number){font-size:13px;line-height:1.85}
+.article-benefit .article-benefit-takeaway{border-top:1px solid #e4ded2;padding-top:14px;margin-top:18px!important;margin-bottom:0!important}
+.article-check-section{display:grid;grid-template-columns:1fr 1fr;gap:60px;background:#f1eee7}
+.article-check-section h2{max-width:330px}
+.article-check-section>div>p:last-child{max-width:420px;margin-bottom:0}
+.article-checklist{counter-reset:buyer-check;list-style:none;margin:0;padding:0;align-self:center}
+.article-checklist li{counter-increment:buyer-check;display:flex;align-items:baseline;gap:16px;padding:15px 0;font-size:13px;line-height:1.8;border-bottom:1px solid #ded8cb;color:#3a362e}
+.article-checklist li:first-child{padding-top:0}
+.article-checklist li:last-child{border-bottom:0;padding-bottom:0}
+.article-checklist li:before{content:'0' counter(buyer-check);font-family:'IBM Plex Mono',monospace;font-size:10px;color:#2a2d6b;flex-shrink:0}
+.article-technical-note{font-size:11.5px!important;line-height:1.8!important;color:#655f54!important;max-width:810px;padding-top:20px;border-top:1px solid #e4ded2;margin:24px 0 0!important}
+.article-cta{background:#edeef6;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:45px;align-items:center;padding-block:45px}
+.article-cta h2{font-size:34px}
+.article-cta>div>p:last-child{max-width:670px;margin-bottom:0;font-size:14px;line-height:1.8;color:#514c43}
+.article-cta-actions{display:flex;flex-direction:column;gap:16px;align-items:flex-start}
+.article-button{display:inline-flex;gap:28px;align-items:center;justify-content:space-between;background:#2a2d6b;color:#faf8f3!important;font-size:13px;font-weight:600;padding:16px 24px;min-height:48px}
+.article-button:hover{background:#1f2150}
+.article-related{padding-block:30px}
+.article-related-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}
+.article-related-grid a{display:flex;justify-content:space-between;gap:14px;font-size:12px;line-height:1.8;color:#3a362e;padding:8px 0}
+.article-related-grid a:hover{text-decoration:underline;text-underline-offset:4px}
+.article-sources{padding-block:25px 30px;border-bottom:0}
+.buyer-article .article-sources h2{font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.08em;margin-bottom:12px;color:#655f54}
+.article-sources ol{margin:0;padding-left:18px;display:grid;grid-template-columns:1fr 1fr;gap:8px 28px;font-size:10px;color:#655f54;line-height:1.7}
+.article-sources a{text-decoration:underline;text-underline-offset:3px}
+.article-sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:1000px){.article-hero-grid{grid-template-columns:minmax(0,1fr) 270px;gap:30px}.buyer-article h1{font-size:43px}.desktop-break{display:none}.article-benefit-grid{gap:24px}.article-check-section{gap:35px}}
+@media(max-width:760px){.article-hero-grid{grid-template-columns:1fr}.article-hero{padding:25px 28px 34px}.article-breadcrumb{margin-bottom:27px}.article-certificate{display:grid;grid-template-columns:1fr 1fr;gap:0 24px;padding:24px}.article-certificate .article-kicker{grid-column:1/-1;margin-bottom:15px}.certificate-standard{font-size:36px;grid-column:1;grid-row:2}.certificate-secondary{grid-column:1;grid-row:3;font-size:21px}.certificate-registrar{grid-column:1;margin-top:12px}.certificate-scope{grid-column:2;grid-row:2/4;padding:0;margin:0;border:0;align-self:center}.article-certificate .article-text-link{grid-column:2;grid-row:4;align-self:end;justify-self:start}.article-section{padding:32px 28px}.article-benefit-grid{grid-template-columns:1fr;gap:27px;margin-top:23px}.article-benefit{display:grid;grid-template-columns:28px 1fr;column-gap:12px;padding-top:20px}.article-number{grid-row:1/4;margin-top:5px}.article-benefit h3,.article-benefit p:not(.article-number){grid-column:2}.article-benefit p:not(.article-number){font-size:14px}.article-check-section{grid-template-columns:1fr;gap:24px}.article-check-section h2{max-width:none}.article-checklist li{font-size:14px}.article-cta{grid-template-columns:1fr;gap:24px}.article-cta h2 br{display:none}.article-cta-actions{flex-direction:row;flex-wrap:wrap;align-items:center;gap:18px 24px}.article-related-grid{grid-template-columns:1fr;gap:0}.article-related-grid a{border-bottom:1px solid #e4ded2;padding:13px 0;font-size:13px}.article-related-grid a:last-child{border-bottom:0}.article-sources ol{grid-template-columns:1fr;gap:8px}.article-sources{padding-block:25px}.buyer-article .article-sources h2{font-size:10px!important}.article-lead{font-size:15px}.article-reading-time{font-size:9px}}
+@media(max-width:420px){.article-hero,.article-section{padding-inline:22px}.buyer-article h1{font-size:36px!important}.article-certificate{grid-template-columns:1fr;padding:24px}.article-certificate>*{grid-column:1!important;grid-row:auto!important}.certificate-scope{padding-top:15px;border-top:1px solid #d3d0e0;margin-top:15px}.article-certificate .article-text-link{margin-top:13px}.article-button{width:100%}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.buyer-article-page a{transition:none}}
