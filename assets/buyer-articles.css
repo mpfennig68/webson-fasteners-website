@@ -67,3 +67,26 @@
 @media(max-width:760px){.article-hero-grid{grid-template-columns:1fr}.article-hero{padding:25px 28px 34px}.article-breadcrumb{margin-bottom:27px}.article-certificate{display:grid;grid-template-columns:1fr 1fr;gap:0 24px;padding:24px}.article-certificate .article-kicker{grid-column:1/-1;margin-bottom:15px}.certificate-standard{font-size:36px;grid-column:1;grid-row:2}.certificate-secondary{grid-column:1;grid-row:3;font-size:21px}.certificate-registrar{grid-column:1;margin-top:12px}.certificate-scope{grid-column:2;grid-row:2/4;padding:0;margin:0;border:0;align-self:center}.article-certificate .article-text-link{grid-column:2;grid-row:4;align-self:end;justify-self:start}.article-section{padding:32px 28px}.article-benefit-grid{grid-template-columns:1fr;gap:27px;margin-top:23px}.article-benefit{display:grid;grid-template-columns:28px 1fr;column-gap:12px;padding-top:20px}.article-number{grid-row:1/4;margin-top:5px}.article-benefit h3,.article-benefit p:not(.article-number){grid-column:2}.article-benefit p:not(.article-number){font-size:14px}.article-check-section{grid-template-columns:1fr;gap:24px}.article-check-section h2{max-width:none}.article-checklist li{font-size:14px}.article-cta{grid-template-columns:1fr;gap:24px}.article-cta h2 br{display:none}.article-cta-actions{flex-direction:row;flex-wrap:wrap;align-items:center;gap:18px 24px}.article-related-grid{grid-template-columns:1fr;gap:0}.article-related-grid a{border-bottom:1px solid #e4ded2;padding:13px 0;font-size:13px}.article-related-grid a:last-child{border-bottom:0}.article-sources ol{grid-template-columns:1fr;gap:8px}.article-sources{padding-block:25px}.buyer-article .article-sources h2{font-size:10px!important}.article-lead{font-size:15px}.article-reading-time{font-size:9px}}
 @media(max-width:420px){.article-hero,.article-section{padding-inline:22px}.buyer-article h1{font-size:36px!important}.article-certificate{grid-template-columns:1fr;padding:24px}.article-certificate>*{grid-column:1!important;grid-row:auto!important}.certificate-scope{padding-top:15px;border-top:1px solid #d3d0e0;margin-top:15px}.article-certificate .article-text-link{margin-top:13px}.article-button{width:100%}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.buyer-article-page a{transition:none}}
+
+/* Military and aerospace sourcing article. */
+.sourcing-hero-panel{background:#2a2d6b;color:#faf8f3;padding:29px 27px}
+.sourcing-hero-panel .article-kicker{color:#dddfee;font-size:9px;letter-spacing:.09em;margin-bottom:22px}
+.sourcing-series{font-family:'Spectral',Georgia,serif;font-size:39px;line-height:1.24;letter-spacing:-.02em;margin:0}
+.sourcing-series span{color:#aeb1d8;font-weight:300}
+.sourcing-panel-note{border-top:1px solid #656891;padding-top:18px;margin:18px 0;font-size:12px;line-height:1.9;color:#e5e5ee}
+.sourcing-hero-panel a{display:inline-block;color:#faf8f3!important;border-bottom:1px solid #c9cbe2;padding-bottom:4px;font-size:12px;font-weight:600;line-height:1.8}
+.sourcing-hero-panel a:hover{color:white;text-decoration:underline}
+.sourcing-hero-panel a:focus-visible{outline-color:#faf8f3}
+.sourcing-context{display:grid;grid-template-columns:1fr 1.5fr;gap:50px;background:#f1eee7}
+.sourcing-context h2{max-width:360px}
+.sourcing-details{list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:0 36px;padding:0;margin:25px 0 0;counter-reset:sourcing-details}
+.sourcing-details li{counter-increment:sourcing-details;position:relative;padding:20px 0 20px 34px;border-top:1px solid #e4ded2;font-size:13px;line-height:1.8;color:#514c43}
+.sourcing-details li:before{content:'0' counter(sourcing-details);position:absolute;left:0;top:23px;font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.06em;color:#2a2d6b}
+.sourcing-details strong{display:block;font-weight:600;font-size:13px;margin-bottom:5px;color:#1b1a17}
+.sourcing-details span{display:block}
+.sourcing-details-note{font-size:12px;line-height:1.8;color:#655f54;margin:17px 0 0;max-width:810px}
+.sourcing-paired{display:grid;grid-template-columns:1fr 1fr;gap:46px}
+.sourcing-paired section+section{border-left:1px solid #e4ded2;padding-left:44px}
+.sourcing-paired h2{font-size:29px;line-height:1.22}
+.sourcing-paired section>p:last-child{margin-bottom:0}
+@media(max-width:760px){.sourcing-hero-panel{padding:25px}.sourcing-series{font-size:34px}.sourcing-series br{display:none}.sourcing-panel-note{line-height:1.8}.sourcing-context,.sourcing-paired{grid-template-columns:1fr;gap:20px}.sourcing-context h2{max-width:none}.sourcing-details{grid-template-columns:1fr}.sourcing-details li{font-size:14px}.sourcing-paired section+section{border-left:0;padding-left:0;border-top:1px solid #e4ded2;padding-top:30px;margin-top:10px}.sourcing-paired h2{font-size:30px}}
